@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2049408367031152717",
+    "created_at": "2026-04-29T08:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049408367031152717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/themaniachan/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/themaniachan/status/2049167654330810563",
+          "start": 29,
+          "url": "https://t.co/hlBvEvuIrW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049408367031152717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049167654330810563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "捞捞我自己...求求同类互fo我真的好想前世的主页... https://t.co/hlBvEvuIrW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049166942838333440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAaekFaIAAJarl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2049166942897082368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAaekTakAAD-8Q.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3073,
+        "media_key": "3_2049166942838398976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAaekFbIAAdcFb.jpg",
+        "width": 3073
+      },
+      {
+        "height": 1273,
+        "media_key": "3_2049166942884532224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAaekQbEAAgp7d.jpg",
+        "width": 1273
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2049408367031152717",
+        "created_at": "2026-04-29T08:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049408367031152717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/themaniachan/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/themaniachan/status/2049167654330810563",
+              "start": 29,
+              "url": "https://t.co/hlBvEvuIrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049408367031152717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049167654330810563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "捞捞我自己...求求同类互fo我真的好想前世的主页... https://t.co/hlBvEvuIrW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049166942838333440",
+            "3_2049166942897082368",
+            "3_2049166942838398976",
+            "3_2049166942884532224"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049167654330810563",
+        "created_at": "2026-04-28T16:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049167654330810563"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "互fo"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "地雷女"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 117,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942838333440",
+              "start": 94,
+              "url": "https://t.co/mdJv3foSv8"
+            },
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 117,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942897082368",
+              "start": 94,
+              "url": "https://t.co/mdJv3foSv8"
+            },
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 117,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942838398976",
+              "start": 94,
+              "url": "https://t.co/mdJv3foSv8"
+            },
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 117,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942884532224",
+              "start": 94,
+              "url": "https://t.co/mdJv3foSv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049167654330810563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是狂酱二世——！这是狂酱的新置顶！\n狂酱正在努力找回前世互fo推友...具体的不能说太多🤭总之麻烦互关转转扩扩赐给狂酱一些流量...！\n忘记回fo的请踢踢我🥹\n#互fo #地雷女 https://t.co/mdJv3foSv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 59,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 74
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

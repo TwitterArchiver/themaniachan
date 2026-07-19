@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065380259600769450",
+    "created_at": "2026-06-13T05:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065662070042026292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047631450829471745",
+          "start": 0,
+          "username": "AdrianPunk115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065662070042026292",
+    "in_reply_to_user_id": "2047631450829471745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065380259600769450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AdrianPunk115 简中审美你又赢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 357,
+        "media_key": "3_2065380249945432064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm0ZPwa4AAky6Z.jpg",
+        "width": 1237
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065380249953849344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm0ZPybUAAw4Yh.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065380259600769450",
+        "created_at": "2026-06-13T05:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065662070042026292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047631450829471745",
+              "start": 0,
+              "username": "AdrianPunk115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065662070042026292",
+        "in_reply_to_user_id": "2047631450829471745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065380259600769450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AdrianPunk115 简中审美你又赢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065380249945432064",
+            "3_2065380249953849344"
+          ]
+        },
+        "author_id": "2047631450829471745",
+        "conversation_id": "2065380259600769450",
+        "created_at": "2026-06-12T10:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065380259600769450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TVh8dM5Ruu",
+              "end": 44,
+              "expanded_url": "https://x.com/AdrianPunk115/status/2065380259600769450/photo/1",
+              "media_key": "3_2065380249945432064",
+              "start": 21,
+              "url": "https://t.co/TVh8dM5Ruu"
+            },
+            {
+              "display_url": "pic.x.com/TVh8dM5Ruu",
+              "end": 44,
+              "expanded_url": "https://x.com/AdrianPunk115/status/2065380259600769450/photo/1",
+              "media_key": "3_2065380249953849344",
+              "start": 21,
+              "url": "https://t.co/TVh8dM5Ruu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065380259600769450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 262130,
+          "like_count": 629,
+          "quote_count": 2,
+          "reply_count": 240,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "国内App为啥都要围围巾？\n\n能学学么？ https://t.co/TVh8dM5Ruu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 175,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 598
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T10:59:59.000Z",
+        "description": "「这里无法定义我」\n「优秀是一种习惯」",
+        "id": "2047631450829471745",
+        "location": " ",
+        "name": "Adrian Punk",
+        "pinned_tweet_id": "2062080784572534958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047867359583666176/dmteLzmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13394,
+          "following_count": 355,
+          "like_count": 5604,
+          "listed_count": 68,
+          "media_count": 535,
+          "tweet_count": 8284
+        },
+        "username": "AdrianPunk115",
+        "verified": true
+      }
+    ]
+  }
+}

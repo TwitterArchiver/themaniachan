@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073595430060138496"
+      ],
+      "media_source_tweet_id": [
+        "2073595436355711198"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2073997002309079041",
+    "created_at": "2026-07-06T05:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073997002309079041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1222943258306703360",
+          "start": 3,
+          "username": "Gamingtronium"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E6MASHHEVU",
+          "end": 74,
+          "expanded_url": "https://x.com/Gamingtronium/status/2073595436355711198/photo/1",
+          "media_key": "3_2073595430060138496",
+          "start": 51,
+          "url": "https://t.co/E6MASHHEVU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073997002309079041",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073595436355711198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gamingtronium: So Macs finally support Windows https://t.co/E6MASHHEVU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 367,
+        "media_key": "3_2073595430060138496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbkDqiboAAvX4_.jpg",
+        "width": 475
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073595430060138496"
+          ],
+          "media_source_tweet_id": [
+            "2073595436355711198"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2073997002309079041",
+        "created_at": "2026-07-06T05:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073997002309079041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1222943258306703360",
+              "start": 3,
+              "username": "Gamingtronium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6MASHHEVU",
+              "end": 74,
+              "expanded_url": "https://x.com/Gamingtronium/status/2073595436355711198/photo/1",
+              "media_key": "3_2073595430060138496",
+              "start": 51,
+              "url": "https://t.co/E6MASHHEVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073997002309079041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073595436355711198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gamingtronium: So Macs finally support Windows https://t.co/E6MASHHEVU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073595430060138496"
+          ]
+        },
+        "author_id": "1222943258306703360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2073595436355711198",
+        "created_at": "2026-07-05T02:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073595436355711198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6MASHHEVU",
+              "end": 55,
+              "expanded_url": "https://x.com/Gamingtronium/status/2073595436355711198/photo/1",
+              "media_key": "3_2073595430060138496",
+              "start": 32,
+              "url": "https://t.co/E6MASHHEVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073595436355711198",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 935,
+          "impression_count": 599842,
+          "like_count": 32763,
+          "quote_count": 149,
+          "reply_count": 241,
+          "retweet_count": 4255
+        },
+        "reply_settings": "everyone",
+        "text": "So Macs finally support Windows https://t.co/E6MASHHEVU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 232,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 952
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T18:03:00.000Z",
+        "description": "Tech • AI | Learning & Building  | DM for Collab/Work",
+        "id": "1222943258306703360",
+        "name": "Gamingtronium",
+        "pinned_tweet_id": "2059476391289372860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070325640352710656/qw-ntey5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 788,
+          "like_count": 19508,
+          "listed_count": 9,
+          "media_count": 413,
+          "tweet_count": 6748
+        },
+        "url": "",
+        "username": "Gamingtronium",
+        "verified": true
+      }
+    ]
+  }
+}

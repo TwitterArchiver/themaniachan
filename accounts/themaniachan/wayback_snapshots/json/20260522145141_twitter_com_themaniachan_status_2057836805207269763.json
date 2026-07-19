@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2054947934656208993",
+    "created_at": "2026-05-22T14:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057836805207269763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444696438068236298",
+          "start": 0,
+          "username": "ZihanWa65060259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057836805207269763",
+    "in_reply_to_user_id": "1444696438068236298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057798177911345289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZihanWa65060259 不好意思劳斯...这边已经开奖啦...劳斯可以蹲蹲下次！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2054947934656208993",
+        "created_at": "2026-05-22T14:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057836805207269763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444696438068236298",
+              "start": 0,
+              "username": "ZihanWa65060259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057836805207269763",
+        "in_reply_to_user_id": "1444696438068236298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057798177911345289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZihanWa65060259 不好意思劳斯...这边已经开奖啦...劳斯可以蹲蹲下次！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444696438068236298",
+        "conversation_id": "2054947934656208993",
+        "created_at": "2026-05-22T12:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057798177911345289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057798177911345289",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054947934656208993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 蹲蹲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 130,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 269
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T16:12:16.000Z",
+        "description": "",
+        "id": "1444696438068236298",
+        "name": "poem",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035621120511246336/zDy8-vS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 617,
+          "like_count": 1768,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1042
+        },
+        "username": "ZihanWa65060259",
+        "verified": false
+      }
+    ]
+  }
+}

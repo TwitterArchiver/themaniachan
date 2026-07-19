@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049490630632693760",
+        "3_2049490787537502208"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2049491088550076482",
+    "created_at": "2026-04-29T14:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049491088550076482"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "自伤"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "自傷"
+        },
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "自傷行為"
+        },
+        {
+          "end": 41,
+          "start": 35,
+          "tag": "shtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yIovjKwF6Z",
+          "end": 65,
+          "expanded_url": "https://x.com/themaniachan/status/2049491088550076482/photo/1",
+          "media_key": "3_2049490630632693760",
+          "start": 42,
+          "url": "https://t.co/yIovjKwF6Z"
+        },
+        {
+          "display_url": "pic.x.com/yIovjKwF6Z",
+          "end": 65,
+          "expanded_url": "https://x.com/themaniachan/status/2049491088550076482/photo/1",
+          "media_key": "3_2049490787537502208",
+          "start": 42,
+          "url": "https://t.co/yIovjKwF6Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049491088550076482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽象白色红色图，虽然风险很大但我还是发了\n#自伤 #自傷 #自傷行為 #shtwt https://t.co/yIovjKwF6Z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049491088550076482].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049491088550076482",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049491088550076482"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049490630632693760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFA3rFaYAAsTor.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2336,
+        "media_key": "3_2049490787537502208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFBAzmbwAAZah7.jpg",
+        "width": 1752
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 65,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 84
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

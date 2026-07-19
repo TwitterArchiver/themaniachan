@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073813396282322944"
+      ],
+      "media_source_tweet_id": [
+        "2074063303157170408"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2074128145285009620",
+    "created_at": "2026-07-06T13:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074128145285009620"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "ヤニねこ"
+        },
+        {
+          "end": 34,
+          "start": 19,
+          "tag": "chainsmokercat"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1722259630833946624",
+          "start": 3,
+          "username": "Aizuchi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ogbFZGOZnp",
+          "end": 58,
+          "expanded_url": "https://x.com/Aizuchi/status/2074063303157170408/photo/1",
+          "media_key": "3_2073813396282322944",
+          "start": 35,
+          "url": "https://t.co/ogbFZGOZnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074128145285009620",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 403
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074063303157170408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aizuchi: #ヤニねこ #chainsmokercat https://t.co/ogbFZGOZnp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2073813396282322944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeqS9_asAA0Who.jpg",
+        "width": 773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073813396282322944"
+          ],
+          "media_source_tweet_id": [
+            "2074063303157170408"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2074128145285009620",
+        "created_at": "2026-07-06T13:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074128145285009620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 34,
+              "start": 19,
+              "tag": "chainsmokercat"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1722259630833946624",
+              "start": 3,
+              "username": "Aizuchi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogbFZGOZnp",
+              "end": 58,
+              "expanded_url": "https://x.com/Aizuchi/status/2074063303157170408/photo/1",
+              "media_key": "3_2073813396282322944",
+              "start": 35,
+              "url": "https://t.co/ogbFZGOZnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074128145285009620",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 403
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074063303157170408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aizuchi: #ヤニねこ #chainsmokercat https://t.co/ogbFZGOZnp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073813396282322944"
+          ]
+        },
+        "author_id": "1722259630833946624",
+        "conversation_id": "2074063303157170408",
+        "created_at": "2026-07-06T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074063303157170408"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 21,
+              "start": 6,
+              "tag": "chainsmokercat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogbFZGOZnp",
+              "end": 45,
+              "expanded_url": "https://x.com/Aizuchi/status/2074063303157170408/photo/1",
+              "media_key": "3_2073813396282322944",
+              "start": 22,
+              "url": "https://t.co/ogbFZGOZnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074063303157170408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 27297,
+          "like_count": 3669,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 403
+        },
+        "reply_settings": "everyone",
+        "text": "#ヤニねこ #chainsmokercat https://t.co/ogbFZGOZnp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 233,
+          "like_count": 1158,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 968
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T14:28:00.000Z",
+        "description": "色で遊ぶのが好き🍺  クリスタとたまに絵チャ\n🖋skeb→https://t.co/tytT86U9qL\n✉️お仕事→aizuchi.paint@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Aizuchi",
+                "end": 52,
+                "expanded_url": "http://skeb.jp/@Aizuchi",
+                "start": 29,
+                "url": "https://t.co/tytT86U9qL"
+              }
+            ]
+          }
+        },
+        "id": "1722259630833946624",
+        "name": "あいヅチ",
+        "pinned_tweet_id": "2063943916525903903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006441104707915776/aceaKo8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 136,
+          "like_count": 742,
+          "listed_count": 19,
+          "media_count": 91,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "Aizuchi",
+        "verified": false
+      }
+    ]
+  }
+}

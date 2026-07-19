@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073188033474826240"
+      ],
+      "media_source_tweet_id": [
+        "2073188037023224187"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2073409703036830129",
+    "created_at": "2026-07-04T14:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073409703036830129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iPQCZda70C",
+          "end": 114,
+          "expanded_url": "https://x.com/Rococo90933671/status/2073188037023224187/photo/1",
+          "media_key": "3_2073188033474826240",
+          "start": 91,
+          "url": "https://t.co/iPQCZda70C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073409703036830129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073188037023224187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 大狗大狗叫叫叫起源于新冠时代的某地方言“戴口戴口罩罩罩”，但是这一段时间火的这张狗照片却显得特别神秘。\n\n最近，终于有考古队考古出了它的出处 https://t.co/iPQCZda70C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073188033474826240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMVxiD_bkAA-nrV.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073188033474826240"
+          ],
+          "media_source_tweet_id": [
+            "2073188037023224187"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2073409703036830129",
+        "created_at": "2026-07-04T14:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073409703036830129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPQCZda70C",
+              "end": 114,
+              "expanded_url": "https://x.com/Rococo90933671/status/2073188037023224187/photo/1",
+              "media_key": "3_2073188033474826240",
+              "start": 91,
+              "url": "https://t.co/iPQCZda70C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073409703036830129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073188037023224187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 大狗大狗叫叫叫起源于新冠时代的某地方言“戴口戴口罩罩罩”，但是这一段时间火的这张狗照片却显得特别神秘。\n\n最近，终于有考古队考古出了它的出处 https://t.co/iPQCZda70C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073188033474826240"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2073188037023224187",
+        "created_at": "2026-07-03T23:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073188037023224187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPQCZda70C",
+              "end": 94,
+              "expanded_url": "https://x.com/Rococo90933671/status/2073188037023224187/photo/1",
+              "media_key": "3_2073188033474826240",
+              "start": 71,
+              "url": "https://t.co/iPQCZda70C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073188037023224187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 87976,
+          "like_count": 677,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "大狗大狗叫叫叫起源于新冠时代的某地方言“戴口戴口罩罩罩”，但是这一段时间火的这张狗照片却显得特别神秘。\n\n最近，终于有考古队考古出了它的出处 https://t.co/iPQCZda70C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 228,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 931
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13074,
+          "following_count": 3167,
+          "like_count": 42639,
+          "listed_count": 41,
+          "media_count": 4571,
+          "tweet_count": 23510
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

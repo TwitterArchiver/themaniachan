@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2071885043451244602",
+    "created_at": "2026-06-30T15:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071973894907666850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054859445231054848",
+          "start": 0,
+          "username": "Saltyyyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071973894907666850",
+    "in_reply_to_user_id": "2054859445231054848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071960740790202398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saltyyyu 老大...我的药商那边暂时不让我拉人了😭老大再找找吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2071885043451244602",
+        "created_at": "2026-06-30T15:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071973894907666850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054859445231054848",
+              "start": 0,
+              "username": "Saltyyyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071973894907666850",
+        "in_reply_to_user_id": "2054859445231054848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071960740790202398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saltyyyu 老大...我的药商那边暂时不让我拉人了😭老大再找找吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054859445231054848",
+        "conversation_id": "2071885043451244602",
+        "created_at": "2026-06-30T14:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071960740790202398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071960740790202398",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071885043451244602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 求药商"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 218,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T09:42:06.000Z",
+        "description": "胡言乱语 废话储存站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/saltyyyu?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/saltyyyu?s=21",
+                "start": 0,
+                "url": "https://t.co/gH5AZvr3VX"
+              }
+            ]
+          }
+        },
+        "id": "2054859445231054848",
+        "location": "5.20km",
+        "name": "於死亡禁地中吐納生命",
+        "pinned_tweet_id": "2062074063863075266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058088800304443392/pxdxJMga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 58,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/gH5AZvr3VX",
+        "username": "Saltyyyu",
+        "verified": false
+      }
+    ]
+  }
+}

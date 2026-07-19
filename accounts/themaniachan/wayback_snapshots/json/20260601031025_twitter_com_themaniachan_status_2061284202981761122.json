@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Family and parenting",
+          "id": "847547282010497024",
+          "name": "Parenting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278066760814456832",
+          "name": "Family"
+        }
+      }
+    ],
+    "conversation_id": "2061284202981761122",
+    "created_at": "2026-06-01T03:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061284202981761122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1398472538473254913",
+          "start": 3,
+          "username": "rablots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061284202981761122",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18406
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060838926558913021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @rablots: \"enseñen a sus hijas a cuidarse\" ??? ENSEÑENLE A SUS HIJOS A NO MALTRATAR NO VIOLAR Y NO MATAR !!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2061284202981761122",
+        "created_at": "2026-06-01T03:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061284202981761122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1398472538473254913",
+              "start": 3,
+              "username": "rablots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061284202981761122",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18406
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060838926558913021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @rablots: \"enseñen a sus hijas a cuidarse\" ??? ENSEÑENLE A SUS HIJOS A NO MALTRATAR NO VIOLAR Y NO MATAR !!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398472538473254913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2060838926558913021",
+        "created_at": "2026-05-30T21:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060838926558913021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060838926558913021",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 794,
+          "impression_count": 723530,
+          "like_count": 95863,
+          "quote_count": 102,
+          "reply_count": 3,
+          "retweet_count": 18406
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "\"enseñen a sus hijas a cuidarse\" ??? ENSEÑENLE A SUS HIJOS A NO MALTRATAR NO VIOLAR Y NO MATAR !!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 141,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 392
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-29T02:53:40.000Z",
+        "description": "i thought you were gonna catch me ͏ ͏ ͏ ͏ ͏͏ ͏ ͏ ͏ ͏",
+        "id": "1398472538473254913",
+        "location": "argentina",
+        "name": "sofi",
+        "pinned_tweet_id": "2024272696461172766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054705000253620224/Xb01w-VA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 553,
+          "like_count": 25888,
+          "listed_count": 10,
+          "media_count": 1810,
+          "tweet_count": 13131
+        },
+        "username": "rablots",
+        "verified": false
+      }
+    ]
+  }
+}

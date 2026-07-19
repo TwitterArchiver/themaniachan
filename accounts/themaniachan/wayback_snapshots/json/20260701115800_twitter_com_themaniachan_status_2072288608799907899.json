@@ -1,0 +1,824 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072262139465830400"
+      ],
+      "media_source_tweet_id": [
+        "2072262145342058750"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1574831043118395392",
+          "name": "Fate series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1574831043118395392",
+          "name": "Fate series"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2072288608799907899",
+    "created_at": "2026-07-01T11:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072288608799907899"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "FGO"
+        },
+        {
+          "end": 85,
+          "start": 78,
+          "tag": "FGO生放送"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4025528353",
+          "start": 3,
+          "username": "appmediafgo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "FGOの春の終わりに君を待つイベントの攻略記事です。春の終わりに君を待つの新サーヴァントや参加条件、攻略チャート、フリクエ情報などを掲載しているため、FGOイベント攻略の参考にしてください。",
+          "display_url": "appmedia.jp/fategrandorder…",
+          "end": 72,
+          "expanded_url": "http://appmedia.jp/fategrandorder/80169556",
+          "start": 49,
+          "status": 200,
+          "title": "【FGO】春の終わりに君を待つの攻略と参加条件 | AppMedia",
+          "unwound_url": "https://appmedia.jp/fategrandorder/80169556",
+          "url": "https://t.co/cChEkQ1BG6"
+        },
+        {
+          "display_url": "pic.x.com/Hg5oECkHo0",
+          "end": 109,
+          "expanded_url": "https://x.com/appmediafgo/status/2072262145342058750/photo/1",
+          "media_key": "3_2072262139465830400",
+          "start": 86,
+          "url": "https://t.co/Hg5oECkHo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072288608799907899",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5227
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072262145342058750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @appmediafgo: FGOフェスの描き下ろしサーヴァントが公開\n「ギルガメッシュ」\nhttps://t.co/cChEkQ1BG6\n#FGO\n#FGO生放送 https://t.co/Hg5oECkHo0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 586,
+        "media_key": "3_2072262139465830400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMInb8BaEAAnjv2.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072262139465830400"
+          ],
+          "media_source_tweet_id": [
+            "2072262145342058750"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2072288608799907899",
+        "created_at": "2026-07-01T11:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072288608799907899"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "FGO"
+            },
+            {
+              "end": 85,
+              "start": 78,
+              "tag": "FGO生放送"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4025528353",
+              "start": 3,
+              "username": "appmediafgo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "FGOの春の終わりに君を待つイベントの攻略記事です。春の終わりに君を待つの新サーヴァントや参加条件、攻略チャート、フリクエ情報などを掲載しているため、FGOイベント攻略の参考にしてください。",
+              "display_url": "appmedia.jp/fategrandorder…",
+              "end": 72,
+              "expanded_url": "http://appmedia.jp/fategrandorder/80169556",
+              "start": 49,
+              "status": 200,
+              "title": "【FGO】春の終わりに君を待つの攻略と参加条件 | AppMedia",
+              "unwound_url": "https://appmedia.jp/fategrandorder/80169556",
+              "url": "https://t.co/cChEkQ1BG6"
+            },
+            {
+              "display_url": "pic.x.com/Hg5oECkHo0",
+              "end": 109,
+              "expanded_url": "https://x.com/appmediafgo/status/2072262145342058750/photo/1",
+              "media_key": "3_2072262139465830400",
+              "start": 86,
+              "url": "https://t.co/Hg5oECkHo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072288608799907899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5227
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072262145342058750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @appmediafgo: FGOフェスの描き下ろしサーヴァントが公開\n「ギルガメッシュ」\nhttps://t.co/cChEkQ1BG6\n#FGO\n#FGO生放送 https://t.co/Hg5oECkHo0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072262139465830400"
+          ]
+        },
+        "author_id": "4025528353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2072262145342058750",
+        "created_at": "2026-07-01T10:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072262145342058750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "FGO"
+            },
+            {
+              "end": 68,
+              "start": 61,
+              "tag": "FGO生放送"
+            }
+          ],
+          "urls": [
+            {
+              "description": "FGOの春の終わりに君を待つイベントの攻略記事です。春の終わりに君を待つの新サーヴァントや参加条件、攻略チャート、フリクエ情報などを掲載しているため、FGOイベント攻略の参考にしてください。",
+              "display_url": "appmedia.jp/fategrandorder…",
+              "end": 55,
+              "expanded_url": "http://appmedia.jp/fategrandorder/80169556",
+              "start": 32,
+              "status": 200,
+              "title": "【FGO】春の終わりに君を待つの攻略と参加条件 | AppMedia",
+              "unwound_url": "https://appmedia.jp/fategrandorder/80169556",
+              "url": "https://t.co/cChEkQ1BG6"
+            },
+            {
+              "display_url": "pic.x.com/Hg5oECkHo0",
+              "end": 92,
+              "expanded_url": "https://x.com/appmediafgo/status/2072262145342058750/photo/1",
+              "media_key": "3_2072262139465830400",
+              "start": 69,
+              "url": "https://t.co/Hg5oECkHo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072262145342058750",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 390123,
+          "like_count": 12562,
+          "quote_count": 1225,
+          "reply_count": 15,
+          "retweet_count": 5242
+        },
+        "reply_settings": "everyone",
+        "text": "FGOフェスの描き下ろしサーヴァントが公開\n「ギルガメッシュ」\nhttps://t.co/cChEkQ1BG6\n#FGO\n#FGO生放送 https://t.co/Hg5oECkHo0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 223,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 887
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-26T14:58:19.000Z",
+        "description": "FGOのイベント、ドロップ効率など攻略情報をお届け！\n▶不具合、要望報告https://t.co/mDMlxgOpkc\n▶動画アカウント(@appmediafgosub)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "appmediafgosub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "appmedia.jp/fategrandorder",
+                "end": 59,
+                "expanded_url": "http://appmedia.jp/fategrandorder",
+                "start": 36,
+                "url": "https://t.co/mDMlxgOpkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "appmedia.jp/fategrandorder",
+                "end": 23,
+                "expanded_url": "https://appmedia.jp/fategrandorder",
+                "start": 0,
+                "url": "https://t.co/dajXxQMFa4"
+              }
+            ]
+          }
+        },
+        "id": "4025528353",
+        "name": "FGO攻略班@AppMedia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609079988233572353/ZmwN5XIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469579,
+          "following_count": 959,
+          "like_count": 1909,
+          "listed_count": 6258,
+          "media_count": 21839,
+          "tweet_count": 29984
+        },
+        "url": "https://t.co/dajXxQMFa4",
+        "username": "appmediafgo",
+        "verified": true
+      }
+    ]
+  }
+}

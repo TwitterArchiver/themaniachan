@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056532711800791040",
+        "3_2056532711809122304",
+        "3_2056532711804960770",
+        "3_2056532711813394432"
+      ],
+      "media_source_tweet_id": [
+        "2056532719975461172",
+        "2056532719975461172",
+        "2056532719975461172",
+        "2056532719975461172"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2057114581001204040",
+    "created_at": "2026-05-20T15:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057114581001204040"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "扩列"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979108124985561088",
+          "start": 3,
+          "username": "yumenoWchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eMeBfApIvZ",
+          "end": 104,
+          "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+          "media_key": "3_2056532711800791040",
+          "start": 81,
+          "url": "https://t.co/eMeBfApIvZ"
+        },
+        {
+          "display_url": "pic.x.com/eMeBfApIvZ",
+          "end": 104,
+          "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+          "media_key": "3_2056532711809122304",
+          "start": 81,
+          "url": "https://t.co/eMeBfApIvZ"
+        },
+        {
+          "display_url": "pic.x.com/eMeBfApIvZ",
+          "end": 104,
+          "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+          "media_key": "3_2056532711804960770",
+          "start": 81,
+          "url": "https://t.co/eMeBfApIvZ"
+        },
+        {
+          "display_url": "pic.x.com/eMeBfApIvZ",
+          "end": 104,
+          "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+          "media_key": "3_2056532711813394432",
+          "start": 81,
+          "url": "https://t.co/eMeBfApIvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057114581001204040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056532719975461172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yumenoWchan: #扩列\n更新一下\n\n=呕呕/阿欠\n00后|双向情感障碍|餐卷妹|oc画画\n想和萌妹子和萌弟子互fo\n下面都是我画 欢迎来找我玩 https://t.co/eMeBfApIvZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056532711800791040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpFmvvbYAAXUtu.jpg",
+        "width": 944
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2056532711809122304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpFmvxagAAN9ns.jpg",
+        "width": 768
+      },
+      {
+        "height": 1631,
+        "media_key": "3_2056532711804960770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpFmvwbAAI_nRS.jpg",
+        "width": 1620
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056532711813394432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpFmvybsAAh5DA.jpg",
+        "width": 1378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056532711800791040",
+            "3_2056532711809122304",
+            "3_2056532711804960770",
+            "3_2056532711813394432"
+          ],
+          "media_source_tweet_id": [
+            "2056532719975461172",
+            "2056532719975461172",
+            "2056532719975461172",
+            "2056532719975461172"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2057114581001204040",
+        "created_at": "2026-05-20T15:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057114581001204040"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "扩列"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979108124985561088",
+              "start": 3,
+              "username": "yumenoWchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMeBfApIvZ",
+              "end": 104,
+              "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+              "media_key": "3_2056532711800791040",
+              "start": 81,
+              "url": "https://t.co/eMeBfApIvZ"
+            },
+            {
+              "display_url": "pic.x.com/eMeBfApIvZ",
+              "end": 104,
+              "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+              "media_key": "3_2056532711809122304",
+              "start": 81,
+              "url": "https://t.co/eMeBfApIvZ"
+            },
+            {
+              "display_url": "pic.x.com/eMeBfApIvZ",
+              "end": 104,
+              "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+              "media_key": "3_2056532711804960770",
+              "start": 81,
+              "url": "https://t.co/eMeBfApIvZ"
+            },
+            {
+              "display_url": "pic.x.com/eMeBfApIvZ",
+              "end": 104,
+              "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+              "media_key": "3_2056532711813394432",
+              "start": 81,
+              "url": "https://t.co/eMeBfApIvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057114581001204040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056532719975461172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yumenoWchan: #扩列\n更新一下\n\n=呕呕/阿欠\n00后|双向情感障碍|餐卷妹|oc画画\n想和萌妹子和萌弟子互fo\n下面都是我画 欢迎来找我玩 https://t.co/eMeBfApIvZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056532711800791040",
+            "3_2056532711809122304",
+            "3_2056532711804960770",
+            "3_2056532711813394432"
+          ]
+        },
+        "author_id": "1979108124985561088",
+        "conversation_id": "2056532719975461172",
+        "created_at": "2026-05-19T00:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056532719975461172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "扩列"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMeBfApIvZ",
+              "end": 87,
+              "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+              "media_key": "3_2056532711800791040",
+              "start": 64,
+              "url": "https://t.co/eMeBfApIvZ"
+            },
+            {
+              "display_url": "pic.x.com/eMeBfApIvZ",
+              "end": 87,
+              "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+              "media_key": "3_2056532711809122304",
+              "start": 64,
+              "url": "https://t.co/eMeBfApIvZ"
+            },
+            {
+              "display_url": "pic.x.com/eMeBfApIvZ",
+              "end": 87,
+              "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+              "media_key": "3_2056532711804960770",
+              "start": 64,
+              "url": "https://t.co/eMeBfApIvZ"
+            },
+            {
+              "display_url": "pic.x.com/eMeBfApIvZ",
+              "end": 87,
+              "expanded_url": "https://x.com/yumenoWchan/status/2056532719975461172/photo/1",
+              "media_key": "3_2056532711813394432",
+              "start": 64,
+              "url": "https://t.co/eMeBfApIvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056532719975461172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 7824,
+          "like_count": 322,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "#扩列\n更新一下\n\n=呕呕/阿欠\n00后|双向情感障碍|餐卷妹|oc画画\n想和萌妹子和萌弟子互fo\n下面都是我画 欢迎来找我玩 https://t.co/eMeBfApIvZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 129,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 264
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕/阿欠｜🇨🇳🇭🇰｜🚫轉載🚫AI 🚫自作發言\n沒有其他帳號 請不要轉載我的作品",
+        "id": "1979108124985561088",
+        "name": "えぐち",
+        "pinned_tweet_id": "2056532719975461172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047250628687355904/LIuDBNUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 572,
+          "like_count": 3509,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 642
+        },
+        "username": "yumenoWchan",
+        "verified": false
+      }
+    ]
+  }
+}

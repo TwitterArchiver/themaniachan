@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2040511334354485327",
+    "created_at": "2026-04-24T15:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047702504780230992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594280404504444931",
+          "start": 0,
+          "username": "LichitLich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047702504780230992",
+    "in_reply_to_user_id": "1594280404504444931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040511334354485327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LichitLich 老大求求互fo...！我是狂酱我转生回来了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2040511324598513664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFaPRbbMAAB7F9.jpg",
+        "width": 1824
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2040511324795572224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFaPSKaEAA5cee.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1391,
+        "media_key": "3_2040511324812357632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFaPSOaMAAyjvv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1047,
+        "media_key": "3_2040511325433188352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFaPUibUAAMWS6.jpg",
+        "width": 1047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2040511334354485327",
+        "created_at": "2026-04-24T15:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047702504780230992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594280404504444931",
+              "start": 0,
+              "username": "LichitLich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047702504780230992",
+        "in_reply_to_user_id": "1594280404504444931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040511334354485327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LichitLich 老大求求互fo...！我是狂酱我转生回来了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040511324598513664",
+            "3_2040511324795572224",
+            "3_2040511324812357632",
+            "3_2040511325433188352"
+          ]
+        },
+        "author_id": "1594280404504444931",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040511334354485327",
+        "created_at": "2026-04-04T19:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T20:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040511334354485327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hi8vo7F3ZG",
+              "end": 163,
+              "expanded_url": "https://x.com/LichitLich/status/2040511334354485327/photo/1",
+              "media_key": "3_2040511324598513664",
+              "start": 140,
+              "url": "https://t.co/Hi8vo7F3ZG"
+            },
+            {
+              "display_url": "pic.x.com/Hi8vo7F3ZG",
+              "end": 163,
+              "expanded_url": "https://x.com/LichitLich/status/2040511334354485327/photo/1",
+              "media_key": "3_2040511324795572224",
+              "start": 140,
+              "url": "https://t.co/Hi8vo7F3ZG"
+            },
+            {
+              "display_url": "pic.x.com/Hi8vo7F3ZG",
+              "end": 163,
+              "expanded_url": "https://x.com/LichitLich/status/2040511334354485327/photo/1",
+              "media_key": "3_2040511324812357632",
+              "start": 140,
+              "url": "https://t.co/Hi8vo7F3ZG"
+            },
+            {
+              "display_url": "pic.x.com/Hi8vo7F3ZG",
+              "end": 163,
+              "expanded_url": "https://x.com/LichitLich/status/2040511334354485327/photo/1",
+              "media_key": "3_2040511325433188352",
+              "start": 140,
+              "url": "https://t.co/Hi8vo7F3ZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040511334354485327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2460,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "更新一下自我介绍条\n你好，我是Lich！\n 04年 中文系，今年需要背很多书\n东方厨，听各种各样的歌还喜欢暴雪的全家桶\n没有上推的这段时间休学然后又复学了\n平时玩暴雪游戏上steam蹭别人的家庭库，会在不定期在两广的东方展会刷新\n累疯了并且穷疯了的普通人\n以上，希望各位生活愉快 https://t.co/Hi8vo7F3ZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "Mania Amamiya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T10:44:50.000Z",
+        "description": "male//泛性恋//麦当劳薯饼//减肥//#东方project//没脾气//纯良//好色//fallout//试着戒烟//碎碎念//收集喜欢的文字//我的爱人是 @R18Giano",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 22,
+                "tag": "东方project"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "R18Giano"
+              }
+            ]
+          }
+        },
+        "id": "1594280404504444931",
+        "name": "Lich🐱🙏心怀信念，救助苦难",
+        "pinned_tweet_id": "2040511334354485327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042425919135223808/Qp2rYOg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 2634,
+          "like_count": 28251,
+          "listed_count": 6,
+          "media_count": 1215,
+          "tweet_count": 9331
+        },
+        "username": "LichitLich",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065295348072124416",
+        "3_2065295348063744000"
+      ],
+      "media_source_tweet_id": [
+        "2065295357484191909",
+        "2065295357484191909"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2066573845432312222",
+    "created_at": "2026-06-15T17:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066573845432312222"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "门槛"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "半绿非绿"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820080468387102720",
+          "start": 3,
+          "username": "halimaadam82554"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mSxWuta6TB",
+          "end": 61,
+          "expanded_url": "https://x.com/halimaadam82554/status/2065295357484191909/photo/1",
+          "media_key": "3_2065295348072124416",
+          "start": 38,
+          "url": "https://t.co/mSxWuta6TB"
+        },
+        {
+          "display_url": "pic.x.com/mSxWuta6TB",
+          "end": 61,
+          "expanded_url": "https://x.com/halimaadam82554/status/2065295357484191909/photo/1",
+          "media_key": "3_2065295348063744000",
+          "start": 38,
+          "url": "https://t.co/mSxWuta6TB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066573845432312222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065295357484191909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @halimaadam82554: 宝宝 #门槛 #半绿非绿 #线下 https://t.co/mSxWuta6TB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065295348072124416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlnLTobEAAagyZ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2065295348063744000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlnLTmbMAA79B1.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065295348072124416",
+            "3_2065295348063744000"
+          ],
+          "media_source_tweet_id": [
+            "2065295357484191909",
+            "2065295357484191909"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2066573845432312222",
+        "created_at": "2026-06-15T17:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066573845432312222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "门槛"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "半绿非绿"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1820080468387102720",
+              "start": 3,
+              "username": "halimaadam82554"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSxWuta6TB",
+              "end": 61,
+              "expanded_url": "https://x.com/halimaadam82554/status/2065295357484191909/photo/1",
+              "media_key": "3_2065295348072124416",
+              "start": 38,
+              "url": "https://t.co/mSxWuta6TB"
+            },
+            {
+              "display_url": "pic.x.com/mSxWuta6TB",
+              "end": 61,
+              "expanded_url": "https://x.com/halimaadam82554/status/2065295357484191909/photo/1",
+              "media_key": "3_2065295348063744000",
+              "start": 38,
+              "url": "https://t.co/mSxWuta6TB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066573845432312222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065295357484191909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @halimaadam82554: 宝宝 #门槛 #半绿非绿 #线下 https://t.co/mSxWuta6TB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065295348072124416",
+            "3_2065295348063744000"
+          ]
+        },
+        "author_id": "1820080468387102720",
+        "conversation_id": "2065295357484191909",
+        "created_at": "2026-06-12T04:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065295357484191909"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "门槛"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "半绿非绿"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSxWuta6TB",
+              "end": 40,
+              "expanded_url": "https://x.com/halimaadam82554/status/2065295357484191909/photo/1",
+              "media_key": "3_2065295348072124416",
+              "start": 17,
+              "url": "https://t.co/mSxWuta6TB"
+            },
+            {
+              "display_url": "pic.x.com/mSxWuta6TB",
+              "end": 40,
+              "expanded_url": "https://x.com/halimaadam82554/status/2065295357484191909/photo/1",
+              "media_key": "3_2065295348063744000",
+              "start": 17,
+              "url": "https://t.co/mSxWuta6TB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065295357484191909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1795,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝 #门槛 #半绿非绿 #线下 https://t.co/mSxWuta6TB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 187,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 664
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T12:53:14.000Z",
+        "description": "比比痒鼠辣\n🚪188 288 520 1314\n哥哥入我",
+        "id": "1820080468387102720",
+        "name": "宜宜喵",
+        "pinned_tweet_id": "2065295357484191909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064648038623436800/pt2rmOwy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 17,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "halimaadam82554",
+        "verified": false
+      }
+    ]
+  }
+}

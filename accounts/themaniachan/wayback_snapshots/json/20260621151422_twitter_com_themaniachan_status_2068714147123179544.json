@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068487169023606784"
+      ],
+      "media_source_tweet_id": [
+        "2068487177630318977"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2068714147123179544",
+    "created_at": "2026-06-21T15:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068714147123179544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956957258887364608",
+          "start": 3,
+          "username": "niwa_ka0817"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tBIrum5etV",
+          "end": 83,
+          "expanded_url": "https://x.com/niwa_ka0817/status/2068487177630318977/photo/1",
+          "media_key": "3_2068487169023606784",
+          "start": 60,
+          "url": "https://t.co/tBIrum5etV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068714147123179544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5367
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068487177630318977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niwa_ka0817: ギルガメッシュくんのエアっておじゃまじょのステッキに似てるなぁ…って…思…(大謝罪) https://t.co/tBIrum5etV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068487169023606784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLS-HvQbAAAIkvO.jpg",
+        "width": 1443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068487169023606784"
+          ],
+          "media_source_tweet_id": [
+            "2068487177630318977"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2068714147123179544",
+        "created_at": "2026-06-21T15:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068714147123179544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956957258887364608",
+              "start": 3,
+              "username": "niwa_ka0817"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBIrum5etV",
+              "end": 83,
+              "expanded_url": "https://x.com/niwa_ka0817/status/2068487177630318977/photo/1",
+              "media_key": "3_2068487169023606784",
+              "start": 60,
+              "url": "https://t.co/tBIrum5etV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068714147123179544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5367
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068487177630318977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niwa_ka0817: ギルガメッシュくんのエアっておじゃまじょのステッキに似てるなぁ…って…思…(大謝罪) https://t.co/tBIrum5etV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068487169023606784"
+          ]
+        },
+        "author_id": "1956957258887364608",
+        "conversation_id": "2068487177630318977",
+        "created_at": "2026-06-21T00:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068487177630318977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBIrum5etV",
+              "end": 66,
+              "expanded_url": "https://x.com/niwa_ka0817/status/2068487177630318977/photo/1",
+              "media_key": "3_2068487169023606784",
+              "start": 43,
+              "url": "https://t.co/tBIrum5etV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068487177630318977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1715,
+          "impression_count": 524455,
+          "like_count": 22855,
+          "quote_count": 55,
+          "reply_count": 63,
+          "retweet_count": 5367
+        },
+        "reply_settings": "everyone",
+        "text": "ギルガメッシュくんのエアっておじゃまじょのステッキに似てるなぁ…って…思…(大謝罪) https://t.co/tBIrum5etV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 188,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T05:52:50.000Z",
+        "description": "拙者はインぐだ♂、弓ギルぐだ♂、キャスギルぐだ♂が好きである。自衛は任せた。我もそうする。波箱は返信激遅です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/b79nsoifq…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/b79nsoifqfnjv37x/",
+                "start": 0,
+                "url": "https://t.co/xhwmnmnKoq"
+              }
+            ]
+          }
+        },
+        "id": "1956957258887364608",
+        "location": "ちんコプター",
+        "name": "にわか🤞⚡️",
+        "pinned_tweet_id": "2061993788059549718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063985617273561089/rsxtoVTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 18,
+          "like_count": 557,
+          "listed_count": 9,
+          "media_count": 166,
+          "tweet_count": 1856
+        },
+        "url": "https://t.co/xhwmnmnKoq",
+        "username": "niwa_ka0817",
+        "verified": false
+      }
+    ]
+  }
+}

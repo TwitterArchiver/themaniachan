@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2062135107889365002",
+    "created_at": "2026-06-03T16:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062205389152960872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1657032762203807744",
+          "start": 0,
+          "username": "RuYiya520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062205389152960872",
+    "in_reply_to_user_id": "1657032762203807744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062196415896658159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuYiya520 诶嘻嘻...谢谢老大！我们拉手手🥺❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2062135107889365002",
+        "created_at": "2026-06-03T16:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062205389152960872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657032762203807744",
+              "start": 0,
+              "username": "RuYiya520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062205389152960872",
+        "in_reply_to_user_id": "1657032762203807744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062196415896658159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuYiya520 诶嘻嘻...谢谢老大！我们拉手手🥺❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657032762203807744",
+        "conversation_id": "2062135107889365002",
+        "created_at": "2026-06-03T15:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062196415896658159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062196415896658159",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062135107889365002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 老师手手好好看(*≧ω≦)✨牵牵🌟💦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 150,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 444
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T14:40:41.000Z",
+        "description": "cn如意！还在上高中，平时接触cos圈比较多主页偶尔会有血图🩸老师们注意‼️。平时我也挺开放的，✨如果你心情难过或者无聊都可以来找我聊天✨（直接私信就好看到会回的（除了黄色以外❌））我这个人很好相处的，请老师们多多互fo🧀，扩列直接私信我就好啦💦⭐️🌟✨💦💦💦💦💦💦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ruyi520.com",
+                "end": 23,
+                "expanded_url": "http://www.ruyi520.com",
+                "start": 0,
+                "url": "https://t.co/snARxgxO6I"
+              }
+            ]
+          }
+        },
+        "id": "1657032762203807744",
+        "location": "China",
+        "name": "如 懿",
+        "pinned_tweet_id": "1967544054574637270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746586319558750208/PBrzoHKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 980,
+          "like_count": 9662,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 635
+        },
+        "url": "https://t.co/snARxgxO6I",
+        "username": "RuYiya520",
+        "verified": false
+      }
+    ]
+  }
+}

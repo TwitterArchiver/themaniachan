@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2077948062144876911",
+    "created_at": "2026-07-17T09:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078051394930761888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991927210899574785",
+          "start": 0,
+          "username": "Mumula379528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078051394930761888",
+    "in_reply_to_user_id": "1991927210899574785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078049835899642020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mumula379528 好😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2077948062144876911",
+        "created_at": "2026-07-17T09:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078051394930761888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991927210899574785",
+              "start": 0,
+              "username": "Mumula379528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078051394930761888",
+        "in_reply_to_user_id": "1991927210899574785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078049835899642020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mumula379528 好😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2077948062144876911",
+        "created_at": "2026-07-17T09:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078049835899642020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078049835899642020",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077948062144876911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 摸摸)没关系我们不发啦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 241,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1043
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "重度失语中…\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。\n姐姐@peipeimao\n卷卷@liberazioney_60\n小白华@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "peipeimao"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "liberazioney_60"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "Ayin886030"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2077381953058480572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 669,
+          "like_count": 3712,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1244
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057483773055479808"
+      ],
+      "media_source_tweet_id": [
+        "2057483784740839715"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2057865002766446963",
+    "created_at": "2026-05-22T16:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057865002766446963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1689632839221026817",
+          "start": 3,
+          "username": "yanayan432001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QmjKDZKW3k",
+          "end": 49,
+          "expanded_url": "https://x.com/yanayan432001/status/2057483784740839715/photo/1",
+          "media_key": "3_2057483773055479808",
+          "start": 26,
+          "url": "https://t.co/QmjKDZKW3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057865002766446963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057483784740839715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanayan432001: 戒烟大使来了 https://t.co/QmjKDZKW3k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057483773055479808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2mlzAaMAAnqKD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057483773055479808"
+          ],
+          "media_source_tweet_id": [
+            "2057483784740839715"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2057865002766446963",
+        "created_at": "2026-05-22T16:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057865002766446963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1689632839221026817",
+              "start": 3,
+              "username": "yanayan432001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmjKDZKW3k",
+              "end": 49,
+              "expanded_url": "https://x.com/yanayan432001/status/2057483784740839715/photo/1",
+              "media_key": "3_2057483773055479808",
+              "start": 26,
+              "url": "https://t.co/QmjKDZKW3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057865002766446963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057483784740839715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanayan432001: 戒烟大使来了 https://t.co/QmjKDZKW3k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057483773055479808"
+          ]
+        },
+        "author_id": "1689632839221026817",
+        "conversation_id": "2057483784740839715",
+        "created_at": "2026-05-21T15:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057483784740839715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmjKDZKW3k",
+              "end": 30,
+              "expanded_url": "https://x.com/yanayan432001/status/2057483784740839715/photo/1",
+              "media_key": "3_2057483773055479808",
+              "start": 7,
+              "url": "https://t.co/QmjKDZKW3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057483784740839715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 7179,
+          "like_count": 407,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "戒烟大使来了 https://t.co/QmjKDZKW3k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 130,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 276
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T13:41:49.000Z",
+        "description": "=言🥰 ｜ 我爱吃饭❤ ｜ 翻译器使用中⚙ ｜ 很有感情的发图机器人，喜欢评论👾 ｜ re0 莱推 左位爱好者🔝 ｜ FZ/FSN 杂食 言切😋",
+        "id": "1689632839221026817",
+        "location": "🇨🇳",
+        "name": "言啊言",
+        "pinned_tweet_id": "1994981968761749912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998708819220901892/c4GNC_AP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 134,
+          "like_count": 8532,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 1165
+        },
+        "username": "yanayan432001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078114455343493120",
+        "3_2078114455314194433"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078088395176440009",
+    "created_at": "2026-07-17T13:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078114458224988453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1291704894211186689",
+          "start": 0,
+          "username": "AZLXY1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NOIyzNjTJO",
+          "end": 99,
+          "expanded_url": "https://x.com/themaniachan/status/2078114458224988453/photo/1",
+          "media_key": "3_2078114455343493120",
+          "start": 76,
+          "url": "https://t.co/NOIyzNjTJO"
+        },
+        {
+          "display_url": "pic.x.com/NOIyzNjTJO",
+          "end": 99,
+          "expanded_url": "https://x.com/themaniachan/status/2078114458224988453/photo/1",
+          "media_key": "3_2078114455314194433",
+          "start": 76,
+          "url": "https://t.co/NOIyzNjTJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078114458224988453",
+    "in_reply_to_user_id": "1291704894211186689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078088395176440009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZLXY1 这up之前就做过这种视频，标题是“男朋友死在了我床上”什么什么，还给我推了好多次，视频是猎奇的，内容是观猴的，内容是没有人文关怀的（） https://t.co/NOIyzNjTJO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078114455343493120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbyFjlacAA8MrA.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078114455314194433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbyFjebYAE2oXw.jpg",
+        "width": 946
+      },
+      {
+        "height": 492,
+        "media_key": "3_2078088388763389952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbaYSAbEAAoQUG.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078114455343493120",
+            "3_2078114455314194433"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078088395176440009",
+        "created_at": "2026-07-17T13:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078114458224988453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1291704894211186689",
+              "start": 0,
+              "username": "AZLXY1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NOIyzNjTJO",
+              "end": 99,
+              "expanded_url": "https://x.com/themaniachan/status/2078114458224988453/photo/1",
+              "media_key": "3_2078114455343493120",
+              "start": 76,
+              "url": "https://t.co/NOIyzNjTJO"
+            },
+            {
+              "display_url": "pic.x.com/NOIyzNjTJO",
+              "end": 99,
+              "expanded_url": "https://x.com/themaniachan/status/2078114458224988453/photo/1",
+              "media_key": "3_2078114455314194433",
+              "start": 76,
+              "url": "https://t.co/NOIyzNjTJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078114458224988453",
+        "in_reply_to_user_id": "1291704894211186689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078088395176440009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZLXY1 这up之前就做过这种视频，标题是“男朋友死在了我床上”什么什么，还给我推了好多次，视频是猎奇的，内容是观猴的，内容是没有人文关怀的（） https://t.co/NOIyzNjTJO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078088388763389952"
+          ]
+        },
+        "author_id": "1291704894211186689",
+        "conversation_id": "2078088395176440009",
+        "created_at": "2026-07-17T12:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078088395176440009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycep9v2eTS",
+              "end": 58,
+              "expanded_url": "https://x.com/AZLXY1/status/2078088395176440009/photo/1",
+              "media_key": "3_2078088388763389952",
+              "start": 35,
+              "url": "https://t.co/ycep9v2eTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078088395176440009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种两百万粉的大阿婆主也出药物滥用相关视频了啊\n我充个电看看怎么个事 https://t.co/ycep9v2eTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 241,
+          "like_count": 1273,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od药物滥用存在，无性恋倾向（有浪漫倾向）可以的话请fo我喵 ฅ^•ω•^ฅ\n总之会发很多碎碎念和药物",
+        "id": "1291704894211186689",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 691,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1986
+        },
+        "url": "",
+        "username": "AZLXY1",
+        "verified": false
+      }
+    ]
+  }
+}

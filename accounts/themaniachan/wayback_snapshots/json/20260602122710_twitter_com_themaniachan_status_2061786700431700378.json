@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2061465327557644431",
+    "created_at": "2026-06-02T12:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061786700431700378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454011300854460420",
+          "start": 0,
+          "username": "rara_0615xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061786700431700378",
+    "in_reply_to_user_id": "1454011300854460420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061465327557644431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rara_0615xx 会打很厚的码然后叠甲🥲（是特效化妆是艺术创作是虚拟图总之不是真的）目前发出来的还没被ban..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2061465327557644431",
+        "created_at": "2026-06-02T12:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061786700431700378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454011300854460420",
+              "start": 0,
+              "username": "rara_0615xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061786700431700378",
+        "in_reply_to_user_id": "1454011300854460420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061465327557644431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rara_0615xx 会打很厚的码然后叠甲🥲（是特效化妆是艺术创作是虚拟图总之不是真的）目前发出来的还没被ban..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454011300854460420",
+        "conversation_id": "2061465327557644431",
+        "created_at": "2026-06-01T15:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061465327557644431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061465327557644431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你萌雪兔发不了推发在哪啊，我割了不发出来，我就好不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 142,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 414
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-29T09:04:56.000Z",
+        "description": "🚪私/鱿鱼系女子亚米亚米/互fo大欢迎\n@whiteyzg3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "whiteyzg3"
+              }
+            ]
+          }
+        },
+        "id": "1454011300854460420",
+        "location": "天國",
+        "name": "♡純白色罪業",
+        "pinned_tweet_id": "2060751508761899249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041065743043932161/pNiYUnGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 283,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 438
+        },
+        "username": "rara_0615xx",
+        "verified": false
+      }
+    ]
+  }
+}

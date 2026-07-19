@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054973484586196992",
+        "3_2054973484653273088"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2054973827466305686",
+    "created_at": "2026-05-14T17:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054973827466305686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XKlqKN50DZ",
+          "end": 82,
+          "expanded_url": "https://x.com/themaniachan/status/2054973827466305686/photo/1",
+          "media_key": "3_2054973484586196992",
+          "start": 59,
+          "url": "https://t.co/XKlqKN50DZ"
+        },
+        {
+          "display_url": "pic.x.com/XKlqKN50DZ",
+          "end": 82,
+          "expanded_url": "https://x.com/themaniachan/status/2054973827466305686/photo/1",
+          "media_key": "3_2054973484653273088",
+          "start": 59,
+          "url": "https://t.co/XKlqKN50DZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054973827466305686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "此女到了酒店就是一顿狂拍\n对自己此时的身体略微满意，虽然还是想要再瘦一点(｡- .•)\n全身只有上臂有肌肉，哎音游妹 https://t.co/XKlqKN50DZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2740,
+        "media_key": "3_2054973484586196992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIS7fxubYAAtCQO.jpg",
+        "width": 1827
+      },
+      {
+        "height": 2740,
+        "media_key": "3_2054973484653273088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIS7fx-a4AA4k9Z.jpg",
+        "width": 1827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054973484586196992",
+            "3_2054973484653273088"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2054973827466305686",
+        "created_at": "2026-05-14T17:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054973827466305686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKlqKN50DZ",
+              "end": 82,
+              "expanded_url": "https://x.com/themaniachan/status/2054973827466305686/photo/1",
+              "media_key": "3_2054973484586196992",
+              "start": 59,
+              "url": "https://t.co/XKlqKN50DZ"
+            },
+            {
+              "display_url": "pic.x.com/XKlqKN50DZ",
+              "end": 82,
+              "expanded_url": "https://x.com/themaniachan/status/2054973827466305686/photo/1",
+              "media_key": "3_2054973484653273088",
+              "start": 59,
+              "url": "https://t.co/XKlqKN50DZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054973827466305686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此女到了酒店就是一顿狂拍\n对自己此时的身体略微满意，虽然还是想要再瘦一点(｡- .•)\n全身只有上臂有肌肉，哎音游妹 https://t.co/XKlqKN50DZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 95,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 198
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

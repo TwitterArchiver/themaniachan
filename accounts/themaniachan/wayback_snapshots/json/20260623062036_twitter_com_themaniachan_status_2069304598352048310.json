@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069304587488747520"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2069304598352048310",
+    "created_at": "2026-06-23T06:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069304598352048310"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 8,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 29,
+          "start": 17,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 36,
+          "start": 30,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 52,
+          "start": 38,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "地雷系"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NpoS4PkYTx",
+          "end": 83,
+          "expanded_url": "https://x.com/themaniachan/status/2069304598352048310/photo/1",
+          "media_key": "3_2069304587488747520",
+          "start": 60,
+          "url": "https://t.co/NpoS4PkYTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069304598352048310",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大人感地雷？\n #病み垢女子  \n#病み垢女子と繫がりたい\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#地雷系 https://t.co/NpoS4PkYTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1944,
+        "media_key": "3_2069304587488747520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeljwVaYAAFGgg.jpg",
+        "width": 1944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069304587488747520"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2069304598352048310",
+        "created_at": "2026-06-23T06:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069304598352048310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 52,
+              "start": 38,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpoS4PkYTx",
+              "end": 83,
+              "expanded_url": "https://x.com/themaniachan/status/2069304598352048310/photo/1",
+              "media_key": "3_2069304587488747520",
+              "start": 60,
+              "url": "https://t.co/NpoS4PkYTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069304598352048310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大人感地雷？\n #病み垢女子  \n#病み垢女子と繫がりたい\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#地雷系 https://t.co/NpoS4PkYTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 189,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

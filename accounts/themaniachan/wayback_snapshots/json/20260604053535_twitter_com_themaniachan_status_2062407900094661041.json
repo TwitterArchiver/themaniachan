@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062235690621120512"
+      ],
+      "media_source_tweet_id": [
+        "2062235702235164995"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2062407900094661041",
+    "created_at": "2026-06-04T05:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062407900094661041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1506291557233999877",
+          "start": 3,
+          "username": "hazuki8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8i9HHImCNx",
+          "end": 54,
+          "expanded_url": "https://x.com/hazuki8964/status/2062235702235164995/photo/1",
+          "media_key": "3_2062235690621120512",
+          "start": 31,
+          "url": "https://t.co/8i9HHImCNx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062407900094661041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062235702235164995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hazuki8964: 勿忘六四\n“不自由 毋宁死” https://t.co/8i9HHImCNx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_2062235690621120512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6IbzaasAAvk1Y.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062235690621120512"
+          ],
+          "media_source_tweet_id": [
+            "2062235702235164995"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2062407900094661041",
+        "created_at": "2026-06-04T05:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062407900094661041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1506291557233999877",
+              "start": 3,
+              "username": "hazuki8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8i9HHImCNx",
+              "end": 54,
+              "expanded_url": "https://x.com/hazuki8964/status/2062235702235164995/photo/1",
+              "media_key": "3_2062235690621120512",
+              "start": 31,
+              "url": "https://t.co/8i9HHImCNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062407900094661041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062235702235164995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hazuki8964: 勿忘六四\n“不自由 毋宁死” https://t.co/8i9HHImCNx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062235690621120512"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2062235702235164995",
+        "created_at": "2026-06-03T18:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062235702235164995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8i9HHImCNx",
+              "end": 38,
+              "expanded_url": "https://x.com/hazuki8964/status/2062235702235164995/photo/1",
+              "media_key": "3_2062235690621120512",
+              "start": 15,
+              "url": "https://t.co/8i9HHImCNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062235702235164995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 8324,
+          "like_count": 543,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "勿忘六四\n“不自由 毋宁死” https://t.co/8i9HHImCNx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 152,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 450
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "永遠是深夜有多好。@yoyori_01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "yoyori_01"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "location": "爱胡TV",
+        "name": "⁺♡hazuki",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956555816674459648/Nbbrv0Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8030,
+          "following_count": 677,
+          "like_count": 19076,
+          "listed_count": 13,
+          "media_count": 382,
+          "tweet_count": 3044
+        },
+        "username": "hazuki8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070059735718699008"
+      ],
+      "media_source_tweet_id": [
+        "2070059745596330154"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2070435324711563636",
+    "created_at": "2026-06-26T09:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070435324711563636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995266194576961536",
+          "start": 3,
+          "username": "skyseafor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZgjgQhLDMu",
+          "end": 56,
+          "expanded_url": "https://x.com/skyseafor/status/2070059745596330154/photo/1",
+          "media_key": "3_2070059735718699008",
+          "start": 33,
+          "url": "https://t.co/ZgjgQhLDMu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070435324711563636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070059745596330154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyseafor: 离开了高考 我的文字再也没有了自由 https://t.co/ZgjgQhLDMu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_2070059735718699008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpUXKtaIAAimkQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070059735718699008"
+          ],
+          "media_source_tweet_id": [
+            "2070059745596330154"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2070435324711563636",
+        "created_at": "2026-06-26T09:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070435324711563636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995266194576961536",
+              "start": 3,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgjgQhLDMu",
+              "end": 56,
+              "expanded_url": "https://x.com/skyseafor/status/2070059745596330154/photo/1",
+              "media_key": "3_2070059735718699008",
+              "start": 33,
+              "url": "https://t.co/ZgjgQhLDMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070435324711563636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070059745596330154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skyseafor: 离开了高考 我的文字再也没有了自由 https://t.co/ZgjgQhLDMu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070059735718699008"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2070059745596330154",
+        "created_at": "2026-06-25T08:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070059745596330154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgjgQhLDMu",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2070059745596330154/photo/1",
+              "media_key": "3_2070059735718699008",
+              "start": 18,
+              "url": "https://t.co/ZgjgQhLDMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070059745596330154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 15170,
+          "like_count": 341,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "离开了高考 我的文字再也没有了自由 https://t.co/ZgjgQhLDMu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 193,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 199,
+          "like_count": 795,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

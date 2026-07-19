@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2066102831762038927",
+    "created_at": "2026-06-14T14:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066161222341550548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1865296058936352768",
+          "start": 0,
+          "username": "G107ozs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066161222341550548",
+    "in_reply_to_user_id": "1865296058936352768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066131482440356113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G107ozs 谢谢泥⌯ᵔᗜᵔ⌯ಣ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2066102831762038927",
+        "created_at": "2026-06-14T14:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066161222341550548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1865296058936352768",
+              "start": 0,
+              "username": "G107ozs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066161222341550548",
+        "in_reply_to_user_id": "1865296058936352768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066131482440356113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G107ozs 谢谢泥⌯ᵔᗜᵔ⌯ಣ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865296058936352768",
+        "conversation_id": "2066102831762038927",
+        "created_at": "2026-06-14T12:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066131482440356113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066131482440356113",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066102831762038927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 182,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 641
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T07:24:06.000Z",
+        "description": "",
+        "id": "1865296058936352768",
+        "name": "hd83hk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059634473109684224/CyEFJz0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 19,
+          "like_count": 1123,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 131
+        },
+        "username": "G107ozs",
+        "verified": false
+      }
+    ]
+  }
+}

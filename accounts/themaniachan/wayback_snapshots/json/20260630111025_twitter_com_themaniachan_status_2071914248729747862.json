@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071914236423409665"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2071885926146638286",
+    "created_at": "2026-06-30T11:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071914248729747862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540268150406537216",
+          "start": 0,
+          "username": "aabanypp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aVjV2m3hst",
+          "end": 47,
+          "expanded_url": "https://x.com/themaniachan/status/2071914248729747862/photo/1",
+          "media_key": "3_2071914236423409665",
+          "start": 24,
+          "url": "https://t.co/aVjV2m3hst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071914248729747862",
+    "in_reply_to_user_id": "1540268150406537216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071896643541328078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aabanypp 老大来加我吧现在就拉！！！ https://t.co/aVjV2m3hst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2071914236423409665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDrBUMXkAE7ecc.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071914236423409665"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2071885926146638286",
+        "created_at": "2026-06-30T11:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071914248729747862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540268150406537216",
+              "start": 0,
+              "username": "aabanypp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVjV2m3hst",
+              "end": 47,
+              "expanded_url": "https://x.com/themaniachan/status/2071914248729747862/photo/1",
+              "media_key": "3_2071914236423409665",
+              "start": 24,
+              "url": "https://t.co/aVjV2m3hst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071914248729747862",
+        "in_reply_to_user_id": "1540268150406537216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071896643541328078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aabanypp 老大来加我吧现在就拉！！！ https://t.co/aVjV2m3hst"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540268150406537216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2071885926146638286",
+        "created_at": "2026-06-30T10:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071896643541328078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071896643541328078",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071885926146638286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 如果开了记得拉拉我hhh本人就是眼高手低想研究但是看不懂。看到那些化学名称注意力就如奶油般化开..🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 209,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 837
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T09:38:50.000Z",
+        "description": "一个神秘的人。\n想要互fo我会全部回fo！（只看黄的顺男除外）",
+        "id": "1540268150406537216",
+        "name": "睡个好觉吧！",
+        "pinned_tweet_id": "2065487571975856286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069053261726826496/ZLu96B-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 129,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "aabanypp",
+        "verified": false
+      }
+    ]
+  }
+}

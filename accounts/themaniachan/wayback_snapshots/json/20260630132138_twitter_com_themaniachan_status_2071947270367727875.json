@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071694500901355520"
+      ],
+      "media_source_tweet_id": [
+        "2071754589842358494"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2071947270367727875",
+    "created_at": "2026-06-30T13:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071947270367727875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "YunJiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e84NzWEPF0",
+          "end": 35,
+          "expanded_url": "https://x.com/YunJiu/status/2071754589842358494/photo/1",
+          "media_key": "3_2071694500901355520",
+          "start": 12,
+          "url": "https://t.co/e84NzWEPF0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071947270367727875",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071754589842358494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YunJiu: https://t.co/e84NzWEPF0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_2071694500901355520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMAjLBlbAAAuEG2.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071694500901355520"
+          ],
+          "media_source_tweet_id": [
+            "2071754589842358494"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2071947270367727875",
+        "created_at": "2026-06-30T13:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071947270367727875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e84NzWEPF0",
+              "end": 35,
+              "expanded_url": "https://x.com/YunJiu/status/2071754589842358494/photo/1",
+              "media_key": "3_2071694500901355520",
+              "start": 12,
+              "url": "https://t.co/e84NzWEPF0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071947270367727875",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071754589842358494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YunJiu: https://t.co/e84NzWEPF0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071694500901355520"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2071754589842358494",
+        "created_at": "2026-06-30T00:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071754589842358494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e84NzWEPF0",
+              "end": 23,
+              "expanded_url": "https://x.com/YunJiu/status/2071754589842358494/photo/1",
+              "media_key": "3_2071694500901355520",
+              "start": 0,
+              "url": "https://t.co/e84NzWEPF0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071754589842358494",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 108585,
+          "like_count": 2558,
+          "quote_count": 8,
+          "reply_count": 168,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/e84NzWEPF0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 217,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105802,
+          "following_count": 813,
+          "like_count": 37403,
+          "listed_count": 295,
+          "media_count": 19753,
+          "tweet_count": 28237
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

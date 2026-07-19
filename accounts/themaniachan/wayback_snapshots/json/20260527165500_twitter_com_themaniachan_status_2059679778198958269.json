@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059295809603305472"
+      ],
+      "media_source_tweet_id": [
+        "2059295879195214214"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2059679778198958269",
+    "created_at": "2026-05-27T16:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059679778198958269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1160420283091693571",
+          "start": 3,
+          "username": "HwGPDE0iXPtZxT3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mRvKRDMEty",
+          "end": 48,
+          "expanded_url": "https://x.com/HwGPDE0iXPtZxT3/status/2059295879195214214/photo/1",
+          "media_key": "3_2059295809603305472",
+          "start": 25,
+          "url": "https://t.co/mRvKRDMEty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059679778198958269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 557
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059295879195214214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HwGPDE0iXPtZxT3: 早上好 https://t.co/mRvKRDMEty"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059295809603305472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQWoNLbAAAUp5-.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059295809603305472"
+          ],
+          "media_source_tweet_id": [
+            "2059295879195214214"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2059679778198958269",
+        "created_at": "2026-05-27T16:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059679778198958269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1160420283091693571",
+              "start": 3,
+              "username": "HwGPDE0iXPtZxT3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRvKRDMEty",
+              "end": 48,
+              "expanded_url": "https://x.com/HwGPDE0iXPtZxT3/status/2059295879195214214/photo/1",
+              "media_key": "3_2059295809603305472",
+              "start": 25,
+              "url": "https://t.co/mRvKRDMEty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059679778198958269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059295879195214214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HwGPDE0iXPtZxT3: 早上好 https://t.co/mRvKRDMEty"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059295809603305472"
+          ]
+        },
+        "author_id": "1160420283091693571",
+        "conversation_id": "2059295879195214214",
+        "created_at": "2026-05-26T15:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059295879195214214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRvKRDMEty",
+              "end": 27,
+              "expanded_url": "https://x.com/HwGPDE0iXPtZxT3/status/2059295879195214214/photo/1",
+              "media_key": "3_2059295809603305472",
+              "start": 4,
+              "url": "https://t.co/mRvKRDMEty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059295879195214214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 26589,
+          "like_count": 3300,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "reply_settings": "everyone",
+        "text": "早上好 https://t.co/mRvKRDMEty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 139,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 331
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T05:18:49.000Z",
+        "description": "20 自娱自乐。有稳定消失期 \nfate/杂食 固定 士言/言右/教会组",
+        "id": "1160420283091693571",
+        "name": "新聞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737399319010185216/6I51AgQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 492,
+          "like_count": 8007,
+          "listed_count": 10,
+          "media_count": 281,
+          "tweet_count": 1850
+        },
+        "username": "HwGPDE0iXPtZxT3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2066181532595925069",
+    "created_at": "2026-06-14T15:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066181532595925069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047867480576794624",
+          "start": 3,
+          "username": "yuganbb823"
+        },
+        {
+          "end": 44,
+          "id": "2047425753227333632",
+          "start": 35,
+          "username": "YuganQwQ"
+        },
+        {
+          "end": 99,
+          "id": "2053298751863676935",
+          "start": 88,
+          "username": "Xiaohutysd"
+        },
+        {
+          "end": 114,
+          "id": "1826281483675299840",
+          "start": 100,
+          "username": "ci_shang85157"
+        },
+        {
+          "end": 127,
+          "id": "1619331344705916931",
+          "start": 115,
+          "username": "Mikasuda765"
+        },
+        {
+          "end": 137,
+          "id": "2058593205067841536",
+          "start": 128,
+          "username": "mndfu1s7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066181532595925069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066064670331674897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuganbb823: 置顶🔝\n我是一只小鱼干呀！！！\n2号机@YuganQwQ \n餐券 哦滴 自伤 🚬 🩸🩸\n无属性，我们一起玩吧＞𐋣＜\n我的超级超级好朋友！！！！\n@Xiaohutysd @ci_shang85157 @Mikasuda765 @mndfu1s7 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066064641533542401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwi2FGaAAEbg8u.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066064642481500160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwi2IoasAAPLrh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2066064642481549312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwi2IobcAAnPzw.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2066181532595925069",
+        "created_at": "2026-06-14T15:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066181532595925069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047867480576794624",
+              "start": 3,
+              "username": "yuganbb823"
+            },
+            {
+              "end": 44,
+              "id": "2047425753227333632",
+              "start": 35,
+              "username": "YuganQwQ"
+            },
+            {
+              "end": 99,
+              "id": "2053298751863676935",
+              "start": 88,
+              "username": "Xiaohutysd"
+            },
+            {
+              "end": 114,
+              "id": "1826281483675299840",
+              "start": 100,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 127,
+              "id": "1619331344705916931",
+              "start": 115,
+              "username": "Mikasuda765"
+            },
+            {
+              "end": 137,
+              "id": "2058593205067841536",
+              "start": 128,
+              "username": "mndfu1s7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066181532595925069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066064670331674897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuganbb823: 置顶🔝\n我是一只小鱼干呀！！！\n2号机@YuganQwQ \n餐券 哦滴 自伤 🚬 🩸🩸\n无属性，我们一起玩吧＞𐋣＜\n我的超级超级好朋友！！！！\n@Xiaohutysd @ci_shang85157 @Mikasuda765 @mndfu1s7 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066064641533542401",
+            "3_2066064642481500160",
+            "3_2066064642481549312"
+          ]
+        },
+        "author_id": "2047867480576794624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066064670331674897",
+        "created_at": "2026-06-14T07:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066064670331674897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2047425753227333632",
+              "start": 19,
+              "username": "YuganQwQ"
+            },
+            {
+              "end": 83,
+              "id": "2053298751863676935",
+              "start": 72,
+              "username": "Xiaohutysd"
+            },
+            {
+              "end": 98,
+              "id": "1826281483675299840",
+              "start": 84,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 111,
+              "id": "1619331344705916931",
+              "start": 99,
+              "username": "Mikasuda765"
+            },
+            {
+              "end": 121,
+              "id": "2058593205067841536",
+              "start": 112,
+              "username": "mndfu1s7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mOp4vXossW",
+              "end": 145,
+              "expanded_url": "https://x.com/yuganbb823/status/2066064670331674897/photo/1",
+              "media_key": "3_2066064641533542401",
+              "start": 122,
+              "url": "https://t.co/mOp4vXossW"
+            },
+            {
+              "display_url": "pic.x.com/mOp4vXossW",
+              "end": 145,
+              "expanded_url": "https://x.com/yuganbb823/status/2066064670331674897/photo/1",
+              "media_key": "3_2066064642481500160",
+              "start": 122,
+              "url": "https://t.co/mOp4vXossW"
+            },
+            {
+              "display_url": "pic.x.com/mOp4vXossW",
+              "end": 145,
+              "expanded_url": "https://x.com/yuganbb823/status/2066064670331674897/photo/1",
+              "media_key": "3_2066064642481549312",
+              "start": 122,
+              "url": "https://t.co/mOp4vXossW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066064670331674897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n我是一只小鱼干呀！！！\n2号机@YuganQwQ \n餐券 哦滴 自伤 🚬 🩸🩸\n无属性，我们一起玩吧＞𐋣＜\n我的超级超级好朋友！！！！\n@Xiaohutysd @ci_shang85157 @Mikasuda765 @mndfu1s7 https://t.co/mOp4vXossW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 183,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 652
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |最好的诡秘@ci_shang85157 | 我有一只小猫@Mikasuda765 | 一个小钰柠@mndfu1s7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "ci_shang85157"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Mikasuda765"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "mndfu1s7"
+              }
+            ]
+          }
+        },
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2066064670331674897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 209,
+          "like_count": 4116,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 694
+        },
+        "username": "yuganbb823",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |大号@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "擦去妳眼角的泪",
+        "pinned_tweet_id": "2066065259992060192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060716224359645186/AcKCB0iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 78,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 161
+        },
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T02:19:40.000Z",
+        "description": "=寻曜 🚪52/88/188 688一月电子女友 定制视频25一分钟",
+        "id": "2053298751863676935",
+        "name": "小户",
+        "pinned_tweet_id": "2053300726852473074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053299068051259399/DvR1pJF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 37,
+          "like_count": 68,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 147
+        },
+        "username": "Xiaohutysd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 749,
+          "like_count": 24749,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 8837
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T13:47:43.000Z",
+        "description": "无趣之人，以前挺有意思（也许……/一个笨蛋/你永远活在我的回忆之中🥺@jkdghalf411丨My master❤@susukikii丨傻逼室友🍥@tonghua245丨可爱室友🥰@xielingxi115丨最好的小猫🐱@yuganbb823丨另一个我🤐@NekoSoda765",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "jkdghalf411"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "susukikii"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "tonghua245"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "xielingxi115"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "NekoSoda765"
+              }
+            ]
+          }
+        },
+        "id": "1619331344705916931",
+        "location": "猫窝",
+        "name": "寄生铃兰",
+        "pinned_tweet_id": "1911568567470002635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059711828922646528/mSicUfQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 3210,
+          "like_count": 2977,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1083
+        },
+        "username": "Mikasuda765",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T16:58:27.000Z",
+        "description": "=钰柠 09女高餐券妹 中抑 精神状态很差 我是le 我会在这里发一堆我的梦话 以及裸照/雪兔/o相关 贝贝们来和我互fo互推呀TvT",
+        "id": "2058593205067841536",
+        "name": "為什麽我們不能成為永恆",
+        "pinned_tweet_id": "2060366138304008510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058594428982603776/w9DolSRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 139,
+          "like_count": 2447,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 523
+        },
+        "username": "mndfu1s7",
+        "verified": false
+      }
+    ]
+  }
+}

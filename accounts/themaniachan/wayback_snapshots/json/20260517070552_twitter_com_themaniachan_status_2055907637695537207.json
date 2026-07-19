@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055907484184023040"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2055907637695537207",
+    "created_at": "2026-05-17T07:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055907637695537207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1594280404504444931",
+          "start": 23,
+          "username": "LichitLich"
+        },
+        {
+          "end": 55,
+          "id": "1677549435662880769",
+          "start": 46,
+          "username": "se7enqwq"
+        },
+        {
+          "end": 77,
+          "id": "2047867480576794624",
+          "start": 66,
+          "username": "yuganbb823"
+        },
+        {
+          "end": 101,
+          "id": "2055517832083898368",
+          "start": 87,
+          "username": "xuemenglei250"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vMqwnSua6t",
+          "end": 139,
+          "expanded_url": "https://x.com/themaniachan/status/2055907637695537207/photo/1",
+          "media_key": "3_2055907484184023040",
+          "start": 116,
+          "url": "https://t.co/vMqwnSua6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055907637695537207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开奖啦开奖啦——🥰🥰🥰\n\n一等奖（四瓶魔爪）：@LichitLich\n二等奖（一顿麻辣烫）：@se7enqwq\n三等奖（一杯奶茶）：@yuganbb823\n三等奖（一杯奶茶）@xuemenglei250\n\n私信狂酱来领取口令红包！ https://t.co/vMqwnSua6t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055907484184023040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgM9tXbEAA8adV.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055907484184023040"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2055907637695537207",
+        "created_at": "2026-05-17T07:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055907637695537207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1594280404504444931",
+              "start": 23,
+              "username": "LichitLich"
+            },
+            {
+              "end": 55,
+              "id": "1677549435662880769",
+              "start": 46,
+              "username": "se7enqwq"
+            },
+            {
+              "end": 77,
+              "id": "2047867480576794624",
+              "start": 66,
+              "username": "yuganbb823"
+            },
+            {
+              "end": 101,
+              "id": "2055517832083898368",
+              "start": 87,
+              "username": "xuemenglei250"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMqwnSua6t",
+              "end": 139,
+              "expanded_url": "https://x.com/themaniachan/status/2055907637695537207/photo/1",
+              "media_key": "3_2055907484184023040",
+              "start": 116,
+              "url": "https://t.co/vMqwnSua6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055907637695537207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开奖啦开奖啦——🥰🥰🥰\n\n一等奖（四瓶魔爪）：@LichitLich\n二等奖（一顿麻辣烫）：@se7enqwq\n三等奖（一杯奶茶）：@yuganbb823\n三等奖（一杯奶茶）@xuemenglei250\n\n私信狂酱来领取口令红包！ https://t.co/vMqwnSua6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 125,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 227
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T10:44:50.000Z",
+        "description": "male//泛性恋//麦当劳薯饼//减肥//#东方project//没脾气//纯良//好色//fallout//试着戒烟//碎碎念//收集喜欢的文字//我的爱人是 @R18Giano",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 22,
+                "tag": "东方project"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "R18Giano"
+              }
+            ]
+          }
+        },
+        "id": "1594280404504444931",
+        "name": "Lich🐱🙏守卫信仰，救助苦难",
+        "pinned_tweet_id": "2040511334354485327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042425919135223808/Qp2rYOg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 2868,
+          "like_count": 30795,
+          "listed_count": 6,
+          "media_count": 1235,
+          "tweet_count": 9780
+        },
+        "username": "LichitLich",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T05:25:41.000Z",
+        "description": "",
+        "id": "1677549435662880769",
+        "name": "收敛水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025199029995630592/oTrhRQQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 319,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 96
+        },
+        "username": "se7enqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "od | 餐券 | 🔪🩸 | 跟我互fo吧¯꒳¯直fo是因为喜欢你呀",
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052447622317977600/0zOEQGJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 41,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 189
+        },
+        "username": "yuganbb823",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:17:39.000Z",
+        "description": "=血萌淚\n叫我小淚orRui醬也可以喲\n非正常美少女\n自傷/od/躁鬱/社交障礙/le\n互fo大歡迎🥺🥺🥺\n🚪私信",
+        "id": "2055517832083898368",
+        "location": "日本 東京",
+        "name": "僅僅衹是存在就非常可愛",
+        "pinned_tweet_id": "2055629450503467416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055518659049607168/D3JmdVH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "xuemenglei250",
+        "verified": false
+      }
+    ]
+  }
+}

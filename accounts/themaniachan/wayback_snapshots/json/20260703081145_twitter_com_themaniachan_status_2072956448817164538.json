@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072956445394694144",
+        "3_2072956445562400768"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072956448817164538",
+    "created_at": "2026-07-03T08:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072956448817164538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pw1SbJ84Bj",
+          "end": 30,
+          "expanded_url": "https://x.com/themaniachan/status/2072956448817164538/photo/1",
+          "media_key": "3_2072956445394694144",
+          "start": 7,
+          "url": "https://t.co/Pw1SbJ84Bj"
+        },
+        {
+          "display_url": "pic.x.com/Pw1SbJ84Bj",
+          "end": 30,
+          "expanded_url": "https://x.com/themaniachan/status/2072956448817164538/photo/1",
+          "media_key": "3_2072956445562400768",
+          "start": 7,
+          "url": "https://t.co/Pw1SbJ84Bj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072956448817164538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "博主的成分🥰 https://t.co/Pw1SbJ84Bj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072956445394694144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSe53KbcAA_1Y8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072956445562400768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSe53yacAAbJfC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072956445394694144",
+            "3_2072956445562400768"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072956448817164538",
+        "created_at": "2026-07-03T08:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072956448817164538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pw1SbJ84Bj",
+              "end": 30,
+              "expanded_url": "https://x.com/themaniachan/status/2072956448817164538/photo/1",
+              "media_key": "3_2072956445394694144",
+              "start": 7,
+              "url": "https://t.co/Pw1SbJ84Bj"
+            },
+            {
+              "display_url": "pic.x.com/Pw1SbJ84Bj",
+              "end": 30,
+              "expanded_url": "https://x.com/themaniachan/status/2072956448817164538/photo/1",
+              "media_key": "3_2072956445562400768",
+              "start": 7,
+              "url": "https://t.co/Pw1SbJ84Bj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072956448817164538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "博主的成分🥰 https://t.co/Pw1SbJ84Bj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 224,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 915
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

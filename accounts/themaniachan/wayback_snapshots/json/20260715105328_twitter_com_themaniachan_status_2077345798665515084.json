@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077345768638382081",
+        "3_2077345777568063488",
+        "3_2077345785537298432",
+        "3_2077345793833644032"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2077345798665515084",
+    "created_at": "2026-07-15T10:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077345798665515084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 38,
+          "id": "1266316422428258311",
+          "start": 26,
+          "username": "mania_chan_"
+        },
+        {
+          "end": 55,
+          "id": "1951215991645675522",
+          "start": 41,
+          "username": "mania_theidol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kytVoPHVvn",
+          "end": 118,
+          "expanded_url": "https://x.com/themaniachan/status/2077345798665515084/photo/1",
+          "media_key": "3_2077345768638382081",
+          "start": 95,
+          "url": "https://t.co/kytVoPHVvn"
+        },
+        {
+          "display_url": "pic.x.com/kytVoPHVvn",
+          "end": 118,
+          "expanded_url": "https://x.com/themaniachan/status/2077345798665515084/photo/1",
+          "media_key": "3_2077345777568063488",
+          "start": 95,
+          "url": "https://t.co/kytVoPHVvn"
+        },
+        {
+          "display_url": "pic.x.com/kytVoPHVvn",
+          "end": 118,
+          "expanded_url": "https://x.com/themaniachan/status/2077345798665515084/photo/1",
+          "media_key": "3_2077345785537298432",
+          "start": 95,
+          "url": "https://t.co/kytVoPHVvn"
+        },
+        {
+          "display_url": "pic.x.com/kytVoPHVvn",
+          "end": 118,
+          "expanded_url": "https://x.com/themaniachan/status/2077345798665515084/photo/1",
+          "media_key": "3_2077345793833644032",
+          "start": 95,
+          "url": "https://t.co/kytVoPHVvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077345798665515084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗨嗨大家好！这里是狂酱3.0以及400fo版！\n前世@mania_chan_\n分身@mania_theidol\n欢迎大家来找狂酱玩˶&gt;ᗜ&lt;˶\n互关会查成分，也感谢大家投喂狂酱💖 https://t.co/kytVoPHVvn"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [mania_chan_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mania_chan_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mania_chan_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077345768638382081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ2-GdaAAEmwLD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077345777568063488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ2-nuaIAAFNmF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077345785537298432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ2_FabAAAV6PD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 832,
+        "media_key": "3_2077345793833644032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ2_kUbMAAC6lp.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077345768638382081",
+            "3_2077345777568063488",
+            "3_2077345785537298432",
+            "3_2077345793833644032"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2077345798665515084",
+        "created_at": "2026-07-15T10:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077345798665515084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1266316422428258311",
+              "start": 26,
+              "username": "mania_chan_"
+            },
+            {
+              "end": 55,
+              "id": "1951215991645675522",
+              "start": 41,
+              "username": "mania_theidol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kytVoPHVvn",
+              "end": 118,
+              "expanded_url": "https://x.com/themaniachan/status/2077345798665515084/photo/1",
+              "media_key": "3_2077345768638382081",
+              "start": 95,
+              "url": "https://t.co/kytVoPHVvn"
+            },
+            {
+              "display_url": "pic.x.com/kytVoPHVvn",
+              "end": 118,
+              "expanded_url": "https://x.com/themaniachan/status/2077345798665515084/photo/1",
+              "media_key": "3_2077345777568063488",
+              "start": 95,
+              "url": "https://t.co/kytVoPHVvn"
+            },
+            {
+              "display_url": "pic.x.com/kytVoPHVvn",
+              "end": 118,
+              "expanded_url": "https://x.com/themaniachan/status/2077345798665515084/photo/1",
+              "media_key": "3_2077345785537298432",
+              "start": 95,
+              "url": "https://t.co/kytVoPHVvn"
+            },
+            {
+              "display_url": "pic.x.com/kytVoPHVvn",
+              "end": 118,
+              "expanded_url": "https://x.com/themaniachan/status/2077345798665515084/photo/1",
+              "media_key": "3_2077345793833644032",
+              "start": 95,
+              "url": "https://t.co/kytVoPHVvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077345798665515084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗨嗨大家好！这里是狂酱3.0以及400fo版！\n前世@mania_chan_\n分身@mania_theidol\n欢迎大家来找狂酱玩˶&gt;ᗜ&lt;˶\n互关会查成分，也感谢大家投喂狂酱💖 https://t.co/kytVoPHVvn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 239,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1027
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T09:38:54.000Z",
+        "description": "@themaniachan大号在此\n狂酱的避风小号，欢迎推u关注🥹💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "themaniachan"
+              }
+            ]
+          }
+        },
+        "id": "1951215991645675522",
+        "name": "世界倒数第一的偶像狂爱",
+        "pinned_tweet_id": "2074760573288661306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074743900070449152/oP5vi_RY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 85,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "mania_theidol",
+        "verified": false
+      }
+    ]
+  }
+}

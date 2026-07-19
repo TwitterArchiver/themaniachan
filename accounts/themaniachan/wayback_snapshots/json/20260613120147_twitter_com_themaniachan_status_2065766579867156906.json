@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065463325891436544"
+      ],
+      "media_source_tweet_id": [
+        "2065463359273837019"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065766579867156906",
+    "created_at": "2026-06-13T12:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065766579867156906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vetQ5Eqevm",
+          "end": 42,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2065463359273837019/photo/1",
+          "media_key": "3_2065463325891436544",
+          "start": 19,
+          "url": "https://t.co/vetQ5Eqevm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065766579867156906",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065463359273837019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: https://t.co/vetQ5Eqevm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1568,
+        "media_key": "3_2065463325891436544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn_85xbIAAgEGP.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065463325891436544"
+          ],
+          "media_source_tweet_id": [
+            "2065463359273837019"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065766579867156906",
+        "created_at": "2026-06-13T12:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065766579867156906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vetQ5Eqevm",
+              "end": 42,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2065463359273837019/photo/1",
+              "media_key": "3_2065463325891436544",
+              "start": 19,
+              "url": "https://t.co/vetQ5Eqevm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065766579867156906",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065463359273837019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: https://t.co/vetQ5Eqevm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065463325891436544"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2065463359273837019",
+        "created_at": "2026-06-12T15:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065463359273837019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vetQ5Eqevm",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2065463359273837019/photo/1",
+              "media_key": "3_2065463325891436544",
+              "start": 0,
+              "url": "https://t.co/vetQ5Eqevm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065463359273837019",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 48942,
+          "like_count": 910,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vetQ5Eqevm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 180,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 616
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11974,
+          "following_count": 4359,
+          "like_count": 49008,
+          "listed_count": 36,
+          "media_count": 2778,
+          "tweet_count": 15923
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

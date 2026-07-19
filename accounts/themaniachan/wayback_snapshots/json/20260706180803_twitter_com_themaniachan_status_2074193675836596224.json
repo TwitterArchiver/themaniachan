@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074146374292279296"
+      ],
+      "media_source_tweet_id": [
+        "2074146376435609778"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2074193675836596224",
+    "created_at": "2026-07-06T18:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074193675836596224"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 13,
+          "tag": "超てんちゃん生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960268031097266176",
+          "start": 3,
+          "username": "depaszz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vTy8kZCbxZ",
+          "end": 70,
+          "expanded_url": "https://x.com/depaszz/status/2074146376435609778/photo/1",
+          "media_key": "3_2074146374292279296",
+          "start": 47,
+          "url": "https://t.co/vTy8kZCbxZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074193675836596224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074146376435609778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @depaszz: #超てんちゃん生誕祭2026\nハッピーバースデー🧬✝️🪽🎀🩷🎉🎉🎉 https://t.co/vTy8kZCbxZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2074146374292279296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjZI1vbEAAzbTK.jpg",
+        "width": 1427
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074146374292279296"
+          ],
+          "media_source_tweet_id": [
+            "2074146376435609778"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2074193675836596224",
+        "created_at": "2026-07-06T18:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074193675836596224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 13,
+              "tag": "超てんちゃん生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960268031097266176",
+              "start": 3,
+              "username": "depaszz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTy8kZCbxZ",
+              "end": 70,
+              "expanded_url": "https://x.com/depaszz/status/2074146376435609778/photo/1",
+              "media_key": "3_2074146374292279296",
+              "start": 47,
+              "url": "https://t.co/vTy8kZCbxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074193675836596224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074146376435609778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @depaszz: #超てんちゃん生誕祭2026\nハッピーバースデー🧬✝️🪽🎀🩷🎉🎉🎉 https://t.co/vTy8kZCbxZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074146374292279296"
+          ]
+        },
+        "author_id": "1960268031097266176",
+        "conversation_id": "2074146376435609778",
+        "created_at": "2026-07-06T15:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074146376435609778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "超てんちゃん生誕祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTy8kZCbxZ",
+              "end": 57,
+              "expanded_url": "https://x.com/depaszz/status/2074146376435609778/photo/1",
+              "media_key": "3_2074146374292279296",
+              "start": 34,
+              "url": "https://t.co/vTy8kZCbxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074146376435609778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 5376,
+          "like_count": 836,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "#超てんちゃん生誕祭2026\nハッピーバースデー🧬✝️🪽🎀🩷🎉🎉🎉 https://t.co/vTy8kZCbxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 233,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 985
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T09:08:38.000Z",
+        "description": "ニディガ+@｜20↑｜ゴミ箱です…らくがきや独り言など｜ROMあり｜韓国語/日本語o",
+        "id": "1960268031097266176",
+        "location": "🧬☔️💊",
+        "name": "しの",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059322770031579136/wQUbKYHY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 120,
+          "like_count": 2727,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1215
+        },
+        "url": "",
+        "username": "depaszz",
+        "verified": false
+      }
+    ]
+  }
+}

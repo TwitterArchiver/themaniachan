@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065742587563286917",
+    "created_at": "2026-06-13T10:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065742587563286917"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065742587563286917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然自己也不是过得有多好多坏吧，但是我真的很难不把朋友们的安危挂在心上\n每次有人跟我说想自杀其实我都会很害怕然后一阵一阵地惊恐，虽然不知道周围朋友发的是不是认真的，但是只要这么说我就会很害怕\n我已经没多少朋友了，加上自己其实也是在生死边缘游荡\n不要死啊我爱的大家..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065742587563286917",
+        "created_at": "2026-06-13T10:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065742587563286917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065742587563286917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然自己也不是过得有多好多坏吧，但是我真的很难不把朋友们的安危挂在心上\n每次有人跟我说想自杀其实我都会很害怕然后一阵一阵地惊恐，虽然不知道周围朋友发的是不是认真的，但是只要这么说我就会很害怕\n我已经没多少朋友了，加上自己其实也是在生死边缘游荡\n不要死啊我爱的大家..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 179,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 607
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

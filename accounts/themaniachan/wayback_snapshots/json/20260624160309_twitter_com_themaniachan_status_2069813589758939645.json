@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069740481748054016"
+      ],
+      "media_source_tweet_id": [
+        "2069740505051828661"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2069813589758939645",
+    "created_at": "2026-06-24T16:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069813589758939645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1633980972986421249",
+          "start": 3,
+          "username": "ruri30559404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZGB1pUgfi",
+          "end": 57,
+          "expanded_url": "https://x.com/ruri30559404/status/2069740505051828661/photo/1",
+          "media_key": "3_2069740481748054016",
+          "start": 34,
+          "url": "https://t.co/AZGB1pUgfi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069813589758939645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069740505051828661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruri30559404: 治安が100％悪くなった教会組 https://t.co/AZGB1pUgfi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2069740481748054016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkyAI_WsAA_IWF.jpg",
+        "width": 635
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069740481748054016"
+          ],
+          "media_source_tweet_id": [
+            "2069740505051828661"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2069813589758939645",
+        "created_at": "2026-06-24T16:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069813589758939645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1633980972986421249",
+              "start": 3,
+              "username": "ruri30559404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZGB1pUgfi",
+              "end": 57,
+              "expanded_url": "https://x.com/ruri30559404/status/2069740505051828661/photo/1",
+              "media_key": "3_2069740481748054016",
+              "start": 34,
+              "url": "https://t.co/AZGB1pUgfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069813589758939645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069740505051828661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruri30559404: 治安が100％悪くなった教会組 https://t.co/AZGB1pUgfi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069740481748054016"
+          ]
+        },
+        "author_id": "1633980972986421249",
+        "conversation_id": "2069740505051828661",
+        "created_at": "2026-06-24T11:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069740505051828661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZGB1pUgfi",
+              "end": 39,
+              "expanded_url": "https://x.com/ruri30559404/status/2069740505051828661/photo/1",
+              "media_key": "3_2069740481748054016",
+              "start": 16,
+              "url": "https://t.co/AZGB1pUgfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069740505051828661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 7081,
+          "like_count": 732,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "治安が100％悪くなった教会組 https://t.co/AZGB1pUgfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 188,
+          "like_count": 874,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 748
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T00:00:13.000Z",
+        "description": "ギ　ル　ガ　メ　ッ　シ　ュ\n金×女主、もしくは金→＋←女主メイン、ギル受けも好き\n🚫このアカウントの全ての文章・画像・動画はAI学習・転載などの使用禁止\nreproduction prohibited",
+        "id": "1633980972986421249",
+        "name": "Ruri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831640591794388992/8KvU2iGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 2,
+          "like_count": 206,
+          "listed_count": 14,
+          "media_count": 113,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "ruri30559404",
+        "verified": false
+      }
+    ]
+  }
+}

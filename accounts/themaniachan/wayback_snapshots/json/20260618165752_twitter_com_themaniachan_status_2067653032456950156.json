@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2067653032456950156",
+    "created_at": "2026-06-18T16:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067653032456950156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Numiouoo/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Numiouoo/status/2067502646542713017",
+          "start": 11,
+          "url": "https://t.co/odLxQtjAfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067653032456950156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067502646542713017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以后就这么宣传我们😋 https://t.co/odLxQtjAfb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1548,
+        "media_key": "3_2067502636509843456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLE-sZ1aUAA0w3j.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2067653032456950156",
+        "created_at": "2026-06-18T16:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067653032456950156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Numiouoo/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Numiouoo/status/2067502646542713017",
+              "start": 11,
+              "url": "https://t.co/odLxQtjAfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067653032456950156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067502646542713017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后就这么宣传我们😋 https://t.co/odLxQtjAfb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067502636509843456"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067502646542713017",
+        "created_at": "2026-06-18T07:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067502646542713017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TadSm60pKd",
+              "end": 91,
+              "expanded_url": "https://x.com/Numiouoo/status/2067502646542713017/photo/1",
+              "media_key": "3_2067502636509843456",
+              "start": 68,
+              "url": "https://t.co/TadSm60pKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067502646542713017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5639,
+          "like_count": 125,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "看原图很不爽，本优质极品毒虫怒而改之\n\n我们就超天酱来的！健全人你们什么档次自己歪瓜裂枣还来泼毒虫脏水，闲得发慌可以多照照镜子！谢谢。 https://t.co/TadSm60pKd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 188,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 692
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 906,
+          "like_count": 2453,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1960
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

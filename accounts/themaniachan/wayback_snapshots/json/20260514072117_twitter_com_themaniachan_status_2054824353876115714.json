@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054824226155356160"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2054824353876115714",
+    "created_at": "2026-05-14T07:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054824353876115714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oDbycTe9mM",
+          "end": 70,
+          "expanded_url": "https://x.com/themaniachan/status/2054824353876115714/photo/1",
+          "media_key": "3_2054824226155356160",
+          "start": 47,
+          "url": "https://t.co/oDbycTe9mM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054824353876115714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "热得受不了了跑出来住\n这下我可以爽爽地割然后吃玉米片了\n说起来连着磕两天玉米片应该没事吧（） https://t.co/oDbycTe9mM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054824226155356160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQzvyvbYAA2KNm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054824226155356160"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2054824353876115714",
+        "created_at": "2026-05-14T07:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054824353876115714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDbycTe9mM",
+              "end": 70,
+              "expanded_url": "https://x.com/themaniachan/status/2054824353876115714/photo/1",
+              "media_key": "3_2054824226155356160",
+              "start": 47,
+              "url": "https://t.co/oDbycTe9mM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054824353876115714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热得受不了了跑出来住\n这下我可以爽爽地割然后吃玉米片了\n说起来连着磕两天玉米片应该没事吧（） https://t.co/oDbycTe9mM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 95,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 192
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2058944152612774289",
+    "created_at": "2026-05-26T03:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059108508927451149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832763086039896064",
+          "start": 0,
+          "username": "NanoCatfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059108508927451149",
+    "in_reply_to_user_id": "1832763086039896064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058976701829570654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanoCatfish 猜到是这样...但还是被药量震惊了一下，明明是正常用药来着怎么会这样..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2058944152612774289",
+        "created_at": "2026-05-26T03:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059108508927451149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832763086039896064",
+              "start": 0,
+              "username": "NanoCatfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059108508927451149",
+        "in_reply_to_user_id": "1832763086039896064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058976701829570654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanoCatfish 猜到是这样...但还是被药量震惊了一下，明明是正常用药来着怎么会这样..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832763086039896064",
+        "conversation_id": "2058944152612774289",
+        "created_at": "2026-05-25T18:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058976701829570654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058976701829570654",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058944152612774289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 复方氨酚烷胺里面金刚烷胺的作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 136,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 323
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T12:51:34.000Z",
+        "description": "1:1(100%)互fo哦～ | 自由、平等、博爱 | 可以随意骚扰的，对的 | Lens Zzz @wimzylens0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "wimzylens0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reddit.com/u/NanoCatfish/…",
+                "end": 23,
+                "expanded_url": "https://www.reddit.com/u/NanoCatfish/s/E8HefyTo5W",
+                "start": 0,
+                "url": "https://t.co/7EkeuW80p7"
+              }
+            ]
+          }
+        },
+        "id": "1832763086039896064",
+        "location": "🍀四叶草园🍀",
+        "name": "🍀Nano Catfish🐟🐟🐟",
+        "pinned_tweet_id": "1985858852060070241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007057714342461440/5Gc8L4A0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 248,
+          "like_count": 5828,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/7EkeuW80p7",
+        "username": "NanoCatfish",
+        "verified": true
+      }
+    ]
+  }
+}

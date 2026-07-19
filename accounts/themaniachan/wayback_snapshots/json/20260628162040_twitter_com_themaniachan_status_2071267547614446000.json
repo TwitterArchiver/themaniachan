@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070767691770818560"
+      ],
+      "media_source_tweet_id": [
+        "2070767760079266040"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2071267547614446000",
+    "created_at": "2026-06-28T16:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071267547614446000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552213521253150720",
+          "start": 3,
+          "username": "acnekot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1gjEXHgB3P",
+          "end": 43,
+          "expanded_url": "https://x.com/acnekot/status/2070767760079266040/photo/1",
+          "media_key": "3_2070767691770818560",
+          "start": 20,
+          "url": "https://t.co/1gjEXHgB3P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071267547614446000",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070767760079266040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acnekot: MEME'S https://t.co/1gjEXHgB3P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2070767691770818560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzYPoha8AAYzH3.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070767691770818560"
+          ],
+          "media_source_tweet_id": [
+            "2070767760079266040"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2071267547614446000",
+        "created_at": "2026-06-28T16:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071267547614446000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552213521253150720",
+              "start": 3,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gjEXHgB3P",
+              "end": 43,
+              "expanded_url": "https://x.com/acnekot/status/2070767760079266040/photo/1",
+              "media_key": "3_2070767691770818560",
+              "start": 20,
+              "url": "https://t.co/1gjEXHgB3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071267547614446000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070767760079266040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acnekot: MEME'S https://t.co/1gjEXHgB3P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070767691770818560"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2070767760079266040",
+        "created_at": "2026-06-27T07:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070767760079266040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gjEXHgB3P",
+              "end": 30,
+              "expanded_url": "https://x.com/acnekot/status/2070767760079266040/photo/1",
+              "media_key": "3_2070767691770818560",
+              "start": 7,
+              "url": "https://t.co/1gjEXHgB3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070767760079266040",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 13074,
+          "like_count": 253,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "MEME'S https://t.co/1gjEXHgB3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 205,
+          "like_count": 971,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 801
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 803,
+          "like_count": 95023,
+          "listed_count": 9,
+          "media_count": 4052,
+          "tweet_count": 17155
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055512558501793792"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2055512601019494701",
+    "created_at": "2026-05-16T04:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055512601019494701"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 5,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 27,
+          "start": 13,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "地雷系"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SgK1AdJc1f",
+          "end": 58,
+          "expanded_url": "https://x.com/themaniachan/status/2055512601019494701/photo/1",
+          "media_key": "3_2055512558501793792",
+          "start": 35,
+          "url": "https://t.co/SgK1AdJc1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055512601019494701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烟中恶鬼\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#地雷系 https://t.co/SgK1AdJc1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2055512558501793792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIalyAjakAAXCJl.jpg",
+        "width": 1782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055512558501793792"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2055512601019494701",
+        "created_at": "2026-05-16T04:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055512601019494701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 27,
+              "start": 13,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgK1AdJc1f",
+              "end": 58,
+              "expanded_url": "https://x.com/themaniachan/status/2055512601019494701/photo/1",
+              "media_key": "3_2055512558501793792",
+              "start": 35,
+              "url": "https://t.co/SgK1AdJc1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055512601019494701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烟中恶鬼\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#地雷系 https://t.co/SgK1AdJc1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 112,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 217
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

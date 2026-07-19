@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2055323979729318162",
+    "created_at": "2026-05-15T16:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055323979729318162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekoTiao0w0/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/nekoTiao0w0/status/2055179804673241532",
+          "start": 4,
+          "url": "https://t.co/gOmmdDflzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055323979729318162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055179804673241532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和谁 https://t.co/gOmmdDflzd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2055179785303969792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIV3IDybUAAtg3H.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2055323979729318162",
+        "created_at": "2026-05-15T16:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055323979729318162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekoTiao0w0/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/nekoTiao0w0/status/2055179804673241532",
+              "start": 4,
+              "url": "https://t.co/gOmmdDflzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055323979729318162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055179804673241532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和谁 https://t.co/gOmmdDflzd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055179785303969792"
+          ]
+        },
+        "author_id": "1668257047647776770",
+        "conversation_id": "2055179804673241532",
+        "created_at": "2026-05-15T06:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055179804673241532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lus35prLQZ",
+              "end": 26,
+              "expanded_url": "https://x.com/nekoTiao0w0/status/2055179804673241532/photo/1",
+              "media_key": "3_2055179785303969792",
+              "start": 3,
+              "url": "https://t.co/lus35prLQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055179804673241532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11361,
+          "like_count": 304,
+          "quote_count": 13,
+          "reply_count": 9,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我们 https://t.co/lus35prLQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 110,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 210
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩 看你们也没多喜欢我 关注我干嘛？里账号@churr000000只通过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "churr000000"
+              }
+            ]
+          }
+        },
+        "id": "1668257047647776770",
+        "location": "🚪188",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2046991945004917155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 245,
+          "like_count": 8163,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3761
+        },
+        "username": "nekoTiao0w0",
+        "verified": false
+      }
+    ]
+  }
+}

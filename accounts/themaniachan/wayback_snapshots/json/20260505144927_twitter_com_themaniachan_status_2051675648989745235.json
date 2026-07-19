@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2051473039418884575",
+    "created_at": "2026-05-05T14:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051675648989745235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1354412625132568578",
+          "start": 0,
+          "username": "MudMud_dog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051675648989745235",
+    "in_reply_to_user_id": "1354412625132568578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051597588496081288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MudMud_dog 我只觉得问题太多了，番剧本身在当时也不算多优秀但是没拦着他火，我恶心的点只是在于作者夹带战争私货，跟辱不辱完全没关系，比这个优秀的热血番多得是，在出了这些事之后还在当孝子的只能说是聚众吃大份"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2051473039418884575",
+        "created_at": "2026-05-05T14:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051675648989745235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1354412625132568578",
+              "start": 0,
+              "username": "MudMud_dog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051675648989745235",
+        "in_reply_to_user_id": "1354412625132568578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051597588496081288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MudMud_dog 我只觉得问题太多了，番剧本身在当时也不算多优秀但是没拦着他火，我恶心的点只是在于作者夹带战争私货，跟辱不辱完全没关系，比这个优秀的热血番多得是，在出了这些事之后还在当孝子的只能说是聚众吃大份"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354412625132568578",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2051473039418884575",
+        "created_at": "2026-05-05T09:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051597588496081288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051597588496081288",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051473039418884575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 你多了解一下各方信源，可能会对mha争议有更深的了解。这部作品最大的罪责在于人物塑造饭圈化以及疑似美化校园暴力，这个问题在动漫拍到第四季左右的时候达到顶峰导致mha粉丝在海内外（B站除外）变得人厌狗嫌，反而并没有明确的证据表示ruler，后来的漫展事件无非是三好小二次元自发的猎巫cosplay罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 118
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T12:55:24.000Z",
+        "description": "👍：宗教哲学/写作/夜场电影/超级英雄漫画/RPG游戏/猫猫狗狗/游泳/看星星\n\n喜欢的作家：J·D·塞林格/斯蒂芬·金/雷·布拉德伯里/厄休拉·勒古恩/特德·姜/陀思妥耶夫斯基\n\n其它：天主教徒，男的，双性恋，有女朋友\n\n❌：会敌视以上内容的任何意识形态/熬夜后起床上班",
+        "id": "1354412625132568578",
+        "location": "成都",
+        "name": "🇻🇦✝️Dirt.Dog.",
+        "pinned_tweet_id": "2045110971719704857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047385781757681664/SVZB7gpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 719,
+          "like_count": 27607,
+          "listed_count": 3,
+          "media_count": 841,
+          "tweet_count": 7830
+        },
+        "username": "MudMud_dog",
+        "verified": false
+      }
+    ]
+  }
+}

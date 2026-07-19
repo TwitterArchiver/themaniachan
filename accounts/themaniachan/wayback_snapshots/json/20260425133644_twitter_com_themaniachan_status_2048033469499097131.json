@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048033431716847616"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2048033469499097131",
+    "created_at": "2026-04-25T13:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048033469499097131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4tpixXJMDt",
+          "end": 37,
+          "expanded_url": "https://x.com/themaniachan/status/2048033469499097131/photo/1",
+          "media_key": "3_2048033431716847616",
+          "start": 14,
+          "url": "https://t.co/4tpixXJMDt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048033469499097131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新电子烟又被博主贴成了这样 https://t.co/4tpixXJMDt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048033431716847616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwTjiGbYAATgte.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048033431716847616"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2048033469499097131",
+        "created_at": "2026-04-25T13:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048033469499097131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tpixXJMDt",
+              "end": 37,
+              "expanded_url": "https://x.com/themaniachan/status/2048033469499097131/photo/1",
+              "media_key": "3_2048033431716847616",
+              "start": 14,
+              "url": "https://t.co/4tpixXJMDt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048033469499097131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新电子烟又被博主贴成了这样 https://t.co/4tpixXJMDt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 40,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 30
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

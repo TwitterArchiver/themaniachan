@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2068713171188437053",
+    "created_at": "2026-06-21T15:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068713171188437053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068713171188437053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 228
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068518549380100423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 我对所有人的接受程度belike：\n鬼图：牛逼哪来的\n裸照：牛逼真敢发\n自残：牛逼真敢割\n磕药：牛逼真敢磕\n炫富：牛逼真有钱\n幸福：牛逼真幸福\n福瑞：牛逼真可爱\n文案：牛逼复制了\n穷逼：牛逼我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2068713171188437053",
+        "created_at": "2026-06-21T15:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068713171188437053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068713171188437053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 228
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068518549380100423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 我对所有人的接受程度belike：\n鬼图：牛逼哪来的\n裸照：牛逼真敢发\n自残：牛逼真敢割\n磕药：牛逼真敢磕\n炫富：牛逼真有钱\n幸福：牛逼真幸福\n福瑞：牛逼真可爱\n文案：牛逼复制了\n穷逼：牛逼我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2068518549380100423",
+        "created_at": "2026-06-21T02:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068518549380100423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068518549380100423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 34175,
+          "like_count": 1537,
+          "quote_count": 17,
+          "reply_count": 113,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "我对所有人的接受程度belike：\n鬼图：牛逼哪来的\n裸照：牛逼真敢发\n自残：牛逼真敢割\n磕药：牛逼真敢磕\n炫富：牛逼真有钱\n幸福：牛逼真幸福\n福瑞：牛逼真可爱\n文案：牛逼复制了\n穷逼：牛逼我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 188,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 240,
+          "like_count": 9486,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 3620
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

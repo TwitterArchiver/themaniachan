@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070862471729139712"
+      ],
+      "media_source_tweet_id": [
+        "2070862477873893468"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324127674575450113",
+          "name": "School festivals"
+        }
+      }
+    ],
+    "conversation_id": "2071541621129465996",
+    "created_at": "2026-06-29T10:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071541621129465996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570591326",
+          "start": 3,
+          "username": "jd1_3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wf8zX2S34X",
+          "end": 57,
+          "expanded_url": "https://x.com/jd1_3/status/2070862477873893468/photo/1",
+          "media_key": "3_2070862471729139712",
+          "start": 34,
+          "url": "https://t.co/Wf8zX2S34X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071541621129465996",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070862477873893468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jd1_3: カルデア学園祭愉しみ!（ラス峰リリィver） https://t.co/Wf8zX2S34X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_2070862471729139712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0ucjYaUAAKthu.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070862471729139712"
+          ],
+          "media_source_tweet_id": [
+            "2070862477873893468"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "2071541621129465996",
+        "created_at": "2026-06-29T10:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071541621129465996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570591326",
+              "start": 3,
+              "username": "jd1_3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wf8zX2S34X",
+              "end": 57,
+              "expanded_url": "https://x.com/jd1_3/status/2070862477873893468/photo/1",
+              "media_key": "3_2070862471729139712",
+              "start": 34,
+              "url": "https://t.co/Wf8zX2S34X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071541621129465996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070862477873893468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jd1_3: カルデア学園祭愉しみ!（ラス峰リリィver） https://t.co/Wf8zX2S34X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070862471729139712"
+          ]
+        },
+        "author_id": "1570591326",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "2070862477873893468",
+        "created_at": "2026-06-27T13:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070862477873893468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wf8zX2S34X",
+              "end": 46,
+              "expanded_url": "https://x.com/jd1_3/status/2070862477873893468/photo/1",
+              "media_key": "3_2070862471729139712",
+              "start": 23,
+              "url": "https://t.co/Wf8zX2S34X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070862477873893468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 3467,
+          "like_count": 231,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "カルデア学園祭愉しみ!（ラス峰リリィver） https://t.co/Wf8zX2S34X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 206,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 817
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-05T14:16:39.000Z",
+        "description": "成人済 (⚠︎腐 )fate 言切/峰・嗣受 雑食",
+        "id": "1570591326",
+        "location": "転載禁止/FUBfree",
+        "name": "kirao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954766030875869184/fmT-5ZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3649,
+          "following_count": 209,
+          "like_count": 19353,
+          "listed_count": 30,
+          "media_count": 897,
+          "tweet_count": 8097
+        },
+        "url": "",
+        "username": "jd1_3",
+        "verified": false
+      }
+    ]
+  }
+}

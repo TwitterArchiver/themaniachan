@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065392115056869810",
+    "created_at": "2026-06-14T00:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065956130413858919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1256757256214818818",
+          "start": 0,
+          "username": "GuimuRena"
+        },
+        {
+          "end": 20,
+          "id": "1534344658033180672",
+          "start": 11,
+          "username": "_tom0e_x"
+        },
+        {
+          "end": 33,
+          "id": "1266316422428258311",
+          "start": 21,
+          "username": "mania_chan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065956130413858919",
+    "in_reply_to_user_id": "1256757256214818818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065796884288176332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuimuRena @_tom0e_x @mania_chan_ 好的老大！！！我来力"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [mania_chan_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mania_chan_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mania_chan_"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065392115056869810",
+        "created_at": "2026-06-14T00:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065956130413858919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1256757256214818818",
+              "start": 0,
+              "username": "GuimuRena"
+            },
+            {
+              "end": 20,
+              "id": "1534344658033180672",
+              "start": 11,
+              "username": "_tom0e_x"
+            },
+            {
+              "end": 33,
+              "id": "1266316422428258311",
+              "start": 21,
+              "username": "mania_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065956130413858919",
+        "in_reply_to_user_id": "1256757256214818818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065796884288176332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuimuRena @_tom0e_x @mania_chan_ 好的老大！！！我来力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1256757256214818818",
+        "conversation_id": "2065392115056869810",
+        "created_at": "2026-06-13T14:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065796884288176332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            },
+            {
+              "end": 23,
+              "id": "1534344658033180672",
+              "start": 14,
+              "username": "_tom0e_x"
+            },
+            {
+              "end": 36,
+              "id": "1266316422428258311",
+              "start": 24,
+              "username": "mania_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065796884288176332",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065392115056869810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan @_tom0e_x @mania_chan_ 老大这里国烤求互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 180,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 619
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T01:27:46.000Z",
+        "description": "氿木レナです💬CN JP EN 💊ADHD&双相情感障碍&重度焦虑🎲葛葉激推💕欢迎互fo互转 #地雷女子 #メンヘラ #OD #リスカ #病み垢 #薬物依存症 #ピアス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "地雷女子"
+              },
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 62,
+                "start": 59,
+                "tag": "OD"
+              },
+              {
+                "end": 67,
+                "start": 63,
+                "tag": "リスカ"
+              },
+              {
+                "end": 72,
+                "start": 68,
+                "tag": "病み垢"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "薬物依存症"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "ピアス"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xrena_9m?_t=Z…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xrena_9m?_t=ZS-8yyfizW7cW7&_r=1",
+                "start": 0,
+                "url": "https://t.co/EZHEMbZHJN"
+              }
+            ]
+          }
+        },
+        "id": "1256757256214818818",
+        "location": "天国",
+        "name": "レナ_つ",
+        "pinned_tweet_id": "2034418321878126964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978838203227422720/TcTHSQU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 404,
+          "like_count": 895,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 814
+        },
+        "url": "https://t.co/EZHEMbZHJN",
+        "username": "GuimuRena",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ my lil sis @artsyushi 🫶🏽🩵\n重度のうつ病 | BPD | 自殺念慮 | SH | SED | PTSD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "artsyushi"
+              }
+            ]
+          }
+        },
+        "id": "1534344658033180672",
+        "location": "Somewhere In Nyc",
+        "name": "Sara 🖤/ともえ✨",
+        "pinned_tweet_id": "2043807024966676506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060367911307370500/PODa8D-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 124,
+          "like_count": 39907,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 2316
+        },
+        "username": "_tom0e_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052587646220648451"
+      ],
+      "media_source_tweet_id": [
+        "2052588405456797959"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2052934651296301352",
+    "created_at": "2026-05-09T02:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052934651296301352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+          "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+          "end": 107,
+          "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E7%A4%BE%E4%BC%9A%E5%AD%A6/ODer%E7%9A%84%E6%99%AE%E6%B3%95%E6%89%8B%E5%86%8C1.html",
+          "start": 84,
+          "status": 200,
+          "title": "ODer的普法手册1 - 刑事篇 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E7%A4%BE%E4%BC%9A%E5%AD%A6/ODer%E7%9A%84%E6%99%AE%E6%B3%95%E6%89%8B%E5%86%8C1.html",
+          "url": "https://t.co/HsgwDahEdn"
+        },
+        {
+          "display_url": "pic.x.com/6dmq3p7pwn",
+          "end": 131,
+          "expanded_url": "https://x.com/SalviaSWC/status/2052588405456797959/photo/1",
+          "media_key": "3_2052587646220648451",
+          "start": 108,
+          "url": "https://t.co/6dmq3p7pwn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052934651296301352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052588405456797959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: ODer的普法手册1 - 刑事篇\n\n希望大家能仔细阅读、广泛传播，了解自身的合法权益和法律的边界，特别是不要触犯刑法哦!🤓☝\n\n全文链接：https://t.co/HsgwDahEdn https://t.co/6dmq3p7pwn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052587646220648451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxBltNWQAMhRCc.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052587646220648451"
+          ],
+          "media_source_tweet_id": [
+            "2052588405456797959"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2052934651296301352",
+        "created_at": "2026-05-09T02:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052934651296301352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+              "end": 107,
+              "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E7%A4%BE%E4%BC%9A%E5%AD%A6/ODer%E7%9A%84%E6%99%AE%E6%B3%95%E6%89%8B%E5%86%8C1.html",
+              "start": 84,
+              "status": 200,
+              "title": "ODer的普法手册1 - 刑事篇 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E7%A4%BE%E4%BC%9A%E5%AD%A6/ODer%E7%9A%84%E6%99%AE%E6%B3%95%E6%89%8B%E5%86%8C1.html",
+              "url": "https://t.co/HsgwDahEdn"
+            },
+            {
+              "display_url": "pic.x.com/6dmq3p7pwn",
+              "end": 131,
+              "expanded_url": "https://x.com/SalviaSWC/status/2052588405456797959/photo/1",
+              "media_key": "3_2052587646220648451",
+              "start": 108,
+              "url": "https://t.co/6dmq3p7pwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052934651296301352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052588405456797959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: ODer的普法手册1 - 刑事篇\n\n希望大家能仔细阅读、广泛传播，了解自身的合法权益和法律的边界，特别是不要触犯刑法哦!🤓☝\n\n全文链接：https://t.co/HsgwDahEdn https://t.co/6dmq3p7pwn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052587646220648451"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2052588405456797959",
+        "created_at": "2026-05-08T03:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052588405456797959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+              "end": 92,
+              "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E7%A4%BE%E4%BC%9A%E5%AD%A6/ODer%E7%9A%84%E6%99%AE%E6%B3%95%E6%89%8B%E5%86%8C1.html",
+              "start": 69,
+              "status": 200,
+              "title": "ODer的普法手册1 - 刑事篇 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E7%A4%BE%E4%BC%9A%E5%AD%A6/ODer%E7%9A%84%E6%99%AE%E6%B3%95%E6%89%8B%E5%86%8C1.html",
+              "url": "https://t.co/HsgwDahEdn"
+            },
+            {
+              "display_url": "pic.x.com/6dmq3p7pwn",
+              "end": 116,
+              "expanded_url": "https://x.com/SalviaSWC/status/2052588405456797959/photo/1",
+              "media_key": "3_2052587646220648451",
+              "start": 93,
+              "url": "https://t.co/6dmq3p7pwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052588405456797959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 6355,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "ODer的普法手册1 - 刑事篇\n\n希望大家能仔细阅读、广泛传播，了解自身的合法权益和法律的边界，特别是不要触犯刑法哦!🤓☝\n\n全文链接：https://t.co/HsgwDahEdn https://t.co/6dmq3p7pwn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 83,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 142
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4418,
+          "following_count": 1008,
+          "like_count": 23490,
+          "listed_count": 11,
+          "media_count": 505,
+          "tweet_count": 7553
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

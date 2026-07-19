@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047973146561810432",
+        "3_2047973146574323712"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2047973281819685281",
+    "created_at": "2026-04-25T09:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047973281819685281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FRINsSsIwN",
+          "end": 58,
+          "expanded_url": "https://x.com/themaniachan/status/2047973281819685281/photo/1",
+          "media_key": "3_2047973146561810432",
+          "start": 35,
+          "url": "https://t.co/FRINsSsIwN"
+        },
+        {
+          "display_url": "pic.x.com/FRINsSsIwN",
+          "end": 58,
+          "expanded_url": "https://x.com/themaniachan/status/2047973281819685281/photo/1",
+          "media_key": "3_2047973146574323712",
+          "start": 35,
+          "url": "https://t.co/FRINsSsIwN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047973281819685281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最后购入的玉米片就是我的全部了\n加上之前屯的两盒，我真的要戒哦了吗 https://t.co/FRINsSsIwN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2047973146561810432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvcueZbEAAi9El.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047973146574323712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvcuecaAAAsaHK.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047973146561810432",
+            "3_2047973146574323712"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2047973281819685281",
+        "created_at": "2026-04-25T09:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047973281819685281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRINsSsIwN",
+              "end": 58,
+              "expanded_url": "https://x.com/themaniachan/status/2047973281819685281/photo/1",
+              "media_key": "3_2047973146561810432",
+              "start": 35,
+              "url": "https://t.co/FRINsSsIwN"
+            },
+            {
+              "display_url": "pic.x.com/FRINsSsIwN",
+              "end": 58,
+              "expanded_url": "https://x.com/themaniachan/status/2047973281819685281/photo/1",
+              "media_key": "3_2047973146574323712",
+              "start": 35,
+              "url": "https://t.co/FRINsSsIwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047973281819685281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最后购入的玉米片就是我的全部了\n加上之前屯的两盒，我真的要戒哦了吗 https://t.co/FRINsSsIwN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 40,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2059646950455279640",
+    "created_at": "2026-05-27T17:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059694723120664962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        },
+        {
+          "end": 28,
+          "id": "1921107120768118785",
+          "start": 13,
+          "username": "SaotomeShimeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059694723120664962",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059646950455279640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU @SaotomeShimeri 萌萌萌萌..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1361,
+        "media_key": "3_2059646883862392832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVV7atbsAAEcis.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1422,
+        "media_key": "3_2059646883841314817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVV7aoaEAEizjP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059646883845591040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVV7apbUAAzsbD.jpg",
+        "width": 1423
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059646883862339584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVV7ata4AAUSY8.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2059646950455279640",
+        "created_at": "2026-05-27T17:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059694723120664962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            },
+            {
+              "end": 28,
+              "id": "1921107120768118785",
+              "start": 13,
+              "username": "SaotomeShimeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059694723120664962",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059646950455279640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU @SaotomeShimeri 萌萌萌萌..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059646883862392832",
+            "3_2059646883841314817",
+            "3_2059646883845591040",
+            "3_2059646883862339584"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2059646950455279640",
+        "created_at": "2026-05-27T14:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059646950455279640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "oc"
+            },
+            {
+              "end": 99,
+              "start": 93,
+              "tag": "双極性障害"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "躁鬱症"
+            },
+            {
+              "end": 117,
+              "start": 105,
+              "tag": "絵描きさんと繋がりたい"
+            },
+            {
+              "end": 133,
+              "start": 118,
+              "tag": "春の創作クラスタフォロー祭り"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "病み垢"
+            },
+            {
+              "end": 152,
+              "start": 140,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 158,
+              "start": 153,
+              "tag": "イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1921107120768118785",
+              "start": 18,
+              "username": "SaotomeShimeri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n84yxvUHnw",
+              "end": 182,
+              "expanded_url": "https://x.com/DrankghostU/status/2059646950455279640/photo/1",
+              "media_key": "3_2059646883862392832",
+              "start": 159,
+              "url": "https://t.co/n84yxvUHnw"
+            },
+            {
+              "display_url": "pic.x.com/n84yxvUHnw",
+              "end": 182,
+              "expanded_url": "https://x.com/DrankghostU/status/2059646950455279640/photo/1",
+              "media_key": "3_2059646883841314817",
+              "start": 159,
+              "url": "https://t.co/n84yxvUHnw"
+            },
+            {
+              "display_url": "pic.x.com/n84yxvUHnw",
+              "end": 182,
+              "expanded_url": "https://x.com/DrankghostU/status/2059646950455279640/photo/1",
+              "media_key": "3_2059646883845591040",
+              "start": 159,
+              "url": "https://t.co/n84yxvUHnw"
+            },
+            {
+              "display_url": "pic.x.com/n84yxvUHnw",
+              "end": 182,
+              "expanded_url": "https://x.com/DrankghostU/status/2059646950455279640/photo/1",
+              "media_key": "3_2059646883862339584",
+              "start": 159,
+              "url": "https://t.co/n84yxvUHnw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059646950455279640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评价是这孩子有中二病没救了。\n请关注@SaotomeShimeri ！\n以下是【早乙女死目莉】的解构——\n死目莉是黑夜的魔女，给看到这条的人施加了会变得幸福的魔法！请变得幸福🥹\n#oc #双極性障害 #躁鬱症\n#絵描きさんと繋がりたい\n#春の創作クラスタフォロー祭り\n#病み垢 \n#病み垢さんと繋がりたい\n#イラスト https://t.co/n84yxvUHnw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 141,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 336
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 145,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 79
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T07:36:59.000Z",
+        "description": "＝死目莉\n🚫ai/双相/adhd/💊/🎨/🔪🩸/刻板印象entp4w3/喜欢twt的大家且希望所有人能幸福\n当朋友圈发，大量日常/废话/负能黑泥\n稿件相关请私讯",
+        "id": "1921107120768118785",
+        "name": "早乙女死目莉",
+        "pinned_tweet_id": "2058092274270232717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055923464910069760/gZVe8A7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 145,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 425
+        },
+        "username": "SaotomeShimeri",
+        "verified": false
+      }
+    ]
+  }
+}

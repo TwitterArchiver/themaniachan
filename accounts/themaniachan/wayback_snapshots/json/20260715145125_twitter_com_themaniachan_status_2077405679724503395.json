@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2077313998249488602",
+    "created_at": "2026-07-15T14:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077405679724503395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1941338493495721984",
+          "start": 0,
+          "username": "Qiyin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077405679724503395",
+    "in_reply_to_user_id": "1941338493495721984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077374116668248163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiyin_8964 好耶...鸭嘴兽烟雾浓浓的青苹果应该也不会差！可惜容易漏液"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2077313998249488602",
+        "created_at": "2026-07-15T14:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077405679724503395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1941338493495721984",
+              "start": 0,
+              "username": "Qiyin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077405679724503395",
+        "in_reply_to_user_id": "1941338493495721984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077374116668248163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiyin_8964 好耶...鸭嘴兽烟雾浓浓的青苹果应该也不会差！可惜容易漏液"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941338493495721984",
+        "conversation_id": "2077313998249488602",
+        "created_at": "2026-07-15T12:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077374116668248163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077374116668248163",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077313998249488602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 鸭嘴兽青苹果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 240,
+          "like_count": 1249,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-05T03:29:10.000Z",
+        "description": "我是个成分复杂的人",
+        "id": "1941338493495721984",
+        "location": "Japan",
+        "name": "KKK_kion",
+        "pinned_tweet_id": "2048012045854085129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008481500904488960/KNgvZWFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 86,
+          "like_count": 1932,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "Qiyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

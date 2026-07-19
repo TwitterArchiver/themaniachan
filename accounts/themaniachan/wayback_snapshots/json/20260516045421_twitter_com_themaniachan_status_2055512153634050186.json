@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055078940830801921"
+      ],
+      "media_source_tweet_id": [
+        "2055078947554267217"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2055512153634050186",
+    "created_at": "2026-05-16T04:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055512153634050186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886183949401206784",
+          "start": 3,
+          "username": "linabun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2KMHkIqsdZ",
+          "end": 36,
+          "expanded_url": "https://x.com/linabun/status/2055078947554267217/photo/1",
+          "media_key": "3_2055078940830801921",
+          "start": 13,
+          "url": "https://t.co/2KMHkIqsdZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055512153634050186",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055078947554267217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @linabun: https://t.co/2KMHkIqsdZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2055078940830801921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUbaI2bIAEQR3F.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055078940830801921"
+          ],
+          "media_source_tweet_id": [
+            "2055078947554267217"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2055512153634050186",
+        "created_at": "2026-05-16T04:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055512153634050186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886183949401206784",
+              "start": 3,
+              "username": "linabun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KMHkIqsdZ",
+              "end": 36,
+              "expanded_url": "https://x.com/linabun/status/2055078947554267217/photo/1",
+              "media_key": "3_2055078940830801921",
+              "start": 13,
+              "url": "https://t.co/2KMHkIqsdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055512153634050186",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055078947554267217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @linabun: https://t.co/2KMHkIqsdZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055078940830801921"
+          ]
+        },
+        "author_id": "1886183949401206784",
+        "conversation_id": "2055078947554267217",
+        "created_at": "2026-05-15T00:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055078947554267217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KMHkIqsdZ",
+              "end": 23,
+              "expanded_url": "https://x.com/linabun/status/2055078947554267217/photo/1",
+              "media_key": "3_2055078940830801921",
+              "start": 0,
+              "url": "https://t.co/2KMHkIqsdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055078947554267217",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 632,
+          "impression_count": 52141,
+          "like_count": 7442,
+          "quote_count": 28,
+          "reply_count": 0,
+          "retweet_count": 1135
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/2KMHkIqsdZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 112,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 216
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T22:44:40.000Z",
+        "description": "지금 날 죽여 ❤︎ ૮ ․ ․ ྀིა",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/linaabun",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/linaabun",
+                "start": 0,
+                "url": "https://t.co/J2OMT8cB8o"
+              }
+            ]
+          }
+        },
+        "id": "1886183949401206784",
+        "location": "eighteen",
+        "name": "cat",
+        "pinned_tweet_id": "2037538842937528740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908534636705452032/r-rb71Rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6037,
+          "following_count": 142,
+          "like_count": 3018,
+          "listed_count": 6,
+          "media_count": 281,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/J2OMT8cB8o",
+        "username": "linabun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077136906480185344"
+      ],
+      "media_source_tweet_id": [
+        "2077226702850359353"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2077337242612433224",
+    "created_at": "2026-07-15T10:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077337242612433224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1436210951804506119",
+          "start": 3,
+          "username": "kuromi_project"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m2okKpLWUt",
+          "end": 64,
+          "expanded_url": "https://x.com/kuromi_project/status/2077226702850359353/photo/1",
+          "media_key": "3_2077136906480185344",
+          "start": 41,
+          "url": "https://t.co/m2okKpLWUt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077337242612433224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1947
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077226702850359353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuromi_project: アンタたち！\nちゃんと水分とるんだよ！！ https://t.co/m2okKpLWUt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2077136906480185344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNN5AuSa8AAxsj1.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077136906480185344"
+          ],
+          "media_source_tweet_id": [
+            "2077226702850359353"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2077337242612433224",
+        "created_at": "2026-07-15T10:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077337242612433224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1436210951804506119",
+              "start": 3,
+              "username": "kuromi_project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2okKpLWUt",
+              "end": 64,
+              "expanded_url": "https://x.com/kuromi_project/status/2077226702850359353/photo/1",
+              "media_key": "3_2077136906480185344",
+              "start": 41,
+              "url": "https://t.co/m2okKpLWUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077337242612433224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1947
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077226702850359353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuromi_project: アンタたち！\nちゃんと水分とるんだよ！！ https://t.co/m2okKpLWUt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077136906480185344"
+          ]
+        },
+        "author_id": "1436210951804506119",
+        "conversation_id": "2077226702850359353",
+        "created_at": "2026-07-15T03:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077226702850359353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2okKpLWUt",
+              "end": 44,
+              "expanded_url": "https://x.com/kuromi_project/status/2077226702850359353/photo/1",
+              "media_key": "3_2077136906480185344",
+              "start": 21,
+              "url": "https://t.co/m2okKpLWUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077226702850359353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 143646,
+          "like_count": 7997,
+          "quote_count": 76,
+          "reply_count": 49,
+          "retweet_count": 1947
+        },
+        "reply_settings": "everyone",
+        "text": "アンタたち！\nちゃんと水分とるんだよ！！ https://t.co/m2okKpLWUt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 239,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1026
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-10T06:12:49.000Z",
+        "description": "クロミの公式Xアカウント💜世界を #クロミ と #KUROMIES でいっぱいにする計画 #世界クロミ化計画 の情報をお届け！ KUROMIとしてアーティストとしても活動中♪ソーシャルメディアポリシー→https://t.co/roeWaSKcZa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 17,
+                "tag": "クロミ"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "tag": "KUROMIES"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "世界クロミ化計画"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sanrio.co.jp/socialmedia_po…",
+                "end": 124,
+                "expanded_url": "https://www.sanrio.co.jp/socialmedia_policy/",
+                "start": 101,
+                "url": "https://t.co/roeWaSKcZa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuromi.sanrio.co.jp",
+                "end": 23,
+                "expanded_url": "https://kuromi.sanrio.co.jp",
+                "start": 0,
+                "url": "https://t.co/C6DrZH0Vbr"
+              }
+            ]
+          }
+        },
+        "id": "1436210951804506119",
+        "name": "クロミ【サンリオ公式】",
+        "pinned_tweet_id": "2069555889561104716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006382479272493057/x5004ERt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363114,
+          "following_count": 30,
+          "like_count": 18,
+          "listed_count": 1226,
+          "media_count": 1602,
+          "tweet_count": 1857
+        },
+        "url": "https://t.co/C6DrZH0Vbr",
+        "username": "kuromi_project",
+        "verified": true
+      }
+    ]
+  }
+}

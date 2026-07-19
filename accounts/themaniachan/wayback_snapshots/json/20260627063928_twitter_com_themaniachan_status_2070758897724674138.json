@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070452302633385984"
+      ],
+      "media_source_tweet_id": [
+        "2070453650674397336"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070758897724674138",
+    "created_at": "2026-06-27T06:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070758897724674138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1472441245108957185",
+          "start": 3,
+          "username": "early_summer_15"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkdF4yHn22",
+          "end": 71,
+          "expanded_url": "https://x.com/early_summer_15/status/2070453650674397336/photo/1",
+          "media_key": "3_2070452302633385984",
+          "start": 48,
+          "url": "https://t.co/wkdF4yHn22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070758897724674138",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070453650674397336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @early_summer_15: 길가메시가 탄막겜 보스였다면?\n(※동방 패러디) https://t.co/wkdF4yHn22"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2782,
+        "media_key": "3_2070452302633385984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu5ZkbaQAAXvkV.jpg",
+        "width": 3604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070452302633385984"
+          ],
+          "media_source_tweet_id": [
+            "2070453650674397336"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070758897724674138",
+        "created_at": "2026-06-27T06:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070758897724674138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1472441245108957185",
+              "start": 3,
+              "username": "early_summer_15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkdF4yHn22",
+              "end": 71,
+              "expanded_url": "https://x.com/early_summer_15/status/2070453650674397336/photo/1",
+              "media_key": "3_2070452302633385984",
+              "start": 48,
+              "url": "https://t.co/wkdF4yHn22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070758897724674138",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070453650674397336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @early_summer_15: 길가메시가 탄막겜 보스였다면?\n(※동방 패러디) https://t.co/wkdF4yHn22"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070452302633385984"
+          ]
+        },
+        "author_id": "1472441245108957185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070453650674397336",
+        "created_at": "2026-06-26T10:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070453650674397336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkdF4yHn22",
+              "end": 50,
+              "expanded_url": "https://x.com/early_summer_15/status/2070453650674397336/photo/1",
+              "media_key": "3_2070452302633385984",
+              "start": 27,
+              "url": "https://t.co/wkdF4yHn22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070453650674397336",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 16340,
+          "like_count": 826,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "길가메시가 탄막겜 보스였다면?\n(※동방 패러디) https://t.co/wkdF4yHn22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 203,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T05:38:53.000Z",
+        "description": "혼또니 이이 츠키다-",
+        "id": "1472441245108957185",
+        "name": "KitchenM",
+        "pinned_tweet_id": "2060222328320237869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053016707950931968/I7Q9BVZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 25,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "early_summer_15",
+        "verified": false
+      }
+    ]
+  }
+}

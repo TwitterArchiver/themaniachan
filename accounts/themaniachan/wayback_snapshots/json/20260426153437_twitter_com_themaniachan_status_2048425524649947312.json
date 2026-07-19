@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2048388060451336385",
+    "created_at": "2026-04-26T15:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048425524649947312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891311621991219200",
+          "start": 0,
+          "username": "Numiouo1"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Chinese/Eng/FR Asexual/Neutral Gender Writer/Composer Psy/OD/selfharm",
+          "display_url": "bsky.app/profile/mania-…",
+          "end": 33,
+          "expanded_url": "https://bsky.app/profile/mania-chan.bsky.social",
+          "start": 10,
+          "status": 200,
+          "title": "肆意鸣叫之人 (@mania-chan.bsky.social)",
+          "unwound_url": "https://bsky.app/profile/mania-chan.bsky.social",
+          "url": "https://t.co/8uailkRaRm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048425524649947312",
+    "in_reply_to_user_id": "1891311621991219200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048388060451336385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo1 https://t.co/8uailkRaRm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2048388060451336385",
+        "created_at": "2026-04-26T15:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048425524649947312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891311621991219200",
+              "start": 0,
+              "username": "Numiouo1"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Chinese/Eng/FR Asexual/Neutral Gender Writer/Composer Psy/OD/selfharm",
+              "display_url": "bsky.app/profile/mania-…",
+              "end": 33,
+              "expanded_url": "https://bsky.app/profile/mania-chan.bsky.social",
+              "start": 10,
+              "status": 200,
+              "title": "肆意鸣叫之人 (@mania-chan.bsky.social)",
+              "unwound_url": "https://bsky.app/profile/mania-chan.bsky.social",
+              "url": "https://t.co/8uailkRaRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048425524649947312",
+        "in_reply_to_user_id": "1891311621991219200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048388060451336385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo1 https://t.co/8uailkRaRm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891311621991219200",
+        "conversation_id": "2048388060451336385",
+        "created_at": "2026-04-26T13:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048388060451336385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048388060451336385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2637,
+          "like_count": 85,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刷到此条推文的精神病们，我是糯米！\n\n请问大家有搬去bluesky的吗，或者搬去其他什么地方了呢！(๑'ᵕ'๑)⸝*\n有的话请甩账号糯米和你在那边互关！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 49,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 52
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "@Numiouo大号\n大号的互关都会回 关注限制只能一批批回\n纯黄/红推会双取勿fo\n举报我不得好死不得好活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Numiouo"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米（备用号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 287,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 126
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

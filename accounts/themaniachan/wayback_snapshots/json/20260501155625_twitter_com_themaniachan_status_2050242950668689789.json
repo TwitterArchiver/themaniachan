@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2050242950668689789",
+    "created_at": "2026-05-01T15:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050242950668689789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sacrificescarc…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/sacrificescarce/status/2049581840449569160",
+          "start": 11,
+          "url": "https://t.co/tNWcJ7lDSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050242950668689789",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049581840449569160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "i need dis https://t.co/tNWcJ7lDSh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1601,
+        "media_key": "3_2049581835810922496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHGT0g2aYAASAHt.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2050242950668689789",
+        "created_at": "2026-05-01T15:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050242950668689789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sacrificescarc…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/sacrificescarce/status/2049581840449569160",
+              "start": 11,
+              "url": "https://t.co/tNWcJ7lDSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050242950668689789",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049581840449569160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i need dis https://t.co/tNWcJ7lDSh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049581835810922496"
+          ]
+        },
+        "author_id": "2025530299657175040",
+        "conversation_id": "2049581840449569160",
+        "created_at": "2026-04-29T20:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T21:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049581840449569160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GLonwHnfND",
+              "end": 298,
+              "expanded_url": "https://x.com/sacrificescarce/status/2049581840449569160/photo/1",
+              "media_key": "3_2049581835810922496",
+              "start": 275,
+              "url": "https://t.co/GLonwHnfND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049581840449569160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 749,
+          "impression_count": 69999,
+          "like_count": 4651,
+          "quote_count": 43,
+          "reply_count": 86,
+          "retweet_count": 473
+        },
+        "reply_settings": "everyone",
+        "text": "Making this a separate post but this whole chart just feels incredibly invalidating tbh. I’m sure op didn’t have bad intentions but there’s so many reasons why we shouldn’t have these labels for depths ESPCIALLY such a wide range, gen sad to see some of the replies and qrts https://t.co/GLonwHnfND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 71,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 98
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T11:17:13.000Z",
+        "description": "divorced father of 3 (she took the kids)  ┊  m/w grubbie",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sacrificescarce.straw.page",
+                "end": 23,
+                "expanded_url": "https://sacrificescarce.straw.page",
+                "start": 0,
+                "url": "https://t.co/y4sRRykRMC"
+              }
+            ]
+          }
+        },
+        "id": "2025530299657175040",
+        "location": "17 ┊ any pronouns.",
+        "name": "⃟",
+        "pinned_tweet_id": "2037479449654862001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045157165711896577/1XxSQL8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 579,
+          "like_count": 4378,
+          "listed_count": 11,
+          "media_count": 211,
+          "tweet_count": 5112
+        },
+        "url": "https://t.co/y4sRRykRMC",
+        "username": "sacrificescarce",
+        "verified": false
+      }
+    ]
+  }
+}

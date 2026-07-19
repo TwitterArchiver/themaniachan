@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2062550242902589754",
+    "created_at": "2026-06-05T01:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062704377585086628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062704377585086628",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062550242902589754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 抱抱你...一直以来都辛苦了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062550226838376448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-mgOIaUAAF-jx.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062550226834190337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-mgOHacAEvKlZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062550226880339968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-mgOSaoAALQ7I.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062550226846846976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-mgOKbkAAyG0h.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2062550242902589754",
+        "created_at": "2026-06-05T01:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062704377585086628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062704377585086628",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062550242902589754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 抱抱你...一直以来都辛苦了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062550226838376448",
+            "3_2062550226834190337",
+            "3_2062550226880339968",
+            "3_2062550226846846976"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062550242902589754",
+        "created_at": "2026-06-04T15:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062550242902589754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsFxZICfRQ",
+              "end": 60,
+              "expanded_url": "https://x.com/DrankghostU/status/2062550242902589754/photo/1",
+              "media_key": "3_2062550226838376448",
+              "start": 37,
+              "url": "https://t.co/NsFxZICfRQ"
+            },
+            {
+              "display_url": "pic.x.com/NsFxZICfRQ",
+              "end": 60,
+              "expanded_url": "https://x.com/DrankghostU/status/2062550242902589754/photo/1",
+              "media_key": "3_2062550226834190337",
+              "start": 37,
+              "url": "https://t.co/NsFxZICfRQ"
+            },
+            {
+              "display_url": "pic.x.com/NsFxZICfRQ",
+              "end": 60,
+              "expanded_url": "https://x.com/DrankghostU/status/2062550242902589754/photo/1",
+              "media_key": "3_2062550226880339968",
+              "start": 37,
+              "url": "https://t.co/NsFxZICfRQ"
+            },
+            {
+              "display_url": "pic.x.com/NsFxZICfRQ",
+              "end": 60,
+              "expanded_url": "https://x.com/DrankghostU/status/2062550242902589754/photo/1",
+              "media_key": "3_2062550226846846976",
+              "start": 37,
+              "url": "https://t.co/NsFxZICfRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062550242902589754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底要干啥了呀要我怎么办呀又回到我本质是个惨逼的问题上了对吧对吗这对吗？ https://t.co/NsFxZICfRQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 155,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 468
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 182,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 399
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

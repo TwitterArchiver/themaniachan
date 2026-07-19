@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064789873576550400"
+      ],
+      "media_source_tweet_id": [
+        "2064789915402113111"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065321084615119325",
+    "created_at": "2026-06-12T06:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065321084615119325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KOQrm9h2DP",
+          "end": 52,
+          "expanded_url": "https://x.com/Poca2381/status/2064789915402113111/photo/1",
+          "media_key": "3_2064789873576550400",
+          "start": 29,
+          "url": "https://t.co/KOQrm9h2DP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065321084615119325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064789915402113111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 感谢你像道光出现在我的世界里 https://t.co/KOQrm9h2DP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_2064789873576550400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKebc0ZaoAAp1IT.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064789873576550400"
+          ],
+          "media_source_tweet_id": [
+            "2064789915402113111"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065321084615119325",
+        "created_at": "2026-06-12T06:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065321084615119325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOQrm9h2DP",
+              "end": 52,
+              "expanded_url": "https://x.com/Poca2381/status/2064789915402113111/photo/1",
+              "media_key": "3_2064789873576550400",
+              "start": 29,
+              "url": "https://t.co/KOQrm9h2DP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065321084615119325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064789915402113111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 感谢你像道光出现在我的世界里 https://t.co/KOQrm9h2DP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064789873576550400"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064789915402113111",
+        "created_at": "2026-06-10T19:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T20:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064789915402113111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOQrm9h2DP",
+              "end": 38,
+              "expanded_url": "https://x.com/Poca2381/status/2064789915402113111/photo/1",
+              "media_key": "3_2064789873576550400",
+              "start": 15,
+              "url": "https://t.co/KOQrm9h2DP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064789915402113111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 29691,
+          "like_count": 884,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "感谢你像道光出现在我的世界里 https://t.co/KOQrm9h2DP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 170,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 562
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21751,
+          "following_count": 9239,
+          "like_count": 152099,
+          "listed_count": 52,
+          "media_count": 4731,
+          "tweet_count": 51222
+        },
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

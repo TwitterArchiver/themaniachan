@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056041580591730688",
+        "3_2056041579526434816"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056041898041811080",
+    "created_at": "2026-05-17T15:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056041898041811080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UfXvjB6zLR",
+          "end": 101,
+          "expanded_url": "https://x.com/themaniachan/status/2056041898041811080/photo/1",
+          "media_key": "3_2056041580591730688",
+          "start": 78,
+          "url": "https://t.co/UfXvjB6zLR"
+        },
+        {
+          "display_url": "pic.x.com/UfXvjB6zLR",
+          "end": 101,
+          "expanded_url": "https://x.com/themaniachan/status/2056041898041811080/photo/1",
+          "media_key": "3_2056041579526434816",
+          "start": 78,
+          "url": "https://t.co/UfXvjB6zLR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056041898041811080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家注意下...P1是我的互关老师，P2是冒充这位老师的贱人\n这个贱人冒用身份骗了转抽的奖励，大家做转抽的时候一定要注意🆔...不要被这种杂种骗了呀... https://t.co/UfXvjB6zLR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056041580591730688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiG7JaaUAAzb0m.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056041579526434816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiG7FcbMAAt5ll.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056041580591730688",
+            "3_2056041579526434816"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056041898041811080",
+        "created_at": "2026-05-17T15:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056041898041811080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UfXvjB6zLR",
+              "end": 101,
+              "expanded_url": "https://x.com/themaniachan/status/2056041898041811080/photo/1",
+              "media_key": "3_2056041580591730688",
+              "start": 78,
+              "url": "https://t.co/UfXvjB6zLR"
+            },
+            {
+              "display_url": "pic.x.com/UfXvjB6zLR",
+              "end": 101,
+              "expanded_url": "https://x.com/themaniachan/status/2056041898041811080/photo/1",
+              "media_key": "3_2056041579526434816",
+              "start": 78,
+              "url": "https://t.co/UfXvjB6zLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056041898041811080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家注意下...P1是我的互关老师，P2是冒充这位老师的贱人\n这个贱人冒用身份骗了转抽的奖励，大家做转抽的时候一定要注意🆔...不要被这种杂种骗了呀... https://t.co/UfXvjB6zLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 129,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 232
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

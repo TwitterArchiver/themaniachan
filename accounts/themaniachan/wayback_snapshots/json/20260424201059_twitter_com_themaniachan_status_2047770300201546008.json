@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047770023079604224"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2047770300201546008",
+    "created_at": "2026-04-24T20:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T21:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047770300201546008"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "互fo"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "互转"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sekz8p3u9O",
+          "end": 102,
+          "expanded_url": "https://x.com/themaniachan/status/2047770300201546008/photo/1",
+          "media_key": "3_2047770023079604224",
+          "start": 79,
+          "url": "https://t.co/sekz8p3u9O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047770300201546008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家好我是狂酱二世...上一世我发账号遭到歹人陷害被冻了...这一世我将更严谨地活着...\n再等几天狂酱就开新的互fo抽奖帖（等账号稳定）\n#互fo #互转 https://t.co/sekz8p3u9O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047770023079604224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsj_IdacAAT7hh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047770023079604224"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2047770300201546008",
+        "created_at": "2026-04-24T20:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047770300201546008"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "互fo"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "互转"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sekz8p3u9O",
+              "end": 102,
+              "expanded_url": "https://x.com/themaniachan/status/2047770300201546008/photo/1",
+              "media_key": "3_2047770023079604224",
+              "start": 79,
+              "url": "https://t.co/sekz8p3u9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047770300201546008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是狂酱二世...上一世我发账号遭到歹人陷害被冻了...这一世我将更严谨地活着...\n再等几天狂酱就开新的互fo抽奖帖（等账号稳定）\n#互fo #互转 https://t.co/sekz8p3u9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 30,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

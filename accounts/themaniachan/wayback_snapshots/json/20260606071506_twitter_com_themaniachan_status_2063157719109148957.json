@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2062925829953470605",
+    "created_at": "2026-06-06T07:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063157719109148957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "93881424",
+          "start": 0,
+          "username": "ManJamesChow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063157719109148957",
+    "in_reply_to_user_id": "93881424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062957004721901583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ManJamesChow 啊啊啊啊啊啊啊好痛苦...港澳寄内地真的好难😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2062925829953470605",
+        "created_at": "2026-06-06T07:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063157719109148957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "93881424",
+              "start": 0,
+              "username": "ManJamesChow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063157719109148957",
+        "in_reply_to_user_id": "93881424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062957004721901583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ManJamesChow 啊啊啊啊啊啊啊好痛苦...港澳寄内地真的好难😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "93881424",
+        "conversation_id": "2062925829953470605",
+        "created_at": "2026-06-05T17:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062957004721901583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062957004721901583",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062925829953470605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 有但不知怎樣交收"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 159,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 483
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-01T15:33:56.000Z",
+        "description": "",
+        "id": "93881424",
+        "location": "Hong Kong",
+        "name": "肉隨長白山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891752015891730432/VVJn6YKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 411,
+          "like_count": 959,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1246
+        },
+        "username": "ManJamesChow",
+        "verified": false
+      }
+    ]
+  }
+}

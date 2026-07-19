@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049486054953205760"
+      ],
+      "media_source_tweet_id": [
+        "2049486464531206176"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073995321143853316",
+    "created_at": "2026-07-06T04:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073995321143853316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004736029463646208",
+          "start": 3,
+          "username": "aribudincita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgfQn7r6l6",
+          "end": 74,
+          "expanded_url": "https://x.com/AngelSuicide999/status/2049486464531206176/video/1",
+          "media_key": "13_2049486054953205760",
+          "start": 51,
+          "url": "https://t.co/hgfQn7r6l6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073995321143853316",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5639
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073783201428898090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aribudincita: mi cabeza cuando intento dormir  https://t.co/hgfQn7r6l6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16933,
+        "height": 1080,
+        "media_key": "13_2049486054953205760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049486054953205760/img/Aw84eqySu3XhaXZ0.jpg",
+        "public_metrics": {
+          "view_count": 708752
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049486054953205760/vid/avc1/360x270/-5ZNRJha41nFxRZv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049486054953205760/vid/avc1/480x360/u4VXUvIGBYaSXzhc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049486054953205760/vid/avc1/960x720/AzR9AL2J5HTElrZM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049486054953205760/pl/tQzNR5c-WPT8Hwd4.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049486054953205760"
+          ],
+          "media_source_tweet_id": [
+            "2049486464531206176"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073995321143853316",
+        "created_at": "2026-07-06T04:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073995321143853316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004736029463646208",
+              "start": 3,
+              "username": "aribudincita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgfQn7r6l6",
+              "end": 74,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2049486464531206176/video/1",
+              "media_key": "13_2049486054953205760",
+              "start": 51,
+              "url": "https://t.co/hgfQn7r6l6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073995321143853316",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5639
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073783201428898090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aribudincita: mi cabeza cuando intento dormir  https://t.co/hgfQn7r6l6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049486054953205760"
+          ],
+          "media_source_tweet_id": [
+            "2049486464531206176"
+          ]
+        },
+        "author_id": "2004736029463646208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073783201428898090",
+        "created_at": "2026-07-05T14:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073783201428898090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgfQn7r6l6",
+              "end": 56,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2049486464531206176/video/1",
+              "media_key": "13_2049486054953205760",
+              "start": 33,
+              "url": "https://t.co/hgfQn7r6l6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073783201428898090",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2470,
+          "impression_count": 262687,
+          "like_count": 26655,
+          "quote_count": 148,
+          "reply_count": 32,
+          "retweet_count": 5639
+        },
+        "reply_settings": "everyone",
+        "text": "mi cabeza cuando intento dormir  https://t.co/hgfQn7r6l6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 232,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 950
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T02:08:18.000Z",
+        "description": "viviendo mucho",
+        "id": "2004736029463646208",
+        "name": "ִֶָ",
+        "pinned_tweet_id": "2048211139155169692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071450529671122944/e3hufBBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 1616,
+          "like_count": 5662,
+          "listed_count": 23,
+          "media_count": 999,
+          "tweet_count": 15670
+        },
+        "url": "",
+        "username": "aribudincita",
+        "verified": false
+      }
+    ]
+  }
+}

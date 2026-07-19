@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065392853258493952"
+      ],
+      "media_source_tweet_id": [
+        "2065392858673353184"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065643313617867087",
+    "created_at": "2026-06-13T03:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065643313617867087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "310116158",
+          "start": 3,
+          "username": "1230ivan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZcGQEyoeGX",
+          "end": 42,
+          "expanded_url": "https://x.com/1230ivan/status/2065392858673353184/photo/1",
+          "media_key": "3_2065392853258493952",
+          "start": 19,
+          "url": "https://t.co/ZcGQEyoeGX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065643313617867087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4041
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065392858673353184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @1230ivan: 握手会。 https://t.co/ZcGQEyoeGX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065392853258493952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm_22waYAAw6hZ.jpg",
+        "width": 737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065392853258493952"
+          ],
+          "media_source_tweet_id": [
+            "2065392858673353184"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065643313617867087",
+        "created_at": "2026-06-13T03:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065643313617867087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "310116158",
+              "start": 3,
+              "username": "1230ivan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcGQEyoeGX",
+              "end": 42,
+              "expanded_url": "https://x.com/1230ivan/status/2065392858673353184/photo/1",
+              "media_key": "3_2065392853258493952",
+              "start": 19,
+              "url": "https://t.co/ZcGQEyoeGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065643313617867087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4041
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065392858673353184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @1230ivan: 握手会。 https://t.co/ZcGQEyoeGX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065392853258493952"
+          ]
+        },
+        "author_id": "310116158",
+        "conversation_id": "2065392858673353184",
+        "created_at": "2026-06-12T11:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065392858673353184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcGQEyoeGX",
+              "end": 28,
+              "expanded_url": "https://x.com/1230ivan/status/2065392858673353184/photo/1",
+              "media_key": "3_2065392853258493952",
+              "start": 5,
+              "url": "https://t.co/ZcGQEyoeGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065392858673353184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1328,
+          "impression_count": 254620,
+          "like_count": 29231,
+          "quote_count": 53,
+          "reply_count": 1,
+          "retweet_count": 4041
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "握手会。 https://t.co/ZcGQEyoeGX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 175,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 594
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-03T06:45:58.000Z",
+        "description": "Fate中心の雑多垢。成人済。🔕。好きに殴り描きしてます。禁止事項→🚫無断使用・無断転載・無断加工🚫",
+        "id": "310116158",
+        "location": "そこらへん",
+        "name": "シンラ@@@",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061244827749195776/zTUIZMd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8482,
+          "following_count": 717,
+          "like_count": 86946,
+          "listed_count": 77,
+          "media_count": 15766,
+          "tweet_count": 261450
+        },
+        "username": "1230ivan",
+        "verified": false
+      }
+    ]
+  }
+}

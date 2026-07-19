@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2063230229041307842",
+    "created_at": "2026-06-07T18:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063683706163003706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1613922629466873856",
+          "start": 0,
+          "username": "morisama0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063683706163003706",
+    "in_reply_to_user_id": "1613922629466873856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063661500892627145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@morisama0223 今年三月份管制之前囤的🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2063230229041307842",
+        "created_at": "2026-06-07T18:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063683706163003706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1613922629466873856",
+              "start": 0,
+              "username": "morisama0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063683706163003706",
+        "in_reply_to_user_id": "1613922629466873856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063661500892627145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@morisama0223 今年三月份管制之前囤的🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613922629466873856",
+        "conversation_id": "2063230229041307842",
+        "created_at": "2026-06-07T16:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063661500892627145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063661500892627145",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063304292451360850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 这东西早就买不到了啊 在哪买的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 167,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 521
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T15:35:50.000Z",
+        "description": "哪有什么来日方长，最好是现在，最好是当下。",
+        "id": "1613922629466873856",
+        "location": "Taichung City, Taiwan",
+        "name": "厄斐琉斯OttoXS1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031384815975673867/ur1rzSe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 134,
+          "like_count": 2241,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 2030
+        },
+        "username": "morisama0223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071973542627852288"
+      ],
+      "media_source_tweet_id": [
+        "2071973548831461796"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2072199089773838462",
+    "created_at": "2026-07-01T06:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072199089773838462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "971622635493736449",
+          "start": 3,
+          "username": "mrs_zhg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SxYp3tKCgP",
+          "end": 39,
+          "expanded_url": "https://x.com/mrs_zhg/status/2071973548831461796/photo/1",
+          "media_key": "3_2071973542627852288",
+          "start": 16,
+          "url": "https://t.co/SxYp3tKCgP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072199089773838462",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071973548831461796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrs_zhg: 笑瘋 https://t.co/SxYp3tKCgP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_2071973542627852288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEg9ZBXQAAWELB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071973542627852288"
+          ],
+          "media_source_tweet_id": [
+            "2071973548831461796"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2072199089773838462",
+        "created_at": "2026-07-01T06:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072199089773838462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "971622635493736449",
+              "start": 3,
+              "username": "mrs_zhg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SxYp3tKCgP",
+              "end": 39,
+              "expanded_url": "https://x.com/mrs_zhg/status/2071973548831461796/photo/1",
+              "media_key": "3_2071973542627852288",
+              "start": 16,
+              "url": "https://t.co/SxYp3tKCgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072199089773838462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071973548831461796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mrs_zhg: 笑瘋 https://t.co/SxYp3tKCgP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071973542627852288"
+          ]
+        },
+        "author_id": "971622635493736449",
+        "conversation_id": "2071973548831461796",
+        "created_at": "2026-06-30T15:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071973548831461796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SxYp3tKCgP",
+              "end": 26,
+              "expanded_url": "https://x.com/mrs_zhg/status/2071973548831461796/photo/1",
+              "media_key": "3_2071973542627852288",
+              "start": 3,
+              "url": "https://t.co/SxYp3tKCgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071973548831461796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 63933,
+          "like_count": 1231,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "笑瘋 https://t.co/SxYp3tKCgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 222,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 880
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-08T05:44:22.000Z",
+        "description": "張起靈的易怒老婆🇹🇼，盜墓盜了20年，勉強算是作者，現職研究生，25↑，FF外不回應。【HQ侑治｜咒術五夏｜巨人｜LCP、LCK】，追蹤建議關轉推。 #LOL雲玩家\n🏆［原創小說］https://t.co/usRKGbTKUr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 75,
+                "tag": "LOL雲玩家"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cxc.today/zh/store/mrs_z…",
+                "end": 113,
+                "expanded_url": "https://cxc.today/zh/store/mrs_zhg/work/16828",
+                "start": 90,
+                "url": "https://t.co/usRKGbTKUr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mrs-zhg.bsky.social",
+                "end": 23,
+                "expanded_url": "http://mrs-zhg.bsky.social",
+                "start": 0,
+                "url": "https://t.co/nnShw2HeFC"
+              }
+            ]
+          }
+        },
+        "id": "971622635493736449",
+        "location": "Unabhängiges Taiwan",
+        "name": "智能動漫迷小張⍨",
+        "pinned_tweet_id": "1584938893916639232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746360426231926784/nSYtX0Gu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3491,
+          "following_count": 334,
+          "like_count": 72795,
+          "listed_count": 17,
+          "media_count": 6345,
+          "tweet_count": 75076
+        },
+        "url": "https://t.co/nnShw2HeFC",
+        "username": "mrs_zhg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065462566567170080",
+    "created_at": "2026-06-12T15:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065462566567170080"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065462566567170080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实狂酱在互联网上是想做赛博酒吧女的，这样就可以毫无心理负担地听所有人说所有事，提供帮助的同时表达自己\n但是狂酱的营业实在是太随机了，当酒吧妹一定会被开除的程度\n所以狂酱还是当赛博小偶像好了，无人在意的小偶像可以随时想营业就营业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065462566567170080",
+        "created_at": "2026-06-12T15:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065462566567170080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065462566567170080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实狂酱在互联网上是想做赛博酒吧女的，这样就可以毫无心理负担地听所有人说所有事，提供帮助的同时表达自己\n但是狂酱的营业实在是太随机了，当酒吧妹一定会被开除的程度\n所以狂酱还是当赛博小偶像好了，无人在意的小偶像可以随时想营业就营业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 175,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 573
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2051676068508266748",
+    "created_at": "2026-05-05T14:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051676068508266748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926506432276348928",
+          "start": 3,
+          "username": "linwei130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051676068508266748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051401628578668705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linwei130: 我去医院\n我：医生我失眠，神经痛，咳嗽\n医生：20:11剧烈变形\n我：（憋笑）\n医生：滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2051676068508266748",
+        "created_at": "2026-05-05T14:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051676068508266748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926506432276348928",
+              "start": 3,
+              "username": "linwei130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051676068508266748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051401628578668705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linwei130: 我去医院\n我：医生我失眠，神经痛，咳嗽\n医生：20:11剧烈变形\n我：（憋笑）\n医生：滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926506432276348928",
+        "conversation_id": "2051401628578668705",
+        "created_at": "2026-05-04T20:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T21:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051401628578668705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051401628578668705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 147018,
+          "like_count": 1062,
+          "quote_count": 4,
+          "reply_count": 61,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "我去医院\n我：医生我失眠，神经痛，咳嗽\n医生：20:11剧烈变形\n我：（憋笑）\n医生：滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 119
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:12:03.000Z",
+        "description": "MTF🏳️‍⚧️｜小证含糖🍥｜已出柜 ｜ISFP-T｜碎碎念｜抑郁中｜同类互fo喵｜目前和喜欢的姐姐@Angel_SaveUsAll共号中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "Angel_SaveUsAll"
+              }
+            ]
+          }
+        },
+        "id": "1926506432276348928",
+        "location": "距离你520m",
+        "name": "堇&小救",
+        "pinned_tweet_id": "2046878217181524171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046139436388524032/4kuTsCGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 614,
+          "like_count": 5105,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 667
+        },
+        "username": "linwei130",
+        "verified": false
+      }
+    ]
+  }
+}

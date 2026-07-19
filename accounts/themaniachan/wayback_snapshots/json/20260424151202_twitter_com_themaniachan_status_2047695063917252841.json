@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047694757191991298"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2047695063917252841",
+    "created_at": "2026-04-24T15:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047695063917252841"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 41,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 64,
+          "start": 58,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 79,
+          "start": 67,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "地雷系"
+        },
+        {
+          "end": 97,
+          "start": 85,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 106,
+          "start": 98,
+          "tag": "menhera"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxhF7p7A5Q",
+          "end": 130,
+          "expanded_url": "https://x.com/themaniachan/status/2047695063917252841/photo/1",
+          "media_key": "3_2047694757191991298",
+          "start": 107,
+          "url": "https://t.co/kxhF7p7A5Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047695063917252841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我转生了，第二世我成为了不o不割的好女孩，请认识狂酱这张脸的来关注这个账号呀！\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい\n#menhera https://t.co/kxhF7p7A5Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2306,
+        "media_key": "3_2047694757191991298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrfiFLbwAITofJ.jpg",
+        "width": 1730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047694757191991298"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2047695063917252841",
+        "created_at": "2026-04-24T15:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047695063917252841"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 41,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 79,
+              "start": 67,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "地雷系"
+            },
+            {
+              "end": 97,
+              "start": 85,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 106,
+              "start": 98,
+              "tag": "menhera"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxhF7p7A5Q",
+              "end": 130,
+              "expanded_url": "https://x.com/themaniachan/status/2047695063917252841/photo/1",
+              "media_key": "3_2047694757191991298",
+              "start": 107,
+              "url": "https://t.co/kxhF7p7A5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047695063917252841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我转生了，第二世我成为了不o不割的好女孩，请认识狂酱这张脸的来关注这个账号呀！\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい\n#menhera https://t.co/kxhF7p7A5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "Mania Amamiya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

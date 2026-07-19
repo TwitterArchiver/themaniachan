@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068573390475251712"
+      ],
+      "media_source_tweet_id": [
+        "2068573396460568768"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2068711605085593711",
+    "created_at": "2026-06-21T15:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068711605085593711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981723715273732097",
+          "start": 3,
+          "username": "to_my_king"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dyBLYzKmCt",
+          "end": 62,
+          "expanded_url": "https://x.com/to_my_king/status/2068573396460568768/photo/1",
+          "media_key": "3_2068573390475251712",
+          "start": 39,
+          "url": "https://t.co/dyBLYzKmCt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068711605085593711",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068573396460568768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @to_my_king: This cover is so funny https://t.co/dyBLYzKmCt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1109,
+        "media_key": "3_2068573390475251712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUMifMaUAAX8D8.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068573390475251712"
+          ],
+          "media_source_tweet_id": [
+            "2068573396460568768"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2068711605085593711",
+        "created_at": "2026-06-21T15:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068711605085593711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981723715273732097",
+              "start": 3,
+              "username": "to_my_king"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyBLYzKmCt",
+              "end": 62,
+              "expanded_url": "https://x.com/to_my_king/status/2068573396460568768/photo/1",
+              "media_key": "3_2068573390475251712",
+              "start": 39,
+              "url": "https://t.co/dyBLYzKmCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068711605085593711",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068573396460568768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @to_my_king: This cover is so funny https://t.co/dyBLYzKmCt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068573390475251712"
+          ]
+        },
+        "author_id": "1981723715273732097",
+        "conversation_id": "2068573396460568768",
+        "created_at": "2026-06-21T05:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068573396460568768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyBLYzKmCt",
+              "end": 46,
+              "expanded_url": "https://x.com/to_my_king/status/2068573396460568768/photo/1",
+              "media_key": "3_2068573390475251712",
+              "start": 23,
+              "url": "https://t.co/dyBLYzKmCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068573396460568768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 18819,
+          "like_count": 1557,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "This cover is so funny https://t.co/dyBLYzKmCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 188,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 718
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T14:05:34.000Z",
+        "description": "金剣, i yap a lot about gilgamesh and saber. I do art sometimes ➡️ cms tracker: https://t.co/nhX9wldJKB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/ruis-tracker",
+                "end": 101,
+                "expanded_url": "https://bit.ly/ruis-tracker",
+                "start": 78,
+                "url": "https://t.co/nhX9wldJKB"
+              }
+            ]
+          }
+        },
+        "id": "1981723715273732097",
+        "location": "she/her",
+        "name": "Rui",
+        "pinned_tweet_id": "2045771353769599363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061733988415537152/-SWiBmlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 272,
+          "like_count": 3920,
+          "listed_count": 8,
+          "media_count": 1419,
+          "tweet_count": 7929
+        },
+        "url": "",
+        "username": "to_my_king",
+        "verified": false
+      }
+    ]
+  }
+}

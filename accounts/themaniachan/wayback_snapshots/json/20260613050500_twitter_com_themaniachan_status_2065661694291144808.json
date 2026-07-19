@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065326325381189632"
+      ],
+      "media_source_tweet_id": [
+        "2065326329969652116"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065661694291144808",
+    "created_at": "2026-06-13T05:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065661694291144808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916025503708024834",
+          "start": 3,
+          "username": "gging_kkangg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gUF4cbyCsc",
+          "end": 56,
+          "expanded_url": "https://x.com/gging_kkangg/status/2065326329969652116/photo/1",
+          "media_key": "3_2065326325381189632",
+          "start": 33,
+          "url": "https://t.co/gUF4cbyCsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065661694291144808",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065326329969652116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gging_kkangg: 우리 장르 사람들 다 이럼 https://t.co/gUF4cbyCsc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2065326325381189632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmDWbGb0AAILK6.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065326325381189632"
+          ],
+          "media_source_tweet_id": [
+            "2065326329969652116"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065661694291144808",
+        "created_at": "2026-06-13T05:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065661694291144808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916025503708024834",
+              "start": 3,
+              "username": "gging_kkangg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUF4cbyCsc",
+              "end": 56,
+              "expanded_url": "https://x.com/gging_kkangg/status/2065326329969652116/photo/1",
+              "media_key": "3_2065326325381189632",
+              "start": 33,
+              "url": "https://t.co/gUF4cbyCsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065661694291144808",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065326329969652116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gging_kkangg: 우리 장르 사람들 다 이럼 https://t.co/gUF4cbyCsc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065326325381189632"
+          ]
+        },
+        "author_id": "1916025503708024834",
+        "conversation_id": "2065326329969652116",
+        "created_at": "2026-06-12T06:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065326329969652116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUF4cbyCsc",
+              "end": 38,
+              "expanded_url": "https://x.com/gging_kkangg/status/2065326329969652116/photo/1",
+              "media_key": "3_2065326325381189632",
+              "start": 15,
+              "url": "https://t.co/gUF4cbyCsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065326329969652116",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 13933,
+          "like_count": 989,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "우리 장르 사람들 다 이럼 https://t.co/gUF4cbyCsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 175,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 597
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T07:04:25.000Z",
+        "description": "月姫\n공주조아",
+        "id": "1916025503708024834",
+        "name": "낑깡『ポエロ』(피에로. 광대라는뜻)",
+        "pinned_tweet_id": "2014276723395948761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051874526166908928/2Gyt4aoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 102,
+          "like_count": 7583,
+          "listed_count": 6,
+          "media_count": 2101,
+          "tweet_count": 31083
+        },
+        "username": "gging_kkangg",
+        "verified": false
+      }
+    ]
+  }
+}

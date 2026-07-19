@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2063115585010205070",
+    "created_at": "2026-06-06T12:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063229459466162491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991025043359608833",
+          "start": 0,
+          "username": "Qingxuntlrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063229459466162491",
+    "in_reply_to_user_id": "1991025043359608833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063115585010205070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingxuntlrr 这种傻逼只想祝暴死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1474,
+        "media_key": "3_2063115570174939136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGoriLa0AAqPEz.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2063115585010205070",
+        "created_at": "2026-06-06T12:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063229459466162491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991025043359608833",
+              "start": 0,
+              "username": "Qingxuntlrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063229459466162491",
+        "in_reply_to_user_id": "1991025043359608833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063115585010205070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingxuntlrr 这种傻逼只想祝暴死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063115570174939136"
+          ]
+        },
+        "author_id": "1991025043359608833",
+        "conversation_id": "2063115585010205070",
+        "created_at": "2026-06-06T04:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063115585010205070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvxAqIDjbp",
+              "end": 54,
+              "expanded_url": "https://x.com/Qingxuntlrr/status/2063115585010205070/photo/1",
+              "media_key": "3_2063115570174939136",
+              "start": 31,
+              "url": "https://t.co/MvxAqIDjbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063115585010205070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这又是谁的列表？愚昧普瑞就是被你们这群猪逼弄死的。引你妈逼流 https://t.co/MvxAqIDjbp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 161,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 489
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T06:06:33.000Z",
+        "description": "-xun\nлаванда：（\n不营业了，专心唐氏😂\n*来找我互fo吧",
+        "id": "1991025043359608833",
+        "name": "Nakinin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060735081757675520/Geeba8ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 536,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 271
+        },
+        "username": "Qingxuntlrr",
+        "verified": false
+      }
+    ]
+  }
+}

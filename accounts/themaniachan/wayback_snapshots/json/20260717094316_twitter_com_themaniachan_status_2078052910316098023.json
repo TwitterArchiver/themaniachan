@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078052907241689088",
+        "3_2078052902141407232",
+        "3_2078052901868781568"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1448423584087511051",
+          "name": "Type-Moon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448423584087511051",
+          "name": "Type-Moon"
+        }
+      }
+    ],
+    "conversation_id": "2078052910316098023",
+    "created_at": "2026-07-17T09:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078052910316098023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5MyJycBayH",
+          "end": 146,
+          "expanded_url": "https://x.com/themaniachan/status/2078052910316098023/photo/1",
+          "media_key": "3_2078052907241689088",
+          "start": 123,
+          "url": "https://t.co/5MyJycBayH"
+        },
+        {
+          "display_url": "pic.x.com/5MyJycBayH",
+          "end": 146,
+          "expanded_url": "https://x.com/themaniachan/status/2078052910316098023/photo/1",
+          "media_key": "3_2078052902141407232",
+          "start": 123,
+          "url": "https://t.co/5MyJycBayH"
+        },
+        {
+          "display_url": "pic.x.com/5MyJycBayH",
+          "end": 146,
+          "expanded_url": "https://x.com/themaniachan/status/2078052910316098023/photo/1",
+          "media_key": "3_2078052901868781568",
+          "start": 123,
+          "url": "https://t.co/5MyJycBayH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078052910316098023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲友扫街帮我看谷子\n给我拍了这个怎么看都觉得奇怪，找到原图之后发现90%+可能是ai假冒的同人谷...士郎的衣服和令咒，saber的群甲，凛的领结，金闪闪的整个脸，全都有问题\n们型月也是好起来了盒盒这都有人跑ai圈钱了👊🏻😇最希望ai去死的一集 https://t.co/5MyJycBayH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078052907241689088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa6G_Cb0AAcdP7.jpg",
+        "width": 920
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2078052902141407232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa6GsCbsAAXW4F.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2078052901868781568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa6GrBbwAAy1a6.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078052907241689088",
+            "3_2078052902141407232",
+            "3_2078052901868781568"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          }
+        ],
+        "conversation_id": "2078052910316098023",
+        "created_at": "2026-07-17T09:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078052910316098023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MyJycBayH",
+              "end": 146,
+              "expanded_url": "https://x.com/themaniachan/status/2078052910316098023/photo/1",
+              "media_key": "3_2078052907241689088",
+              "start": 123,
+              "url": "https://t.co/5MyJycBayH"
+            },
+            {
+              "display_url": "pic.x.com/5MyJycBayH",
+              "end": 146,
+              "expanded_url": "https://x.com/themaniachan/status/2078052910316098023/photo/1",
+              "media_key": "3_2078052902141407232",
+              "start": 123,
+              "url": "https://t.co/5MyJycBayH"
+            },
+            {
+              "display_url": "pic.x.com/5MyJycBayH",
+              "end": 146,
+              "expanded_url": "https://x.com/themaniachan/status/2078052910316098023/photo/1",
+              "media_key": "3_2078052901868781568",
+              "start": 123,
+              "url": "https://t.co/5MyJycBayH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078052910316098023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲友扫街帮我看谷子\n给我拍了这个怎么看都觉得奇怪，找到原图之后发现90%+可能是ai假冒的同人谷...士郎的衣服和令咒，saber的群甲，凛的领结，金闪闪的整个脸，全都有问题\n们型月也是好起来了盒盒这都有人跑ai圈钱了👊🏻😇最希望ai去死的一集 https://t.co/5MyJycBayH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 241,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1044
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      }
+    ]
+  }
+}

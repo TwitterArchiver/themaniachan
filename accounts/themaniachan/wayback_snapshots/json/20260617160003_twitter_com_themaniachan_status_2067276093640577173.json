@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2067102673267229098",
+    "created_at": "2026-06-17T16:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067276093640577173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "945602812347478016",
+          "start": 0,
+          "username": "kanawanunozomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067276093640577173",
+    "in_reply_to_user_id": "945602812347478016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067211931912688002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanawanunozomi 伪装健全人辛苦了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2067102673267229098",
+        "created_at": "2026-06-17T16:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067276093640577173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "945602812347478016",
+              "start": 0,
+              "username": "kanawanunozomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067276093640577173",
+        "in_reply_to_user_id": "945602812347478016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067211931912688002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanawanunozomi 伪装健全人辛苦了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "945602812347478016",
+        "conversation_id": "2067102673267229098",
+        "created_at": "2026-06-17T11:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067211931912688002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067211931912688002",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067102673267229098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 笑死了我也有教师资格证，重度抑郁好久了都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 188,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 683
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-26T10:30:53.000Z",
+        "description": "Major Depressive Disorder & Obsessive Compulsive Disorder😵😵😵\nうつ、強迫性障害、もろもろ？😵‍💫😵‍💫😵‍💫\n\nEnglish/Mandarin/Japanese🥺🥺🥺",
+        "id": "945602812347478016",
+        "name": "nozomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1511994634591178754/xCZnYvQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 256,
+          "like_count": 221,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 120
+        },
+        "username": "kanawanunozomi",
+        "verified": false
+      }
+    ]
+  }
+}

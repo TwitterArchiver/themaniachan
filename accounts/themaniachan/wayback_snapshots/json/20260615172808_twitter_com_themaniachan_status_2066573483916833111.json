@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064894968058306560",
+        "3_2064894973208903680",
+        "3_2064895971012825088"
+      ],
+      "media_source_tweet_id": [
+        "2064895973432889678",
+        "2064895973432889678",
+        "2064895973432889678"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2066573483916833111",
+    "created_at": "2026-06-15T17:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066573483916833111"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "线下"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "金主"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "480220424",
+          "start": 3,
+          "username": "azieyjynah"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C13J43hwaG",
+          "end": 106,
+          "expanded_url": "https://x.com/azieyjynah/status/2064895973432889678/photo/1",
+          "media_key": "3_2064894968058306560",
+          "start": 83,
+          "url": "https://t.co/C13J43hwaG"
+        },
+        {
+          "display_url": "pic.x.com/C13J43hwaG",
+          "end": 106,
+          "expanded_url": "https://x.com/azieyjynah/status/2064895973432889678/photo/1",
+          "media_key": "3_2064894973208903680",
+          "start": 83,
+          "url": "https://t.co/C13J43hwaG"
+        },
+        {
+          "display_url": "pic.x.com/C13J43hwaG",
+          "end": 106,
+          "expanded_url": "https://x.com/azieyjynah/status/2064895973432889678/photo/1",
+          "media_key": "3_2064895971012825088",
+          "start": 83,
+          "url": "https://t.co/C13J43hwaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066573483916833111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064895973432889678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azieyjynah: 置顶🔝\n我是天天酱，家里人不给钱很缺钱，p3是业务和价格捏，问坐标和视频验证都是20口令宝宝们。\n#爸爸活 #门槛妹 #线下 #金主 https://t.co/C13J43hwaG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064894968058306560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKf7CH2bYAATvtN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1445,
+        "media_key": "3_2064894973208903680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKf7CbCbQAAQWx3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 580,
+        "media_key": "3_2064895971012825088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKf78gJa0AAZ6sh.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064894968058306560",
+            "3_2064894973208903680",
+            "3_2064895971012825088"
+          ],
+          "media_source_tweet_id": [
+            "2064895973432889678",
+            "2064895973432889678",
+            "2064895973432889678"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2066573483916833111",
+        "created_at": "2026-06-15T17:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066573483916833111"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "线下"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "金主"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "480220424",
+              "start": 3,
+              "username": "azieyjynah"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C13J43hwaG",
+              "end": 106,
+              "expanded_url": "https://x.com/azieyjynah/status/2064895973432889678/photo/1",
+              "media_key": "3_2064894968058306560",
+              "start": 83,
+              "url": "https://t.co/C13J43hwaG"
+            },
+            {
+              "display_url": "pic.x.com/C13J43hwaG",
+              "end": 106,
+              "expanded_url": "https://x.com/azieyjynah/status/2064895973432889678/photo/1",
+              "media_key": "3_2064894973208903680",
+              "start": 83,
+              "url": "https://t.co/C13J43hwaG"
+            },
+            {
+              "display_url": "pic.x.com/C13J43hwaG",
+              "end": 106,
+              "expanded_url": "https://x.com/azieyjynah/status/2064895973432889678/photo/1",
+              "media_key": "3_2064895971012825088",
+              "start": 83,
+              "url": "https://t.co/C13J43hwaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066573483916833111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064895973432889678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azieyjynah: 置顶🔝\n我是天天酱，家里人不给钱很缺钱，p3是业务和价格捏，问坐标和视频验证都是20口令宝宝们。\n#爸爸活 #门槛妹 #线下 #金主 https://t.co/C13J43hwaG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064894968058306560",
+            "3_2064894973208903680",
+            "3_2064895971012825088"
+          ]
+        },
+        "author_id": "480220424",
+        "conversation_id": "2064895973432889678",
+        "created_at": "2026-06-11T02:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064895973432889678"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "线下"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C13J43hwaG",
+              "end": 90,
+              "expanded_url": "https://x.com/azieyjynah/status/2064895973432889678/photo/1",
+              "media_key": "3_2064894968058306560",
+              "start": 67,
+              "url": "https://t.co/C13J43hwaG"
+            },
+            {
+              "display_url": "pic.x.com/C13J43hwaG",
+              "end": 90,
+              "expanded_url": "https://x.com/azieyjynah/status/2064895973432889678/photo/1",
+              "media_key": "3_2064894973208903680",
+              "start": 67,
+              "url": "https://t.co/C13J43hwaG"
+            },
+            {
+              "display_url": "pic.x.com/C13J43hwaG",
+              "end": 90,
+              "expanded_url": "https://x.com/azieyjynah/status/2064895973432889678/photo/1",
+              "media_key": "3_2064895971012825088",
+              "start": 67,
+              "url": "https://t.co/C13J43hwaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064895973432889678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 535,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n我是天天酱，家里人不给钱很缺钱，p3是业务和价格捏，问坐标和视频验证都是20口令宝宝们。\n#爸爸活 #门槛妹 #线下 #金主 https://t.co/C13J43hwaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 187,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 663
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-01T07:48:15.000Z",
+        "description": "🚪188/288/520/1314 坐标验证都是口令20！",
+        "id": "480220424",
+        "name": "天天酱",
+        "pinned_tweet_id": "2064895973432889678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063251158874083328/f4lWCIgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "azieyjynah",
+        "verified": false
+      }
+    ]
+  }
+}

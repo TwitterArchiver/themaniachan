@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042498151240679424",
+        "3_2042498176654196736"
+      ],
+      "media_source_tweet_id": [
+        "2042498225182052803",
+        "2042498225182052803"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2071947674996391937",
+    "created_at": "2026-06-30T13:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071947674996391937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FkmdSjx7iA",
+          "end": 75,
+          "expanded_url": "https://x.com/SalviaSWC/status/2042498225182052803/photo/1",
+          "media_key": "3_2042498151240679424",
+          "start": 52,
+          "url": "https://t.co/FkmdSjx7iA"
+        },
+        {
+          "display_url": "pic.x.com/FkmdSjx7iA",
+          "end": 75,
+          "expanded_url": "https://x.com/SalviaSWC/status/2042498225182052803/photo/1",
+          "media_key": "3_2042498176654196736",
+          "start": 52,
+          "url": "https://t.co/FkmdSjx7iA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071947674996391937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042498225182052803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 遇到说od＝吸毒的神人可以拿出这个，广州禁毒张警官亲口帮我们反驳捏😁😁😁 https://t.co/FkmdSjx7iA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042498151240679424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhpPzcXwAA-v0T.jpg",
+        "width": 1082
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042498176654196736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhpRSHbQAAJDA2.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042498151240679424",
+            "3_2042498176654196736"
+          ],
+          "media_source_tweet_id": [
+            "2042498225182052803",
+            "2042498225182052803"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2071947674996391937",
+        "created_at": "2026-06-30T13:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071947674996391937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkmdSjx7iA",
+              "end": 75,
+              "expanded_url": "https://x.com/SalviaSWC/status/2042498225182052803/photo/1",
+              "media_key": "3_2042498151240679424",
+              "start": 52,
+              "url": "https://t.co/FkmdSjx7iA"
+            },
+            {
+              "display_url": "pic.x.com/FkmdSjx7iA",
+              "end": 75,
+              "expanded_url": "https://x.com/SalviaSWC/status/2042498225182052803/photo/1",
+              "media_key": "3_2042498176654196736",
+              "start": 52,
+              "url": "https://t.co/FkmdSjx7iA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071947674996391937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042498225182052803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 遇到说od＝吸毒的神人可以拿出这个，广州禁毒张警官亲口帮我们反驳捏😁😁😁 https://t.co/FkmdSjx7iA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042498151240679424",
+            "3_2042498176654196736"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2042498225182052803",
+        "created_at": "2026-04-10T07:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042498225182052803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkmdSjx7iA",
+              "end": 60,
+              "expanded_url": "https://x.com/SalviaSWC/status/2042498225182052803/photo/1",
+              "media_key": "3_2042498151240679424",
+              "start": 37,
+              "url": "https://t.co/FkmdSjx7iA"
+            },
+            {
+              "display_url": "pic.x.com/FkmdSjx7iA",
+              "end": 60,
+              "expanded_url": "https://x.com/SalviaSWC/status/2042498225182052803/photo/1",
+              "media_key": "3_2042498176654196736",
+              "start": 37,
+              "url": "https://t.co/FkmdSjx7iA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042498225182052803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 38529,
+          "like_count": 166,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "遇到说od＝吸毒的神人可以拿出这个，广州禁毒张警官亲口帮我们反驳捏😁😁😁 https://t.co/FkmdSjx7iA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 217,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 855
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4987,
+          "following_count": 1031,
+          "like_count": 24828,
+          "listed_count": 11,
+          "media_count": 569,
+          "tweet_count": 7999
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

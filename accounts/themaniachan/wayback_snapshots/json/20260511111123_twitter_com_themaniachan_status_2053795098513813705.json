@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2041151175857405962",
+    "created_at": "2026-05-11T11:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053795098513813705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1585001258142027776",
+          "start": 0,
+          "username": "Aggg39870547"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053795098513813705",
+    "in_reply_to_user_id": "1585001258142027776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041151175857405962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aggg39870547 老大老大！！！快来找狂酱新号啊啊啊啊啊狂酱复活了！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2041151175857405962",
+        "created_at": "2026-05-11T11:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053795098513813705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1585001258142027776",
+              "start": 0,
+              "username": "Aggg39870547"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053795098513813705",
+        "in_reply_to_user_id": "1585001258142027776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041151175857405962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aggg39870547 老大老大！！！快来找狂酱新号啊啊啊啊啊狂酱复活了！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585001258142027776",
+        "conversation_id": "2041151175857405962",
+        "created_at": "2026-04-06T13:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041151175857405962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mania_chan_/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/mania_chan_/status/2041137989859074055",
+              "start": 11,
+              "url": "https://t.co/sHwMtxtBtQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041151175857405962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041137989859074055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她是狂酱，她人很好的 https://t.co/sHwMtxtBtQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 89,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 156
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T20:12:12.000Z",
+        "description": "笑死我了",
+        "id": "1585001258142027776",
+        "name": "不为什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790993011067006976/QXh5Hz3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 299,
+          "like_count": 3907,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 127
+        },
+        "username": "Aggg39870547",
+        "verified": false
+      }
+    ]
+  }
+}

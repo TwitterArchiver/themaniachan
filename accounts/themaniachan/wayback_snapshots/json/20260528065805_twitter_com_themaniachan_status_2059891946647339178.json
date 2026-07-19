@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059810766526849025",
+        "3_2059810766539354112",
+        "3_2059810766526816256",
+        "3_2059810766543630336"
+      ],
+      "media_source_tweet_id": [
+        "2059810784612597967",
+        "2059810784612597967",
+        "2059810784612597967",
+        "2059810784612597967"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2059891946647339178",
+    "created_at": "2026-05-28T06:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059891946647339178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2025852742707945473",
+          "start": 3,
+          "username": "kikisuki111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2fXxFeHtwk",
+          "end": 99,
+          "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+          "media_key": "3_2059810766526849025",
+          "start": 76,
+          "url": "https://t.co/2fXxFeHtwk"
+        },
+        {
+          "display_url": "pic.x.com/2fXxFeHtwk",
+          "end": 99,
+          "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+          "media_key": "3_2059810766539354112",
+          "start": 76,
+          "url": "https://t.co/2fXxFeHtwk"
+        },
+        {
+          "display_url": "pic.x.com/2fXxFeHtwk",
+          "end": 99,
+          "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+          "media_key": "3_2059810766526816256",
+          "start": 76,
+          "url": "https://t.co/2fXxFeHtwk"
+        },
+        {
+          "display_url": "pic.x.com/2fXxFeHtwk",
+          "end": 99,
+          "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+          "media_key": "3_2059810766543630336",
+          "start": 76,
+          "url": "https://t.co/2fXxFeHtwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059891946647339178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059810784612597967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kikisuki111: ＝キキ｜kiki\n20↓  本质是一只幽灵\n\n精神状态很差 主页大量负能废话少量血o\n\n健全人禁止入内我容易应激破防 https://t.co/2fXxFeHtwk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059810766526849025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXq-pNboAE9Am5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1102,
+        "media_key": "3_2059810766539354112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXq-pQacAAYDxq.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059810766526816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXq-pNbIAAXsVt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 969,
+        "media_key": "3_2059810766543630336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXq-pRbsAA1fUJ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059810766526849025",
+            "3_2059810766539354112",
+            "3_2059810766526816256",
+            "3_2059810766543630336"
+          ],
+          "media_source_tweet_id": [
+            "2059810784612597967",
+            "2059810784612597967",
+            "2059810784612597967",
+            "2059810784612597967"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2059891946647339178",
+        "created_at": "2026-05-28T06:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059891946647339178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2025852742707945473",
+              "start": 3,
+              "username": "kikisuki111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fXxFeHtwk",
+              "end": 99,
+              "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+              "media_key": "3_2059810766526849025",
+              "start": 76,
+              "url": "https://t.co/2fXxFeHtwk"
+            },
+            {
+              "display_url": "pic.x.com/2fXxFeHtwk",
+              "end": 99,
+              "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+              "media_key": "3_2059810766539354112",
+              "start": 76,
+              "url": "https://t.co/2fXxFeHtwk"
+            },
+            {
+              "display_url": "pic.x.com/2fXxFeHtwk",
+              "end": 99,
+              "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+              "media_key": "3_2059810766526816256",
+              "start": 76,
+              "url": "https://t.co/2fXxFeHtwk"
+            },
+            {
+              "display_url": "pic.x.com/2fXxFeHtwk",
+              "end": 99,
+              "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+              "media_key": "3_2059810766543630336",
+              "start": 76,
+              "url": "https://t.co/2fXxFeHtwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059891946647339178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059810784612597967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kikisuki111: ＝キキ｜kiki\n20↓  本质是一只幽灵\n\n精神状态很差 主页大量负能废话少量血o\n\n健全人禁止入内我容易应激破防 https://t.co/2fXxFeHtwk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059810766526849025",
+            "3_2059810766539354112",
+            "3_2059810766526816256",
+            "3_2059810766543630336"
+          ]
+        },
+        "author_id": "2025852742707945473",
+        "conversation_id": "2059810784612597967",
+        "created_at": "2026-05-28T01:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059810784612597967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fXxFeHtwk",
+              "end": 82,
+              "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+              "media_key": "3_2059810766526849025",
+              "start": 59,
+              "url": "https://t.co/2fXxFeHtwk"
+            },
+            {
+              "display_url": "pic.x.com/2fXxFeHtwk",
+              "end": 82,
+              "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+              "media_key": "3_2059810766539354112",
+              "start": 59,
+              "url": "https://t.co/2fXxFeHtwk"
+            },
+            {
+              "display_url": "pic.x.com/2fXxFeHtwk",
+              "end": 82,
+              "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+              "media_key": "3_2059810766526816256",
+              "start": 59,
+              "url": "https://t.co/2fXxFeHtwk"
+            },
+            {
+              "display_url": "pic.x.com/2fXxFeHtwk",
+              "end": 82,
+              "expanded_url": "https://x.com/kikisuki111/status/2059810784612597967/photo/1",
+              "media_key": "3_2059810766543630336",
+              "start": 59,
+              "url": "https://t.co/2fXxFeHtwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059810784612597967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 977,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "＝キキ｜kiki\n20↓  本质是一只幽灵\n\n精神状态很差 主页大量负能废话少量血o\n\n健全人禁止入内我容易应激破防 https://t.co/2fXxFeHtwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 142,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 340
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 484,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 844
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

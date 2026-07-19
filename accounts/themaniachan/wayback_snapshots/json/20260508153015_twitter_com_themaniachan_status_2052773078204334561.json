@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2052773078204334561",
+    "created_at": "2026-05-08T15:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052773078204334561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577362467419611137",
+          "start": 3,
+          "username": "Retepa555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/zjgLhtJ",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/zjgLhtJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052773078204334561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052626366584209605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Retepa555: 300fo了😋，发个感谢抽奖，没人参会尴尬惹啊！\n奖池:影子武士2*1（原价108r，cdk）\n绿普*2（缅怀pr，折现13r）\n冰红茶*3（折现3r）\n都是点便宜小玩意（）\n关注+转发+扣1即可参与≡ω≡ https://t.co/zjgLhtJ…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052773078204334561].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052773078204334561",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052773078204334561"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2052626357113544704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxky-hbYAAxXnh.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052626357113544704"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2052626366584209605",
+        "created_at": "2026-05-08T05:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052626366584209605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjgLhtJq9j",
+              "end": 127,
+              "expanded_url": "https://x.com/Retepa555/status/2052626366584209605/photo/1",
+              "media_key": "3_2052626357113544704",
+              "start": 104,
+              "url": "https://t.co/zjgLhtJq9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052626366584209605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1626,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "300fo了😋，发个感谢抽奖，没人参会尴尬惹啊！\n奖池:影子武士2*1（原价108r，cdk）\n绿普*2（缅怀pr，折现13r）\n冰红茶*3（折现3r）\n都是点便宜小玩意（）\n关注+转发+扣1即可参与≡ω≡ https://t.co/zjgLhtJq9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 83,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 139
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666622110531584/OB6tshlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 736,
+          "like_count": 20779,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1665
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2048767512599568417",
+    "created_at": "2026-04-27T14:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048771136767598851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1803697127224385536",
+          "start": 0,
+          "username": "092748az"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048771136767598851",
+    "in_reply_to_user_id": "1803697127224385536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048770885239357516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@092748az 其实正常都是15t以上🥲所以根本不够十五次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2048767512599568417",
+        "created_at": "2026-04-27T14:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048771136767598851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1803697127224385536",
+              "start": 0,
+              "username": "092748az"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048771136767598851",
+        "in_reply_to_user_id": "1803697127224385536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048770885239357516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@092748az 其实正常都是15t以上🥲所以根本不够十五次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803697127224385536",
+        "conversation_id": "2048767512599568417",
+        "created_at": "2026-04-27T14:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048770885239357516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048770885239357516",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048767512599568417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 一次12t？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 52,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 63
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T07:51:47.000Z",
+        "description": "BD/泛性恋/精神分裂/多重人格/神经/乐子人/嘴臭/发癫/没事整个药/互fo哦/坐标国际庄/\n来找我说话啊，都快跟我唠嗑啊，我快无聊死了啊～\n尊重一切，理解世界，为自由而活！！！\n好无聊—",
+        "id": "1803697127224385536",
+        "name": "枫叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048426911026888704/WMRFfNHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 144,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 77
+        },
+        "username": "092748az",
+        "verified": false
+      }
+    ]
+  }
+}

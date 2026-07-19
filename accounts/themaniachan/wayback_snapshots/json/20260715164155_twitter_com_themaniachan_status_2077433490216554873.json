@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2077433490216554873",
+    "created_at": "2026-07-15T16:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:34:19.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077431578922553787",
+      "2077433490216554873"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077433490216554873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这思诺思一次只能开七片，根本舍不得吃感觉比我命都贵\n我真的要吃这么珍贵的药然后让自己只是一晚上能睡着吗\n盒盒在此感叹简中药物管理的政策真是招笑😇已经算是半个残疾人了还让我每周折腾到专门有药的医院去，只为了开一种最多七片的药😇我好像去死更好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2077431578922553787",
+        "created_at": "2026-07-15T16:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:34:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077431578922553787",
+          "2077433490216554873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077431578922553787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这思诺思一次只能开七盒，根本舍不得吃感觉比我命都贵\n我真的要吃这么珍贵的药然后让自己只是一晚上能睡着吗\n盒盒在此感叹简中药物管理的政策真是招笑😇已经算是半个残疾人了还让我每周折腾到专门有药的医院去，只为了开一种最多七片的药😇我好像去死更好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2077433490216554873",
+        "created_at": "2026-07-15T16:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:34:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077431578922553787",
+          "2077433490216554873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077433490216554873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这思诺思一次只能开七片，根本舍不得吃感觉比我命都贵\n我真的要吃这么珍贵的药然后让自己只是一晚上能睡着吗\n盒盒在此感叹简中药物管理的政策真是招笑😇已经算是半个残疾人了还让我每周折腾到专门有药的医院去，只为了开一种最多七片的药😇我好像去死更好吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 240,
+          "like_count": 1252,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1035
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      }
+    ]
+  }
+}

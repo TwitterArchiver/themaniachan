@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2061842590358700099",
+    "created_at": "2026-06-02T16:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061842590358700099"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061842590358700099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很烦现在那些视频，线下抓骗子，然后真抓到个不健全的人，还得特意强调一下骗子是有精神疾病什么的乱七八糟一大堆\n不是说线下抓网骗这件事不妥，而是把精神疾病和网骗行为放在一起，即便是弱绑定也会导致精神疾病进一步被污名化，光看那些恶心人的弹幕就知道都是些什么成分了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2061842590358700099",
+        "created_at": "2026-06-02T16:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061842590358700099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061842590358700099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很烦现在那些视频，线下抓骗子，然后真抓到个不健全的人，还得特意强调一下骗子是有精神疾病什么的乱七八糟一大堆\n不是说线下抓网骗这件事不妥，而是把精神疾病和网骗行为放在一起，即便是弱绑定也会导致精神疾病进一步被污名化，光看那些恶心人的弹幕就知道都是些什么成分了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 142,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 417
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

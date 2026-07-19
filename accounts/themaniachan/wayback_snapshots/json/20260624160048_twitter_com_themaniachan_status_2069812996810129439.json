@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069732770004488192",
+        "3_2069732770021277696",
+        "3_2069732770180460544",
+        "3_2069732770012860416"
+      ],
+      "media_source_tweet_id": [
+        "2069732779349467598",
+        "2069732779349467598",
+        "2069732779349467598",
+        "2069732779349467598"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2069812996810129439",
+    "created_at": "2026-06-24T16:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069812996810129439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2006692303055020033",
+          "start": 3,
+          "username": "Gilgameshosi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/90M7TMxy2U",
+          "end": 46,
+          "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+          "media_key": "3_2069732770004488192",
+          "start": 23,
+          "url": "https://t.co/90M7TMxy2U"
+        },
+        {
+          "display_url": "pic.x.com/90M7TMxy2U",
+          "end": 46,
+          "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+          "media_key": "3_2069732770021277696",
+          "start": 23,
+          "url": "https://t.co/90M7TMxy2U"
+        },
+        {
+          "display_url": "pic.x.com/90M7TMxy2U",
+          "end": 46,
+          "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+          "media_key": "3_2069732770180460544",
+          "start": 23,
+          "url": "https://t.co/90M7TMxy2U"
+        },
+        {
+          "display_url": "pic.x.com/90M7TMxy2U",
+          "end": 46,
+          "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+          "media_key": "3_2069732770012860416",
+          "start": 23,
+          "url": "https://t.co/90M7TMxy2U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069812996810129439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069732779349467598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gilgameshosi: かわいい https://t.co/90M7TMxy2U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1157,
+        "media_key": "3_2069732770004488192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkq_QgaUAAmRoy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1145,
+        "media_key": "3_2069732770021277696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkq_QkagAAmlTj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1169,
+        "media_key": "3_2069732770180460544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkq_RKXcAAFPKx.jpg",
+        "width": 2007
+      },
+      {
+        "height": 1124,
+        "media_key": "3_2069732770012860416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkq_QiaEAAh0IB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069732770004488192",
+            "3_2069732770021277696",
+            "3_2069732770180460544",
+            "3_2069732770012860416"
+          ],
+          "media_source_tweet_id": [
+            "2069732779349467598",
+            "2069732779349467598",
+            "2069732779349467598",
+            "2069732779349467598"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2069812996810129439",
+        "created_at": "2026-06-24T16:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069812996810129439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2006692303055020033",
+              "start": 3,
+              "username": "Gilgameshosi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/90M7TMxy2U",
+              "end": 46,
+              "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+              "media_key": "3_2069732770004488192",
+              "start": 23,
+              "url": "https://t.co/90M7TMxy2U"
+            },
+            {
+              "display_url": "pic.x.com/90M7TMxy2U",
+              "end": 46,
+              "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+              "media_key": "3_2069732770021277696",
+              "start": 23,
+              "url": "https://t.co/90M7TMxy2U"
+            },
+            {
+              "display_url": "pic.x.com/90M7TMxy2U",
+              "end": 46,
+              "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+              "media_key": "3_2069732770180460544",
+              "start": 23,
+              "url": "https://t.co/90M7TMxy2U"
+            },
+            {
+              "display_url": "pic.x.com/90M7TMxy2U",
+              "end": 46,
+              "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+              "media_key": "3_2069732770012860416",
+              "start": 23,
+              "url": "https://t.co/90M7TMxy2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069812996810129439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069732779349467598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gilgameshosi: かわいい https://t.co/90M7TMxy2U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069732770004488192",
+            "3_2069732770021277696",
+            "3_2069732770180460544",
+            "3_2069732770012860416"
+          ]
+        },
+        "author_id": "2006692303055020033",
+        "conversation_id": "2069732779349467598",
+        "created_at": "2026-06-24T10:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069732779349467598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90M7TMxy2U",
+              "end": 28,
+              "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+              "media_key": "3_2069732770004488192",
+              "start": 5,
+              "url": "https://t.co/90M7TMxy2U"
+            },
+            {
+              "display_url": "pic.x.com/90M7TMxy2U",
+              "end": 28,
+              "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+              "media_key": "3_2069732770021277696",
+              "start": 5,
+              "url": "https://t.co/90M7TMxy2U"
+            },
+            {
+              "display_url": "pic.x.com/90M7TMxy2U",
+              "end": 28,
+              "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+              "media_key": "3_2069732770180460544",
+              "start": 5,
+              "url": "https://t.co/90M7TMxy2U"
+            },
+            {
+              "display_url": "pic.x.com/90M7TMxy2U",
+              "end": 28,
+              "expanded_url": "https://x.com/Gilgameshosi/status/2069732779349467598/photo/1",
+              "media_key": "3_2069732770012860416",
+              "start": 5,
+              "url": "https://t.co/90M7TMxy2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069732779349467598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 3741,
+          "like_count": 369,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい https://t.co/90M7TMxy2U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 188,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 746
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T11:43:52.000Z",
+        "description": "読み方はしろいたちです。Fate垢です。snセイバールートプレイ済み。fgo1.5部クリア済み。ギルガメッシュ最推し、クーフーリンも推しです。絵上げます。AI❌自作発言❌無断転載❌保存⭕️ 無言フォローしまくりです。ごめんなさい🙏キャラ崩壊あるかもです。https://t.co/JDKsj75IBm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/okojyo0210",
+                "end": 150,
+                "expanded_url": "https://lit.link/okojyo0210",
+                "start": 127,
+                "url": "https://t.co/JDKsj75IBm"
+              }
+            ]
+          }
+        },
+        "id": "2006692303055020033",
+        "location": "カプ厨です。たまに過激です。基本的には推し右固定です",
+        "name": "白鼬",
+        "pinned_tweet_id": "2063175972703305920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061752859339993088/3h_PfV8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 51,
+          "like_count": 3904,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1660
+        },
+        "url": "",
+        "username": "Gilgameshosi",
+        "verified": false
+      }
+    ]
+  }
+}

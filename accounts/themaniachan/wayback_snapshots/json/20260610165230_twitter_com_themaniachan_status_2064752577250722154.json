@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064752574050492416",
+        "3_2064752574109306880"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2064752577250722154",
+    "created_at": "2026-06-10T16:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064752577250722154"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 54,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 76,
+          "start": 62,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 85,
+          "start": 79,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 100,
+          "start": 88,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "地雷系"
+        },
+        {
+          "end": 118,
+          "start": 106,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 138,
+          "start": 119,
+          "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dpi8DGgsus",
+          "end": 162,
+          "expanded_url": "https://x.com/themaniachan/status/2064752577250722154/photo/1",
+          "media_key": "3_2064752574050492416",
+          "start": 139,
+          "url": "https://t.co/Dpi8DGgsus"
+        },
+        {
+          "display_url": "pic.x.com/Dpi8DGgsus",
+          "end": 162,
+          "expanded_url": "https://x.com/themaniachan/status/2064752577250722154/photo/1",
+          "media_key": "3_2064752574109306880",
+          "start": 139,
+          "url": "https://t.co/Dpi8DGgsus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064752577250722154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友在酒店房间里给雨宫狂爱（狂酱的自设/oc）拍的照片！就当是cos照吧🥰熬穿了之后速战速决人就这样死死的\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/Dpi8DGgsus"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064752574050492416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKd5hs1aYAACAeH.jpg",
+        "width": 1535
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2064752574109306880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKd5htDb0AAc53I.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064752574050492416",
+            "3_2064752574109306880"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2064752577250722154",
+        "created_at": "2026-06-10T16:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064752577250722154"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 54,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 76,
+              "start": 62,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 85,
+              "start": 79,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 100,
+              "start": 88,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "地雷系"
+            },
+            {
+              "end": 118,
+              "start": 106,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 138,
+              "start": 119,
+              "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dpi8DGgsus",
+              "end": 162,
+              "expanded_url": "https://x.com/themaniachan/status/2064752577250722154/photo/1",
+              "media_key": "3_2064752574050492416",
+              "start": 139,
+              "url": "https://t.co/Dpi8DGgsus"
+            },
+            {
+              "display_url": "pic.x.com/Dpi8DGgsus",
+              "end": 162,
+              "expanded_url": "https://x.com/themaniachan/status/2064752577250722154/photo/1",
+              "media_key": "3_2064752574109306880",
+              "start": 139,
+              "url": "https://t.co/Dpi8DGgsus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064752577250722154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友在酒店房间里给雨宫狂爱（狂酱的自设/oc）拍的照片！就当是cos照吧🥰熬穿了之后速战速决人就这样死死的\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/Dpi8DGgsus"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 169,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 536
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

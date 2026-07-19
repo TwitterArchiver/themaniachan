@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058927778561773568"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2058927781535457698",
+    "created_at": "2026-05-25T15:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058927781535457698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1hsLQy67Yl",
+          "end": 46,
+          "expanded_url": "https://x.com/themaniachan/status/2058927781535457698/photo/1",
+          "media_key": "3_2058927778561773568",
+          "start": 23,
+          "url": "https://t.co/1hsLQy67Yl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058927781535457698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "救命啊画不出清楚系的感觉...谁来教教... https://t.co/1hsLQy67Yl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1979,
+        "media_key": "3_2058927778561773568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLH5-tb0AAivOT.jpg",
+        "width": 1484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058927778561773568"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2058927781535457698",
+        "created_at": "2026-05-25T15:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058927781535457698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hsLQy67Yl",
+              "end": 46,
+              "expanded_url": "https://x.com/themaniachan/status/2058927781535457698/photo/1",
+              "media_key": "3_2058927778561773568",
+              "start": 23,
+              "url": "https://t.co/1hsLQy67Yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058927781535457698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命啊画不出清楚系的感觉...谁来教教... https://t.co/1hsLQy67Yl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 134,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 317
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053447968012009472"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2053448096689111316",
+    "created_at": "2026-05-10T12:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053448096689111316"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 8,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 30,
+          "start": 16,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 39,
+          "start": 33,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 54,
+          "start": 42,
+          "tag": "病み垢女子と繫がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RGn7GJXZIx",
+          "end": 78,
+          "expanded_url": "https://x.com/themaniachan/status/2053448096689111316/video/1",
+          "media_key": "13_2053447968012009472",
+          "start": 55,
+          "url": "https://t.co/RGn7GJXZIx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053448096689111316",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "炫一口抗抑郁药\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい https://t.co/RGn7GJXZIx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28666,
+        "height": 1438,
+        "media_key": "13_2053447968012009472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053447968012009472/img/t9na4kDlG0PC7fWX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053447968012009472/vid/avc1/320x426/Uxr9x9Uk6O8YPb2x.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053447968012009472/vid/avc1/480x638/gEN6CwgPh3jps4kq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053447968012009472/vid/avc1/720x958/9ppJ6Z9PUwMkYrF8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053447968012009472/pl/4REIU1U3bfzlzqCz.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053447968012009472"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2053448096689111316",
+        "created_at": "2026-05-10T12:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053448096689111316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 30,
+              "start": 16,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "病み垢女子と繫がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGn7GJXZIx",
+              "end": 78,
+              "expanded_url": "https://x.com/themaniachan/status/2053448096689111316/video/1",
+              "media_key": "13_2053447968012009472",
+              "start": 55,
+              "url": "https://t.co/RGn7GJXZIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053448096689111316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炫一口抗抑郁药\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい https://t.co/RGn7GJXZIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 87,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 147
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

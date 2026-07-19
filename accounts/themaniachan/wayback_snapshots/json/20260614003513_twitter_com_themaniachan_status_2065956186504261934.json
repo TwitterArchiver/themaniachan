@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065392115056869810",
+    "created_at": "2026-06-14T00:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065956186504261934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061837591792758784",
+          "start": 0,
+          "username": "Secretifyouknow"
+        },
+        {
+          "end": 29,
+          "id": "1266316422428258311",
+          "start": 17,
+          "username": "mania_chan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065956186504261934",
+    "in_reply_to_user_id": "2061837591792758784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065638935947284964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Secretifyouknow @mania_chan_ 好的呀老大！"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [mania_chan_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mania_chan_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mania_chan_"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065392115056869810",
+        "created_at": "2026-06-14T00:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065956186504261934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061837591792758784",
+              "start": 0,
+              "username": "Secretifyouknow"
+            },
+            {
+              "end": 29,
+              "id": "1266316422428258311",
+              "start": 17,
+              "username": "mania_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065956186504261934",
+        "in_reply_to_user_id": "2061837591792758784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065638935947284964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Secretifyouknow @mania_chan_ 好的呀老大！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061837591792758784",
+        "conversation_id": "2065392115056869810",
+        "created_at": "2026-06-13T03:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065638935947284964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            },
+            {
+              "end": 26,
+              "id": "1266316422428258311",
+              "start": 14,
+              "username": "mania_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065638935947284964",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065392115056869810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan @mania_chan_ 互fo嗎喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 181,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 620
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T15:50:42.000Z",
+        "description": "你可以叫我小咪\n10｜164 92｜jiraikei｜overdose｜非自殺性自傷 ｜順女（或許有些4i｜ADHD｜焦｜重力系\n互fo大歡迎 遺漏請告訴我。我很友好 尊重每一種性向以及正只立場 說不定哪天沒了早看早珍惜\n最喜歡在互聯網上裝可愛。",
+        "id": "2061837591792758784",
+        "name": "貓咪已經死了",
+        "pinned_tweet_id": "2062255887549600139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061838534189969408/s9TNdIdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 149,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 365
+        },
+        "username": "Secretifyouknow",
+        "verified": false
+      }
+    ]
+  }
+}

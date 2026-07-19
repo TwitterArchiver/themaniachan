@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2074156092591091712"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2074151324632178998",
+    "created_at": "2026-07-06T15:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074156098182127661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534344658033180672",
+          "start": 0,
+          "username": "_tom0e_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z5BvcwMITc",
+          "end": 33,
+          "expanded_url": "https://x.com/themaniachan/status/2074156098182127661/photo/1",
+          "media_key": "16_2074156092591091712",
+          "start": 10,
+          "url": "https://t.co/Z5BvcwMITc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074156098182127661",
+    "in_reply_to_user_id": "1534344658033180672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074155357111279934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_tom0e_x https://t.co/Z5BvcwMITc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "16_2074156092591091712",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMjh-hOasAAr1Yj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMjh-hOasAAr1Yj.mp4"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 500,
+        "media_key": "16_2074155351482531840",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMjhTYYXgAAq4Il.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMjhTYYXgAAq4Il.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074156092591091712"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2074151324632178998",
+        "created_at": "2026-07-06T15:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074156098182127661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534344658033180672",
+              "start": 0,
+              "username": "_tom0e_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z5BvcwMITc",
+              "end": 33,
+              "expanded_url": "https://x.com/themaniachan/status/2074156098182127661/photo/1",
+              "media_key": "16_2074156092591091712",
+              "start": 10,
+              "url": "https://t.co/Z5BvcwMITc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074156098182127661",
+        "in_reply_to_user_id": "1534344658033180672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074155357111279934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_tom0e_x https://t.co/Z5BvcwMITc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074155351482531840"
+          ]
+        },
+        "author_id": "1534344658033180672",
+        "conversation_id": "2074151324632178998",
+        "created_at": "2026-07-06T15:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074155357111279934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KW6LtcE2GQ",
+              "end": 37,
+              "expanded_url": "https://x.com/_tom0e_x/status/2074155357111279934/photo/1",
+              "media_key": "16_2074155351482531840",
+              "start": 14,
+              "url": "https://t.co/KW6LtcE2GQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074155357111279934",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074151324632178998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan https://t.co/KW6LtcE2GQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 233,
+          "like_count": 1163,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ 統合失調効果障害| SH | BPD | 🚬✨EN / JP / CN / A 🟦 地雷",
+        "id": "1534344658033180672",
+        "location": "Somewhere In Nyc",
+        "name": "Sara 🖤/ともえ🩵",
+        "pinned_tweet_id": "2065990778090926196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060367911307370500/PODa8D-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 126,
+          "like_count": 48031,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 2586
+        },
+        "url": "",
+        "username": "_tom0e_x",
+        "verified": false
+      }
+    ]
+  }
+}

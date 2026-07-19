@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2050481892680675603",
+    "created_at": "2026-05-02T07:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050481892680675603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2022488264268296192",
+          "start": 3,
+          "username": "MotherMaryundb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050481892680675603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049174594649518383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MotherMaryundb: 你好 我是ganyaku/籽酱07/162/108\n我現在因為經濟困難，沒有生活費，所以接純綠半綠線下媽媽活爸爸活₍ᐢ..ᐢ₎♡IP 成都 🚪不退52/128/188/288/520/1314\n可互fo互轉呀，尼古丁/酒精/藥物/自殘/金…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050481892680675603].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050481892680675603",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050481892680675603"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_2049174563523895296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAhaJWboAAisIe.jpg",
+        "width": 2250
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049174564127838208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAhaLmbEAAe87q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 928,
+        "media_key": "3_2049174563863560192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAhaKnagAAEEKy.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049174563523895296",
+            "3_2049174564127838208",
+            "3_2049174563863560192"
+          ]
+        },
+        "author_id": "2022488264268296192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049174594649518383",
+        "created_at": "2026-04-28T17:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049174594649518383"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "纯绿"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "半绿"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "线下"
+            },
+            {
+              "end": 164,
+              "start": 161,
+              "tag": "女高"
+            },
+            {
+              "end": 170,
+              "start": 165,
+              "tag": "反差女高"
+            },
+            {
+              "end": 176,
+              "start": 171,
+              "tag": "原味定制"
+            },
+            {
+              "end": 181,
+              "start": 177,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfgOKeJbTs",
+              "end": 205,
+              "expanded_url": "https://x.com/MotherMaryundb/status/2049174594649518383/photo/1",
+              "media_key": "3_2049174563523895296",
+              "start": 182,
+              "url": "https://t.co/dfgOKeJbTs"
+            },
+            {
+              "display_url": "pic.x.com/dfgOKeJbTs",
+              "end": 205,
+              "expanded_url": "https://x.com/MotherMaryundb/status/2049174594649518383/photo/1",
+              "media_key": "3_2049174564127838208",
+              "start": 182,
+              "url": "https://t.co/dfgOKeJbTs"
+            },
+            {
+              "display_url": "pic.x.com/dfgOKeJbTs",
+              "end": 205,
+              "expanded_url": "https://x.com/MotherMaryundb/status/2049174594649518383/photo/1",
+              "media_key": "3_2049174563863560192",
+              "start": 182,
+              "url": "https://t.co/dfgOKeJbTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049174594649518383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2650,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "你好 我是ganyaku/籽酱07/162/108\n我現在因為經濟困難，沒有生活費，所以接純綠半綠線下媽媽活爸爸活₍ᐢ..ᐢ₎♡IP 成都 🚪不退52/128/188/288/520/1314\n可互fo互轉呀，尼古丁/酒精/藥物/自殘/金錢依赖\n#妈妈活 #门槛妹 #门槛姐 #门槛哥 #ATM奴 #纯绿 #半绿 #线下 #女高 #反差女高 #原味定制 #爸爸活 https://t.co/dfgOKeJbTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 77,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 102
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T01:50:24.000Z",
+        "description": "别欺负我，我真的很温良 🚪不退 52/128/188/288/520/1314💊依赖，穿孔，自伤戒断，🚬🍷依赖",
+        "id": "2022488264268296192",
+        "location": "给我打钱我就会幸福",
+        "name": "薬種",
+        "pinned_tweet_id": "2049174594649518383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022488716191895554/b8J1ik7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 26,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 60
+        },
+        "username": "MotherMaryundb",
+        "verified": false
+      }
+    ]
+  }
+}

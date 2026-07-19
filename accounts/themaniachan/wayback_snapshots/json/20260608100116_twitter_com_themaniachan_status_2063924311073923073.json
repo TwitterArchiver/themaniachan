@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063898141271973888"
+      ],
+      "media_source_tweet_id": [
+        "2063898145818624404"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2063924311073923073",
+    "created_at": "2026-06-08T10:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063924311073923073"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 39,
+          "tag": "TEZCATLIPOCAscent"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1376479133757173764",
+          "start": 3,
+          "username": "shoutajima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eHLfwtAkHZ",
+          "end": 81,
+          "expanded_url": "https://x.com/shoutajima/status/2063898145818624404/photo/1",
+          "media_key": "3_2063898141271973888",
+          "start": 58,
+          "url": "https://t.co/eHLfwtAkHZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063924311073923073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 869
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063898145818624404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shoutajima: こーいうのを\n【メロい】\nって言うんだろ？\n\n#TEZCATLIPOCAscent https://t.co/eHLfwtAkHZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063898141271973888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRwbKsa4AAUItU.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063898141271973888"
+          ],
+          "media_source_tweet_id": [
+            "2063898145818624404"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2063924311073923073",
+        "created_at": "2026-06-08T10:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063924311073923073"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 39,
+              "tag": "TEZCATLIPOCAscent"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1376479133757173764",
+              "start": 3,
+              "username": "shoutajima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHLfwtAkHZ",
+              "end": 81,
+              "expanded_url": "https://x.com/shoutajima/status/2063898145818624404/photo/1",
+              "media_key": "3_2063898141271973888",
+              "start": 58,
+              "url": "https://t.co/eHLfwtAkHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063924311073923073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 869
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063898145818624404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shoutajima: こーいうのを\n【メロい】\nって言うんだろ？\n\n#TEZCATLIPOCAscent https://t.co/eHLfwtAkHZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063898141271973888"
+          ]
+        },
+        "author_id": "1376479133757173764",
+        "conversation_id": "2063898145818624404",
+        "created_at": "2026-06-08T08:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063898145818624404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 23,
+              "tag": "TEZCATLIPOCAscent"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHLfwtAkHZ",
+              "end": 65,
+              "expanded_url": "https://x.com/shoutajima/status/2063898145818624404/photo/1",
+              "media_key": "3_2063898141271973888",
+              "start": 42,
+              "url": "https://t.co/eHLfwtAkHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063898145818624404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 34084,
+          "like_count": 2733,
+          "quote_count": 26,
+          "reply_count": 7,
+          "retweet_count": 869
+        },
+        "reply_settings": "everyone",
+        "text": "こーいうのを\n【メロい】\nって言うんだろ？\n\n#TEZCATLIPOCAscent https://t.co/eHLfwtAkHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 167,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 529
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-29T10:19:54.000Z",
+        "description": "漫画家 田島昭宇公認のキャラ的存在。本人じゃないし実在しないオレっ娘美少女JK。本人じゃないし実在しない！大事だから2回言う。ツーハン→メロンブックス「田島昭宇」で検索 https://t.co/CW1Tw24EYT 仕事の問い合わせは📩 gorillakick.info@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp",
+                "end": 108,
+                "expanded_url": "http://melonbooks.co.jp",
+                "start": 85,
+                "url": "https://t.co/CW1Tw24EYT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shoutajima.com",
+                "end": 23,
+                "expanded_url": "http://www.shoutajima.com",
+                "start": 0,
+                "url": "https://t.co/WbRbRXZWmo"
+              }
+            ]
+          }
+        },
+        "id": "1376479133757173764",
+        "location": "2.5次元",
+        "name": "田島昭宇公式のオレ",
+        "pinned_tweet_id": "2060309446228910511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376532230076387332/D2WEdw4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25609,
+          "following_count": 243,
+          "like_count": 38291,
+          "listed_count": 226,
+          "media_count": 2318,
+          "tweet_count": 25041
+        },
+        "url": "https://t.co/WbRbRXZWmo",
+        "username": "shoutajima",
+        "verified": true
+      }
+    ]
+  }
+}

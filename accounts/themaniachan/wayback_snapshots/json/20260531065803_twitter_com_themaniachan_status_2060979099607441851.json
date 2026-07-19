@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060229729308057600",
+        "3_2060229742532689921",
+        "3_2060229735658184704",
+        "3_2060229748031406080"
+      ],
+      "media_source_tweet_id": [
+        "2060229750396948781",
+        "2060229750396948781",
+        "2060229750396948781",
+        "2060229750396948781"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060979099607441851",
+    "created_at": "2026-05-31T06:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060979099607441851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1979068278673981440",
+          "start": 3,
+          "username": "orange219695619"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NgOWZKS5mK",
+          "end": 69,
+          "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+          "media_key": "3_2060229729308057600",
+          "start": 46,
+          "url": "https://t.co/NgOWZKS5mK"
+        },
+        {
+          "display_url": "pic.x.com/NgOWZKS5mK",
+          "end": 69,
+          "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+          "media_key": "3_2060229742532689921",
+          "start": 46,
+          "url": "https://t.co/NgOWZKS5mK"
+        },
+        {
+          "display_url": "pic.x.com/NgOWZKS5mK",
+          "end": 69,
+          "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+          "media_key": "3_2060229735658184704",
+          "start": 46,
+          "url": "https://t.co/NgOWZKS5mK"
+        },
+        {
+          "display_url": "pic.x.com/NgOWZKS5mK",
+          "end": 69,
+          "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+          "media_key": "3_2060229748031406080",
+          "start": 46,
+          "url": "https://t.co/NgOWZKS5mK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060979099607441851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060229750396948781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orange219695619: “没有犯罪事实不予立案”\n符合我对晶哥的刻板印象 https://t.co/NgOWZKS5mK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060229729308057600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdoBfMbIAAWC7I.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060229742532689921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdoCQdbAAEbpjk.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060229735658184704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdoB22aYAAka_O.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060229748031406080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdoCk8awAA-uBI.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060229729308057600",
+            "3_2060229742532689921",
+            "3_2060229735658184704",
+            "3_2060229748031406080"
+          ],
+          "media_source_tweet_id": [
+            "2060229750396948781",
+            "2060229750396948781",
+            "2060229750396948781",
+            "2060229750396948781"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060979099607441851",
+        "created_at": "2026-05-31T06:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060979099607441851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1979068278673981440",
+              "start": 3,
+              "username": "orange219695619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgOWZKS5mK",
+              "end": 69,
+              "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+              "media_key": "3_2060229729308057600",
+              "start": 46,
+              "url": "https://t.co/NgOWZKS5mK"
+            },
+            {
+              "display_url": "pic.x.com/NgOWZKS5mK",
+              "end": 69,
+              "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+              "media_key": "3_2060229742532689921",
+              "start": 46,
+              "url": "https://t.co/NgOWZKS5mK"
+            },
+            {
+              "display_url": "pic.x.com/NgOWZKS5mK",
+              "end": 69,
+              "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+              "media_key": "3_2060229735658184704",
+              "start": 46,
+              "url": "https://t.co/NgOWZKS5mK"
+            },
+            {
+              "display_url": "pic.x.com/NgOWZKS5mK",
+              "end": 69,
+              "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+              "media_key": "3_2060229748031406080",
+              "start": 46,
+              "url": "https://t.co/NgOWZKS5mK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060979099607441851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060229750396948781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orange219695619: “没有犯罪事实不予立案”\n符合我对晶哥的刻板印象 https://t.co/NgOWZKS5mK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060229729308057600",
+            "3_2060229742532689921",
+            "3_2060229735658184704",
+            "3_2060229748031406080"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060229750396948781",
+        "created_at": "2026-05-29T05:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060229750396948781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgOWZKS5mK",
+              "end": 48,
+              "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+              "media_key": "3_2060229729308057600",
+              "start": 25,
+              "url": "https://t.co/NgOWZKS5mK"
+            },
+            {
+              "display_url": "pic.x.com/NgOWZKS5mK",
+              "end": 48,
+              "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+              "media_key": "3_2060229742532689921",
+              "start": 25,
+              "url": "https://t.co/NgOWZKS5mK"
+            },
+            {
+              "display_url": "pic.x.com/NgOWZKS5mK",
+              "end": 48,
+              "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+              "media_key": "3_2060229735658184704",
+              "start": 25,
+              "url": "https://t.co/NgOWZKS5mK"
+            },
+            {
+              "display_url": "pic.x.com/NgOWZKS5mK",
+              "end": 48,
+              "expanded_url": "https://x.com/orange219695619/status/2060229750396948781/photo/1",
+              "media_key": "3_2060229748031406080",
+              "start": 25,
+              "url": "https://t.co/NgOWZKS5mK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060229750396948781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4709,
+          "like_count": 34,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "“没有犯罪事实不予立案”\n符合我对晶哥的刻板印象 https://t.co/NgOWZKS5mK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 140,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 375
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 149,
+          "like_count": 6609,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 4810
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

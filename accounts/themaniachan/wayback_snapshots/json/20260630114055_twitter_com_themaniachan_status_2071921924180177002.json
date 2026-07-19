@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071921921822732288"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2071885926146638286",
+    "created_at": "2026-06-30T11:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071921924180177002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xDvXppJ9RE",
+          "end": 30,
+          "expanded_url": "https://x.com/themaniachan/status/2071921924180177002/photo/1",
+          "media_key": "3_2071921921822732288",
+          "start": 7,
+          "url": "https://t.co/xDvXppJ9RE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071921924180177002",
+    "in_reply_to_user_id": "2047687133708599296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071885926146638286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "群聊在这里！ https://t.co/xDvXppJ9RE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_2071921921822732288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDyAqiWsAAjJ1R.png",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071921921822732288"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2071885926146638286",
+        "created_at": "2026-06-30T11:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071921924180177002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDvXppJ9RE",
+              "end": 30,
+              "expanded_url": "https://x.com/themaniachan/status/2071921924180177002/photo/1",
+              "media_key": "3_2071921921822732288",
+              "start": 7,
+              "url": "https://t.co/xDvXppJ9RE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071921924180177002",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071885926146638286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "群聊在这里！ https://t.co/xDvXppJ9RE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2071885926146638286",
+        "created_at": "2026-06-30T09:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071885926146638286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071885926146638286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 550,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想开一个低技术力药圈群\n绝望的文科生看不懂任何化学分子式，能分得清各种药效记得住各种有效成分名称已经是博主的最高能力\n博主就是一个小毒虫真的没有一点化学知识\n如果要我写5k长文来描述某种药的药效的话，可以交给我试试...博主写文章还是不错的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 216,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 846
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

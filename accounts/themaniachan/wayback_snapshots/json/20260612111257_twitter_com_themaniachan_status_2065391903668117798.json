@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065391890191753216",
+        "3_2065391893194960896",
+        "3_2065391894818160640",
+        "3_2065391900035788800"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065391903668117798",
+    "created_at": "2026-06-12T11:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065391903668117798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 46,
+          "id": "1266316422428258311",
+          "start": 34,
+          "username": "mania_chan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZQsusM8PBN",
+          "end": 135,
+          "expanded_url": "https://x.com/themaniachan/status/2065391903668117798/photo/1",
+          "media_key": "3_2065391890191753216",
+          "start": 112,
+          "url": "https://t.co/ZQsusM8PBN"
+        },
+        {
+          "display_url": "pic.x.com/ZQsusM8PBN",
+          "end": 135,
+          "expanded_url": "https://x.com/themaniachan/status/2065391903668117798/photo/1",
+          "media_key": "3_2065391893194960896",
+          "start": 112,
+          "url": "https://t.co/ZQsusM8PBN"
+        },
+        {
+          "display_url": "pic.x.com/ZQsusM8PBN",
+          "end": 135,
+          "expanded_url": "https://x.com/themaniachan/status/2065391903668117798/photo/1",
+          "media_key": "3_2065391894818160640",
+          "start": 112,
+          "url": "https://t.co/ZQsusM8PBN"
+        },
+        {
+          "display_url": "pic.x.com/ZQsusM8PBN",
+          "end": 135,
+          "expanded_url": "https://x.com/themaniachan/status/2065391903668117798/photo/1",
+          "media_key": "3_2065391900035788800",
+          "start": 112,
+          "url": "https://t.co/ZQsusM8PBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065391903668117798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "置顶2.0版！\n马上200fo啦，账号很安全了！\n我是狂酱二世！前世@mania_chan_，成分请看图和主页自介！想和同成分互fo呀...\n狂酱也有点穷穷...想支持狂酱的话欢迎投喂( ๑ŏ ﹏ ŏ๑ )谢谢老大们... https://t.co/ZQsusM8PBN"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [mania_chan_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mania_chan_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mania_chan_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065391890191753216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm--zDaIAAT_MW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065391893194960896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm---PbcAA_5C6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065391894818160640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm-_ESbgAAKNIB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 828,
+        "media_key": "3_2065391900035788800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm-_XuaMAAf6oi.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065391890191753216",
+            "3_2065391893194960896",
+            "3_2065391894818160640",
+            "3_2065391900035788800"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065391903668117798",
+        "created_at": "2026-06-12T11:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065391903668117798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1266316422428258311",
+              "start": 34,
+              "username": "mania_chan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQsusM8PBN",
+              "end": 135,
+              "expanded_url": "https://x.com/themaniachan/status/2065391903668117798/photo/1",
+              "media_key": "3_2065391890191753216",
+              "start": 112,
+              "url": "https://t.co/ZQsusM8PBN"
+            },
+            {
+              "display_url": "pic.x.com/ZQsusM8PBN",
+              "end": 135,
+              "expanded_url": "https://x.com/themaniachan/status/2065391903668117798/photo/1",
+              "media_key": "3_2065391893194960896",
+              "start": 112,
+              "url": "https://t.co/ZQsusM8PBN"
+            },
+            {
+              "display_url": "pic.x.com/ZQsusM8PBN",
+              "end": 135,
+              "expanded_url": "https://x.com/themaniachan/status/2065391903668117798/photo/1",
+              "media_key": "3_2065391894818160640",
+              "start": 112,
+              "url": "https://t.co/ZQsusM8PBN"
+            },
+            {
+              "display_url": "pic.x.com/ZQsusM8PBN",
+              "end": 135,
+              "expanded_url": "https://x.com/themaniachan/status/2065391903668117798/photo/1",
+              "media_key": "3_2065391900035788800",
+              "start": 112,
+              "url": "https://t.co/ZQsusM8PBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065391903668117798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置顶2.0版！\n马上200fo啦，账号很安全了！\n我是狂酱二世！前世@mania_chan_，成分请看图和主页自介！想和同成分互fo呀...\n狂酱也有点穷穷...想支持狂酱的话欢迎投喂( ๑ŏ ﹏ ŏ๑ )谢谢老大们... https://t.co/ZQsusM8PBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 172,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 566
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

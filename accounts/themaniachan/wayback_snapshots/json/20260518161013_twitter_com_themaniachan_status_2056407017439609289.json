@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2056354098166005848",
+    "created_at": "2026-05-18T16:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056407017439609289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2023887772801736704",
+          "start": 0,
+          "username": "lyyouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056407017439609289",
+    "in_reply_to_user_id": "2023887772801736704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056354098166005848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyyouo 好漂亮啊老大..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056354087764209664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImjJdWbsAAl0bl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2056354098166005848",
+        "created_at": "2026-05-18T16:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056407017439609289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2023887772801736704",
+              "start": 0,
+              "username": "lyyouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056407017439609289",
+        "in_reply_to_user_id": "2023887772801736704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056354098166005848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyyouo 好漂亮啊老大..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056354087764209664"
+          ]
+        },
+        "author_id": "2023887772801736704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056354098166005848",
+        "created_at": "2026-05-18T12:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056354098166005848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ea2g4dA7mX",
+              "end": 23,
+              "expanded_url": "https://x.com/lyyouo/status/2056354098166005848/photo/1",
+              "media_key": "3_2056354087764209664",
+              "start": 0,
+              "url": "https://t.co/ea2g4dA7mX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056354098166005848",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 971,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ea2g4dA7mX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 128,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 243
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T22:30:32.000Z",
+        "description": "前世@o3olyy｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡\n求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "o3olyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/6FKFe0QKii"
+              }
+            ]
+          }
+        },
+        "id": "2023887772801736704",
+        "location": "看看你身后｜🚪52坐标10",
+        "name": "真理（寻回互fo版）",
+        "pinned_tweet_id": "2053586183427649665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048059698948263936/IChWanrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 164,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/6FKFe0QKii",
+        "username": "lyyouo",
+        "verified": false
+      }
+    ]
+  }
+}

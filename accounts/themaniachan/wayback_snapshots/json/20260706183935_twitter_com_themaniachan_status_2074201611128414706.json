@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073882034318303232"
+      ],
+      "media_source_tweet_id": [
+        "2073882039741522258"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2074201611128414706",
+    "created_at": "2026-07-06T18:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074201611128414706"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "ヤニねこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3128311494",
+          "start": 3,
+          "username": "akina_mochi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HnqiOvhu5N",
+          "end": 55,
+          "expanded_url": "https://x.com/akina_mochi_/status/2073882039741522258/photo/1",
+          "media_key": "3_2073882034318303232",
+          "start": 32,
+          "url": "https://t.co/HnqiOvhu5N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074201611128414706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073882039741522258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akina_mochi_: 來根小菸～🚬\n\n#ヤニねこ https://t.co/HnqiOvhu5N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1771,
+        "media_key": "3_2073882034318303232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfouOmbYAA0YP1.jpg",
+        "width": 1771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073882034318303232"
+          ],
+          "media_source_tweet_id": [
+            "2073882039741522258"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2074201611128414706",
+        "created_at": "2026-07-06T18:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074201611128414706"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3128311494",
+              "start": 3,
+              "username": "akina_mochi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnqiOvhu5N",
+              "end": 55,
+              "expanded_url": "https://x.com/akina_mochi_/status/2073882039741522258/photo/1",
+              "media_key": "3_2073882034318303232",
+              "start": 32,
+              "url": "https://t.co/HnqiOvhu5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074201611128414706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073882039741522258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akina_mochi_: 來根小菸～🚬\n\n#ヤニねこ https://t.co/HnqiOvhu5N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073882034318303232"
+          ]
+        },
+        "author_id": "3128311494",
+        "conversation_id": "2073882039741522258",
+        "created_at": "2026-07-05T21:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073882039741522258"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnqiOvhu5N",
+              "end": 37,
+              "expanded_url": "https://x.com/akina_mochi_/status/2073882039741522258/photo/1",
+              "media_key": "3_2073882034318303232",
+              "start": 14,
+              "url": "https://t.co/HnqiOvhu5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073882039741522258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 8099,
+          "like_count": 1097,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "來根小菸～🚬\n\n#ヤニねこ https://t.co/HnqiOvhu5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 233,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 997
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-02T00:08:02.000Z",
+        "description": "🇹🇼 台灣/TAIWANESE\n⚠️委託直接私訊我即可／\n粉絲二創tag：#秋酷\n其他平台連結：https://t.co/FPDsv0H1uT\nYouTube：https://t.co/kg4T4eLlUb…",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "秋酷"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/AKINA77",
+                "end": 71,
+                "expanded_url": "https://linktr.ee/AKINA77",
+                "start": 48,
+                "url": "https://t.co/FPDsv0H1uT"
+              },
+              {
+                "display_url": "youtube.com/@akina_AK/vide",
+                "end": 103,
+                "expanded_url": "http://youtube.com/@akina_AK/vide",
+                "start": 80,
+                "url": "https://t.co/kg4T4eLlUb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/14TbUhZP…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/14TbUhZPVcE/",
+                "start": 0,
+                "url": "https://t.co/Egc3lZIlRm"
+              }
+            ]
+          }
+        },
+        "id": "3128311494",
+        "location": "台灣",
+        "name": "秋奈 - AKINA🍁 Commission OPEN",
+        "pinned_tweet_id": "1992472559242367236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853139015249412096/zdvRKSXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7175,
+          "following_count": 533,
+          "like_count": 9582,
+          "listed_count": 21,
+          "media_count": 1042,
+          "tweet_count": 2693
+        },
+        "url": "https://t.co/Egc3lZIlRm",
+        "username": "akina_mochi_",
+        "verified": false
+      }
+    ]
+  }
+}

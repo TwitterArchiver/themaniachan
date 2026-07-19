@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2047661621410218131",
+    "created_at": "2026-04-24T16:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047716981735120987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046995754498084864",
+          "start": 0,
+          "username": "Lizi__QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047716981735120987",
+    "in_reply_to_user_id": "2046995754498084864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047661621410218131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizi__QwQ 栗子老大我是狂酱🥹🥹🥹我也转生了...求求栗子老大互fo🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2047661621410218131",
+        "created_at": "2026-04-24T16:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047716981735120987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046995754498084864",
+              "start": 0,
+              "username": "Lizi__QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047716981735120987",
+        "in_reply_to_user_id": "2046995754498084864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047661621410218131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizi__QwQ 栗子老大我是狂酱🥹🥹🥹我也转生了...求求栗子老大互fo🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046995754498084864",
+        "conversation_id": "2047661621410218131",
+        "created_at": "2026-04-24T12:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047661621410218131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047661621410218131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我现在很躁所以给互关送福利！！\n抽两个13.14评论就行！\n23:00开奖！！\n我爱你们嘿嘿亲亲你们要幸福呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "Mania Amamiya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 28,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T16:53:34.000Z",
+        "description": "od丨餐券丨海量帖子以及黑泥负能注意❗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/MyMz3qs4ez"
+              }
+            ]
+          }
+        },
+        "id": "2046995754498084864",
+        "location": "天國",
+        "name": "🌰 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202603084492800/bxzKb87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 71,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/MyMz3qs4ez",
+        "username": "Lizi__QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

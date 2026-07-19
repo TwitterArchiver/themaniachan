@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2071615191209669001",
+    "created_at": "2026-06-29T15:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071615191209669001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1486352037793366022",
+          "start": 3,
+          "username": "pain4uuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071615191209669001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071355417569960359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pain4uuuu: 被mks制裁 這裡從新自介ʅ（◞‿◟）ʃ4.0\n翠/みどり/killomi\n06|🇭🇰｜le｜💙\n重鬱｜重焦｜bpd｜ptsd\n壞習慣全沾｜紋身｜穿孔｜多風格\n看著粉色但其實是深藍擔當\n目前只在girlsbar WHEN當值\n已暫停爸爸活 只接受c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071355409647243264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7uxUObkAApD2v.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1110,
+        "media_key": "3_2071355409659838464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7uxURbwAARDne.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2071615191209669001",
+        "created_at": "2026-06-29T15:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071615191209669001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1486352037793366022",
+              "start": 3,
+              "username": "pain4uuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071615191209669001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071355417569960359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pain4uuuu: 被mks制裁 這裡從新自介ʅ（◞‿◟）ʃ4.0\n翠/みどり/killomi\n06|🇭🇰｜le｜💙\n重鬱｜重焦｜bpd｜ptsd\n壞習慣全沾｜紋身｜穿孔｜多風格\n看著粉色但其實是深藍擔當\n目前只在girlsbar WHEN當值\n已暫停爸爸活 只接受c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071355409647243264",
+            "3_2071355409659838464"
+          ]
+        },
+        "author_id": "1486352037793366022",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2071355417569960359",
+        "created_at": "2026-06-28T22:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071355417569960359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRsxPu0cve",
+              "end": 174,
+              "expanded_url": "https://x.com/pain4uuuu/status/2071355417569960359/photo/1",
+              "media_key": "3_2071355409647243264",
+              "start": 151,
+              "url": "https://t.co/aRsxPu0cve"
+            },
+            {
+              "display_url": "pic.x.com/aRsxPu0cve",
+              "end": 174,
+              "expanded_url": "https://x.com/pain4uuuu/status/2071355417569960359/photo/1",
+              "media_key": "3_2071355409659838464",
+              "start": 151,
+              "url": "https://t.co/aRsxPu0cve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071355417569960359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2766,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "被mks制裁 這裡從新自介ʅ（◞‿◟）ʃ4.0\n翠/みどり/killomi\n06|🇭🇰｜le｜💙\n重鬱｜重焦｜bpd｜ptsd\n壞習慣全沾｜紋身｜穿孔｜多風格\n看著粉色但其實是深藍擔當\n目前只在girlsbar WHEN當值\n已暫停爸爸活 只接受cafe見面\n這裡是最真實的我 接受不了這樣的我請離開 https://t.co/aRsxPu0cve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 208,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T14:55:30.000Z",
+        "description": "防炸 @wodllmch",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "wodllmch"
+              }
+            ]
+          }
+        },
+        "id": "1486352037793366022",
+        "name": "pain4uuuu4.0",
+        "pinned_tweet_id": "2071355417569960359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047930294897156096/78pNHTuH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 56,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "pain4uuuu",
+        "verified": false
+      }
+    ]
+  }
+}

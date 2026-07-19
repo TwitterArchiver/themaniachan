@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066166192889528320"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2066166196647694631",
+    "created_at": "2026-06-14T14:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066166196647694631"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 60,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 82,
+          "start": 68,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 91,
+          "start": 85,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 106,
+          "start": 94,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "地雷系"
+        },
+        {
+          "end": 124,
+          "start": 112,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 144,
+          "start": 125,
+          "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RvkzqbsfgG",
+          "end": 168,
+          "expanded_url": "https://x.com/themaniachan/status/2066166196647694631/photo/1",
+          "media_key": "3_2066166192889528320",
+          "start": 145,
+          "url": "https://t.co/RvkzqbsfgG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066166196647694631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阴阳头翻新完成！有点剪成ano酱同款了（弗如远甚真的很喜欢ano酱让我蹭一口😭）挡着刘海是因为有点剪短了加上太蓬...\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/RvkzqbsfgG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2232,
+        "media_key": "3_2066166192889528320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx_NJYaAAAVR3m.jpg",
+        "width": 1674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066166192889528320"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2066166196647694631",
+        "created_at": "2026-06-14T14:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066166196647694631"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 60,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 82,
+              "start": 68,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 91,
+              "start": 85,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 106,
+              "start": 94,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "地雷系"
+            },
+            {
+              "end": 124,
+              "start": 112,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 144,
+              "start": 125,
+              "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvkzqbsfgG",
+              "end": 168,
+              "expanded_url": "https://x.com/themaniachan/status/2066166196647694631/photo/1",
+              "media_key": "3_2066166192889528320",
+              "start": 145,
+              "url": "https://t.co/RvkzqbsfgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066166196647694631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阴阳头翻新完成！有点剪成ano酱同款了（弗如远甚真的很喜欢ano酱让我蹭一口😭）挡着刘海是因为有点剪短了加上太蓬...\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/RvkzqbsfgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 182,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 646
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

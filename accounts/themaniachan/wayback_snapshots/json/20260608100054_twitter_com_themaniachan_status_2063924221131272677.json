@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2063924221131272677",
+    "created_at": "2026-06-08T10:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063924221131272677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wsl8297/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/wsl8297/status/2063570165552570483",
+          "start": 18,
+          "url": "https://t.co/gnB9JjjKBF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063924221131272677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063570165552570483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样遗传了豹豹猫猫的全部缺点🥰 https://t.co/gnB9JjjKBF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2063570163174432768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNGIVEbYAAYFrE.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2063924221131272677",
+        "created_at": "2026-06-08T10:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063924221131272677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wsl8297/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/wsl8297/status/2063570165552570483",
+              "start": 18,
+              "url": "https://t.co/gnB9JjjKBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063924221131272677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063570165552570483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样遗传了豹豹猫猫的全部缺点🥰 https://t.co/gnB9JjjKBF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063570163174432768"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2063570165552570483",
+        "created_at": "2026-06-07T10:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063570165552570483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2m78rgQ8UX",
+              "end": 30,
+              "expanded_url": "https://x.com/wsl8297/status/2063570165552570483/photo/1",
+              "media_key": "3_2063570163174432768",
+              "start": 7,
+              "url": "https://t.co/2m78rgQ8UX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063570165552570483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 370822,
+          "like_count": 1733,
+          "quote_count": 5,
+          "reply_count": 210,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "这是为什么？ https://t.co/2m78rgQ8UX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 167,
+          "like_count": 685,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 528
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2054798253955375388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16296,
+          "following_count": 588,
+          "like_count": 16567,
+          "listed_count": 97,
+          "media_count": 1305,
+          "tweet_count": 15578
+        },
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

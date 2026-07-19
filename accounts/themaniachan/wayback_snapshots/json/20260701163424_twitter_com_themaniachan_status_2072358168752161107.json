@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2072358132190531584"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2072358168752161107",
+    "created_at": "2026-07-01T16:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072358168752161107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pia9emQHgE",
+          "end": 62,
+          "expanded_url": "https://x.com/themaniachan/status/2072358168752161107/video/1",
+          "media_key": "7_2072358132190531584",
+          "start": 39,
+          "url": "https://t.co/pia9emQHgE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072358168752161107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请欣赏狂酱出品旮旯给木\n做了一晚上快做死了（）今天刚开始学就做了个小demo https://t.co/pia9emQHgE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76765,
+        "height": 720,
+        "media_key": "7_2072358132190531584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072358132190531584/pu/img/x5M2z_vbBvIz0Lq_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072358132190531584/pu/vid/avc1/480x270/SxwGzFD33OoEDgXI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072358132190531584/pu/vid/avc1/640x360/fTnWilc2F7r4mvw3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072358132190531584/pu/vid/avc1/1280x720/Rwn5WXIxgvriF3IY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072358132190531584/pu/pl/RqtuLTLsSCWydieV.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072358132190531584"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2072358168752161107",
+        "created_at": "2026-07-01T16:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072358168752161107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pia9emQHgE",
+              "end": 62,
+              "expanded_url": "https://x.com/themaniachan/status/2072358168752161107/video/1",
+              "media_key": "7_2072358132190531584",
+              "start": 39,
+              "url": "https://t.co/pia9emQHgE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072358168752161107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请欣赏狂酱出品旮旯给木\n做了一晚上快做死了（）今天刚开始学就做了个小demo https://t.co/pia9emQHgE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 223,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 888
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

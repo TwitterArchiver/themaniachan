@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055597377315336192"
+      ],
+      "media_source_tweet_id": [
+        "2055597383166333187"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2055909287051002205",
+    "created_at": "2026-05-17T07:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055909287051002205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1249326249253539840",
+          "start": 3,
+          "username": "JustKiyan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cMoiJdcj8d",
+          "end": 38,
+          "expanded_url": "https://x.com/JustKiyan/status/2055597383166333187/photo/1",
+          "media_key": "3_2055597377315336192",
+          "start": 15,
+          "url": "https://t.co/cMoiJdcj8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055909287051002205",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1090
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055597383166333187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JustKiyan: https://t.co/cMoiJdcj8d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2055597377315336192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIby7HQa8AA12qR.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055597377315336192"
+          ],
+          "media_source_tweet_id": [
+            "2055597383166333187"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2055909287051002205",
+        "created_at": "2026-05-17T07:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055909287051002205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1249326249253539840",
+              "start": 3,
+              "username": "JustKiyan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMoiJdcj8d",
+              "end": 38,
+              "expanded_url": "https://x.com/JustKiyan/status/2055597383166333187/photo/1",
+              "media_key": "3_2055597377315336192",
+              "start": 15,
+              "url": "https://t.co/cMoiJdcj8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055909287051002205",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1090
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055597383166333187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JustKiyan: https://t.co/cMoiJdcj8d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055597377315336192"
+          ]
+        },
+        "author_id": "1249326249253539840",
+        "conversation_id": "2055597383166333187",
+        "created_at": "2026-05-16T10:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055597383166333187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMoiJdcj8d",
+              "end": 23,
+              "expanded_url": "https://x.com/JustKiyan/status/2055597383166333187/photo/1",
+              "media_key": "3_2055597377315336192",
+              "start": 0,
+              "url": "https://t.co/cMoiJdcj8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055597383166333187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 111506,
+          "like_count": 7095,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 1090
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cMoiJdcj8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 125,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 228
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-12T13:19:31.000Z",
+        "description": "Former NA-announcer for FGO, Red hare enthusiast. I may have spent all my SQ on a single banner and regretted it immediately. Follow for questionable Tweets",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/justkiyan",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/justkiyan",
+                "start": 0,
+                "url": "https://t.co/1sE1wSkslF"
+              }
+            ]
+          }
+        },
+        "id": "1249326249253539840",
+        "location": "🇵🇭",
+        "name": "🎆Kiyan🎉",
+        "pinned_tweet_id": "1660588155924516866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005064163614490624/jE3saYjp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17050,
+          "following_count": 4129,
+          "like_count": 103111,
+          "listed_count": 83,
+          "media_count": 17813,
+          "tweet_count": 81301
+        },
+        "url": "https://t.co/1sE1wSkslF",
+        "username": "JustKiyan",
+        "verified": false
+      }
+    ]
+  }
+}

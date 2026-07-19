@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071927746373025792"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2071927755542065468",
+    "created_at": "2026-06-30T12:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071927755542065468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 36,
+          "id": "2059212406451240960",
+          "start": 28,
+          "username": "Cxq6666"
+        },
+        {
+          "end": 73,
+          "id": "834974107577925632",
+          "start": 59,
+          "username": "yuuki_konno__"
+        },
+        {
+          "end": 92,
+          "id": "1900413813197070336",
+          "start": 81,
+          "username": "HuaWu73858"
+        },
+        {
+          "end": 131,
+          "id": "1751678476279779328",
+          "start": 115,
+          "username": "farmgician_6079"
+        },
+        {
+          "end": 159,
+          "id": "1719356938050527232",
+          "start": 147,
+          "username": "sheng_49754"
+        },
+        {
+          "end": 172,
+          "id": "2055095022425722880",
+          "start": 165,
+          "username": "UnkMtX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xWBQHwPjO0",
+          "end": 204,
+          "expanded_url": "https://x.com/themaniachan/status/2071927755542065468/photo/1",
+          "media_key": "3_2071927746373025792",
+          "start": 181,
+          "url": "https://t.co/xWBQHwPjO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071927755542065468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开奖啦💖💖💖以下老大来私信找我兑奖！\n一等奖（1名）：\n@Cxq6666\n（Chenxianq）\n\n二等奖（2名）：\n@yuuki_konno__\n（mayu）\n@HuaWu73858\n（世界計畫你放過我吧）\n\n三等奖（3名）：\n@farmgician_6079\n（千褔柊玥_Dongyue）\n@sheng_49754\n（雨昕）\n@UnkMtX\n（✟𝗨𝗻𝗸✟） https://t.co/xWBQHwPjO0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071927746373025792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD3TsrXAAA-b0y.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071927746373025792"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2071927755542065468",
+        "created_at": "2026-06-30T12:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071927755542065468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "2059212406451240960",
+              "start": 28,
+              "username": "Cxq6666"
+            },
+            {
+              "end": 73,
+              "id": "834974107577925632",
+              "start": 59,
+              "username": "yuuki_konno__"
+            },
+            {
+              "end": 92,
+              "id": "1900413813197070336",
+              "start": 81,
+              "username": "HuaWu73858"
+            },
+            {
+              "end": 131,
+              "id": "1751678476279779328",
+              "start": 115,
+              "username": "farmgician_6079"
+            },
+            {
+              "end": 159,
+              "id": "1719356938050527232",
+              "start": 147,
+              "username": "sheng_49754"
+            },
+            {
+              "end": 172,
+              "id": "2055095022425722880",
+              "start": 165,
+              "username": "UnkMtX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWBQHwPjO0",
+              "end": 204,
+              "expanded_url": "https://x.com/themaniachan/status/2071927755542065468/photo/1",
+              "media_key": "3_2071927746373025792",
+              "start": 181,
+              "url": "https://t.co/xWBQHwPjO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071927755542065468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开奖啦💖💖💖以下老大来私信找我兑奖！\n一等奖（1名）：\n@Cxq6666\n（Chenxianq）\n\n二等奖（2名）：\n@yuuki_konno__\n（mayu）\n@HuaWu73858\n（世界計畫你放過我吧）\n\n三等奖（3名）：\n@farmgician_6079\n（千褔柊玥_Dongyue）\n@sheng_49754\n（雨昕）\n@UnkMtX\n（✟𝗨𝗻𝗸✟） https://t.co/xWBQHwPjO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 217,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 849
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "19｜餐券妹｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 41,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T03:51:55.000Z",
+        "description": "银梦小鬼，偶尔乳包/希望结识有趣的人/西朝鲜在住/简&繁&En/摄影&日本民俗喜欢/日本语学习中",
+        "id": "834974107577925632",
+        "location": "west koera",
+        "name": "mayu",
+        "pinned_tweet_id": "1272225850004471813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1257556445618372609/UPWEpMrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 1284,
+          "like_count": 46626,
+          "listed_count": 0,
+          "media_count": 1177,
+          "tweet_count": 3428
+        },
+        "url": "",
+        "username": "yuuki_konno__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T05:09:05.000Z",
+        "description": "18↓ oder 簡體中文🇨🇳/繁體中文🇹🇼 OK\nproject moon享受者,金智勳你媽死了\n世界計畫,啟動！",
+        "id": "1900413813197070336",
+        "location": "邁克·華萊士家裡",
+        "name": "世界計畫你放過我吧🇹🇼🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042811161364873216/4StNBH4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "HuaWu73858",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T18:47:57.000Z",
+        "description": "2010.11.23|学生党|🏳️‍⚧️|乌蒙吃|互|只有在精神状态差的情况下上线（）|最最喜欢的老公大人 \n@Paxuiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Paxuiiii"
+              }
+            ]
+          }
+        },
+        "id": "1751678476279779328",
+        "name": "千褔柊玥_Dongyue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069375449852235776/ahaDfXZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 80,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "farmgician_6079",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T14:13:43.000Z",
+        "description": "淡推ing，6月再回归",
+        "id": "1719356938050527232",
+        "name": "雨昕🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067869751846866944/rkvIbVge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 94,
+          "like_count": 351,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "sheng_49754",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中，不发帖就是没手机了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊✝️普瑞巴林重度依赖✝️ |159cm52kg|INFP-T|重度社恐|\n对象💖@Lvmaosamaovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/AjAoii7tnc"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "🤯",
+        "name": "✟𝗨𝗻𝗸✟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071513573331997022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 1130,
+          "like_count": 3046,
+          "listed_count": 15,
+          "media_count": 115,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/AjAoii7tnc",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

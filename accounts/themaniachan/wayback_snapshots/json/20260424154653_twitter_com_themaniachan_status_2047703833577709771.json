@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047514774511263744"
+      ],
+      "media_source_tweet_id": [
+        "2047514784875303418"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2047703833577709771",
+    "created_at": "2026-04-24T15:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047703833577709771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042606909086404616",
+          "start": 3,
+          "username": "CacoooOvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/urw8eBFWyn",
+          "end": 76,
+          "expanded_url": "https://x.com/CacoooOvO/status/2047514784875303418/photo/1",
+          "media_key": "3_2047514774511263744",
+          "start": 53,
+          "url": "https://t.co/urw8eBFWyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047703833577709771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047514784875303418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CacoooOvO: 更新了自介条＞_＜\n同类互fo/互转\n这次把血图抹了msk别真实我了行不行 https://t.co/urw8eBFWyn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047514774511263744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo71tcboAAoxch.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047514774511263744"
+          ],
+          "media_source_tweet_id": [
+            "2047514784875303418"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2047703833577709771",
+        "created_at": "2026-04-24T15:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047703833577709771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042606909086404616",
+              "start": 3,
+              "username": "CacoooOvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/urw8eBFWyn",
+              "end": 76,
+              "expanded_url": "https://x.com/CacoooOvO/status/2047514784875303418/photo/1",
+              "media_key": "3_2047514774511263744",
+              "start": 53,
+              "url": "https://t.co/urw8eBFWyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047703833577709771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047514784875303418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CacoooOvO: 更新了自介条＞_＜\n同类互fo/互转\n这次把血图抹了msk别真实我了行不行 https://t.co/urw8eBFWyn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047514774511263744"
+          ]
+        },
+        "author_id": "2042606909086404616",
+        "conversation_id": "2047514784875303418",
+        "created_at": "2026-04-24T03:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047514784875303418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urw8eBFWyn",
+              "end": 61,
+              "expanded_url": "https://x.com/CacoooOvO/status/2047514784875303418/photo/1",
+              "media_key": "3_2047514774511263744",
+              "start": 38,
+              "url": "https://t.co/urw8eBFWyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047514784875303418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4171,
+          "like_count": 100,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "更新了自介条＞_＜\n同类互fo/互转\n这次把血图抹了msk别真实我了行不行 https://t.co/urw8eBFWyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "Mania Amamiya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语\n简中/繁中/En\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046822210850230557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 540,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 182
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062189654732939264"
+      ],
+      "media_source_tweet_id": [
+        "2062189739327832482"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2062418386496446688",
+    "created_at": "2026-06-04T06:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062418386496446688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993455710274043905",
+          "start": 3,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1B4W5omSRP",
+          "end": 90,
+          "expanded_url": "https://x.com/satireorcry1/status/2062189739327832482/video/1",
+          "media_key": "13_2062189654732939264",
+          "start": 67,
+          "url": "https://t.co/1B4W5omSRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062418386496446688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062189739327832482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satireorcry1: 现在应该没有歌手\n敢把天安门的画面放进 MV 了吧\n必须给 Michael 一个 respect https://t.co/1B4W5omSRP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26200,
+        "height": 720,
+        "media_key": "13_2062189654732939264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062189654732939264/img/cKf-DMuny7DCPcY9.jpg",
+        "public_metrics": {
+          "view_count": 25287
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062189654732939264/vid/avc1/360x270/ul3_AaK_tRmmcg4-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062189654732939264/vid/avc1/482x360/QyLcDDaCmS90Kret.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062189654732939264/vid/avc1/964x720/Zaki2rEp1wt9dL4I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062189654732939264/pl/yUkJnoyS6Xoiun30.m3u8?v=cfc"
+          }
+        ],
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062189654732939264"
+          ],
+          "media_source_tweet_id": [
+            "2062189739327832482"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2062418386496446688",
+        "created_at": "2026-06-04T06:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062418386496446688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993455710274043905",
+              "start": 3,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1B4W5omSRP",
+              "end": 90,
+              "expanded_url": "https://x.com/satireorcry1/status/2062189739327832482/video/1",
+              "media_key": "13_2062189654732939264",
+              "start": 67,
+              "url": "https://t.co/1B4W5omSRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062418386496446688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062189739327832482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satireorcry1: 现在应该没有歌手\n敢把天安门的画面放进 MV 了吧\n必须给 Michael 一个 respect https://t.co/1B4W5omSRP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062189654732939264"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2062189739327832482",
+        "created_at": "2026-06-03T15:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062189739327832482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1B4W5omSRP",
+              "end": 72,
+              "expanded_url": "https://x.com/satireorcry1/status/2062189739327832482/video/1",
+              "media_key": "13_2062189654732939264",
+              "start": 49,
+              "url": "https://t.co/1B4W5omSRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062189739327832482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 48283,
+          "like_count": 792,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "现在应该没有歌手\n敢把天安门的画面放进 MV 了吧\n必须给 Michael 一个 respect https://t.co/1B4W5omSRP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 154,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 456
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34205,
+          "following_count": 1614,
+          "like_count": 20121,
+          "listed_count": 82,
+          "media_count": 4699,
+          "tweet_count": 6429
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

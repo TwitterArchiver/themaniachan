@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072383576457580544"
+      ],
+      "media_source_tweet_id": [
+        "2072383581255836058"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2072536967208923145",
+    "created_at": "2026-07-02T04:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072536967208923145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974381649879236608",
+          "start": 3,
+          "username": "lamyeongood"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P0rsYmUJHz",
+          "end": 48,
+          "expanded_url": "https://x.com/lamyeongood/status/2072383581255836058/photo/1",
+          "media_key": "3_2072383576457580544",
+          "start": 25,
+          "url": "https://t.co/P0rsYmUJHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072536967208923145",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 432
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072383581255836058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lamyeongood: 그랜드 사기꾼 https://t.co/P0rsYmUJHz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2072383576457580544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKV4gEbkAA_YSF.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072383576457580544"
+          ],
+          "media_source_tweet_id": [
+            "2072383581255836058"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2072536967208923145",
+        "created_at": "2026-07-02T04:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072536967208923145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974381649879236608",
+              "start": 3,
+              "username": "lamyeongood"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0rsYmUJHz",
+              "end": 48,
+              "expanded_url": "https://x.com/lamyeongood/status/2072383581255836058/photo/1",
+              "media_key": "3_2072383576457580544",
+              "start": 25,
+              "url": "https://t.co/P0rsYmUJHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072536967208923145",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 432
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072383581255836058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lamyeongood: 그랜드 사기꾼 https://t.co/P0rsYmUJHz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072383576457580544"
+          ]
+        },
+        "author_id": "1974381649879236608",
+        "conversation_id": "2072383581255836058",
+        "created_at": "2026-07-01T18:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072383581255836058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0rsYmUJHz",
+              "end": 31,
+              "expanded_url": "https://x.com/lamyeongood/status/2072383581255836058/photo/1",
+              "media_key": "3_2072383576457580544",
+              "start": 8,
+              "url": "https://t.co/P0rsYmUJHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072383581255836058",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 13718,
+          "like_count": 1862,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 432
+        },
+        "reply_settings": "everyone",
+        "text": "그랜드 사기꾼 https://t.co/P0rsYmUJHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 224,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 897
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:50:55.000Z",
+        "description": "내가 가능충인게 아니라 쟤네가 가능성 있게 생긴 거야",
+        "id": "1974381649879236608",
+        "name": "상한라면",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014340844736888832/5iDi1Eur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 60,
+          "like_count": 127,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "lamyeongood",
+        "verified": false
+      }
+    ]
+  }
+}

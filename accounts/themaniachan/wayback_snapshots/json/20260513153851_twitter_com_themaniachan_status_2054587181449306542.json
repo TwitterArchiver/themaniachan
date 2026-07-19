@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054587082392449024"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2054587181449306542",
+    "created_at": "2026-05-13T15:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054587181449306542"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 21,
+          "start": 9,
+          "tag": "病み垢女子と繫がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oijDKtKQPk",
+          "end": 45,
+          "expanded_url": "https://x.com/themaniachan/status/2054587181449306542/video/1",
+          "media_key": "13_2054587082392449024",
+          "start": 22,
+          "url": "https://t.co/oijDKtKQPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054587181449306542",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#病み垢女子  \n#病み垢女子と繫がりたい https://t.co/oijDKtKQPk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50100,
+        "height": 958,
+        "media_key": "13_2054587082392449024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054587082392449024/img/KXv08iDCID4OOTpT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054587082392449024/vid/avc1/320x424/bU0-SIrbFCfpJBrk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054587082392449024/vid/avc1/480x638/TxoOhkWDICGYqVBT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054587082392449024/vid/avc1/720x958/OZxVov3ikCs0pyX1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054587082392449024/pl/3ALw015S3bQn9Szo.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054587082392449024"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2054587181449306542",
+        "created_at": "2026-05-13T15:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054587181449306542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 21,
+              "start": 9,
+              "tag": "病み垢女子と繫がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oijDKtKQPk",
+              "end": 45,
+              "expanded_url": "https://x.com/themaniachan/status/2054587181449306542/video/1",
+              "media_key": "13_2054587082392449024",
+              "start": 22,
+              "url": "https://t.co/oijDKtKQPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054587181449306542",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#病み垢女子  \n#病み垢女子と繫がりたい https://t.co/oijDKtKQPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 92,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 182
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

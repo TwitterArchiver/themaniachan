@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058406244260646912"
+      ],
+      "media_source_tweet_id": [
+        "2058406249319022853"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actor",
+          "id": "1070724832340279297",
+          "name": "Jouji Nakata"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actor",
+          "id": "1070724832340279297",
+          "name": "Jouji Nakata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actor",
+          "id": "1070724832340279297",
+          "name": "Jouji Nakata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2058527689523482953",
+    "created_at": "2026-05-24T12:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058527689523482953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "343286186",
+          "start": 3,
+          "username": "joujinakata123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S4VPP1XDgs",
+          "end": 51,
+          "expanded_url": "https://x.com/joujinakata123/status/2058406249319022853/photo/1",
+          "media_key": "3_2058406244260646912",
+          "start": 28,
+          "url": "https://t.co/S4VPP1XDgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058527689523482953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 507
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058406249319022853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @joujinakata123: 五等分の言峰♪ https://t.co/S4VPP1XDgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2058406244260646912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDtksCaEAAA9RA.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058406244260646912"
+          ],
+          "media_source_tweet_id": [
+            "2058406249319022853"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724832340279297",
+              "name": "Jouji Nakata"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724832340279297",
+              "name": "Jouji Nakata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724832340279297",
+              "name": "Jouji Nakata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2058527689523482953",
+        "created_at": "2026-05-24T12:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058527689523482953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "343286186",
+              "start": 3,
+              "username": "joujinakata123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4VPP1XDgs",
+              "end": 51,
+              "expanded_url": "https://x.com/joujinakata123/status/2058406249319022853/photo/1",
+              "media_key": "3_2058406244260646912",
+              "start": 28,
+              "url": "https://t.co/S4VPP1XDgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058527689523482953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 507
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058406249319022853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @joujinakata123: 五等分の言峰♪ https://t.co/S4VPP1XDgs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058406244260646912"
+          ]
+        },
+        "author_id": "343286186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724832340279297",
+              "name": "Jouji Nakata"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724832340279297",
+              "name": "Jouji Nakata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724832340279297",
+              "name": "Jouji Nakata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2058406249319022853",
+        "created_at": "2026-05-24T04:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058406249319022853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4VPP1XDgs",
+              "end": 31,
+              "expanded_url": "https://x.com/joujinakata123/status/2058406249319022853/photo/1",
+              "media_key": "3_2058406244260646912",
+              "start": 8,
+              "url": "https://t.co/S4VPP1XDgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058406249319022853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 78039,
+          "like_count": 3655,
+          "quote_count": 12,
+          "reply_count": 19,
+          "retweet_count": 507
+        },
+        "reply_settings": "everyone",
+        "text": "五等分の言峰♪ https://t.co/S4VPP1XDgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 132,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 307
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-27T10:05:10.000Z",
+        "description": "フォローして下さったのも何かの縁。ついでにヘルシング、巌窟王、ケロロ軍曹位はチェケラプリーズ。外画ならスリーハンドレッド、セックス・アンド・ザ・シティもね! ボイスサンプルはこちら https://t.co/h301JKoRHi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "osawa-inc.co.jp/men/nakatajouj…",
+                "end": 114,
+                "expanded_url": "https://osawa-inc.co.jp/men/nakatajouji/",
+                "start": 91,
+                "url": "https://t.co/h301JKoRHi"
+              }
+            ]
+          }
+        },
+        "id": "343286186",
+        "name": "中田譲治",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007006728232300544/d98Xji8o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480919,
+          "following_count": 744,
+          "like_count": 11752,
+          "listed_count": 7121,
+          "media_count": 15813,
+          "tweet_count": 89593
+        },
+        "username": "joujinakata123",
+        "verified": true
+      }
+    ]
+  }
+}

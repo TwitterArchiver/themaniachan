@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2067424113141186696",
+    "created_at": "2026-06-18T17:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067654457329098999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056655773502160896",
+          "start": 0,
+          "username": "simaojie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067654457329098999",
+    "in_reply_to_user_id": "2056655773502160896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067424113141186696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simaojie 盒盒这人之前还问我要不要ym结果就是为了扩列（）好恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067424099060854784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD3Q7CasAAppT3.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067424099060928512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD3Q7Cb0AAjaeh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2067424113141186696",
+        "created_at": "2026-06-18T17:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067654457329098999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056655773502160896",
+              "start": 0,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067654457329098999",
+        "in_reply_to_user_id": "2056655773502160896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067424113141186696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simaojie 盒盒这人之前还问我要不要ym结果就是为了扩列（）好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067424099060854784",
+            "3_2067424099060928512"
+          ]
+        },
+        "author_id": "2056655773502160896",
+        "conversation_id": "2067424113141186696",
+        "created_at": "2026-06-18T01:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067424113141186696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n79sP7UwvW",
+              "end": 63,
+              "expanded_url": "https://x.com/simaojie/status/2067424113141186696/photo/1",
+              "media_key": "3_2067424099060854784",
+              "start": 40,
+              "url": "https://t.co/n79sP7UwvW"
+            },
+            {
+              "display_url": "pic.x.com/n79sP7UwvW",
+              "end": 63,
+              "expanded_url": "https://x.com/simaojie/status/2067424113141186696/photo/1",
+              "media_key": "3_2067424099060928512",
+              "start": 40,
+              "url": "https://t.co/n79sP7UwvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067424113141186696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2792,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将用最直接最直白最客观最真实最简略最不绕弯子最一针见血的方式告诉你：我没绷住 https://t.co/n79sP7UwvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 188,
+          "like_count": 816,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 693
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "05 地雷/量产 你们可以叫我kaki/小卉\n欢迎互fo互转！！\n纯交同类朋友来的不收门槛\n男的别关注别骚扰别评论不收门槛\n男的别关注私信不然我会先问候你全家再拉黑",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别关注别骚扰别评论",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 129,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 89
+        },
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

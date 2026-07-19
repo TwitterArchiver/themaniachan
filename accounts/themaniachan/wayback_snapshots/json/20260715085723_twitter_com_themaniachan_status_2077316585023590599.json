@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2077191882116141345",
+    "created_at": "2026-07-15T08:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077316585023590599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991927210899574785",
+          "start": 0,
+          "username": "Mumula379528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077316585023590599",
+    "in_reply_to_user_id": "1991927210899574785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077244144968425773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mumula379528 老大啵啵你！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077244144968425773].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077244144968425773",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077244144968425773"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2077191882116141345",
+        "created_at": "2026-07-15T08:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077316585023590599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991927210899574785",
+              "start": 0,
+              "username": "Mumula379528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077316585023590599",
+        "in_reply_to_user_id": "1991927210899574785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077244144968425773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mumula379528 老大啵啵你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 235,
+          "like_count": 1234,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1024
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "重度失语中…\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。\n姐姐@peipeimao\n卷卷@bdsmbratttt\n小白华@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "peipeimao"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "bdsmbratttt"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "Ayin886030"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 657,
+          "like_count": 3536,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      }
+    ]
+  }
+}

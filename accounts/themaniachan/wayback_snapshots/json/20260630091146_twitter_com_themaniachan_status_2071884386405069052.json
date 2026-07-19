@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071770630769508352",
+        "3_2071770650428186624"
+      ],
+      "media_source_tweet_id": [
+        "2071771013298479287",
+        "2071771013298479287"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2071884386405069052",
+    "created_at": "2026-06-30T09:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071884386405069052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1751097405200814080",
+          "start": 3,
+          "username": "0Ari_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EylH697gaL",
+          "end": 49,
+          "expanded_url": "https://x.com/0Ari_/status/2071771013298479287/photo/1",
+          "media_key": "3_2071770630769508352",
+          "start": 26,
+          "url": "https://t.co/EylH697gaL"
+        },
+        {
+          "display_url": "pic.x.com/EylH697gaL",
+          "end": 49,
+          "expanded_url": "https://x.com/0Ari_/status/2071771013298479287/photo/1",
+          "media_key": "3_2071770650428186624",
+          "start": 26,
+          "url": "https://t.co/EylH697gaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071884386405069052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 230
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071771013298479287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0Ari_: このトランプ音ゲーしてるの草 https://t.co/EylH697gaL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2071770630769508352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBoaXcagAA74rv.png",
+        "width": 357
+      },
+      {
+        "height": 360,
+        "media_key": "3_2071770650428186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBobgraIAADQx_.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071770630769508352",
+            "3_2071770650428186624"
+          ],
+          "media_source_tweet_id": [
+            "2071771013298479287",
+            "2071771013298479287"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2071884386405069052",
+        "created_at": "2026-06-30T09:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071884386405069052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1751097405200814080",
+              "start": 3,
+              "username": "0Ari_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EylH697gaL",
+              "end": 49,
+              "expanded_url": "https://x.com/0Ari_/status/2071771013298479287/photo/1",
+              "media_key": "3_2071770630769508352",
+              "start": 26,
+              "url": "https://t.co/EylH697gaL"
+            },
+            {
+              "display_url": "pic.x.com/EylH697gaL",
+              "end": 49,
+              "expanded_url": "https://x.com/0Ari_/status/2071771013298479287/photo/1",
+              "media_key": "3_2071770650428186624",
+              "start": 26,
+              "url": "https://t.co/EylH697gaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071884386405069052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071771013298479287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0Ari_: このトランプ音ゲーしてるの草 https://t.co/EylH697gaL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071770630769508352",
+            "3_2071770650428186624"
+          ]
+        },
+        "author_id": "1751097405200814080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2071771013298479287",
+        "created_at": "2026-06-30T01:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071771013298479287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EylH697gaL",
+              "end": 38,
+              "expanded_url": "https://x.com/0Ari_/status/2071771013298479287/photo/1",
+              "media_key": "3_2071770630769508352",
+              "start": 15,
+              "url": "https://t.co/EylH697gaL"
+            },
+            {
+              "display_url": "pic.x.com/EylH697gaL",
+              "end": 38,
+              "expanded_url": "https://x.com/0Ari_/status/2071771013298479287/photo/1",
+              "media_key": "3_2071770650428186624",
+              "start": 15,
+              "url": "https://t.co/EylH697gaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071771013298479287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 822,
+          "impression_count": 1013929,
+          "like_count": 7566,
+          "quote_count": 22,
+          "reply_count": 21,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "このトランプ音ゲーしてるの草 https://t.co/EylH697gaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 207,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T04:19:00.000Z",
+        "description": "DMで募集中！ （画像付きの場合採用率up⇧）削除依頼用垢@0ari_delete",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "0ari_delete"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@0ari_youtube?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@0ari_youtube?si=PWqYvUOX03bkPHUM",
+                "start": 0,
+                "url": "https://t.co/TnSRX7gPe3"
+              }
+            ]
+          }
+        },
+        "id": "1751097405200814080",
+        "name": "ネットのバズ速報",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063103658209001473/MEil6oRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42960,
+          "following_count": 396,
+          "like_count": 2363,
+          "listed_count": 61,
+          "media_count": 1454,
+          "tweet_count": 5214
+        },
+        "url": "https://t.co/TnSRX7gPe3",
+        "username": "0Ari_",
+        "verified": true
+      }
+    ]
+  }
+}

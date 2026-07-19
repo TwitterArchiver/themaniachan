@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071995954723704842"
+      ],
+      "media_source_tweet_id": [
+        "2071998446702104727"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2072201114464956711",
+    "created_at": "2026-07-01T06:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072201114464956711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1890029305205608448",
+          "start": 3,
+          "username": "wsl8297"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I5P62BbmS9",
+          "end": 44,
+          "expanded_url": "https://x.com/wsl8297/status/2071998446702104727/photo/1",
+          "media_key": "3_2071995954723704842",
+          "start": 21,
+          "url": "https://t.co/I5P62BbmS9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072201114464956711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071998446702104727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wsl8297: 哈哈哈笑死了🤣 https://t.co/I5P62BbmS9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 618,
+        "media_key": "3_2071995954723704842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME1V8laUAoqZLV.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071995954723704842"
+          ],
+          "media_source_tweet_id": [
+            "2071998446702104727"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2072201114464956711",
+        "created_at": "2026-07-01T06:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072201114464956711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1890029305205608448",
+              "start": 3,
+              "username": "wsl8297"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5P62BbmS9",
+              "end": 44,
+              "expanded_url": "https://x.com/wsl8297/status/2071998446702104727/photo/1",
+              "media_key": "3_2071995954723704842",
+              "start": 21,
+              "url": "https://t.co/I5P62BbmS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072201114464956711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071998446702104727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wsl8297: 哈哈哈笑死了🤣 https://t.co/I5P62BbmS9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071995954723704842"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2071998446702104727",
+        "created_at": "2026-06-30T16:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071998446702104727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5P62BbmS9",
+              "end": 31,
+              "expanded_url": "https://x.com/wsl8297/status/2071998446702104727/photo/1",
+              "media_key": "3_2071995954723704842",
+              "start": 8,
+              "url": "https://t.co/I5P62BbmS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071998446702104727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 57122,
+          "like_count": 371,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈笑死了🤣 https://t.co/I5P62BbmS9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 222,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2067151516373495924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18396,
+          "following_count": 654,
+          "like_count": 20855,
+          "listed_count": 104,
+          "media_count": 2714,
+          "tweet_count": 19205
+        },
+        "url": "",
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

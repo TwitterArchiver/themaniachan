@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071541995177447424",
+        "3_2071541994690908160"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071541998272823710",
+    "created_at": "2026-06-29T10:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071541998272823710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bddgCzIppT",
+          "end": 111,
+          "expanded_url": "https://x.com/themaniachan/status/2071541998272823710/photo/1",
+          "media_key": "3_2071541995177447424",
+          "start": 88,
+          "url": "https://t.co/bddgCzIppT"
+        },
+        {
+          "display_url": "pic.x.com/bddgCzIppT",
+          "end": 111,
+          "expanded_url": "https://x.com/themaniachan/status/2071541998272823710/photo/1",
+          "media_key": "3_2071541994690908160",
+          "start": 88,
+          "url": "https://t.co/bddgCzIppT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071541998272823710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "简中乙游何意味\n非得擦这个边吗真闹麻了\n在简中互联网不敢说，在外网我真的开麦，博主讨厌国乙，不只是因为各种营销让人恶心，还有我坑被国乙借鉴抄袭过无数次了，没一个干净的都去死吧 https://t.co/bddgCzIppT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1959,
+        "media_key": "3_2071541995177447424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-YeBfbEAAFSBd.jpg",
+        "width": 1290
+      },
+      {
+        "height": 912,
+        "media_key": "3_2071541994690908160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-Yd_rbEAAhEIc.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071541995177447424",
+            "3_2071541994690908160"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071541998272823710",
+        "created_at": "2026-06-29T10:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071541998272823710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bddgCzIppT",
+              "end": 111,
+              "expanded_url": "https://x.com/themaniachan/status/2071541998272823710/photo/1",
+              "media_key": "3_2071541995177447424",
+              "start": 88,
+              "url": "https://t.co/bddgCzIppT"
+            },
+            {
+              "display_url": "pic.x.com/bddgCzIppT",
+              "end": 111,
+              "expanded_url": "https://x.com/themaniachan/status/2071541998272823710/photo/1",
+              "media_key": "3_2071541994690908160",
+              "start": 88,
+              "url": "https://t.co/bddgCzIppT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071541998272823710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简中乙游何意味\n非得擦这个边吗真闹麻了\n在简中互联网不敢说，在外网我真的开麦，博主讨厌国乙，不只是因为各种营销让人恶心，还有我坑被国乙借鉴抄袭过无数次了，没一个干净的都去死吧 https://t.co/bddgCzIppT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 206,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2071948029289201777",
+    "created_at": "2026-06-30T13:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071948029289201777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882823505336750080",
+          "start": 3,
+          "username": "huiseliuye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071948029289201777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071542138605883452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huiseliuye: 乙小妹一贯的脑回路很神。不退游不停氪买牛粪鸡屎往叠纸寄😂😂😂收拾的只有保洁这些个可怜打工人。很爱为难别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2071948029289201777",
+        "created_at": "2026-06-30T13:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071948029289201777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882823505336750080",
+              "start": 3,
+              "username": "huiseliuye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071948029289201777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071542138605883452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huiseliuye: 乙小妹一贯的脑回路很神。不退游不停氪买牛粪鸡屎往叠纸寄😂😂😂收拾的只有保洁这些个可怜打工人。很爱为难别人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882823505336750080",
+        "conversation_id": "2071542138605883452",
+        "created_at": "2026-06-29T10:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071542138605883452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071542138605883452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 70806,
+          "like_count": 1771,
+          "quote_count": 6,
+          "reply_count": 69,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "乙小妹一贯的脑回路很神。不退游不停氪买牛粪鸡屎往叠纸寄😂😂😂收拾的只有保洁这些个可怜打工人。很爱为难别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 217,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 856
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T16:11:30.000Z",
+        "description": "我呢是一位好评率100%的客服呀\n温良呆萌善良的小猪猪一枚呀",
+        "id": "1882823505336750080",
+        "location": "服了还要天天给你们这群猪支教",
+        "name": "客服萌萌猪。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038166012840001536/sI7fZzsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 86,
+          "like_count": 24312,
+          "listed_count": 4,
+          "media_count": 282,
+          "tweet_count": 2830
+        },
+        "url": "",
+        "username": "huiseliuye",
+        "verified": false
+      }
+    ]
+  }
+}

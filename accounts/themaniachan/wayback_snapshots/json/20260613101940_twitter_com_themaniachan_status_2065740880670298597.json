@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065485980707299539",
+    "created_at": "2026-06-13T10:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065740880670298597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754507094823190529",
+          "start": 0,
+          "username": "jiyjir165103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065740880670298597",
+    "in_reply_to_user_id": "1754507094823190529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065726459193516423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyjir165103 好耶...将严肃品鉴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065485980707299539",
+        "created_at": "2026-06-13T10:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065740880670298597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1754507094823190529",
+              "start": 0,
+              "username": "jiyjir165103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065740880670298597",
+        "in_reply_to_user_id": "1754507094823190529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065726459193516423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyjir165103 好耶...将严肃品鉴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754507094823190529",
+        "conversation_id": "2065485980707299539",
+        "created_at": "2026-06-13T09:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065726459193516423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065726459193516423",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065485980707299539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 挺好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 179,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 606
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T14:07:58.000Z",
+        "description": "到底是現實還是幻想，我分不清⋯",
+        "id": "1754507094823190529",
+        "location": "（╹◡╹）",
+        "name": "清夢甚愜🫥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064724224883990530/wnKhjiO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 194,
+          "like_count": 6586,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2018
+        },
+        "username": "jiyjir165103",
+        "verified": false
+      }
+    ]
+  }
+}

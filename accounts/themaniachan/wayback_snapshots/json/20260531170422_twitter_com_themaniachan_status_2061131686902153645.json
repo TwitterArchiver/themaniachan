@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2061131686902153645",
+    "created_at": "2026-05-31T17:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061131686902153645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046395388974845952",
+          "start": 3,
+          "username": "eduantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061131686902153645",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1350
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060899150204404114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eduantao: O Twitter é dividido em dois grupos: os que querem morrer e os que querem transar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2061131686902153645",
+        "created_at": "2026-05-31T17:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061131686902153645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046395388974845952",
+              "start": 3,
+              "username": "eduantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061131686902153645",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1350
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060899150204404114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eduantao: O Twitter é dividido em dois grupos: os que querem morrer e os que querem transar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046395388974845952",
+        "conversation_id": "2060899150204404114",
+        "created_at": "2026-05-31T01:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060899150204404114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060899150204404114",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 227580,
+          "like_count": 7589,
+          "quote_count": 349,
+          "reply_count": 204,
+          "retweet_count": 1350
+        },
+        "reply_settings": "everyone",
+        "text": "O Twitter é dividido em dois grupos: os que querem morrer e os que querem transar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 141,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 390
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 464,
+          "like_count": 124,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 236
+        },
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

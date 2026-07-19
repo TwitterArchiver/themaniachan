@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2050605555367157995",
+    "created_at": "2026-05-02T15:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050605555367157995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1457686450577707019",
+          "start": 3,
+          "username": "fly_in_X"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Estimate your 𝕏 (Twitter) TweepCred reputation score. Find out if the algorithm is limiting your reach and how to fix it.",
+          "display_url": "tweethunter.io/tweepcred-calc…",
+          "end": 74,
+          "expanded_url": "https://tweethunter.io/tweepcred-calculator",
+          "start": 51,
+          "status": 200,
+          "title": "TweepCred Calculator — Check Your Twitter/𝕏 Algorithm Score | tweethunter",
+          "unwound_url": "https://tweethunter.io/tweepcred-calculator",
+          "url": "https://t.co/isYPUgtPmQ"
+        },
+        {
+          "description": "Are you shadowbanned on Twitter?",
+          "display_url": "hisubway.online/shadowban/",
+          "end": 102,
+          "expanded_url": "https://hisubway.online/shadowban/",
+          "images": [
+            {
+              "height": 1050,
+              "url": "https://pbs.twimg.com/news_img/2050454263760130048/VNjnRTJ_?format=png&name=orig",
+              "width": 2000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2050454263760130048/VNjnRTJ_?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 79,
+          "status": 200,
+          "title": "Twitter Shadowban Test",
+          "unwound_url": "https://hisubway.online/shadowban/",
+          "url": "https://t.co/4whUeuFylC"
+        },
+        {
+          "display_url": "t.co/jugzf",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/jugzf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050605555367157995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050395503834407170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fly_in_X: 两个X帐号自检工具，一个查评分的，一个查健康度(是否被ban)的。\n评分：https://t.co/isYPUgtPmQ\n健康度:https://t.co/4whUeuFylC\n蓝V新人可以收藏一下，经常要用到。 https://t.co/jugzf…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2050395341644771329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR3syPaMAEoj2M.png",
+        "width": 540
+      },
+      {
+        "height": 635,
+        "media_key": "3_2050395439338512384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR3yeLaYAAebfV.png",
+        "width": 505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2050605555367157995",
+        "created_at": "2026-05-02T15:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050605555367157995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1457686450577707019",
+              "start": 3,
+              "username": "fly_in_X"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Estimate your 𝕏 (Twitter) TweepCred reputation score. Find out if the algorithm is limiting your reach and how to fix it.",
+              "display_url": "tweethunter.io/tweepcred-calc…",
+              "end": 74,
+              "expanded_url": "https://tweethunter.io/tweepcred-calculator",
+              "start": 51,
+              "status": 200,
+              "title": "TweepCred Calculator — Check Your Twitter/𝕏 Algorithm Score | tweethunter",
+              "unwound_url": "https://tweethunter.io/tweepcred-calculator",
+              "url": "https://t.co/isYPUgtPmQ"
+            },
+            {
+              "description": "Are you shadowbanned on Twitter?",
+              "display_url": "hisubway.online/shadowban/",
+              "end": 102,
+              "expanded_url": "https://hisubway.online/shadowban/",
+              "images": [
+                {
+                  "height": 1050,
+                  "url": "https://pbs.twimg.com/news_img/2050454263760130048/VNjnRTJ_?format=png&name=orig",
+                  "width": 2000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050454263760130048/VNjnRTJ_?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "Twitter Shadowban Test",
+              "unwound_url": "https://hisubway.online/shadowban/",
+              "url": "https://t.co/4whUeuFylC"
+            },
+            {
+              "display_url": "t.co/jugzf",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/jugzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050605555367157995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050395503834407170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fly_in_X: 两个X帐号自检工具，一个查评分的，一个查健康度(是否被ban)的。\n评分：https://t.co/isYPUgtPmQ\n健康度:https://t.co/4whUeuFylC\n蓝V新人可以收藏一下，经常要用到。 https://t.co/jugzf…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050395341644771329",
+            "3_2050395439338512384"
+          ]
+        },
+        "author_id": "1457686450577707019",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2050395503834407170",
+        "created_at": "2026-05-02T02:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050395503834407170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Estimate your 𝕏 (Twitter) TweepCred reputation score. Find out if the algorithm is limiting your reach and how to fix it.",
+              "display_url": "tweethunter.io/tweepcred-calc…",
+              "end": 60,
+              "expanded_url": "https://tweethunter.io/tweepcred-calculator",
+              "start": 37,
+              "status": 200,
+              "title": "TweepCred Calculator — Check Your Twitter/𝕏 Algorithm Score | tweethunter",
+              "unwound_url": "https://tweethunter.io/tweepcred-calculator",
+              "url": "https://t.co/isYPUgtPmQ"
+            },
+            {
+              "description": "Are you shadowbanned on Twitter?",
+              "display_url": "hisubway.online/shadowban/",
+              "end": 88,
+              "expanded_url": "https://hisubway.online/shadowban/",
+              "images": [
+                {
+                  "height": 1050,
+                  "url": "https://pbs.twimg.com/news_img/2050454263760130048/VNjnRTJ_?format=png&name=orig",
+                  "width": 2000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050454263760130048/VNjnRTJ_?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "Twitter Shadowban Test",
+              "unwound_url": "https://hisubway.online/shadowban/",
+              "url": "https://t.co/4whUeuFylC"
+            },
+            {
+              "display_url": "pic.x.com/jugzfACMI3",
+              "end": 130,
+              "expanded_url": "https://x.com/fly_in_X/status/2050395503834407170/photo/1",
+              "media_key": "3_2050395341644771329",
+              "start": 107,
+              "url": "https://t.co/jugzfACMI3"
+            },
+            {
+              "display_url": "pic.x.com/jugzfACMI3",
+              "end": 130,
+              "expanded_url": "https://x.com/fly_in_X/status/2050395503834407170/photo/1",
+              "media_key": "3_2050395439338512384",
+              "start": 107,
+              "url": "https://t.co/jugzfACMI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050395503834407170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1066,
+          "impression_count": 135643,
+          "like_count": 844,
+          "quote_count": 11,
+          "reply_count": 213,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "两个X帐号自检工具，一个查评分的，一个查健康度(是否被ban)的。\n评分：https://t.co/isYPUgtPmQ\n健康度:https://t.co/4whUeuFylC\n蓝V新人可以收藏一下，经常要用到。 https://t.co/jugzfACMI3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 78,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 106
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-08T12:28:44.000Z",
+        "description": "认真学习中~~偶尔有些奇奇怪怪的想法~~",
+        "id": "1457686450577707019",
+        "name": "笑点有点高",
+        "pinned_tweet_id": "2050395503834407170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038622991517704192/k1W69aqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229,
+          "following_count": 2093,
+          "like_count": 1510,
+          "listed_count": 8,
+          "media_count": 683,
+          "tweet_count": 10220
+        },
+        "username": "fly_in_X",
+        "verified": true
+      }
+    ]
+  }
+}

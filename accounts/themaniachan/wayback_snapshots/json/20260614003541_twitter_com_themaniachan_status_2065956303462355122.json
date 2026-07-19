@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2065764605742469606",
+    "created_at": "2026-06-14T00:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065956303462355122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1618314905475743749",
+          "start": 0,
+          "username": "CuOqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065956303462355122",
+    "in_reply_to_user_id": "1618314905475743749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065846726947209302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuOqwq 谢谢泥老大...啵啵啵＾3＾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2065764605742469606",
+        "created_at": "2026-06-14T00:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065956303462355122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1618314905475743749",
+              "start": 0,
+              "username": "CuOqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065956303462355122",
+        "in_reply_to_user_id": "1618314905475743749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065846726947209302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuOqwq 谢谢泥老大...啵啵啵＾3＾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618314905475743749",
+        "conversation_id": "2065764605742469606",
+        "created_at": "2026-06-13T17:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065846726947209302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065846726947209302",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065764605742469606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 好萌好萌aaaaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 181,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 621
+        },
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T18:28:45.000Z",
+        "description": "叫我CuO就好\n愿每位来访者能够幸福，平安，健康，心想事成\n请记住，You Are Not Alone。",
+        "id": "1618314905475743749",
+        "location": "重庆",
+        "name": "CuO",
+        "pinned_tweet_id": "2053190325477478619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053188110960431104/eVMUJpHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 139,
+          "like_count": 3735,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 796
+        },
+        "username": "CuOqwq",
+        "verified": false
+      }
+    ]
+  }
+}

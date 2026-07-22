@@ -373,17 +373,7 @@ jobs:
           print("已设置简介:",desc)
           PYEOF2
 
-      - name: 链式触发增量更新
-        env:
-          GH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+      - name: 首次建档完成
         run: |
-          if [ -z "${{ secrets.DISPATCH_TOKEN }}" ]; then
-            echo "::warning::未配置 DISPATCH_TOKEN,无法自动触发 update.yml,请手动运行"
-            exit 0
-          fi
-          sleep 5
-          gh workflow run update.yml --repo "${{ github.repository }}" \
-            -f from_setup=true \
-            && echo "✅ 已触发增量更新(将自动接力全量重试)" \
-            || echo "::warning::触发 update.yml 失败"
+          echo "✅ 首次建档完成，已停止"
           echo "🔗 ${{ steps.info.outputs.pages_url }}"

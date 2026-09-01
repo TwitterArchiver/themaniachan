@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2087517126311747770",
+    "created_at": "2026-08-12T12:30:41.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087517126311747770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2009907458530258945",
+          "start": 3,
+          "username": "cOniqGBygQ16927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087517126311747770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086696559685554553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cOniqGBygQ16927: 别人的黑名单:曾经最爱的人\n我的黑名单:男婊子，大婊子，贱货，蠢逼，烂货，公狗，傻狗，母狗一枚，老鼠，死全家的，精神病，脑残，垃圾，社会败类，纸人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2087517126311747770",
+        "created_at": "2026-08-12T12:30:41.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087517126311747770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2009907458530258945",
+              "start": 3,
+              "username": "cOniqGBygQ16927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087517126311747770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086696559685554553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cOniqGBygQ16927: 别人的黑名单:曾经最爱的人\n我的黑名单:男婊子，大婊子，贱货，蠢逼，烂货，公狗，傻狗，母狗一枚，老鼠，死全家的，精神病，脑残，垃圾，社会败类，纸人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009907458530258945",
+        "conversation_id": "2086696559685554553",
+        "created_at": "2026-08-10T06:10:03.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086696559685554553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086696559685554553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 72345,
+          "like_count": 2806,
+          "quote_count": 11,
+          "reply_count": 218,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "别人的黑名单:曾经最爱的人\n我的黑名单:男婊子，大婊子，贱货，蠢逼，烂货，公狗，傻狗，母狗一枚，老鼠，死全家的，精神病，脑残，垃圾，社会败类，纸人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2087517126311747770",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 273,
+          "like_count": 1776,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1511
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "没事可以找我喵喵天",
+        "id": "2009907458530258945",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087333990328090669",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2080850875455865151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009907458530258945/1771914226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081289775441465344/-bnuo5CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 23,
+          "like_count": 1582,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 1644
+        },
+        "url": "",
+        "username": "cOniqGBygQ16927",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

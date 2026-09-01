@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088220893013274624",
+        "13_2088220903935197184"
+      ],
+      "media_source_tweet_id": [
+        "2088220936281674004",
+        "2088220936281674004"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2088477255425257956",
+    "created_at": "2026-08-15T04:05:54.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088477255425257956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1905599281882693634",
+          "start": 3,
+          "username": "MelissaMon27904"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dumdzZOola",
+          "end": 58,
+          "expanded_url": "https://x.com/MelissaMon27904/status/2088220936281674004/video/1",
+          "media_key": "3_2088220893013274624",
+          "start": 35,
+          "url": "https://t.co/dumdzZOola"
+        },
+        {
+          "display_url": "pic.x.com/dumdzZOola",
+          "end": 58,
+          "expanded_url": "https://x.com/MelissaMon27904/status/2088220936281674004/video/1",
+          "media_key": "13_2088220903935197184",
+          "start": 35,
+          "url": "https://t.co/dumdzZOola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088477255425257956",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088220893013274624"
+      },
+      {
+        "media_key": "13_2088220903935197184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088220936281674004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MelissaMon27904: join my 🚪 pls https://t.co/dumdzZOola"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2015,
+        "media_key": "3_2088220893013274624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrZ1pya8AAmiss.jpg",
+        "width": 1440
+      },
+      {
+        "duration_ms": 9264,
+        "height": 1280,
+        "media_key": "13_2088220903935197184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088220903935197184/img/2Ww4dkFKRnbXcMIe.jpg",
+        "public_metrics": {
+          "view_count": 87
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088220903935197184/vid/avc1/320x568/VkFAXmKO3PVSYP_T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088220903935197184/vid/avc1/480x852/2p3ItLZFliZhP5b1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088220903935197184/vid/avc1/720x1280/uymAvC7YEpzLkR-y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088220903935197184/pl/tYJxeSxxad0XoA-y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088220893013274624",
+            "13_2088220903935197184"
+          ],
+          "media_source_tweet_id": [
+            "2088220936281674004",
+            "2088220936281674004"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2088477255425257956",
+        "created_at": "2026-08-15T04:05:54.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088477255425257956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1905599281882693634",
+              "start": 3,
+              "username": "MelissaMon27904"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dumdzZOola",
+              "end": 58,
+              "expanded_url": "https://x.com/MelissaMon27904/status/2088220936281674004/video/1",
+              "media_key": "3_2088220893013274624",
+              "start": 35,
+              "url": "https://t.co/dumdzZOola"
+            },
+            {
+              "display_url": "pic.x.com/dumdzZOola",
+              "end": 58,
+              "expanded_url": "https://x.com/MelissaMon27904/status/2088220936281674004/video/1",
+              "media_key": "13_2088220903935197184",
+              "start": 35,
+              "url": "https://t.co/dumdzZOola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088477255425257956",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088220893013274624"
+          },
+          {
+            "media_key": "13_2088220903935197184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088220936281674004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MelissaMon27904: join my 🚪 pls https://t.co/dumdzZOola"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088220893013274624",
+            "13_2088220903935197184"
+          ]
+        },
+        "author_id": "1905599281882693634",
+        "conversation_id": "2088220936281674004",
+        "created_at": "2026-08-14T11:07:23.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088220936281674004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dumdzZOola",
+              "end": 37,
+              "expanded_url": "https://x.com/MelissaMon27904/status/2088220936281674004/video/1",
+              "media_key": "3_2088220893013274624",
+              "start": 14,
+              "url": "https://t.co/dumdzZOola"
+            },
+            {
+              "display_url": "pic.x.com/dumdzZOola",
+              "end": 37,
+              "expanded_url": "https://x.com/MelissaMon27904/status/2088220936281674004/video/1",
+              "media_key": "13_2088220903935197184",
+              "start": 14,
+              "url": "https://t.co/dumdzZOola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088220936281674004",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088220893013274624"
+          },
+          {
+            "media_key": "13_2088220903935197184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 241,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "join my 🚪 pls https://t.co/dumdzZOola"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2088477255425257956",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 287,
+          "like_count": 1878,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 1573
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-28T12:34:15.000Z",
+        "description": "Hi我是kurumi酱🇷🇺 自己紹介：Anime fan｜电波系｜女子大生｜クルミちゃん大好き♪｜塔罗🔮｜我喜欢中国的熊猫 旗袍 电子游戏 等等 喜欢请支持我 🥺 谢谢！Спасибо_(:з」∠)_🚪52",
+        "id": "1905599281882693634",
+        "is_identity_verified": false,
+        "location": "10R（天宫市）",
+        "most_recent_tweet_id": "2088259389673361678",
+        "name": "kurumi🔮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905599281882693634/1786333554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086660279065362432/3k7u1-aU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 25,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "MelissaMon27904",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

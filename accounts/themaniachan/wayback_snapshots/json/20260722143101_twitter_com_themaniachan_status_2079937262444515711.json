@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2079937262444515711",
+    "created_at": "2026-07-22T14:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079937262444515711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "433417767",
+          "start": 3,
+          "username": "zxvhjpcu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079937262444515711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079786797220118847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zxvhjpcu: X(蔑称)をアプデしてからホームで見れないRP ホームで見れないスレッド 不要なアニメーション 不要な振動 バカみたいなUIの内部ブラウザ 画像に切り替えても動画に戻るメディア欄 行方不明のいいね(現在は発見済) 等に苛立ちが募り続けているがネット中…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2079937262444515711",
+        "created_at": "2026-07-22T14:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079937262444515711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "433417767",
+              "start": 3,
+              "username": "zxvhjpcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079937262444515711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079786797220118847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zxvhjpcu: X(蔑称)をアプデしてからホームで見れないRP ホームで見れないスレッド 不要なアニメーション 不要な振動 バカみたいなUIの内部ブラウザ 画像に切り替えても動画に戻るメディア欄 行方不明のいいね(現在は発見済) 等に苛立ちが募り続けているがネット中…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "433417767",
+        "conversation_id": "2079786797220118847",
+        "created_at": "2026-07-22T04:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079786797220118847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079786797220118847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 202754,
+          "like_count": 3856,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 1283
+        },
+        "reply_settings": "everyone",
+        "text": "X(蔑称)をアプデしてからホームで見れないRP ホームで見れないスレッド 不要なアニメーション 不要な振動 バカみたいなUIの内部ブラウザ 画像に切り替えても動画に戻るメディア欄 行方不明のいいね(現在は発見済) 等に苛立ちが募り続けているがネット中毒なのでやめることはできない   おれは弱い…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 251,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1182
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-10T14:58:27.000Z",
+        "description": "ネット弁慶会社員a.k.a藤丸わからないの人 ご一読ください→https://t.co/0XaLVRhYjc 連載→https://t.co/4798ogkZhfアニメ→ https://t.co/6a3ZHoE9iy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/zxvhjpcu",
+                "end": 54,
+                "expanded_url": "http://twpf.jp/zxvhjpcu",
+                "start": 31,
+                "url": "https://t.co/0XaLVRhYjc"
+              },
+              {
+                "display_url": "comic-walker.com/detail/KC_0064…",
+                "end": 81,
+                "expanded_url": "https://comic-walker.com/detail/KC_006454_S",
+                "start": 58,
+                "url": "https://t.co/4798ogkZhf"
+              },
+              {
+                "display_url": "anime.fate-go.jp/nazomaru/",
+                "end": 109,
+                "expanded_url": "https://anime.fate-go.jp/nazomaru/",
+                "start": 86,
+                "url": "https://t.co/6a3ZHoE9iy"
+              }
+            ]
+          }
+        },
+        "id": "433417767",
+        "location": "ギャグ時空",
+        "name": "槌田🤷",
+        "pinned_tweet_id": "2048961082988097632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270363942032863233/v5XkLonH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79036,
+          "following_count": 72,
+          "like_count": 18559,
+          "listed_count": 510,
+          "media_count": 1215,
+          "tweet_count": 29403
+        },
+        "url": "",
+        "username": "zxvhjpcu",
+        "verified": false
+      }
+    ]
+  }
+}

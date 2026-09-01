@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085345434801995776",
+        "3_2085345434793648129",
+        "3_2085345434797735936",
+        "3_2085345434789408768"
+      ],
+      "media_source_tweet_id": [
+        "2085345482038235518",
+        "2085345482038235518",
+        "2085345482038235518",
+        "2085345482038235518"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2085363879589355566",
+    "created_at": "2026-08-06T13:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085363879589355566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071924874163912704",
+          "start": 3,
+          "username": "EVEgojj5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zKknltxj9y",
+          "end": 123,
+          "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+          "media_key": "3_2085345434801995776",
+          "start": 100,
+          "url": "https://t.co/zKknltxj9y"
+        },
+        {
+          "display_url": "pic.x.com/zKknltxj9y",
+          "end": 123,
+          "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+          "media_key": "3_2085345434793648129",
+          "start": 100,
+          "url": "https://t.co/zKknltxj9y"
+        },
+        {
+          "display_url": "pic.x.com/zKknltxj9y",
+          "end": 123,
+          "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+          "media_key": "3_2085345434797735936",
+          "start": 100,
+          "url": "https://t.co/zKknltxj9y"
+        },
+        {
+          "display_url": "pic.x.com/zKknltxj9y",
+          "end": 123,
+          "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+          "media_key": "3_2085345434789408768",
+          "start": 100,
+          "url": "https://t.co/zKknltxj9y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085363879589355566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085345482038235518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EVEgojj5: 我是小艾 01/01/2010 坐标上海\n我喜欢邦多利和lovelive，地偶只看喜欢的团\n偶尔搞点cos\n摇滚品味很土逼\n查成分互fo\n不熟的人想找我聊天/加墙内🚪52 https://t.co/zKknltxj9y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2085345434801995776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCin9NbAAAdWkW.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2085345434793648129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCin9LboAEEB6s.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1883,
+        "media_key": "3_2085345434797735936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCin9MaAAAEVnc.jpg",
+        "width": 1412
+      },
+      {
+        "height": 1692,
+        "media_key": "3_2085345434789408768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCin9Ka8AAYIEf.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085345434801995776",
+            "3_2085345434793648129",
+            "3_2085345434797735936",
+            "3_2085345434789408768"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2085345482038235518",
+        "created_at": "2026-08-06T12:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085345482038235518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKknltxj9y",
+              "end": 109,
+              "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+              "media_key": "3_2085345434801995776",
+              "start": 86,
+              "url": "https://t.co/zKknltxj9y"
+            },
+            {
+              "display_url": "pic.x.com/zKknltxj9y",
+              "end": 109,
+              "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+              "media_key": "3_2085345434793648129",
+              "start": 86,
+              "url": "https://t.co/zKknltxj9y"
+            },
+            {
+              "display_url": "pic.x.com/zKknltxj9y",
+              "end": 109,
+              "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+              "media_key": "3_2085345434797735936",
+              "start": 86,
+              "url": "https://t.co/zKknltxj9y"
+            },
+            {
+              "display_url": "pic.x.com/zKknltxj9y",
+              "end": 109,
+              "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+              "media_key": "3_2085345434789408768",
+              "start": 86,
+              "url": "https://t.co/zKknltxj9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085345482038235518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我是小艾 01/01/2010 坐标上海\n我喜欢邦多利和lovelive，地偶只看喜欢的团\n偶尔搞点cos\n摇滚品味很土逼\n查成分互fo\n不熟的人想找我聊天/加墙内🚪52 https://t.co/zKknltxj9y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085345434801995776",
+            "3_2085345434793648129",
+            "3_2085345434797735936",
+            "3_2085345434789408768"
+          ],
+          "media_source_tweet_id": [
+            "2085345482038235518",
+            "2085345482038235518",
+            "2085345482038235518",
+            "2085345482038235518"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2085363879589355566",
+        "created_at": "2026-08-06T13:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085363879589355566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071924874163912704",
+              "start": 3,
+              "username": "EVEgojj5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKknltxj9y",
+              "end": 123,
+              "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+              "media_key": "3_2085345434801995776",
+              "start": 100,
+              "url": "https://t.co/zKknltxj9y"
+            },
+            {
+              "display_url": "pic.x.com/zKknltxj9y",
+              "end": 123,
+              "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+              "media_key": "3_2085345434793648129",
+              "start": 100,
+              "url": "https://t.co/zKknltxj9y"
+            },
+            {
+              "display_url": "pic.x.com/zKknltxj9y",
+              "end": 123,
+              "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+              "media_key": "3_2085345434797735936",
+              "start": 100,
+              "url": "https://t.co/zKknltxj9y"
+            },
+            {
+              "display_url": "pic.x.com/zKknltxj9y",
+              "end": 123,
+              "expanded_url": "https://x.com/EVEgojj5/status/2085345482038235518/photo/1",
+              "media_key": "3_2085345434789408768",
+              "start": 100,
+              "url": "https://t.co/zKknltxj9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085363879589355566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085345482038235518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EVEgojj5: 我是小艾 01/01/2010 坐标上海\n我喜欢邦多利和lovelive，地偶只看喜欢的团\n偶尔搞点cos\n摇滚品味很土逼\n查成分互fo\n不熟的人想找我聊天/加墙内🚪52 https://t.co/zKknltxj9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 268,
+          "like_count": 1668,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1388
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n小響是我對象",
+        "id": "2071924874163912704",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 268,
+          "like_count": 3287,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1072
+        },
+        "url": "",
+        "username": "EVEgojj5",
+        "verified": false
+      }
+    ]
+  }
+}

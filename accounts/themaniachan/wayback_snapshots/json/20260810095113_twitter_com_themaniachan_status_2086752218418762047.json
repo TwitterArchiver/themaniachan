@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086692310801416192"
+      ],
+      "media_source_tweet_id": [
+        "2086692331022070150"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2086752218418762047",
+    "created_at": "2026-08-10T09:51:13.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T10:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086752218418762047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1756337790760124416",
+          "start": 3,
+          "username": "TweetsOfHamster"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FooiOVYjwD",
+          "end": 44,
+          "expanded_url": "https://x.com/TweetsOfHamster/status/2086692331022070150/video/1",
+          "media_key": "13_2086692310801416192",
+          "start": 21,
+          "url": "https://t.co/FooiOVYjwD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086752218418762047",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2086692310801416192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 356
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086692331022070150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TweetsOfHamster: https://t.co/FooiOVYjwD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7066,
+        "height": 938,
+        "media_key": "13_2086692310801416192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086692310801416192/img/iI9LLbXnMJGjt-wn.jpg",
+        "public_metrics": {
+          "view_count": 7344
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086692310801416192/vid/avc1/320x426/wvSZm-LjfkEK-x_7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086692310801416192/vid/avc1/480x638/J_eFJ8lrWRySNp-Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086692310801416192/vid/avc1/704x938/iF2VWbfzQalYqgP-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086692310801416192/pl/hvZ452tJcQM6aI4M.m3u8"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086692310801416192"
+          ]
+        },
+        "author_id": "1756337790760124416",
+        "conversation_id": "2086692331022070150",
+        "created_at": "2026-08-10T05:53:15.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086692331022070150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FooiOVYjwD",
+              "end": 23,
+              "expanded_url": "https://x.com/TweetsOfHamster/status/2086692331022070150/video/1",
+              "media_key": "13_2086692310801416192",
+              "start": 0,
+              "url": "https://t.co/FooiOVYjwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086692331022070150",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086692310801416192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 32339,
+          "like_count": 1813,
+          "quote_count": 43,
+          "reply_count": 0,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FooiOVYjwD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086692310801416192"
+          ],
+          "media_source_tweet_id": [
+            "2086692331022070150"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2086752218418762047",
+        "created_at": "2026-08-10T09:51:13.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086752218418762047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1756337790760124416",
+              "start": 3,
+              "username": "TweetsOfHamster"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FooiOVYjwD",
+              "end": 44,
+              "expanded_url": "https://x.com/TweetsOfHamster/status/2086692331022070150/video/1",
+              "media_key": "13_2086692310801416192",
+              "start": 21,
+              "url": "https://t.co/FooiOVYjwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086752218418762047",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086692310801416192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 356
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086692331022070150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TweetsOfHamster: https://t.co/FooiOVYjwD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2086752218418762047",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 272,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1448
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-10T15:22:51.000Z",
+        "description": "Tweeting all things mouse hamster!",
+        "id": "1756337790760124416",
+        "is_identity_verified": false,
+        "location": "🐹",
+        "most_recent_tweet_id": "2086706908849914295",
+        "name": "Tweets Of Hamster",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756337790760124416/1766669685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913121909853868032/Az1xvA7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112565,
+          "following_count": 12,
+          "like_count": 29568,
+          "listed_count": 327,
+          "media_count": 21102,
+          "tweet_count": 23295
+        },
+        "url": "",
+        "username": "TweetsOfHamster",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

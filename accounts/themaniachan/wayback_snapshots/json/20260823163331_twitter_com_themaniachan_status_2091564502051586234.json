@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091521359298068480"
+      ],
+      "media_source_tweet_id": [
+        "2091521482094793000"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2091564502051586234",
+    "created_at": "2026-08-23T16:33:31.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091564502051586234"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 27,
+          "tag": "DevilMayCry"
+        },
+        {
+          "end": 49,
+          "start": 40,
+          "tag": "デイルメイクライ"
+        },
+        {
+          "end": 60,
+          "start": 50,
+          "tag": "DMC発売25周年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1131554464668692480",
+          "start": 3,
+          "username": "ttalgi_null"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tvaWXyrL8R",
+          "end": 84,
+          "expanded_url": "https://x.com/ttalgi_null/status/2091521482094793000/photo/1",
+          "media_key": "3_2091521359298068480",
+          "start": 61,
+          "url": "https://t.co/tvaWXyrL8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091564502051586234",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091521359298068480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 580
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091521482094793000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ttalgi_null: ㊗DMC25周年🎉\n#DevilMayCry #デイルメイクライ #DMC発売25周年 https://t.co/tvaWXyrL8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2091521359298068480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaTmE0agAADb3l.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091521359298068480"
+          ],
+          "media_source_tweet_id": [
+            "2091521482094793000"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2091564502051586234",
+        "created_at": "2026-08-23T16:33:31.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091564502051586234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "DevilMayCry"
+            },
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "デイルメイクライ"
+            },
+            {
+              "end": 60,
+              "start": 50,
+              "tag": "DMC発売25周年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1131554464668692480",
+              "start": 3,
+              "username": "ttalgi_null"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvaWXyrL8R",
+              "end": 84,
+              "expanded_url": "https://x.com/ttalgi_null/status/2091521482094793000/photo/1",
+              "media_key": "3_2091521359298068480",
+              "start": 61,
+              "url": "https://t.co/tvaWXyrL8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091564502051586234",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091521359298068480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 580
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091521482094793000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ttalgi_null: ㊗DMC25周年🎉\n#DevilMayCry #デイルメイクライ #DMC発売25周年 https://t.co/tvaWXyrL8R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091521359298068480"
+          ]
+        },
+        "author_id": "1131554464668692480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2091521482094793000",
+        "created_at": "2026-08-23T13:42:34.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091521482094793000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 10,
+              "tag": "DevilMayCry"
+            },
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "デイルメイクライ"
+            },
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "DMC発売25周年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvaWXyrL8R",
+              "end": 67,
+              "expanded_url": "https://x.com/ttalgi_null/status/2091521482094793000/photo/1",
+              "media_key": "3_2091521359298068480",
+              "start": 44,
+              "url": "https://t.co/tvaWXyrL8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091521482094793000",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091521359298068480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 18364,
+          "like_count": 2562,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 580
+        },
+        "reply_settings": "everyone",
+        "text": "㊗DMC25周年🎉\n#DevilMayCry #デイルメイクライ #DMC発売25周年 https://t.co/tvaWXyrL8R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2091564502051586234",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 294,
+          "like_count": 2064,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1698
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-23T13:36:22.000Z",
+        "description": "雑食/感想✉️→ https://t.co/C5qQIwARj0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/ejv576bzk…",
+                "end": 32,
+                "expanded_url": "https://wavebox.me/wave/ejv576bzk3e5ni7a/",
+                "start": 9,
+                "url": "https://t.co/C5qQIwARj0"
+              }
+            ]
+          }
+        },
+        "id": "1131554464668692480",
+        "is_identity_verified": false,
+        "location": "獏良くんちと本田くんちの間",
+        "most_recent_tweet_id": "2091521482094793000",
+        "name": "タルギ🍓",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1131554464668692480/1718382455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1170371225052254208/a5zlVcCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26225,
+          "following_count": 106,
+          "like_count": 25439,
+          "listed_count": 187,
+          "media_count": 1792,
+          "tweet_count": 14916
+        },
+        "url": "",
+        "username": "ttalgi_null",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

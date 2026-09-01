@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088577701334638592"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2088577710226551124",
+    "created_at": "2026-08-15T10:45:04.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088577710226551124"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 8,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 30,
+          "start": 16,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 45,
+          "start": 33,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 58,
+          "start": 46,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 78,
+          "start": 59,
+          "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E4yensKTZW",
+          "end": 102,
+          "expanded_url": "https://x.com/themaniachan/status/2088577710226551124/photo/1",
+          "media_key": "3_2088577701334638592",
+          "start": 79,
+          "url": "https://t.co/E4yensKTZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088577710226551124",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088577701334638592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最后一张存图！\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子と繫がりたい\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/E4yensKTZW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2592,
+        "media_key": "3_2088577701334638592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPweWoXaYAA6R9w.jpg",
+        "width": 1943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088577701334638592"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2088577710226551124",
+        "created_at": "2026-08-15T10:45:04.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088577710226551124"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 30,
+              "start": 16,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 58,
+              "start": 46,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 78,
+              "start": 59,
+              "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4yensKTZW",
+              "end": 102,
+              "expanded_url": "https://x.com/themaniachan/status/2088577710226551124/photo/1",
+              "media_key": "3_2088577701334638592",
+              "start": 79,
+              "url": "https://t.co/E4yensKTZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088577710226551124",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088577701334638592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一张存图！\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子と繫がりたい\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/E4yensKTZW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2088577710226551124",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 288,
+          "like_count": 1894,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 1577
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

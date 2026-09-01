@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2084235110602183096",
+    "created_at": "2026-08-03T15:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084307584023253287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1164139915623333888",
+          "start": 0,
+          "username": "2uoii__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084307584023253287",
+    "in_reply_to_user_id": "1164139915623333888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084285383500828874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2uoii__ 悠米nb！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2084235110602183096",
+        "created_at": "2026-08-03T15:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084307584023253287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164139915623333888",
+              "start": 0,
+              "username": "2uoii__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084307584023253287",
+        "in_reply_to_user_id": "1164139915623333888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084285383500828874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2uoii__ 悠米nb！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164139915623333888",
+        "conversation_id": "2084235110602183096",
+        "created_at": "2026-08-03T14:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084285383500828874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084285383500828874",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084235110602183096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 我會懷疑其他人是偽人或者npc\n我有時候會以為自己是一隻外星人 掌握了這個人類女孩的資料 我試過走馬燈看自己的一生看到哭🙏🏻右美牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 265,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-21T11:39:26.000Z",
+        "description": "我只是一隻機械小貓\n分靈體：ig@uouoii__\nメイド：ig@kanauoii__",
+        "id": "1164139915623333888",
+        "location": "香港",
+        "name": "՞⸝⸝o̴̶̷̥᷅ ̫ o̴̶̷᷄⸝⸝՞",
+        "pinned_tweet_id": "1992170407747788858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902559243334774788/x-wKzDJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3200,
+          "following_count": 67,
+          "like_count": 8244,
+          "listed_count": 3,
+          "media_count": 388,
+          "tweet_count": 1787
+        },
+        "url": "",
+        "username": "2uoii__",
+        "verified": false
+      }
+    ]
+  }
+}

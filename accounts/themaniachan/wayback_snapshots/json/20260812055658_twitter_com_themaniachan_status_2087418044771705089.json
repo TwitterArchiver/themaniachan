@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087418009958952960",
+        "3_2087418016460091392",
+        "3_2087418024156684288",
+        "3_2087418035091189760"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2087418044771705089",
+    "created_at": "2026-08-12T05:56:58.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T06:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087418044771705089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3BiMzG9Xmt",
+          "end": 159,
+          "expanded_url": "https://x.com/themaniachan/status/2087418044771705089/photo/1",
+          "media_key": "3_2087418009958952960",
+          "start": 136,
+          "url": "https://t.co/3BiMzG9Xmt"
+        },
+        {
+          "display_url": "pic.x.com/3BiMzG9Xmt",
+          "end": 159,
+          "expanded_url": "https://x.com/themaniachan/status/2087418044771705089/photo/1",
+          "media_key": "3_2087418016460091392",
+          "start": 136,
+          "url": "https://t.co/3BiMzG9Xmt"
+        },
+        {
+          "display_url": "pic.x.com/3BiMzG9Xmt",
+          "end": 159,
+          "expanded_url": "https://x.com/themaniachan/status/2087418044771705089/photo/1",
+          "media_key": "3_2087418024156684288",
+          "start": 136,
+          "url": "https://t.co/3BiMzG9Xmt"
+        },
+        {
+          "display_url": "pic.x.com/3BiMzG9Xmt",
+          "end": 159,
+          "expanded_url": "https://x.com/themaniachan/status/2087418044771705089/photo/1",
+          "media_key": "3_2087418035091189760",
+          "start": 136,
+          "url": "https://t.co/3BiMzG9Xmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087418044771705089",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087418009958952960"
+      },
+      {
+        "media_key": "3_2087418016460091392"
+      },
+      {
+        "media_key": "3_2087418024156684288"
+      },
+      {
+        "media_key": "3_2087418035091189760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是一个拿到英语专八/教资证书、以专业第三名考进本校、即将开始硕士研究生学业的成年女性，我正在努力将自己困难的人生掰到一个说得过去的正轨上，我也一直在尝试认真面对自己的生活\n而你只是一个蜷伏在暗角阴沟里对女性评头论足的非自愿单身男，希望的你人生还有除了互联网之外的东西🥰 https://t.co/3BiMzG9Xmt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1939,
+        "media_key": "3_2087418009958952960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPf_ntVbMAA11ZV.jpg",
+        "width": 1891
+      },
+      {
+        "height": 1788,
+        "media_key": "3_2087418016460091392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPf_oFjasAANkFV.jpg",
+        "width": 1890
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2087418024156684288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPf_oiObYAAQxxJ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3071,
+        "media_key": "3_2087418035091189760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPf_pK9asAAmfy6.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087418009958952960",
+            "3_2087418016460091392",
+            "3_2087418024156684288",
+            "3_2087418035091189760"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2087418044771705089",
+        "created_at": "2026-08-12T05:56:58.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087418044771705089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BiMzG9Xmt",
+              "end": 159,
+              "expanded_url": "https://x.com/themaniachan/status/2087418044771705089/photo/1",
+              "media_key": "3_2087418009958952960",
+              "start": 136,
+              "url": "https://t.co/3BiMzG9Xmt"
+            },
+            {
+              "display_url": "pic.x.com/3BiMzG9Xmt",
+              "end": 159,
+              "expanded_url": "https://x.com/themaniachan/status/2087418044771705089/photo/1",
+              "media_key": "3_2087418016460091392",
+              "start": 136,
+              "url": "https://t.co/3BiMzG9Xmt"
+            },
+            {
+              "display_url": "pic.x.com/3BiMzG9Xmt",
+              "end": 159,
+              "expanded_url": "https://x.com/themaniachan/status/2087418044771705089/photo/1",
+              "media_key": "3_2087418024156684288",
+              "start": 136,
+              "url": "https://t.co/3BiMzG9Xmt"
+            },
+            {
+              "display_url": "pic.x.com/3BiMzG9Xmt",
+              "end": 159,
+              "expanded_url": "https://x.com/themaniachan/status/2087418044771705089/photo/1",
+              "media_key": "3_2087418035091189760",
+              "start": 136,
+              "url": "https://t.co/3BiMzG9Xmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087418044771705089",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087418009958952960"
+          },
+          {
+            "media_key": "3_2087418016460091392"
+          },
+          {
+            "media_key": "3_2087418024156684288"
+          },
+          {
+            "media_key": "3_2087418035091189760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个拿到英语专八/教资证书、以专业第三名考进本校、即将开始硕士研究生学业的成年女性，我正在努力将自己困难的人生掰到一个说得过去的正轨上，我也一直在尝试认真面对自己的生活\n而你只是一个蜷伏在暗角阴沟里对女性评头论足的非自愿单身男，希望的你人生还有除了互联网之外的东西🥰 https://t.co/3BiMzG9Xmt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2087418044771705089",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 272,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1483
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

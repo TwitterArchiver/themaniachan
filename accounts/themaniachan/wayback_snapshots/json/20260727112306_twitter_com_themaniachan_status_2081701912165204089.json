@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081701900253372416"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2081701912165204089",
+    "created_at": "2026-07-27T11:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081701912165204089"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 36,
+          "start": 30,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 49,
+          "start": 37,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 62,
+          "start": 50,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 82,
+          "start": 63,
+          "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L6nFwqrcJm",
+          "end": 106,
+          "expanded_url": "https://x.com/themaniachan/status/2081701912165204089/photo/1",
+          "media_key": "3_2081701900253372416",
+          "start": 83,
+          "url": "https://t.co/L6nFwqrcJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081701912165204089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "应该是离开这个寝室楼之前的最后一张对镜拍了\n#自撮り界隈 \n#病み垢女子\n#病み垢女子と繫がりたい\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/L6nFwqrcJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2081701900253372416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOw2VTboAA7wn_.jpg",
+        "width": 2879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081701900253372416"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2081701912165204089",
+        "created_at": "2026-07-27T11:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081701912165204089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 49,
+              "start": 37,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 82,
+              "start": 63,
+              "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6nFwqrcJm",
+              "end": 106,
+              "expanded_url": "https://x.com/themaniachan/status/2081701912165204089/photo/1",
+              "media_key": "3_2081701900253372416",
+              "start": 83,
+              "url": "https://t.co/L6nFwqrcJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081701912165204089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "应该是离开这个寝室楼之前的最后一张对镜拍了\n#自撮り界隈 \n#病み垢女子\n#病み垢女子と繫がりたい\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/L6nFwqrcJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 260,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 1248
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2091579250700915113",
+    "created_at": "2026-08-24T12:04:15.000Z",
+    "display_text_range": [
+      7,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T13:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091859128033661235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1288378958312947713",
+          "start": 0,
+          "username": "2Bz2i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091859128033661235",
+    "in_reply_to_user_id": "1288378958312947713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091806910878236910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2Bz2i 是的是的在考虑法德奥那边...大学免学费真的能减少不少负担"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2091579250700915113",
+        "created_at": "2026-08-24T12:04:15.000Z",
+        "display_text_range": [
+          7,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091859128033661235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1288378958312947713",
+              "start": 0,
+              "username": "2Bz2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091859128033661235",
+        "in_reply_to_user_id": "1288378958312947713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091806910878236910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2Bz2i 是的是的在考虑法德奥那边...大学免学费真的能减少不少负担"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1288378958312947713",
+        "conversation_id": "2091579250700915113",
+        "created_at": "2026-08-24T08:36:46.000Z",
+        "display_text_range": [
+          14,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091806910878236910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091806910878236910",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091579250700915113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 可以考虑欧洲，法国德国意大利西班牙这种的国家，都不是很贵的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2091859128033661235",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 297,
+          "like_count": 2069,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1712
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-29T07:41:07.000Z",
+        "description": "",
+        "id": "1288378958312947713",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091806964661858728",
+        "name": "John hsiang",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288436167411511297/1GdOKb8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 740,
+          "like_count": 21484,
+          "listed_count": 6,
+          "media_count": 10,
+          "tweet_count": 3001
+        },
+        "url": "",
+        "username": "2Bz2i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

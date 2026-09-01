@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2090457453213462621",
+    "created_at": "2026-08-21T04:14:59.000Z",
+    "display_text_range": [
+      10,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T05:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090653867646288224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071924874163912704",
+          "start": 0,
+          "username": "EVEgojj5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090653867646288224",
+    "in_reply_to_user_id": "2071924874163912704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090652295872835834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EVEgojj5 对我说的也是这个事...因为我是看的早期中巡，两套卡司都看到了，那个时候的mkl状态还是非常不错的不知道为什么从开始就在一直唱衰，后来明白了，完全就是芽姐和米姐加上班姐互掏导致看剧的平白无故遭殃（）\n在这种环境里卡司发什么癫我都能接受（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2090457453213462621",
+        "created_at": "2026-08-21T04:14:59.000Z",
+        "display_text_range": [
+          10,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090653867646288224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "EVEgojj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090653867646288224",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090652295872835834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EVEgojj5 对我说的也是这个事...因为我是看的早期中巡，两套卡司都看到了，那个时候的mkl状态还是非常不错的不知道为什么从开始就在一直唱衰，后来明白了，完全就是芽姐和米姐加上班姐互掏导致看剧的平白无故遭殃（）\n在这种环境里卡司发什么癫我都能接受（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2090457453213462621",
+        "created_at": "2026-08-21T04:08:44.000Z",
+        "display_text_range": [
+          14,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090652295872835834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090652295872835834",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090457453213462621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 我经历过最恶心的就是24年法扎中巡，太恐怖了，除了米开来外其他卡司都无妄之灾，yanis当时态度也挺好的，至今记得葡萄姐对老航班做的各种下头事，法国老白男哎，，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2090653867646288224",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 287,
+          "like_count": 1969,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 1658
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090653065577906510",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 374,
+          "like_count": 5541,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1706
+        },
+        "url": "",
+        "username": "EVEgojj5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087220612339240961",
+        "3_2087220612339245056"
+      ],
+      "media_source_tweet_id": [
+        "2087220625345847710",
+        "2087220625345847710"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2090645585938493879",
+    "created_at": "2026-08-21T03:42:04.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090645585938493879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720098116601532416",
+          "start": 3,
+          "username": "nixyng246039"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mW0D7gT09y",
+          "end": 107,
+          "expanded_url": "https://x.com/nixyng246039/status/2087220625345847710/photo/1",
+          "media_key": "3_2087220612339240961",
+          "start": 84,
+          "url": "https://t.co/mW0D7gT09y"
+        },
+        {
+          "display_url": "pic.x.com/mW0D7gT09y",
+          "end": 107,
+          "expanded_url": "https://x.com/nixyng246039/status/2087220625345847710/photo/1",
+          "media_key": "3_2087220612339245056",
+          "start": 84,
+          "url": "https://t.co/mW0D7gT09y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090645585938493879",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087220612339240961"
+      },
+      {
+        "media_key": "3_2087220612339245056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087220625345847710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nixyng246039: 💙-自介-💙\n08生心女\n叫我西北or西南都OK\n会转一些杂七杂八的东西\n会画一些杂七杂八的小画\n\n偶尔欧🈶歌//\n萌妹子都来玩呀 https://t.co/mW0D7gT09y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2087220612339240961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdMFp5akAEAD24.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2087220612339245056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdMFp5aoAAqgsg.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087220612339240961",
+            "3_2087220612339245056"
+          ],
+          "media_source_tweet_id": [
+            "2087220625345847710",
+            "2087220625345847710"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2090645585938493879",
+        "created_at": "2026-08-21T03:42:04.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090645585938493879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1720098116601532416",
+              "start": 3,
+              "username": "nixyng246039"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mW0D7gT09y",
+              "end": 107,
+              "expanded_url": "https://x.com/nixyng246039/status/2087220625345847710/photo/1",
+              "media_key": "3_2087220612339240961",
+              "start": 84,
+              "url": "https://t.co/mW0D7gT09y"
+            },
+            {
+              "display_url": "pic.x.com/mW0D7gT09y",
+              "end": 107,
+              "expanded_url": "https://x.com/nixyng246039/status/2087220625345847710/photo/1",
+              "media_key": "3_2087220612339245056",
+              "start": 84,
+              "url": "https://t.co/mW0D7gT09y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090645585938493879",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087220612339240961"
+          },
+          {
+            "media_key": "3_2087220612339245056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087220625345847710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nixyng246039: 💙-自介-💙\n08生心女\n叫我西北or西南都OK\n会转一些杂七杂八的东西\n会画一些杂七杂八的小画\n\n偶尔欧🈶歌//\n萌妹子都来玩呀 https://t.co/mW0D7gT09y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087220612339240961",
+            "3_2087220612339245056"
+          ]
+        },
+        "author_id": "1720098116601532416",
+        "conversation_id": "2087220625345847710",
+        "created_at": "2026-08-11T16:52:30.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087220625345847710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mW0D7gT09y",
+              "end": 89,
+              "expanded_url": "https://x.com/nixyng246039/status/2087220625345847710/photo/1",
+              "media_key": "3_2087220612339240961",
+              "start": 66,
+              "url": "https://t.co/mW0D7gT09y"
+            },
+            {
+              "display_url": "pic.x.com/mW0D7gT09y",
+              "end": 89,
+              "expanded_url": "https://x.com/nixyng246039/status/2087220625345847710/photo/1",
+              "media_key": "3_2087220612339245056",
+              "start": 66,
+              "url": "https://t.co/mW0D7gT09y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087220625345847710",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087220612339240961"
+          },
+          {
+            "media_key": "3_2087220612339245056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10525,
+          "like_count": 147,
+          "quote_count": 3,
+          "reply_count": 68,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "💙-自介-💙\n08生心女\n叫我西北or西南都OK\n会转一些杂七杂八的东西\n会画一些杂七杂八的小画\n\n偶尔欧🈶歌//\n萌妹子都来玩呀 https://t.co/mW0D7gT09y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2090645585938493879",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 287,
+          "like_count": 1965,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 1656
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2090547589397741955",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 700,
+          "like_count": 10823,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 3456
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

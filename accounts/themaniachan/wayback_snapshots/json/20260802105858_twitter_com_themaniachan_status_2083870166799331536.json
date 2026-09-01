@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2083827637856682379",
+    "created_at": "2026-08-02T10:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083870166799331536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1976887419841695744",
+          "start": 0,
+          "username": "Kage_QwQ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083870166799331536",
+    "in_reply_to_user_id": "1976887419841695744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083869126955798727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kage_QwQ_ 我去啊啊啊啊啊啊啊😭老大我们都很有品..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083869112519028736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtj6sIa8AArs1E.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2083827637856682379",
+        "created_at": "2026-08-02T10:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083870166799331536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1976887419841695744",
+              "start": 0,
+              "username": "Kage_QwQ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083870166799331536",
+        "in_reply_to_user_id": "1976887419841695744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083869126955798727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kage_QwQ_ 我去啊啊啊啊啊啊啊😭老大我们都很有品..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083869112519028736"
+          ]
+        },
+        "author_id": "1976887419841695744",
+        "conversation_id": "2083827637856682379",
+        "created_at": "2026-08-02T10:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083869126955798727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlFEIyrdDJ",
+              "end": 48,
+              "expanded_url": "https://x.com/Kage_QwQ_/status/2083869126955798727/photo/1",
+              "media_key": "3_2083869112519028736",
+              "start": 25,
+              "url": "https://t.co/KlFEIyrdDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083869126955798727",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083827637856682379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 我操妈咪我有同款衣服 https://t.co/KlFEIyrdDJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 261,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 1324
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T05:48:06.000Z",
+        "description": "Two other mes： @Epekeina_  @MomijiQAQ\n#shtwt\n💚🚪188",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Epekeina_"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "MomijiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1976887419841695744",
+        "location": "⚰️",
+        "name": "Kage",
+        "pinned_tweet_id": "2080850389365391373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976887511948632064/s-ZYyZW7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 88,
+          "like_count": 1402,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 546
+        },
+        "url": "",
+        "username": "Kage_QwQ_",
+        "verified": false
+      }
+    ]
+  }
+}

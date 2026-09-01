@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2082116286222647580",
+    "created_at": "2026-07-28T16:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082134716648763427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2074568420574851072",
+          "start": 0,
+          "username": "jinshi778899"
+        },
+        {
+          "end": 24,
+          "id": "2082038547452919808",
+          "start": 14,
+          "username": "SLEEPKIKO"
+        },
+        {
+          "end": 37,
+          "id": "1430117480865746952",
+          "start": 25,
+          "username": "HuytrewqKPS"
+        },
+        {
+          "end": 45,
+          "id": "1652200117494231043",
+          "start": 38,
+          "username": "Yum_ou"
+        },
+        {
+          "end": 61,
+          "id": "2013209398395752448",
+          "start": 46,
+          "username": "DesireLovet1qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082134716648763427",
+    "in_reply_to_user_id": "2074568420574851072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082116286222647580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinshi778899 @SLEEPKIKO @HuytrewqKPS @Yum_ou @DesireLovet1qi 额啊啊啊啊啊啊啊生平第一次中奖😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 831,
+        "media_key": "3_2082116061114355713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUphqvbUAEsYpQ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 831,
+        "media_key": "3_2082116094580658176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUpjnaakAA632G.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2082116286222647580",
+        "created_at": "2026-07-28T16:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082134716648763427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2074568420574851072",
+              "start": 0,
+              "username": "jinshi778899"
+            },
+            {
+              "end": 24,
+              "id": "2082038547452919808",
+              "start": 14,
+              "username": "SLEEPKIKO"
+            },
+            {
+              "end": 37,
+              "id": "1430117480865746952",
+              "start": 25,
+              "username": "HuytrewqKPS"
+            },
+            {
+              "end": 45,
+              "id": "1652200117494231043",
+              "start": 38,
+              "username": "Yum_ou"
+            },
+            {
+              "end": 61,
+              "id": "2013209398395752448",
+              "start": 46,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082134716648763427",
+        "in_reply_to_user_id": "2074568420574851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082116286222647580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinshi778899 @SLEEPKIKO @HuytrewqKPS @Yum_ou @DesireLovet1qi 额啊啊啊啊啊啊啊生平第一次中奖😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082116061114355713",
+            "3_2082116094580658176"
+          ]
+        },
+        "author_id": "2074568420574851072",
+        "conversation_id": "2082116286222647580",
+        "created_at": "2026-07-28T14:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082116286222647580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "2074568420574851072",
+              "start": 39,
+              "username": "jinshi778899"
+            },
+            {
+              "end": 128,
+              "id": "2082038547452919808",
+              "start": 118,
+              "username": "SLEEPKIKO"
+            },
+            {
+              "end": 165,
+              "id": "1430117480865746952",
+              "start": 153,
+              "username": "HuytrewqKPS"
+            },
+            {
+              "end": 175,
+              "id": "1652200117494231043",
+              "start": 168,
+              "username": "Yum_ou"
+            },
+            {
+              "end": 194,
+              "id": "2013209398395752448",
+              "start": 179,
+              "username": "DesireLovet1qi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7OoG8TtoJ",
+              "end": 218,
+              "expanded_url": "https://x.com/jinshi778899/status/2082116286222647580/photo/1",
+              "media_key": "3_2082116061114355713",
+              "start": 195,
+              "url": "https://t.co/N7OoG8TtoJ"
+            },
+            {
+              "display_url": "pic.x.com/N7OoG8TtoJ",
+              "end": 218,
+              "expanded_url": "https://x.com/jinshi778899/status/2082116286222647580/photo/1",
+              "media_key": "3_2082116094580658176",
+              "start": 195,
+              "url": "https://t.co/N7OoG8TtoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082116286222647580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 52,
+                "id": "2074568420574851072",
+                "start": 39,
+                "username": "jinshi778899"
+              },
+              {
+                "end": 128,
+                "id": "2082038547452919808",
+                "start": 118,
+                "username": "SLEEPKIKO"
+              },
+              {
+                "end": 165,
+                "id": "1430117480865746952",
+                "start": 153,
+                "username": "HuytrewqKPS"
+              },
+              {
+                "end": 175,
+                "id": "1652200117494231043",
+                "start": 168,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 194,
+                "id": "2013209398395752448",
+                "start": 179,
+                "username": "DesireLovet1qi"
+              },
+              {
+                "end": 220,
+                "id": "2006598661753704448",
+                "start": 209,
+                "username": "wnxn282201"
+              },
+              {
+                "end": 244,
+                "id": "2047687133708599296",
+                "start": 231,
+                "username": "themaniachan"
+              },
+              {
+                "end": 262,
+                "id": "1910646792339046400",
+                "start": 251,
+                "username": "ArainnekoA"
+              },
+              {
+                "end": 286,
+                "id": "1801534903626121216",
+                "start": 270,
+                "username": "qngshu988723424"
+              },
+              {
+                "end": 303,
+                "id": "1803391390145011713",
+                "start": 293,
+                "username": "wcnmsbzzh"
+              },
+              {
+                "end": 317,
+                "id": "1554387909587136512",
+                "start": 306,
+                "username": "Gag_Order_"
+              }
+            ]
+          },
+          "text": "抽奖结果已发布\n\n我按你这 10 张截图里的账号做了去重，并且排除了主办账号 @jinshi778899  87 个有效账号参与抽取。\n\n使用系统随机源一次性抽取 10 个账号，无重复。结果如下：\n\n🥇 一等奖（1名）\n\nSLEEPY\n@SLEEPKIKO\n🥈 二等奖（3名）\n\nhuytrewq_kps\n@HuytrewqKPS\n银\n@Yum_ou\n愛歌\n@DesireLovet1qi\n\n🥉 三等奖（6名）\n牧云\n@wnxn282201\n狂乱鸣唱mania\n@themaniachan \nrain\n@ArainnekoA\nrotaka\n@qngshu988723424\n一千零一夜\n@wcnmsbzzh\n缄\n@Gag_Order_\n\n本次抽取：87人 → 随机10人 → 10个账号互不重复。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖结果已发布\n\n我按你这 10 张截图里的账号做了去重，并且排除了主办账号 @jinshi778899  87 个有效账号参与抽取。\n\n使用系统随机源一次性抽取 10 个账号，无重复。结果如下：\n\n🥇 一等奖（1名）\n\nSLEEPY\n@SLEEPKIKO\n🥈 二等奖（3名）\n\nhuytrewq_kps\n@HuytrewqKPS\n银\n@Yum_ou\n愛歌\n@DesireLovet1qi https://t.co/N7OoG8TtoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 262,
+          "like_count": 1528,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1258
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T18:57:55.000Z",
+        "description": "资深老oder 欢迎各种询问 | 🈲政｜出售单方右美沙芬 需要的私 私信常开 请确保了解药理后再服用 备用号@yinshi778899",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "yinshi778899"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOnb666",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOnb666",
+                "start": 0,
+                "url": "https://t.co/ZdR23jTRXh"
+              }
+            ]
+          }
+        },
+        "id": "2074568420574851072",
+        "location": "新加坡",
+        "name": "金时（互fo）🍥💻",
+        "pinned_tweet_id": "2075146854862594542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074569945795747840/kOiJ_Z_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 193,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/ZdR23jTRXh",
+        "username": "jinshi778899",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T09:41:39.000Z",
+        "description": "oder",
+        "id": "2082038547452919808",
+        "name": "SLEEPY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082040672832614400/0nGQ5bXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "SLEEPKIKO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T10:39:20.000Z",
+        "description": "普通的od蛆od着普通的普瑞巴林\n请直接使用telegram联系，x私信回复可能较慢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kwangel_1",
+                "end": 23,
+                "expanded_url": "https://t.me/kwangel_1",
+                "start": 0,
+                "url": "https://t.co/Z3UyL7wUMy"
+              }
+            ]
+          }
+        },
+        "id": "1430117480865746952",
+        "location": "普瑞巴林星球",
+        "name": "huytrewq_kps",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430118149144256514/mhYnEPWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 193,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/Z3UyL7wUMy",
+        "username": "HuytrewqKPS",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 77,
+          "like_count": 13070,
+          "listed_count": 4,
+          "media_count": 470,
+          "tweet_count": 5639
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 482,
+          "like_count": 738,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

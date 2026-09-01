@@ -1,0 +1,727 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087505169747734528",
+        "3_2087505183496691712"
+      ],
+      "media_source_tweet_id": [
+        "2087505207349694694",
+        "2087505207349694694"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1574831043118395392",
+          "name": "Fate series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1574831043118395392",
+          "name": "Fate series"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2087517281509405080",
+    "created_at": "2026-08-12T12:31:18.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087517281509405080"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "FGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "194919736",
+          "start": 3,
+          "username": "Merem110"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JaxGsaw1Wz",
+          "end": 72,
+          "expanded_url": "https://x.com/Merem110/status/2087505207349694694/photo/1",
+          "media_key": "3_2087505169747734528",
+          "start": 49,
+          "url": "https://t.co/JaxGsaw1Wz"
+        },
+        {
+          "display_url": "pic.x.com/JaxGsaw1Wz",
+          "end": 72,
+          "expanded_url": "https://x.com/Merem110/status/2087505207349694694/photo/1",
+          "media_key": "3_2087505183496691712",
+          "start": 49,
+          "url": "https://t.co/JaxGsaw1Wz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087517281509405080",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087505169747734528"
+      },
+      {
+        "media_key": "3_2087505183496691712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 565
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087505207349694694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Merem110: 夏霊衣のダンテは宝具演出で滝のような涙をドバドバ流します。 #FGO https://t.co/JaxGsaw1Wz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2087505169747734528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhO5E2a8AAoCgX.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2087505183496691712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhO54EbYAAnVin.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087505169747734528",
+            "3_2087505183496691712"
+          ]
+        },
+        "author_id": "194919736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2087505207349694694",
+        "created_at": "2026-08-12T11:43:20.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087505207349694694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "FGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaxGsaw1Wz",
+              "end": 58,
+              "expanded_url": "https://x.com/Merem110/status/2087505207349694694/photo/1",
+              "media_key": "3_2087505169747734528",
+              "start": 35,
+              "url": "https://t.co/JaxGsaw1Wz"
+            },
+            {
+              "display_url": "pic.x.com/JaxGsaw1Wz",
+              "end": 58,
+              "expanded_url": "https://x.com/Merem110/status/2087505207349694694/photo/1",
+              "media_key": "3_2087505183496691712",
+              "start": 35,
+              "url": "https://t.co/JaxGsaw1Wz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087505207349694694",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087505169747734528"
+          },
+          {
+            "media_key": "3_2087505183496691712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 30697,
+          "like_count": 1655,
+          "quote_count": 49,
+          "reply_count": 0,
+          "retweet_count": 565
+        },
+        "reply_settings": "everyone",
+        "text": "夏霊衣のダンテは宝具演出で滝のような涙をドバドバ流します。 #FGO https://t.co/JaxGsaw1Wz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087505169747734528",
+            "3_2087505183496691712"
+          ],
+          "media_source_tweet_id": [
+            "2087505207349694694",
+            "2087505207349694694"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2087517281509405080",
+        "created_at": "2026-08-12T12:31:18.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087517281509405080"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "FGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "194919736",
+              "start": 3,
+              "username": "Merem110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaxGsaw1Wz",
+              "end": 72,
+              "expanded_url": "https://x.com/Merem110/status/2087505207349694694/photo/1",
+              "media_key": "3_2087505169747734528",
+              "start": 49,
+              "url": "https://t.co/JaxGsaw1Wz"
+            },
+            {
+              "display_url": "pic.x.com/JaxGsaw1Wz",
+              "end": 72,
+              "expanded_url": "https://x.com/Merem110/status/2087505207349694694/photo/1",
+              "media_key": "3_2087505183496691712",
+              "start": 49,
+              "url": "https://t.co/JaxGsaw1Wz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087517281509405080",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087505169747734528"
+          },
+          {
+            "media_key": "3_2087505183496691712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087505207349694694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Merem110: 夏霊衣のダンテは宝具演出で滝のような涙をドバドバ流します。 #FGO https://t.co/JaxGsaw1Wz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2087517281509405080",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 273,
+          "like_count": 1777,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1512
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-09-25T09:39:19.000Z",
+        "description": "型月を取り扱うブログ『でもにっしょん』の管理人。雑誌掲載のコラムでのライター経験あり。 TYPE-MOONのファン。社会の荒波に揉まれつつも日々を楽しんで生きる、そんな男児に私はなりたい。#FGO でのガチャ運は何かおかしい。\n\n型月と関係ない話題はこちらでする→https://t.co/L2ZEVbfWGf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 94,
+                "tag": "FGO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/Blackmore11045",
+                "end": 155,
+                "expanded_url": "https://twitter.com/Blackmore11045",
+                "start": 132,
+                "url": "https://t.co/L2ZEVbfWGf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "demonition.com",
+                "end": 23,
+                "expanded_url": "https://demonition.com/",
+                "start": 0,
+                "url": "https://t.co/NXsvRaFl9x"
+              }
+            ]
+          }
+        },
+        "id": "194919736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087510884860272827",
+        "name": "めれむ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/194919736/1704365417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609146382535000066/YPph9oeq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101565,
+          "following_count": 1166,
+          "like_count": 6228,
+          "listed_count": 1028,
+          "media_count": 20472,
+          "tweet_count": 108384
+        },
+        "url": "https://t.co/NXsvRaFl9x",
+        "username": "Merem110",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

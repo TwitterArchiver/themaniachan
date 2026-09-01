@@ -1,0 +1,723 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085042539716087810"
+      ],
+      "media_source_tweet_id": [
+        "2085042583307489556"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1574831043118395392",
+          "name": "Fate series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1574831043118395392",
+          "name": "Fate series"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2085231377419796741",
+    "created_at": "2026-08-06T05:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085231377419796741"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "FGO"
+        },
+        {
+          "end": 84,
+          "start": 76,
+          "tag": "FGO11周年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2700391326",
+          "start": 3,
+          "username": "FateGrandOrder"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "fatego-matome.com/talk/61824/",
+          "end": 69,
+          "expanded_url": "https://www.fatego-matome.com/talk/61824/",
+          "images": [
+            {
+              "height": 314,
+              "url": "https://pbs.twimg.com/news_img/2085042629163814912/tyQvsLDE?format=jpg&name=orig",
+              "width": 680
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085042629163814912/tyQvsLDE?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 46,
+          "status": 200,
+          "title": "【FGO】ツタンカーメンのナニは邪魔だと思う",
+          "unwound_url": "https://www.fatego-matome.com/talk/61824/",
+          "url": "https://t.co/i7WYYZI9Sj"
+        },
+        {
+          "display_url": "pic.x.com/HToap8yyiA",
+          "end": 108,
+          "expanded_url": "https://x.com/FateGrandOrder/status/2085042583307489556/photo/1",
+          "media_key": "3_2085042539716087810",
+          "start": 85,
+          "url": "https://t.co/HToap8yyiA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085231377419796741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085042583307489556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FateGrandOrder: 【FGO/再掲】ツタンカーメンのナニは邪魔だと思う\nhttps://t.co/i7WYYZI9Sj\n\n#FGO #FGO11周年 https://t.co/HToap8yyiA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_2085042539716087810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-PJJFbEAI2RQL.jpg",
+        "width": 1165
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085042539716087810"
+          ]
+        },
+        "author_id": "2700391326",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2085042583307489556",
+        "created_at": "2026-08-05T16:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085042583307489556"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "FGO"
+            },
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "FGO11周年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "fatego-matome.com/talk/61824/",
+              "end": 49,
+              "expanded_url": "https://www.fatego-matome.com/talk/61824/",
+              "images": [
+                {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/news_img/2085042629163814912/tyQvsLDE?format=jpg&name=orig",
+                  "width": 680
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085042629163814912/tyQvsLDE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "【FGO】ツタンカーメンのナニは邪魔だと思う",
+              "unwound_url": "https://www.fatego-matome.com/talk/61824/",
+              "url": "https://t.co/i7WYYZI9Sj"
+            },
+            {
+              "display_url": "pic.x.com/HToap8yyiA",
+              "end": 88,
+              "expanded_url": "https://x.com/FateGrandOrder/status/2085042583307489556/photo/1",
+              "media_key": "3_2085042539716087810",
+              "start": 65,
+              "url": "https://t.co/HToap8yyiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085042583307489556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 74403,
+          "like_count": 643,
+          "quote_count": 10,
+          "reply_count": 12,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "【FGO/再掲】ツタンカーメンのナニは邪魔だと思う\nhttps://t.co/i7WYYZI9Sj\n\n#FGO #FGO11周年 https://t.co/HToap8yyiA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085042539716087810"
+          ],
+          "media_source_tweet_id": [
+            "2085042583307489556"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2085231377419796741",
+        "created_at": "2026-08-06T05:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085231377419796741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "FGO"
+            },
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "FGO11周年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2700391326",
+              "start": 3,
+              "username": "FateGrandOrder"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "fatego-matome.com/talk/61824/",
+              "end": 69,
+              "expanded_url": "https://www.fatego-matome.com/talk/61824/",
+              "images": [
+                {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/news_img/2085042629163814912/tyQvsLDE?format=jpg&name=orig",
+                  "width": 680
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085042629163814912/tyQvsLDE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 46,
+              "status": 200,
+              "title": "【FGO】ツタンカーメンのナニは邪魔だと思う",
+              "unwound_url": "https://www.fatego-matome.com/talk/61824/",
+              "url": "https://t.co/i7WYYZI9Sj"
+            },
+            {
+              "display_url": "pic.x.com/HToap8yyiA",
+              "end": 108,
+              "expanded_url": "https://x.com/FateGrandOrder/status/2085042583307489556/photo/1",
+              "media_key": "3_2085042539716087810",
+              "start": 85,
+              "url": "https://t.co/HToap8yyiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085231377419796741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085042583307489556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FateGrandOrder: 【FGO/再掲】ツタンカーメンのナニは邪魔だと思う\nhttps://t.co/i7WYYZI9Sj\n\n#FGO #FGO11周年 https://t.co/HToap8yyiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 267,
+          "like_count": 1646,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 1367
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-02T09:13:07.000Z",
+        "description": "Fate/GrandOrderまとめブログ。FGO攻略、イラスト、グッズ・フィギュア、豆知識など。別に…課金してしまっても構わんのだろう？（ ※ブログ軽量版はじめました。スマホで「ホーム画面に追加」でアイコン出ます。通信料が節約できるよ）  #FateGO　#FGO　#FGOAC",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 121,
+                "tag": "FateGO"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "FGO"
+              },
+              {
+                "end": 140,
+                "start": 134,
+                "tag": "FGOAC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fatego-matome.com",
+                "end": 23,
+                "expanded_url": "https://www.fatego-matome.com/",
+                "start": 0,
+                "url": "https://t.co/EtrQWZu72t"
+              }
+            ]
+          }
+        },
+        "id": "2700391326",
+        "name": "FGOまとめ速報",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651241313688272900/-FKbnTdJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241165,
+          "following_count": 24885,
+          "like_count": 1423,
+          "listed_count": 2002,
+          "media_count": 43120,
+          "tweet_count": 141425
+        },
+        "url": "https://t.co/EtrQWZu72t",
+        "username": "FateGrandOrder",
+        "verified": true
+      }
+    ]
+  }
+}

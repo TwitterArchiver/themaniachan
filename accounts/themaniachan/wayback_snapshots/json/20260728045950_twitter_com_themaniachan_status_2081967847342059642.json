@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081701877549322240"
+      ],
+      "media_source_tweet_id": [
+        "2081701892720042438"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081967847342059642",
+    "created_at": "2026-07-28T04:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081967847342059642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1317375354319851520",
+          "start": 3,
+          "username": "8iilf_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KahgvnzfyM",
+          "end": 66,
+          "expanded_url": "https://x.com/8iilf_/status/2081701892720042438/photo/1",
+          "media_key": "3_2081701877549322240",
+          "start": 43,
+          "url": "https://t.co/KahgvnzfyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081967847342059642",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4372
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081701892720042438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8iilf_: Social anxiety feels like this https://t.co/KahgvnzfyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2432,
+        "media_key": "3_2081701877549322240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOw1AuXUAAHAJh.png",
+        "width": 2019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081701877549322240"
+          ]
+        },
+        "author_id": "1317375354319851520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081701892720042438",
+        "created_at": "2026-07-27T11:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081701892720042438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KahgvnzfyM",
+              "end": 54,
+              "expanded_url": "https://x.com/8iilf_/status/2081701892720042438/photo/1",
+              "media_key": "3_2081701877549322240",
+              "start": 31,
+              "url": "https://t.co/KahgvnzfyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081701892720042438",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3336,
+          "impression_count": 2673894,
+          "like_count": 53257,
+          "quote_count": 244,
+          "reply_count": 196,
+          "retweet_count": 4372
+        },
+        "reply_settings": "everyone",
+        "text": "Social anxiety feels like this https://t.co/KahgvnzfyM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081701877549322240"
+          ],
+          "media_source_tweet_id": [
+            "2081701892720042438"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081967847342059642",
+        "created_at": "2026-07-28T04:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081967847342059642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1317375354319851520",
+              "start": 3,
+              "username": "8iilf_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KahgvnzfyM",
+              "end": 66,
+              "expanded_url": "https://x.com/8iilf_/status/2081701892720042438/photo/1",
+              "media_key": "3_2081701877549322240",
+              "start": 43,
+              "url": "https://t.co/KahgvnzfyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081967847342059642",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081701892720042438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8iilf_: Social anxiety feels like this https://t.co/KahgvnzfyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 260,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 1252
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T08:02:33.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Onelink.to/QasimahAds",
+                "end": 23,
+                "expanded_url": "http://Onelink.to/QasimahAds",
+                "start": 0,
+                "url": "https://t.co/D6LVgVIrao"
+              }
+            ]
+          }
+        },
+        "id": "1317375354319851520",
+        "name": "رِهـام",
+        "pinned_tweet_id": "1508870161977200642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068222565059874816/ji9Raaaq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37452,
+          "following_count": 188,
+          "like_count": 234175,
+          "listed_count": 5,
+          "media_count": 637,
+          "tweet_count": 70215
+        },
+        "url": "https://t.co/D6LVgVIrao",
+        "username": "8iilf_",
+        "verified": true
+      }
+    ]
+  }
+}

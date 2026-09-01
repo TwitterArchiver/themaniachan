@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2082452413945163945",
+    "created_at": "2026-07-29T15:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082492529757606031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1400025435539271681",
+          "start": 0,
+          "username": "o0lOIlI0oOo0O0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082492529757606031",
+    "in_reply_to_user_id": "1400025435539271681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082474435316248650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o0lOIlI0oOo0O0I 哎生活还是充满了困难..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2082452413945163945",
+        "created_at": "2026-07-29T15:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082492529757606031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1400025435539271681",
+              "start": 0,
+              "username": "o0lOIlI0oOo0O0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082492529757606031",
+        "in_reply_to_user_id": "1400025435539271681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082474435316248650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o0lOIlI0oOo0O0I 哎生活还是充满了困难..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400025435539271681",
+        "conversation_id": "2082452413945163945",
+        "created_at": "2026-07-29T14:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082474435316248650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082474435316248650",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082452413945163945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 唉，实际上可能租的公寓不能抽烟也不能养宠物……墙面损坏了退租还得全赔……\n当然我是在说我自己，至于为什么还要租……这也是一种对生活的妥协……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 260,
+          "like_count": 1555,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1287
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-02T09:44:31.000Z",
+        "description": "shang 🫵 \n叛徒、特务、大军阀，反党分子，野心家，走资派、投降派、修正主义、大恶霸。\n社畜 | 令和渡来人 | 神奈川県民 | ENG/JPN/CHN | ✉️🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ool0io0liiloo0i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ool0io0liiloo0i",
+                "start": 0,
+                "url": "https://t.co/OHFEVHIFII"
+              }
+            ]
+          }
+        },
+        "id": "1400025435539271681",
+        "location": "ヨコハマ",
+        "name": "ᅠᅠᅠ",
+        "pinned_tweet_id": "2081846365823570062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081716526944817153/S_XeAph6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 459,
+          "like_count": 176773,
+          "listed_count": 6,
+          "media_count": 237,
+          "tweet_count": 56004
+        },
+        "url": "https://t.co/OHFEVHIFII",
+        "username": "o0lOIlI0oOo0O0I",
+        "verified": true
+      }
+    ]
+  }
+}

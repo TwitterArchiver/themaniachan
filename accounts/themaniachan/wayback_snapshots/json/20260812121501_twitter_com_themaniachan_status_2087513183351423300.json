@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087513166398058496",
+        "3_2087513172538519552",
+        "3_2087513178632851456"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2087513183351423300",
+    "created_at": "2026-08-12T12:15:01.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087513183351423300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7dL6hbMsLp",
+          "end": 165,
+          "expanded_url": "https://x.com/themaniachan/status/2087513183351423300/photo/1",
+          "media_key": "3_2087513166398058496",
+          "start": 142,
+          "url": "https://t.co/7dL6hbMsLp"
+        },
+        {
+          "display_url": "pic.x.com/7dL6hbMsLp",
+          "end": 165,
+          "expanded_url": "https://x.com/themaniachan/status/2087513183351423300/photo/1",
+          "media_key": "3_2087513172538519552",
+          "start": 142,
+          "url": "https://t.co/7dL6hbMsLp"
+        },
+        {
+          "display_url": "pic.x.com/7dL6hbMsLp",
+          "end": 165,
+          "expanded_url": "https://x.com/themaniachan/status/2087513183351423300/photo/1",
+          "media_key": "3_2087513178632851456",
+          "start": 142,
+          "url": "https://t.co/7dL6hbMsLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087513183351423300",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087513166398058496"
+      },
+      {
+        "media_key": "3_2087513172538519552"
+      },
+      {
+        "media_key": "3_2087513178632851456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是当代部分国男的嘴脸\n发张照片留言当舔狗，一旦挨骂了就立刻应激，你追着骂我就追着挂\n看你关注列表里也都是十八禁内容，也不能指望你脑子里塞的是有用的东西了，你妈知道你到处这么称呼女性估计都得联合你爸一起给你打了\n被女性喂大的一张嘴居然能冒出这么恶心人的话，我是你妈就趁早把你掐死了 https://t.co/7dL6hbMsLp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 781,
+        "media_key": "3_2087513166398058496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhWKisbcAAm6Da.jpg",
+        "width": 1890
+      },
+      {
+        "height": 1316,
+        "media_key": "3_2087513172538519552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhWK5kbcAAHeNb.jpg",
+        "width": 1890
+      },
+      {
+        "height": 517,
+        "media_key": "3_2087513178632851456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhWLQRbkAAWENw.jpg",
+        "width": 1888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087513166398058496",
+            "3_2087513172538519552",
+            "3_2087513178632851456"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2087513183351423300",
+        "created_at": "2026-08-12T12:15:01.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087513183351423300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dL6hbMsLp",
+              "end": 165,
+              "expanded_url": "https://x.com/themaniachan/status/2087513183351423300/photo/1",
+              "media_key": "3_2087513166398058496",
+              "start": 142,
+              "url": "https://t.co/7dL6hbMsLp"
+            },
+            {
+              "display_url": "pic.x.com/7dL6hbMsLp",
+              "end": 165,
+              "expanded_url": "https://x.com/themaniachan/status/2087513183351423300/photo/1",
+              "media_key": "3_2087513172538519552",
+              "start": 142,
+              "url": "https://t.co/7dL6hbMsLp"
+            },
+            {
+              "display_url": "pic.x.com/7dL6hbMsLp",
+              "end": 165,
+              "expanded_url": "https://x.com/themaniachan/status/2087513183351423300/photo/1",
+              "media_key": "3_2087513178632851456",
+              "start": 142,
+              "url": "https://t.co/7dL6hbMsLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087513183351423300",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087513166398058496"
+          },
+          {
+            "media_key": "3_2087513172538519552"
+          },
+          {
+            "media_key": "3_2087513178632851456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是当代部分国男的嘴脸\n发张照片留言当舔狗，一旦挨骂了就立刻应激，你追着骂我就追着挂\n看你关注列表里也都是十八禁内容，也不能指望你脑子里塞的是有用的东西了，你妈知道你到处这么称呼女性估计都得联合你爸一起给你打了\n被女性喂大的一张嘴居然能冒出这么恶心人的话，我是你妈就趁早把你掐死了 https://t.co/7dL6hbMsLp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2087513183351423300",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 273,
+          "like_count": 1764,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1500
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2091859814943015273",
+    "created_at": "2026-08-25T02:34:41.000Z",
+    "display_text_range": [
+      10,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092078177942380860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840708439544352768",
+          "start": 0,
+          "username": "seiunn04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092078177942380860",
+    "in_reply_to_user_id": "1840708439544352768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091913090812015064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiunn04 最恶心的是这些人完全没有同理心和情商，说话之前完全不想会给别人带来什么..."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091913090812015064].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091913090812015064",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091913090812015064"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2091859814943015273",
+        "created_at": "2026-08-25T02:34:41.000Z",
+        "display_text_range": [
+          10,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092078177942380860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840708439544352768",
+              "start": 0,
+              "username": "seiunn04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092078177942380860",
+        "in_reply_to_user_id": "1840708439544352768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091913090812015064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiunn04 最恶心的是这些人完全没有同理心和情商，说话之前完全不想会给别人带来什么..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2092078177942380860",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 299,
+          "like_count": 2088,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 1731
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T11:01:10.000Z",
+        "description": "雨上がりの一番星",
+        "id": "1840708439544352768",
+        "is_identity_verified": false,
+        "location": "Atlanta, GA",
+        "most_recent_tweet_id": "2090986627388608936",
+        "name": "测地线上的魔法使",
+        "pinned_tweet_id": "2088444177163993598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840708439544352768/1749275719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087958218798452736/Kp1e6fc1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1465,
+          "like_count": 18945,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 3817
+        },
+        "url": "",
+        "username": "seiunn04",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

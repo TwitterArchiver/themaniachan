@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2084542979453370834",
+    "created_at": "2026-08-04T11:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084604996122009998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954959493810515968",
+          "start": 0,
+          "username": "Chi777_Guuuu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084604996122009998",
+    "in_reply_to_user_id": "1954959493810515968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084542979453370834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chi777_Guuuu_ 好似"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084542974688661504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3IyoVakAAEMOf.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2084542979453370834",
+        "created_at": "2026-08-04T11:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084604996122009998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1954959493810515968",
+              "start": 0,
+              "username": "Chi777_Guuuu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084604996122009998",
+        "in_reply_to_user_id": "1954959493810515968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084542979453370834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chi777_Guuuu_ 好似"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084542974688661504"
+          ]
+        },
+        "author_id": "1954959493810515968",
+        "conversation_id": "2084542979453370834",
+        "created_at": "2026-08-04T07:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084542979453370834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qerVXetcXQ",
+              "end": 45,
+              "expanded_url": "https://x.com/Chi777_Guuuu_/status/2084542979453370834/photo/1",
+              "media_key": "3_2084542974688661504",
+              "start": 22,
+              "url": "https://t.co/qerVXetcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084542979453370834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9213,
+          "like_count": 159,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这死妈的婊子终于给封了 msk最正确的一集 https://t.co/qerVXetcXQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 266,
+          "like_count": 1620,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1353
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T17:34:08.000Z",
+        "description": "专心经营自己的下水道生活\n我只是一个心理极度黑暗扭曲的女孩 我有各种各样的奇怪癖好 但是对待感情依旧真诚 我只是在做自己的事\n纯绿🚪88",
+        "id": "1954959493810515968",
+        "name": "耻骨",
+        "pinned_tweet_id": "2083181835581006334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533665746411520/K7wdQ2rc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 15,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "Chi777_Guuuu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079453597037887488",
+        "3_2079453603354517504"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2079453609314652254",
+    "created_at": "2026-07-21T06:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079453609314652254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SYkduZRrZ7",
+          "end": 51,
+          "expanded_url": "https://x.com/themaniachan/status/2079453609314652254/photo/1",
+          "media_key": "3_2079453597037887488",
+          "start": 28,
+          "url": "https://t.co/SYkduZRrZ7"
+        },
+        {
+          "display_url": "pic.x.com/SYkduZRrZ7",
+          "end": 51,
+          "expanded_url": "https://x.com/themaniachan/status/2079453609314652254/photo/1",
+          "media_key": "3_2079453603354517504",
+          "start": 28,
+          "url": "https://t.co/SYkduZRrZ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079453609314652254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧没有弹幕没有点踩这一块\n为什么要给我推荐这种视频😇 https://t.co/SYkduZRrZ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2079453597037887488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNu0B3JaAAA9Lje.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2079453603354517504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNu0COraIAAcCgz.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079453597037887488",
+            "3_2079453603354517504"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2079453609314652254",
+        "created_at": "2026-07-21T06:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079453609314652254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYkduZRrZ7",
+              "end": 51,
+              "expanded_url": "https://x.com/themaniachan/status/2079453609314652254/photo/1",
+              "media_key": "3_2079453597037887488",
+              "start": 28,
+              "url": "https://t.co/SYkduZRrZ7"
+            },
+            {
+              "display_url": "pic.x.com/SYkduZRrZ7",
+              "end": 51,
+              "expanded_url": "https://x.com/themaniachan/status/2079453609314652254/photo/1",
+              "media_key": "3_2079453603354517504",
+              "start": 28,
+              "url": "https://t.co/SYkduZRrZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079453609314652254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧没有弹幕没有点踩这一块\n为什么要给我推荐这种视频😇 https://t.co/SYkduZRrZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 243,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1147
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      }
+    ]
+  }
+}

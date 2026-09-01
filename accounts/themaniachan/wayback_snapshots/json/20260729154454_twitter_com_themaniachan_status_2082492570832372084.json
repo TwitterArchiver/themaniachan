@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2082452413945163945",
+    "created_at": "2026-07-29T15:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082492570832372084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2077198498035109888",
+          "start": 0,
+          "username": "Lianmoon1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082492570832372084",
+    "in_reply_to_user_id": "2077198498035109888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082486424201568631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lianmoon1230 一起奔向自由的生活吧！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2082452413945163945",
+        "created_at": "2026-07-29T15:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082492570832372084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2077198498035109888",
+              "start": 0,
+              "username": "Lianmoon1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082492570832372084",
+        "in_reply_to_user_id": "2077198498035109888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082486424201568631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lianmoon1230 一起奔向自由的生活吧！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077198498035109888",
+        "conversation_id": "2082452413945163945",
+        "created_at": "2026-07-29T15:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082486424201568631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082486424201568631",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082452413945163945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 同感！很渴望自己走出去的那一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 260,
+          "like_count": 1555,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1288
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T01:11:45.000Z",
+        "description": "06｜infj｜双相休学｜精二鉴赏家｜pr  gpb我的神｜话唠｜内心超脆弱｜戒o戒割｜亲亲正在阅读这句话的人≥≤♡｜想更多地认识和听见大家！！！",
+        "id": "2077198498035109888",
+        "name": "🌙",
+        "pinned_tweet_id": "2082485819017986384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082473178279124992/XFqP9g8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "Lianmoon1230",
+        "verified": false
+      }
+    ]
+  }
+}

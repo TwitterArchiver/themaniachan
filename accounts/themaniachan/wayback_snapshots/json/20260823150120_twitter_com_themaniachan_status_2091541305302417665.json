@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2091541305302417665",
+    "created_at": "2026-08-23T15:01:20.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091541305302417665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869639753278296064",
+          "start": 3,
+          "username": "HoneySe7en29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091541305302417665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 440
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091207587958346040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoneySe7en29: 安全词是啥啊我他妈快被生活操死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2091541305302417665",
+        "created_at": "2026-08-23T15:01:20.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091541305302417665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869639753278296064",
+              "start": 3,
+              "username": "HoneySe7en29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091541305302417665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 440
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091207587958346040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoneySe7en29: 安全词是啥啊我他妈快被生活操死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869639753278296064",
+        "conversation_id": "2091207587958346040",
+        "created_at": "2026-08-22T16:55:16.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091207587958346040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091207587958346040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 394587,
+          "like_count": 4909,
+          "quote_count": 27,
+          "reply_count": 356,
+          "retweet_count": 439
+        },
+        "reply_settings": "everyone",
+        "text": "安全词是啥啊我他妈快被生活操死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2091541305302417665",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 293,
+          "like_count": 2052,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-19T07:04:00.000Z",
+        "description": "女｜泛性恋｜entp｜喜欢有礼貌的人",
+        "id": "1869639753278296064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091515136565711059",
+        "name": "se7en29",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869639753278296064/1738002228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875257584602783744/TSWNRc0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 166,
+          "like_count": 3709,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1104
+        },
+        "url": "",
+        "username": "HoneySe7en29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

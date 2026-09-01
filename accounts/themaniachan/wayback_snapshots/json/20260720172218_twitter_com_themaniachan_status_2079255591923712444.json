@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2079251848670953977",
+    "created_at": "2026-07-20T17:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079255591923712444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076372423335915521",
+          "start": 0,
+          "username": "weifengCral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079255591923712444",
+    "in_reply_to_user_id": "2076372423335915521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079255274461036860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weifengCral 谢谢老大关心..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2079251848670953977",
+        "created_at": "2026-07-20T17:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079255591923712444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076372423335915521",
+              "start": 0,
+              "username": "weifengCral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079255591923712444",
+        "in_reply_to_user_id": "2076372423335915521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079255274461036860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weifengCral 谢谢老大关心..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076372423335915521",
+        "conversation_id": "2079251848670953977",
+        "created_at": "2026-07-20T17:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079255274461036860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079255274461036860",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079251848670953977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 注意身体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 243,
+          "like_count": 1346,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1117
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-12T18:26:34.000Z",
+        "description": "https://t.co/MCcUiKOgS3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/weifeng1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/weifeng1",
+                "start": 0,
+                "url": "https://t.co/MCcUiKOgS3"
+              }
+            ]
+          }
+        },
+        "id": "2076372423335915521",
+        "location": "深圳龙岗",
+        "name": "超级皮波",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078894229116583936/5CgPKVyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 188,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "weifengCral",
+        "verified": true
+      }
+    ]
+  }
+}

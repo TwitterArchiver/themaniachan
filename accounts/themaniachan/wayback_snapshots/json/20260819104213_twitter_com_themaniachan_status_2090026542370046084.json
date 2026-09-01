@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2089743330624356425",
+    "created_at": "2026-08-19T10:42:13.000Z",
+    "display_text_range": [
+      9,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090026542370046084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1976129860029558784",
+          "start": 0,
+          "username": "M0kowa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090026542370046084",
+    "in_reply_to_user_id": "1976129860029558784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089962445129576672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M0kowa_ 痴迷obsession！好看的！是恐怖片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2089743330624356425",
+        "created_at": "2026-08-19T10:42:13.000Z",
+        "display_text_range": [
+          9,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090026542370046084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1976129860029558784",
+              "start": 0,
+              "username": "M0kowa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090026542370046084",
+        "in_reply_to_user_id": "1976129860029558784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089962445129576672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M0kowa_ 痴迷obsession！好看的！是恐怖片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976129860029558784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089743330624356425",
+        "created_at": "2026-08-19T06:27:31.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089962445129576672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089962445129576672",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089743330624356425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 什么电影ＴＴ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2090026542370046084",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 284,
+          "like_count": 1925,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 1625
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-09T03:37:44.000Z",
+        "description": "中文+한국어OK!! 音声合成｜ヒカ碁💚💛アキヒカ左右固定。坑品很差^ ^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "notion.so/22220a9fd7e480…",
+                "end": 23,
+                "expanded_url": "https://www.notion.so/22220a9fd7e480418ad2e6c817c9ee90?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/lzUesYRvqD"
+              }
+            ]
+          }
+        },
+        "id": "1976129860029558784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089962445129576672",
+        "name": "など",
+        "pinned_tweet_id": "2086452330241925141",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976129860029558784/1760686290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079123701757616129/qEFoZphI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 65,
+          "like_count": 1145,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/lzUesYRvqD",
+        "username": "M0kowa_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

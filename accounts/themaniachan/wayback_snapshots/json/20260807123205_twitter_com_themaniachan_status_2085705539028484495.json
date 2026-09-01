@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2085705539028484495",
+    "created_at": "2026-08-07T12:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085705539028484495"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085705539028484495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天刷视频还想说，螃蟹这个平台做视频的风格就是什么有流量就拿什么当标题，已经无数次非要强调骗子抑郁症之类的话题，每次刷到都觉得特别诡异，还经常拿一些网图薄码了之后指代骗子\n今天终于刷到之前跟小主播纠纷的视频了\n感觉意料之中是怎么回事（）用那种风格赚流量本身就挺让人不适的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2085705539028484495",
+        "created_at": "2026-08-07T12:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085705539028484495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085705539028484495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天刷视频还想说，螃蟹这个平台做视频的风格就是什么有流量就拿什么当标题，已经无数次非要强调骗子抑郁症之类的话题，每次刷到都觉得特别诡异，还经常拿一些网图薄码了之后指代骗子\n今天终于刷到之前跟小主播纠纷的视频了\n感觉意料之中是怎么回事（）用那种风格赚流量本身就挺让人不适的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 270,
+          "like_count": 1683,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 1402
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

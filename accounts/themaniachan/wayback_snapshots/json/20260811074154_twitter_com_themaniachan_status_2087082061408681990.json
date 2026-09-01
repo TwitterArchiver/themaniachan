@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087082019478245376",
+        "3_2087082045487140865"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2087082061408681990",
+    "created_at": "2026-08-11T07:41:54.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087082061408681990"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 9,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 31,
+          "start": 17,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 46,
+          "start": 34,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 59,
+          "start": 47,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 79,
+          "start": 60,
+          "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PSrDJjftqw",
+          "end": 103,
+          "expanded_url": "https://x.com/themaniachan/status/2087082061408681990/photo/1",
+          "media_key": "3_2087082019478245376",
+          "start": 80,
+          "url": "https://t.co/PSrDJjftqw"
+        },
+        {
+          "display_url": "pic.x.com/PSrDJjftqw",
+          "end": 103,
+          "expanded_url": "https://x.com/themaniachan/status/2087082061408681990/photo/1",
+          "media_key": "3_2087082045487140865",
+          "start": 80,
+          "url": "https://t.co/PSrDJjftqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087082061408681990",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087082019478245376"
+      },
+      {
+        "media_key": "3_2087082045487140865"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "证件照大胜利✌🏻\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子と繫がりたい\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/PSrDJjftqw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2087082019478245376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbOCfQbEAAeswv.jpg",
+        "width": 2879
+      },
+      {
+        "height": 2339,
+        "media_key": "3_2087082045487140865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbOEAJbUAEYbpD.jpg",
+        "width": 3118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087082019478245376",
+            "3_2087082045487140865"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2087082061408681990",
+        "created_at": "2026-08-11T07:41:54.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087082061408681990"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 31,
+              "start": 17,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 59,
+              "start": 47,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 79,
+              "start": 60,
+              "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSrDJjftqw",
+              "end": 103,
+              "expanded_url": "https://x.com/themaniachan/status/2087082061408681990/photo/1",
+              "media_key": "3_2087082019478245376",
+              "start": 80,
+              "url": "https://t.co/PSrDJjftqw"
+            },
+            {
+              "display_url": "pic.x.com/PSrDJjftqw",
+              "end": 103,
+              "expanded_url": "https://x.com/themaniachan/status/2087082061408681990/photo/1",
+              "media_key": "3_2087082045487140865",
+              "start": 80,
+              "url": "https://t.co/PSrDJjftqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087082061408681990",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087082019478245376"
+          },
+          {
+            "media_key": "3_2087082045487140865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "证件照大胜利✌🏻\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子と繫がりたい\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/PSrDJjftqw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2087082061408681990",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 272,
+          "like_count": 1742,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1475
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089864502233993216"
+      ],
+      "media_source_tweet_id": [
+        "2089864508546359563"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2090073048049385975",
+    "created_at": "2026-08-19T13:47:00.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090073048049385975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3019926270",
+          "start": 3,
+          "username": "ywwuyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XjFPajuBY8",
+          "end": 60,
+          "expanded_url": "https://x.com/ywwuyi/status/2089864508546359563/photo/1",
+          "media_key": "3_2089864502233993216",
+          "start": 37,
+          "url": "https://t.co/XjFPajuBY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090073048049385975",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089864502233993216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089864508546359563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ywwuyi: 七夕到了，恋爱中学会这1招，男生女生都招架不住。 https://t.co/XjFPajuBY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 387,
+        "media_key": "3_2089864502233993216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQCwsTRbEAAWznh.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089864502233993216"
+          ],
+          "media_source_tweet_id": [
+            "2089864508546359563"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2090073048049385975",
+        "created_at": "2026-08-19T13:47:00.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090073048049385975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3019926270",
+              "start": 3,
+              "username": "ywwuyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjFPajuBY8",
+              "end": 60,
+              "expanded_url": "https://x.com/ywwuyi/status/2089864508546359563/photo/1",
+              "media_key": "3_2089864502233993216",
+              "start": 37,
+              "url": "https://t.co/XjFPajuBY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090073048049385975",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089864502233993216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089864508546359563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ywwuyi: 七夕到了，恋爱中学会这1招，男生女生都招架不住。 https://t.co/XjFPajuBY8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089864502233993216"
+          ]
+        },
+        "author_id": "3019926270",
+        "conversation_id": "2089864508546359563",
+        "created_at": "2026-08-18T23:58:21.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T00:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089864508546359563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjFPajuBY8",
+              "end": 48,
+              "expanded_url": "https://x.com/ywwuyi/status/2089864508546359563/photo/1",
+              "media_key": "3_2089864502233993216",
+              "start": 25,
+              "url": "https://t.co/XjFPajuBY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089864508546359563",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089864502233993216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 59090,
+          "like_count": 1394,
+          "quote_count": 6,
+          "reply_count": 46,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "七夕到了，恋爱中学会这1招，男生女生都招架不住。 https://t.co/XjFPajuBY8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2090073048049385975",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 284,
+          "like_count": 1929,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 1629
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-14T17:01:05.000Z",
+        "description": "中華艦これ提督，RTA勢，揭示板“艦娘國際”管理人，追尋鋼之魂與黃金意志的男人。\nB站https://t.co/9YSUfBAYFs\n图奇https://t.co/gSS34LtVSl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "live.bilibili.com/6655",
+                "end": 66,
+                "expanded_url": "http://live.bilibili.com/6655",
+                "start": 43,
+                "url": "https://t.co/9YSUfBAYFs"
+              },
+              {
+                "display_url": "twitch.tv/wuyikoei",
+                "end": 92,
+                "expanded_url": "http://twitch.tv/wuyikoei",
+                "start": 69,
+                "url": "https://t.co/gSS34LtVSl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbs.nga.cn/poi",
+                "end": 23,
+                "expanded_url": "http://bbs.nga.cn/poi",
+                "start": 0,
+                "url": "https://t.co/N6H8fxoToO"
+              }
+            ]
+          }
+        },
+        "id": "3019926270",
+        "is_identity_verified": false,
+        "location": "义乌",
+        "most_recent_tweet_id": "2089864508546359563",
+        "name": "ywwuyi",
+        "pinned_tweet_id": "1117710263933784064",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3019926270/1551191453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966969696137363463/Odri67RK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89677,
+          "following_count": 63,
+          "like_count": 178,
+          "listed_count": 244,
+          "media_count": 1465,
+          "tweet_count": 2667
+        },
+        "url": "https://t.co/N6H8fxoToO",
+        "username": "ywwuyi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080330217013587973"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2080330258096795862",
+    "created_at": "2026-07-23T16:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080330258096795862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mLoeT16oFp",
+          "end": 54,
+          "expanded_url": "https://x.com/themaniachan/status/2080330258096795862/video/1",
+          "media_key": "13_2080330217013587973",
+          "start": 31,
+          "url": "https://t.co/mLoeT16oFp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080330258096795862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给对我声音抱有希望的推u听...\n好久之前给社团宣传片配的音 https://t.co/mLoeT16oFp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21548,
+        "height": 2772,
+        "media_key": "13_2080330217013587973",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080330217013587973/img/Zxecr8zvaSu_UMFv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080330217013587973/vid/avc1/480x1038/9fLHZbAEwrFPIqeX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080330217013587973/pl/OFUofsna76Clc30G.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080330217013587973/vid/avc1/1280x2772/1s7xkO2Xg5sbdMHt.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080330217013587973/vid/avc1/320x692/Llu_fdZsN1-L1c9M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080330217013587973/vid/avc1/720x1558/bVsLdkBmKAn_kpwf.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080330217013587973"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2080330258096795862",
+        "created_at": "2026-07-23T16:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080330258096795862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mLoeT16oFp",
+              "end": 54,
+              "expanded_url": "https://x.com/themaniachan/status/2080330258096795862/video/1",
+              "media_key": "13_2080330217013587973",
+              "start": 31,
+              "url": "https://t.co/mLoeT16oFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080330258096795862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给对我声音抱有希望的推u听...\n好久之前给社团宣传片配的音 https://t.co/mLoeT16oFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 255,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1203
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      }
+    ]
+  }
+}

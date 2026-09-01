@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2086731361608429834",
+    "created_at": "2026-08-10T09:52:19.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T10:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086752495272173859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1967217075681959936",
+          "start": 0,
+          "username": "IeO_Oe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086752495272173859",
+    "in_reply_to_user_id": "1967217075681959936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086736684096409918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IeO_Oe1 谢谢呀💖🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2086731361608429834",
+        "created_at": "2026-08-10T09:52:19.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086752495272173859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1967217075681959936",
+              "start": 0,
+              "username": "IeO_Oe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086752495272173859",
+        "in_reply_to_user_id": "1967217075681959936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086736684096409918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IeO_Oe1 谢谢呀💖🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967217075681959936",
+        "conversation_id": "2086731361608429834",
+        "created_at": "2026-08-10T08:49:29.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086736684096409918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086736684096409918",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086731361608429834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 恭喜🎉！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2086752495272173859",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 272,
+          "like_count": 1724,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T13:21:41.000Z",
+        "description": "|扩列私信💕|互fo💕|秒回复|psjk|BA|猎杀对决|轻小说|so on…\n尽情依赖我🥰\n如果有想ps的图片我可以帮忙💕\n和我聊什么我都能知道💕💕(大概)\n趣味の合う人と話をしたいだけです！",
+        "id": "1967217075681959936",
+        "is_identity_verified": false,
+        "location": "在你身边💕",
+        "most_recent_tweet_id": "2086736684096409918",
+        "name": "迟到的架子",
+        "pinned_tweet_id": "2080317892881453151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967217075681959936/1784819623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075135218885816320/YnJx8xHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 73,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 495
+        },
+        "url": "",
+        "username": "IeO_Oe1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

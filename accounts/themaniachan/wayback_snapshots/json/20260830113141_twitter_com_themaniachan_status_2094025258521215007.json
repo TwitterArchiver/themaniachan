@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093924104860803072",
+        "3_2093924111827525633"
+      ],
+      "media_source_tweet_id": [
+        "2093924119641477630",
+        "2093924119641477630"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2094025258521215007",
+    "created_at": "2026-08-30T11:31:41.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094025258521215007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2090608627417743360",
+          "start": 3,
+          "username": "XiuGuShe_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rJFPtk3w3g",
+          "end": 55,
+          "expanded_url": "https://x.com/XiuGuShe_2/status/2093924119641477630/photo/1",
+          "media_key": "3_2093924104860803072",
+          "start": 32,
+          "url": "https://t.co/rJFPtk3w3g"
+        },
+        {
+          "display_url": "pic.x.com/rJFPtk3w3g",
+          "end": 55,
+          "expanded_url": "https://x.com/XiuGuShe_2/status/2093924119641477630/photo/1",
+          "media_key": "3_2093924111827525633",
+          "start": 32,
+          "url": "https://t.co/rJFPtk3w3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094025258521215007",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093924104860803072"
+      },
+      {
+        "media_key": "3_2093924111827525633"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093924119641477630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiuGuShe_2: 大号被🔒了，求宝宝们帮我转转🥹 https://t.co/rJFPtk3w3g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_2093924104860803072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8c4RjbIAAjCrp.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1804,
+        "media_key": "3_2093924111827525633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8c4rga4AENRHS.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093924104860803072",
+            "3_2093924111827525633"
+          ],
+          "media_source_tweet_id": [
+            "2093924119641477630",
+            "2093924119641477630"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2094025258521215007",
+        "created_at": "2026-08-30T11:31:41.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094025258521215007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2090608627417743360",
+              "start": 3,
+              "username": "XiuGuShe_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJFPtk3w3g",
+              "end": 55,
+              "expanded_url": "https://x.com/XiuGuShe_2/status/2093924119641477630/photo/1",
+              "media_key": "3_2093924104860803072",
+              "start": 32,
+              "url": "https://t.co/rJFPtk3w3g"
+            },
+            {
+              "display_url": "pic.x.com/rJFPtk3w3g",
+              "end": 55,
+              "expanded_url": "https://x.com/XiuGuShe_2/status/2093924119641477630/photo/1",
+              "media_key": "3_2093924111827525633",
+              "start": 32,
+              "url": "https://t.co/rJFPtk3w3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094025258521215007",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093924104860803072"
+          },
+          {
+            "media_key": "3_2093924111827525633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093924119641477630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiuGuShe_2: 大号被🔒了，求宝宝们帮我转转🥹 https://t.co/rJFPtk3w3g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093924104860803072",
+            "3_2093924111827525633"
+          ]
+        },
+        "author_id": "2090608627417743360",
+        "conversation_id": "2093924119641477630",
+        "created_at": "2026-08-30T04:49:48.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093924119641477630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJFPtk3w3g",
+              "end": 39,
+              "expanded_url": "https://x.com/XiuGuShe_2/status/2093924119641477630/photo/1",
+              "media_key": "3_2093924104860803072",
+              "start": 16,
+              "url": "https://t.co/rJFPtk3w3g"
+            },
+            {
+              "display_url": "pic.x.com/rJFPtk3w3g",
+              "end": 39,
+              "expanded_url": "https://x.com/XiuGuShe_2/status/2093924119641477630/photo/1",
+              "media_key": "3_2093924111827525633",
+              "start": 16,
+              "url": "https://t.co/rJFPtk3w3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093924119641477630",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093924104860803072"
+          },
+          {
+            "media_key": "3_2093924111827525633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "大号被🔒了，求宝宝们帮我转转🥹 https://t.co/rJFPtk3w3g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2094025258521215007",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 302,
+          "like_count": 2168,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 1799
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T01:18:04.000Z",
+        "description": "防坠机\n1.0 @Makima_0411\n💊🔪🩸🚬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Makima_0411"
+              }
+            ]
+          }
+        },
+        "id": "2090608627417743360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094022211036401806",
+        "name": "銹骨蛇二号机",
+        "pinned_tweet_id": "2094014766193029255",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090608627417743360/1787275430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093893964814495744/RStq8UFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 37,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "XiuGuShe_2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

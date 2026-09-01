@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2082145283107074083",
+    "created_at": "2026-07-29T15:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082490587274715252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680560555936088065",
+          "start": 0,
+          "username": "ourakus3n1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082490587274715252",
+    "in_reply_to_user_id": "1680560555936088065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082452983007400180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ourakus3n1n 是的呀🥹喜欢眼睛大大红红的...特别萌呀..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2082145283107074083",
+        "created_at": "2026-07-29T15:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082490587274715252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680560555936088065",
+              "start": 0,
+              "username": "ourakus3n1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082490587274715252",
+        "in_reply_to_user_id": "1680560555936088065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082452983007400180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ourakus3n1n 是的呀🥹喜欢眼睛大大红红的...特别萌呀..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680560555936088065",
+        "conversation_id": "2082145283107074083",
+        "created_at": "2026-07-29T13:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082452983007400180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082452983007400180",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082145283107074083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 因为蕾妆要的就是病幼的效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 260,
+          "like_count": 1551,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1282
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T12:50:41.000Z",
+        "description": "未曾有伤，未必留痕。",
+        "id": "1680560555936088065",
+        "location": "l",
+        "name": "最是人间留得住",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058442707220226048/jRTVVK2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 206,
+          "like_count": 1047,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 2392
+        },
+        "url": "",
+        "username": "ourakus3n1n",
+        "verified": false
+      }
+    ]
+  }
+}

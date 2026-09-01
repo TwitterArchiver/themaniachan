@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2086162872493912515",
+    "created_at": "2026-08-12T12:53:35.000Z",
+    "display_text_range": [
+      12,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087522888756924866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2003809202666688513",
+          "start": 0,
+          "username": "labrat_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087522888756924866",
+    "in_reply_to_user_id": "2003809202666688513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086162872493912515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@labrat_404 哦原来你三天之前就已经被骂成这样了，还在想怎么会突然在中推圈刷出来你这这么个低能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2086162872493912515",
+        "created_at": "2026-08-12T12:53:35.000Z",
+        "display_text_range": [
+          12,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087522888756924866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2003809202666688513",
+              "start": 0,
+              "username": "labrat_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087522888756924866",
+        "in_reply_to_user_id": "2003809202666688513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086162872493912515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@labrat_404 哦原来你三天之前就已经被骂成这样了，还在想怎么会突然在中推圈刷出来你这这么个低能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003809202666688513",
+        "conversation_id": "2086162872493912515",
+        "created_at": "2026-08-08T18:49:22.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T19:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086162872493912515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086162872493912515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4081,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拆妮子的巨婴逻辑也足够傻逼\n你自己愿意死 愿意拿你自己生命跟别人自证\n这是那个人自己的选择\n怎么就什么西村力成了杀人凶手把人害死了？\n你搞个直播被人骂 你顶多说这些骂她的人不咋地 \n你扯到西村力这他妈拐了几百个弯了？\n这种沾边赖的巨婴族群 脑子正常点都应该远离\n拆妮子经典拉不出屎赖马桶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2087522888756924866",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 273,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1514
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-24T12:45:32.000Z",
+        "description": "dark identity养成日记 人类观察者 切断一切外界灌输及规训 只相信自己的直觉和欲望",
+        "id": "2003809202666688513",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087498418931581158",
+        "name": "rat",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008648723296120833/1gNR4xsA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 64,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "labrat_404",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

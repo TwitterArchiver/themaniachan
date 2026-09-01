@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2091909107813073267",
+    "created_at": "2026-08-25T02:30:51.000Z",
+    "display_text_range": [
+      15,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092077213273505801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757301585305374720",
+          "start": 0,
+          "username": "gummybear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092077213273505801",
+    "in_reply_to_user_id": "1757301585305374720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092067802538811668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gummybear8964 虽然不是全部但真的是这样的（）经常拿自己的一点小问题折磨别人的一群人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2091909107813073267",
+        "created_at": "2026-08-25T02:30:51.000Z",
+        "display_text_range": [
+          15,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092077213273505801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757301585305374720",
+              "start": 0,
+              "username": "gummybear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092077213273505801",
+        "in_reply_to_user_id": "1757301585305374720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092067802538811668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gummybear8964 虽然不是全部但真的是这样的（）经常拿自己的一点小问题折磨别人的一群人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757301585305374720",
+        "conversation_id": "2091909107813073267",
+        "created_at": "2026-08-25T01:53:27.000Z",
+        "display_text_range": [
+          14,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092067802538811668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092067802538811668",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091909107813073267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 第一种喜欢猛猛伤害别人，第二种伤害自己伤害地太重了没有力气伤害别人了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2092077213273505801",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 299,
+          "like_count": 2087,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 1727
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-13T07:12:15.000Z",
+        "description": "草草草草草草草草草草草\nHe/Him, They/Them\nA big gamer, noob developer, 420 friendly.\nA lamb from utopian",
+        "id": "1757301585305374720",
+        "is_identity_verified": false,
+        "location": "Costa Mesa, CA",
+        "most_recent_tweet_id": "2092076117054337338",
+        "name": "吃草草草草草草莓呀",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035192907125395456/w8-Gc6OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 71,
+          "like_count": 60,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "gummybear8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

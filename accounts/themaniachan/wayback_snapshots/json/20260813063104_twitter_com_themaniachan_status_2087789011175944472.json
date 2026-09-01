@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2087418044771705089",
+    "created_at": "2026-08-13T06:31:04.000Z",
+    "display_text_range": [
+      14,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087789011175944472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2062592025623719936",
+          "start": 0,
+          "username": "Mizu0612Saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087789011175944472",
+    "in_reply_to_user_id": "2062592025623719936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087788068199870973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mizu0612Saki 加油呀老大...生活也不是只有学习这一条路的！找到自己适合的地方就是最大的胜利呀！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2087418044771705089",
+        "created_at": "2026-08-13T06:31:04.000Z",
+        "display_text_range": [
+          14,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087789011175944472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2062592025623719936",
+              "start": 0,
+              "username": "Mizu0612Saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087789011175944472",
+        "in_reply_to_user_id": "2062592025623719936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087788068199870973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mizu0612Saki 加油呀老大...生活也不是只有学习这一条路的！找到自己适合的地方就是最大的胜利呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062592025623719936",
+        "conversation_id": "2087418044771705089",
+        "created_at": "2026-08-13T06:27:19.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087788068199870973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087788068199870973",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087418044771705089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 狂酱好厉害 我现在学习成绩老差了🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2087789011175944472",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 275,
+          "like_count": 1815,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1536
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T17:48:10.000Z",
+        "description": "いらっしゃいませ💕\n会互fo 谢谢喜欢",
+        "id": "2062592025623719936",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2087788068199870973",
+        "name": "みず",
+        "pinned_tweet_id": "2070443939971080386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062592025623719936/1780596536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062597435248295936/rVCCiCnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 55,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "Mizu0612Saki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

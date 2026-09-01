@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2091578672872562980",
+    "created_at": "2026-08-23T17:29:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T18:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091578672872562980"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 121,
+          "tag": "デビルメイクライ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "814207159",
+          "start": 3,
+          "username": "devilmaycry_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091578672872562980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7404
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091329574189867374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @devilmaycry_jp: 本日、「デビル メイ クライ」シリーズが25周年を迎えました🎉\n\nダンテたちとともに戦い続けてくれたデビルハンターの皆様に感謝を！\nこれからも「デビル メイ クライ」シリーズをよろしくお願いします。\n\n#デビルメイクライ https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2090628149411528706",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNnOasbQAI_aBG.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2091578672872562980",
+        "created_at": "2026-08-23T17:29:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091578672872562980"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 121,
+              "tag": "デビルメイクライ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "814207159",
+              "start": 3,
+              "username": "devilmaycry_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091578672872562980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7404
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091329574189867374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @devilmaycry_jp: 本日、「デビル メイ クライ」シリーズが25周年を迎えました🎉\n\nダンテたちとともに戦い続けてくれたデビルハンターの皆様に感謝を！\nこれからも「デビル メイ クライ」シリーズをよろしくお願いします。\n\n#デビルメイクライ https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090628149411528706"
+          ]
+        },
+        "author_id": "814207159",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2091329574189867374",
+        "created_at": "2026-08-23T01:00:00.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091329574189867374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 101,
+              "tag": "デビルメイクライ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2x8n8ec5K",
+              "end": 134,
+              "expanded_url": "https://x.com/devilmaycry_jp/status/2091329574189867374/photo/1",
+              "media_key": "3_2090628149411528706",
+              "start": 111,
+              "url": "https://t.co/F2x8n8ec5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091329574189867374",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090628149411528706"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1315,
+          "impression_count": 669747,
+          "like_count": 19738,
+          "quote_count": 628,
+          "reply_count": 182,
+          "retweet_count": 7404
+        },
+        "reply_settings": "everyone",
+        "text": "本日、「デビル メイ クライ」シリーズが25周年を迎えました🎉\n\nダンテたちとともに戦い続けてくれたデビルハンターの皆様に感謝を！\nこれからも「デビル メイ クライ」シリーズをよろしくお願いします。\n\n#デビルメイクライ https://t.co/F2x8n8ec5K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2091578672872562980",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 296,
+          "like_count": 2067,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1706
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1463681236640366592/DuwlBaib_bigger.jpg",
+          "description": "CAPCOM公式",
+          "url": "https://twitter.com/capcom_official",
+          "user_id": [
+            "459959328"
+          ]
+        },
+        "created_at": "2012-09-10T01:07:16.000Z",
+        "description": "「デビル メイ クライ」シリーズ公式アカウントです。「デビル メイ クライ」シリーズに関する最新情報をお届けいたします。\nNintendo Switch 2 にて『デビル メイ クライ ５ デビルハンターエディション』が好評発売中！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "devilmaycry.com/ja/",
+                "end": 23,
+                "expanded_url": "https://www.devilmaycry.com/ja/",
+                "start": 0,
+                "url": "https://t.co/nq2aWyRDbO"
+              }
+            ]
+          }
+        },
+        "id": "814207159",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091329574189867374",
+        "name": "【公式】「デビル メイ クライ」シリーズ",
+        "pinned_tweet_id": "2069221202724614258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814207159/1600290300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561896225414459394/1_cqOH7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61216,
+          "following_count": 3,
+          "like_count": 354,
+          "listed_count": 385,
+          "media_count": 1271,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/nq2aWyRDbO",
+        "username": "devilmaycry_jp",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

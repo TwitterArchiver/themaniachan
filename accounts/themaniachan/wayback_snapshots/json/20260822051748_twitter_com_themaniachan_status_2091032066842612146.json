@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10040098875",
+          "name": "Fate/Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2091032066842612146",
+    "created_at": "2026-08-22T05:17:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T06:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091032066842612146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1555014303014481920",
+          "start": 3,
+          "username": "Fate_SF_Anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091032066842612146",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21527
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090929437986488389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fate_SF_Anime: ━━━━━━━━━━━━━━\n TVアニメ『Fate/strange Fake』\n　　  新シリーズ制作決定\n━━━━━━━━━━━━━━\n\nRise Against the Rules.\n\n▼新シリーズティザービジュアル公開\n\n#stra…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2907,
+        "media_key": "3_2090776105116684288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPtykpa0AAR_9_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040098875",
+              "name": "Fate/Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2091032066842612146",
+        "created_at": "2026-08-22T05:17:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091032066842612146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1555014303014481920",
+              "start": 3,
+              "username": "Fate_SF_Anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091032066842612146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21527
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090929437986488389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fate_SF_Anime: ━━━━━━━━━━━━━━\n TVアニメ『Fate/strange Fake』\n　　  新シリーズ制作決定\n━━━━━━━━━━━━━━\n\nRise Against the Rules.\n\n▼新シリーズティザービジュアル公開\n\n#stra…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090776105116684288"
+          ]
+        },
+        "author_id": "1555014303014481920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040098875",
+              "name": "Fate/Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2090929437986488389",
+        "created_at": "2026-08-21T22:30:00.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T23:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090929437986488389"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 115,
+              "tag": "strangefake"
+            },
+            {
+              "end": 138,
+              "start": 128,
+              "tag": "ストレンジフェイク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cPasL53xGD",
+              "end": 162,
+              "expanded_url": "https://x.com/Fate_SF_Anime/status/2090929437986488389/photo/1",
+              "media_key": "3_2090776105116684288",
+              "start": 139,
+              "url": "https://t.co/cPasL53xGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090929437986488389",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090776105116684288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3028,
+          "impression_count": 1449013,
+          "like_count": 54109,
+          "quote_count": 2176,
+          "reply_count": 95,
+          "retweet_count": 21527
+        },
+        "reply_settings": "everyone",
+        "text": "━━━━━━━━━━━━━━\n TVアニメ『Fate/strange Fake』\n　　  新シリーズ制作決定\n━━━━━━━━━━━━━━\n\nRise Against the Rules.\n\n▼新シリーズティザービジュアル公開\n\n#strangefake #ストレンジフェイク https://t.co/cPasL53xGD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2091032066842612146",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 288,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 1670
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-04T02:16:08.000Z",
+        "description": "TVアニメ『Fate/strange Fake』OST・BDBOX：発売中/原作：成田良悟・TYPE-MOON 『Fate/strange Fake』（電撃文庫刊）/キャラクター原案：森井しづき/監督：榎戸駿・坂詰嵩仁/制作：A-1 Pictures #strangefake",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 126,
+                "tag": "strangefake"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fate-strange-fake.com",
+                "end": 23,
+                "expanded_url": "https://fate-strange-fake.com",
+                "start": 0,
+                "url": "https://t.co/whEk8JFtFB"
+              }
+            ]
+          }
+        },
+        "id": "1555014303014481920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091027587103682843",
+        "name": "TVアニメ『Fate/strange Fake』公式",
+        "pinned_tweet_id": "2090929437986488389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1555014303014481920/1774709292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966816455619735553/rq1va2ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130100,
+          "following_count": 46,
+          "like_count": 18,
+          "listed_count": 664,
+          "media_count": 591,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/whEk8JFtFB",
+        "username": "Fate_SF_Anime",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

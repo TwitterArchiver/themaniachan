@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083827628390424576"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2083827637856682379",
+    "created_at": "2026-08-02T08:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083827637856682379"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 47,
+          "start": 41,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 62,
+          "start": 50,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 75,
+          "start": 63,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 95,
+          "start": 76,
+          "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rDkCmrz9zf",
+          "end": 119,
+          "expanded_url": "https://x.com/themaniachan/status/2083827637856682379/photo/1",
+          "media_key": "3_2083827628390424576",
+          "start": 96,
+          "url": "https://t.co/rDkCmrz9zf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083827637856682379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被叫到姐姐家帮忙干活搬家啦...只是帮忙搬了个床就感觉已经力竭了😇\n#自撮り界隈\n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/rDkCmrz9zf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2592,
+        "media_key": "3_2083827628390424576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs-L_tbIAAk5Vp.jpg",
+        "width": 1943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083827628390424576"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2083827637856682379",
+        "created_at": "2026-08-02T08:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083827637856682379"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 75,
+              "start": 63,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 95,
+              "start": 76,
+              "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDkCmrz9zf",
+              "end": 119,
+              "expanded_url": "https://x.com/themaniachan/status/2083827637856682379/photo/1",
+              "media_key": "3_2083827628390424576",
+              "start": 96,
+              "url": "https://t.co/rDkCmrz9zf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083827637856682379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被叫到姐姐家帮忙干活搬家啦...只是帮忙搬了个床就感觉已经力竭了😇\n#自撮り界隈\n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/rDkCmrz9zf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 260,
+          "like_count": 1585,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 1322
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

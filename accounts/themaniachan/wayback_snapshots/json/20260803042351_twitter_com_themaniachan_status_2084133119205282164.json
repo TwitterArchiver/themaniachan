@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2083436811217690764",
+    "created_at": "2026-08-03T04:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084133119205282164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491134477162008576",
+          "start": 0,
+          "username": "InnocentB1tch_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084133119205282164",
+    "in_reply_to_user_id": "1491134477162008576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083436811217690764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InnocentB1tch_ 啊啊啊啊姐妹一看你就是那种每天在互联网上发点剑冢言论然后博流量的煞笔啊😭能说出这种话来都替你金主感觉不值"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2083436811217690764",
+        "created_at": "2026-08-03T04:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084133119205282164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491134477162008576",
+              "start": 0,
+              "username": "InnocentB1tch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084133119205282164",
+        "in_reply_to_user_id": "1491134477162008576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436811217690764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InnocentB1tch_ 啊啊啊啊姐妹一看你就是那种每天在互联网上发点剑冢言论然后博流量的煞笔啊😭能说出这种话来都替你金主感觉不值"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491134477162008576",
+        "conversation_id": "2083436811217690764",
+        "created_at": "2026-08-01T06:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083436811217690764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083436811217690764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 220759,
+          "like_count": 802,
+          "quote_count": 94,
+          "reply_count": 274,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "老是刷到说自己哪个哪个朋友死了去天堂了，讣告里把ta描述的像个天使一样，怀着惋惜的心情点进主页一看又是一群聚众自残od注射卖b的小众神人嗯嗯嗯嗯。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 260,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1331
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T19:39:15.000Z",
+        "description": "想你真的太痛甚至超过一把刀",
+        "id": "1491134477162008576",
+        "name": "你们都是我的杯子",
+        "pinned_tweet_id": "2065131670140043570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073854250128384000/Q_04-h1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3498,
+          "following_count": 22,
+          "like_count": 4509,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1065
+        },
+        "url": "",
+        "username": "InnocentB1tch_",
+        "verified": false
+      }
+    ]
+  }
+}

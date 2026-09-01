@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2079266330377867705",
+    "created_at": "2026-07-21T05:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079437246374244359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808377869971693568",
+          "start": 0,
+          "username": "Yuliko0729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079437246374244359",
+    "in_reply_to_user_id": "1808377869971693568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079281705924571148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuliko0729 确实耶...好萌而且能藏好多药..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079281693698244608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsXrxTbQAAsGSe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2079266330377867705",
+        "created_at": "2026-07-21T05:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079437246374244359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808377869971693568",
+              "start": 0,
+              "username": "Yuliko0729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079437246374244359",
+        "in_reply_to_user_id": "1808377869971693568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079281705924571148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuliko0729 确实耶...好萌而且能藏好多药..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079281693698244608"
+          ]
+        },
+        "author_id": "1808377869971693568",
+        "conversation_id": "2079266330377867705",
+        "created_at": "2026-07-20T19:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079281705924571148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXsbjYiWrn",
+              "end": 45,
+              "expanded_url": "https://x.com/Yuliko0729/status/2079281705924571148/photo/1",
+              "media_key": "3_2079281693698244608",
+              "start": 22,
+              "url": "https://t.co/cXsbjYiWrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079281705924571148",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079266330377867705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 这个药箱很可爱 https://t.co/cXsbjYiWrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 243,
+          "like_count": 1388,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T05:51:12.000Z",
+        "description": "🚪88 od妹 寻找前世中",
+        "id": "1808377869971693568",
+        "name": "Yuliko",
+        "pinned_tweet_id": "2078470914250092629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079393375388860416/Qf755KMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 32,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "Yuliko0729",
+        "verified": false
+      }
+    ]
+  }
+}

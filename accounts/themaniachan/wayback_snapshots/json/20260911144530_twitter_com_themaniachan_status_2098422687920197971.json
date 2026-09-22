@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2098422687920197971",
+    "created_at": "2026-09-11T14:45:30.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098422687920197971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1882705285816672256",
+          "start": 3,
+          "username": "tom779853915031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098422687920197971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098242096243089426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @tom779853915031: 咱就是说 健全b能不能别问oder为什么od  od的坏处oder们比你们都清楚 有必要吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2098422687920197971",
+        "created_at": "2026-09-11T14:45:30.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098422687920197971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1882705285816672256",
+              "start": 3,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098422687920197971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098242096243089426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @tom779853915031: 咱就是说 健全b能不能别问oder为什么od  od的坏处oder们比你们都清楚 有必要吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882705285816672256",
+        "conversation_id": "2098242096243089426",
+        "created_at": "2026-09-11T02:47:53.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098242096243089426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098242096243089426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1140,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "other",
+        "text": "咱就是说 健全b能不能别问oder为什么od  od的坏处oder们比你们都清楚 有必要吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2098422687920197971",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 324,
+          "like_count": 2457,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 1994
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T08:21:47.000Z",
+        "description": "中度抑郁焦虑 | 非资深oder | 友跨 | 互fo请私信 | 心理性别女 | 重度社交恐惧 | 日常 | 极端虚无主义 |  偶尔穿穿女装 | emoji精通\n艰难的活着ing…\n咱的好朋友@aberyoheiskm @6De_dian\n咱的小号@benzyl_group",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 97,
+                "username": "aberyoheiskm"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "6De_dian"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "benzyl_group"
+              }
+            ]
+          }
+        },
+        "id": "1882705285816672256",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2098410145856262452",
+        "name": "苯环",
+        "pinned_tweet_id": "2087926675371606099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882705285816672256/1786463034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084867150938857472/fIpNJgBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 528,
+          "like_count": 2966,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1404
+        },
+        "url": "",
+        "username": "tom779853915031",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

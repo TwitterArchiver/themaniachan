@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100779463256555890",
+    "created_at": "2026-09-19T04:13:35.000Z",
+    "display_text_range": [
+      11,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T05:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101162765905965185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2079622802466869248",
+          "start": 0,
+          "username": "anno1234v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101162765905965185",
+    "in_reply_to_user_id": "2079622802466869248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100779463256555890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anno1234v 健全逼甚至不用看到图片，看到点伤疤就要开始吱哇乱叫了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2100779451776692224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSd3x-6W8AAxcag.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100779463256555890",
+        "created_at": "2026-09-19T04:13:35.000Z",
+        "display_text_range": [
+          11,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101162765905965185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2079622802466869248",
+              "start": 0,
+              "username": "anno1234v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101162765905965185",
+        "in_reply_to_user_id": "2079622802466869248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100779463256555890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anno1234v 健全逼甚至不用看到图片，看到点伤疤就要开始吱哇乱叫了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100779451776692224"
+          ]
+        },
+        "author_id": "2079622802466869248",
+        "conversation_id": "2100779463256555890",
+        "created_at": "2026-09-18T02:50:29.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100779463256555890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ee7qoHQbkZ",
+              "end": 130,
+              "expanded_url": "https://x.com/anno1234v/status/2100779463256555890/photo/1",
+              "media_key": "3_2100779451776692224",
+              "start": 107,
+              "url": "https://t.co/Ee7qoHQbkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100779463256555890",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100779451776692224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 43890,
+          "like_count": 2309,
+          "quote_count": 19,
+          "reply_count": 70,
+          "retweet_count": 414
+        },
+        "reply_settings": "everyone",
+        "text": "明明割腕 抽烟 喝酒 性都是缓解压力且自我伤害的一种\n但为什么却只有割腕被唾弃的这么严重\n装伤感抽烟的也有\n装深情喝酒的也有\n却只有割腕被排斥\n看到一个人割腕说脖子吃醋了不就相当于看到一个人跳楼说\"快点跳\"一样吗 https://t.co/Ee7qoHQbkZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2101162765905965185",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 338,
+          "like_count": 2654,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 2124
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T17:43:14.000Z",
+        "description": "08︳168cm 46kg |辍学/社恐/精神病/od/自伤/情感漠视 随便发的推 交友🉑",
+        "id": "2079622802466869248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100782092216946982",
+        "name": "灰沉沉尘",
+        "pinned_tweet_id": "2095186650963788245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079622802466869248/1786156246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085916596443254785/EAYdjpYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 33,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "anno1234v",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

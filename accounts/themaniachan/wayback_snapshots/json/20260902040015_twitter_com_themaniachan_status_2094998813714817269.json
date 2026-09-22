@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094998799819411456"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2094998813714817269",
+    "created_at": "2026-09-02T04:00:15.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094998813714817269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z6qn5ANhZz",
+          "end": 31,
+          "expanded_url": "https://x.com/themaniachan/status/2094998813714817269/photo/1",
+          "media_key": "3_2094998799819411456",
+          "start": 8,
+          "url": "https://t.co/z6qn5ANhZz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094998813714817269",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094998799819411456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大狗大狗觉觉觉 https://t.co/z6qn5ANhZz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2094998799819411456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLuTwQbEAAGGTy.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094998799819411456"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2094998813714817269",
+        "created_at": "2026-09-02T04:00:15.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094998813714817269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6qn5ANhZz",
+              "end": 31,
+              "expanded_url": "https://x.com/themaniachan/status/2094998813714817269/photo/1",
+              "media_key": "3_2094998799819411456",
+              "start": 8,
+              "url": "https://t.co/z6qn5ANhZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094998813714817269",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094998799819411456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大狗大狗觉觉觉 https://t.co/z6qn5ANhZz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2094998813714817269",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 302,
+          "like_count": 2193,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 1820
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

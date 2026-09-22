@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100938913141633073",
+    "created_at": "2026-09-18T13:24:05.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100938913141633073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/themaniachan/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/themaniachan/status/2100937290411602106",
+          "start": 31,
+          "url": "https://t.co/Ip7Gj0KYNn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100938913141633073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100937290411602106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点想换回一号机那个看起来很活泼的狂爱了（）又回到最初的起点 https://t.co/Ip7Gj0KYNn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100938913141633073",
+        "created_at": "2026-09-18T13:24:05.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100938913141633073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/themaniachan/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/themaniachan/status/2100937290411602106",
+              "start": 31,
+              "url": "https://t.co/Ip7Gj0KYNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100938913141633073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100937290411602106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点想换回一号机那个看起来很活泼的狂爱了（）又回到最初的起点 https://t.co/Ip7Gj0KYNn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100937290411602106",
+        "created_at": "2026-09-18T13:17:38.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100937290411602106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100937290411602106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想换个头像🤔这个黑漆漆的虽然很萌但是经常和我的深色主题融为一体"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100938913141633073",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 335,
+          "like_count": 2602,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2106
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100252415366951239",
+    "created_at": "2026-09-17T01:19:41.000Z",
+    "display_text_range": [
+      21,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100394224088928483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1171658344861511682",
+          "start": 0,
+          "username": "Qslhxw77"
+        },
+        {
+          "end": 20,
+          "id": "1901685825076973568",
+          "start": 10,
+          "username": "rczong666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100394224088928483",
+    "in_reply_to_user_id": "1171658344861511682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100352450729566549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qslhxw77 @rczong666 有点没法确定到底是药厂出问题了还是他自己造假...都难说啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100352445629235200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXza9DagAAqjXp.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100252415366951239",
+        "created_at": "2026-09-17T01:19:41.000Z",
+        "display_text_range": [
+          21,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100394224088928483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1171658344861511682",
+              "start": 0,
+              "username": "Qslhxw77"
+            },
+            {
+              "end": 20,
+              "id": "1901685825076973568",
+              "start": 10,
+              "username": "rczong666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100394224088928483",
+        "in_reply_to_user_id": "1171658344861511682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100352450729566549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qslhxw77 @rczong666 有点没法确定到底是药厂出问题了还是他自己造假...都难说啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100352445629235200"
+          ]
+        },
+        "author_id": "1171658344861511682",
+        "conversation_id": "2100252415366951239",
+        "created_at": "2026-09-16T22:33:41.000Z",
+        "display_text_range": [
+          24,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100352450729566549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            },
+            {
+              "end": 24,
+              "id": "1901685825076973568",
+              "start": 14,
+              "username": "rczong666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2CtCu8k1L",
+              "end": 48,
+              "expanded_url": "https://x.com/Qslhxw77/status/2100352450729566549/photo/1",
+              "media_key": "3_2100352445629235200",
+              "start": 25,
+              "url": "https://t.co/u2CtCu8k1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100352450729566549",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100352445629235200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100252415366951239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan @rczong666 https://t.co/u2CtCu8k1L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100394224088928483",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 334,
+          "like_count": 2540,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2061
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-11T05:35:16.000Z",
+        "description": "🩵cn糯米 04/♍️/entp-7w6-782-so/sx-IEE-胆汁质/多血质-混乱善良\n双向｜oder 普瑞巴林重度依赖…\n欢迎交友互fo",
+        "id": "1171658344861511682",
+        "is_identity_verified": false,
+        "location": "没有痛苦与遗憾之地",
+        "most_recent_tweet_id": "2100352450729566549",
+        "name": "青色夏",
+        "pinned_tweet_id": "2045187103999619566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171658344861511682/1765282476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088703494782148608/FRIlCCFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 342,
+          "like_count": 3866,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "Qslhxw77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "药物图文官网：https://t.co/WZqhpNIgCx\n本网站持续更新药物信息，药物报告等，欢迎投稿\n自介：大二本科在读｜人工智能专业｜非mtf｜双相，爱好是od（尤其ym），玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 30,
+                "expanded_url": "http://drugraph.com",
+                "start": 7,
+                "url": "https://t.co/WZqhpNIgCx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 23,
+                "expanded_url": "http://drugraph.com",
+                "start": 0,
+                "url": "https://t.co/WZqhpNHIMZ"
+              }
+            ]
+          }
+        },
+        "id": "1901685825076973568",
+        "is_identity_verified": false,
+        "location": "逐渐清醒",
+        "most_recent_tweet_id": "2100268006299545840",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901685825076973568/1789024736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 478,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/WZqhpNHIMZ",
+        "username": "rczong666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

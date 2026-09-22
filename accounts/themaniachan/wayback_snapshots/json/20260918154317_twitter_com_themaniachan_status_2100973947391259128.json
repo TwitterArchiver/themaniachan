@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100632698448646422",
+    "created_at": "2026-09-18T15:43:17.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100973947391259128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1533108589857951744",
+          "start": 0,
+          "username": "Unknown_XX04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100973947391259128",
+    "in_reply_to_user_id": "1533108589857951744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100972975046770795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unknown_XX04 是这样的大概这些就是两顿的量..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100632698448646422",
+        "created_at": "2026-09-18T15:43:17.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100973947391259128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1533108589857951744",
+              "start": 0,
+              "username": "Unknown_XX04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100973947391259128",
+        "in_reply_to_user_id": "1533108589857951744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100972975046770795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unknown_XX04 是这样的大概这些就是两顿的量..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533108589857951744",
+        "conversation_id": "2100632698448646422",
+        "created_at": "2026-09-18T15:39:26.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100972975046770795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100972975046770795",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100969382830825620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan so sad。\n那或许可以相对少一点，说不定还能留下下一次。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100973947391259128",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 337,
+          "like_count": 2627,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 2114
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-04T15:29:23.000Z",
+        "description": "名前はライラー/你想在这里看到什么？/ここで何を見たい？/ゴミ箱/病み垢 鍵垢🔑:@Unknown_000A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "Unknown_000A"
+              }
+            ]
+          }
+        },
+        "id": "1533108589857951744",
+        "is_identity_verified": false,
+        "location": "Рядом с тобой",
+        "most_recent_tweet_id": "2100973161076699227",
+        "name": "学姐和我打篮球被我扣篮",
+        "pinned_tweet_id": "1971732405167050959",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1533108589857951744/1711249066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007005216886153217/OVLlU-wO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 1219,
+          "like_count": 25550,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 4450
+        },
+        "url": "",
+        "username": "Unknown_XX04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

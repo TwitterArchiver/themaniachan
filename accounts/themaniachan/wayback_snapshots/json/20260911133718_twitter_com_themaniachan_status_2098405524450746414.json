@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2098326950075084800"
+      ],
+      "media_source_tweet_id": [
+        "2098326975618466258"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2098405524450746414",
+    "created_at": "2026-09-11T13:37:18.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098405524450746414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1938074934586314755",
+          "start": 3,
+          "username": "Doraemon1919810"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xf8Q1OaGOS",
+          "end": 44,
+          "expanded_url": "https://x.com/Doraemon1919810/status/2098326975618466258/photo/1",
+          "media_key": "16_2098326950075084800",
+          "start": 21,
+          "url": "https://t.co/Xf8Q1OaGOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098405524450746414",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2098326950075084800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1476
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098326975618466258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Doraemon1919810: https://t.co/Xf8Q1OaGOS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2098326950075084800",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HR7BPmHasAA5oHg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HR7BPmHasAA5oHg.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2098326950075084800"
+          ],
+          "media_source_tweet_id": [
+            "2098326975618466258"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2098405524450746414",
+        "created_at": "2026-09-11T13:37:18.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098405524450746414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1938074934586314755",
+              "start": 3,
+              "username": "Doraemon1919810"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xf8Q1OaGOS",
+              "end": 44,
+              "expanded_url": "https://x.com/Doraemon1919810/status/2098326975618466258/photo/1",
+              "media_key": "16_2098326950075084800",
+              "start": 21,
+              "url": "https://t.co/Xf8Q1OaGOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098405524450746414",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2098326950075084800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1476
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098326975618466258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Doraemon1919810: https://t.co/Xf8Q1OaGOS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2098326950075084800"
+          ]
+        },
+        "author_id": "1938074934586314755",
+        "conversation_id": "2098326975618466258",
+        "created_at": "2026-09-11T08:25:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098326975618466258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xf8Q1OaGOS",
+              "end": 23,
+              "expanded_url": "https://x.com/Doraemon1919810/status/2098326975618466258/photo/1",
+              "media_key": "16_2098326950075084800",
+              "start": 0,
+              "url": "https://t.co/Xf8Q1OaGOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098326975618466258",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2098326950075084800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2664,
+          "impression_count": 337163,
+          "like_count": 12726,
+          "quote_count": 65,
+          "reply_count": 44,
+          "retweet_count": 1476
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Xf8Q1OaGOS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2098405524450746414",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 323,
+          "like_count": 2440,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 1989
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-26T03:20:55.000Z",
+        "description": "元のtwitterは凍結された ！！！中国淫夢厨、日本兄貴好き！Bilibili淫夢運搬。備用@Doraemon364364🇯🇵🇨🇳友好互掘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Doraemon364364"
+              }
+            ]
+          }
+        },
+        "id": "1938074934586314755",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098340363060826587",
+        "name": "铜锣卫门",
+        "pinned_tweet_id": "2089672614231040498",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938074934586314755/1759886264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050133728161378306/0xjZoXIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4649,
+          "following_count": 453,
+          "like_count": 1724,
+          "listed_count": 10,
+          "media_count": 1128,
+          "tweet_count": 3509
+        },
+        "url": "",
+        "username": "Doraemon1919810",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100858853281964032"
+      ],
+      "media_source_tweet_id": [
+        "2100858860915540458"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100935626900316655",
+    "created_at": "2026-09-18T13:11:01.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100935626900316655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/musbVINsVI",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/2100858860915540458/photo/1",
+          "media_key": "3_2100858853281964032",
+          "start": 11,
+          "url": "https://t.co/musbVINsVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100935626900316655",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2100858853281964032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100858860915540458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/musbVINsVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_2100858853281964032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSe__wkbIAAYKFH.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100858853281964032"
+          ],
+          "media_source_tweet_id": [
+            "2100858860915540458"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100935626900316655",
+        "created_at": "2026-09-18T13:11:01.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100935626900316655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/musbVINsVI",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/2100858860915540458/photo/1",
+              "media_key": "3_2100858853281964032",
+              "start": 11,
+              "url": "https://t.co/musbVINsVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100935626900316655",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100858853281964032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100858860915540458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/musbVINsVI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100858853281964032"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2100858860915540458",
+        "created_at": "2026-09-18T08:05:59.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T09:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100858860915540458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/musbVINsVI",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2100858860915540458/photo/1",
+              "media_key": "3_2100858853281964032",
+              "start": 0,
+              "url": "https://t.co/musbVINsVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100858860915540458",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100858853281964032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 128488,
+          "like_count": 977,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/musbVINsVI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100935626900316655",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 335,
+          "like_count": 2584,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2098
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100858860915540458",
+        "name": "恋",
+        "pinned_tweet_id": "2097239867659071860",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1507396901594820608/1730777810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96857,
+          "following_count": 2329,
+          "like_count": 45591,
+          "listed_count": 143,
+          "media_count": 4687,
+          "tweet_count": 9168
+        },
+        "url": "",
+        "username": "hgds0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

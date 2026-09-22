@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100070261055996200",
+    "created_at": "2026-09-16T09:18:49.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100152415492444589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2054968042107346944",
+          "start": 0,
+          "username": "yangyv_huntun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100152415492444589",
+    "in_reply_to_user_id": "2054968042107346944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100070261055996200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyv_huntun 蹲蹲！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2073,
+        "media_key": "3_2100070251593703424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTyxGWboAAztjj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100070261055996200",
+        "created_at": "2026-09-16T09:18:49.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100152415492444589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2054968042107346944",
+              "start": 0,
+              "username": "yangyv_huntun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100152415492444589",
+        "in_reply_to_user_id": "2054968042107346944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100070261055996200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyv_huntun 蹲蹲！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100070251593703424"
+          ]
+        },
+        "author_id": "2054968042107346944",
+        "conversation_id": "2100070261055996200",
+        "created_at": "2026-09-16T03:52:22.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100070261055996200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1A3k8dHd0F",
+              "end": 173,
+              "expanded_url": "https://x.com/yangyv_huntun/status/2100070261055996200/photo/1",
+              "media_key": "3_2100070251593703424",
+              "start": 150,
+              "url": "https://t.co/1A3k8dHd0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100070261055996200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100070251593703424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 801,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "再发一下，抽奖 为了涨fo\n一等奖一人：奖品1g酸奶葡萄\n二等奖三人：奖品5gpr原粉\n三等奖五人：奖品神秘\n㊙️如果涨到500fo奖励翻倍\n参与条件：需要关注我，点赞评论我的这个帖子，还有求求转发\n从这些都做了的宝子们抽奖哦\n截止时间10月1日\n之前参与过的宝子帮帮转发就好！\n可以来我的tg群玩 https://t.co/1A3k8dHd0F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100152415492444589",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 331,
+          "like_count": 2524,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T16:52:28.000Z",
+        "description": "前世：yangyan_huntun寻回互关中\nINTP | 双相已确诊 | 喜扩列  | 06/185 |  bi男  |  细胞神曲 重返未来1999  | oder | 术力口 | 💊🔪🚬🍺🍥🍬全肯定\n下面是匿名提问，随便问捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangyan_huntun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangyan_huntun",
+                "start": 0,
+                "url": "https://t.co/BzlAM4DgrC"
+              }
+            ]
+          }
+        },
+        "id": "2054968042107346944",
+        "is_identity_verified": false,
+        "location": "重塑之手",
+        "most_recent_tweet_id": "2100085685076332587",
+        "name": "羊🐏言转生2.0(咩咩机形态)",
+        "pinned_tweet_id": "2090077682755412427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054968042107346944/1787131897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090008776548159488/NC9zVCI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 302,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/BzlAM4DgrC",
+        "username": "yangyv_huntun",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

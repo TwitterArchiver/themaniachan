@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100269867823923644",
+    "created_at": "2026-09-17T01:28:57.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100396556809892286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541798404321292293",
+          "start": 0,
+          "username": "pao79617382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100396556809892286",
+    "in_reply_to_user_id": "1541798404321292293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100307426075705720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pao79617382 我们共享大脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100269867823923644",
+        "created_at": "2026-09-17T01:28:57.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100396556809892286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541798404321292293",
+              "start": 0,
+              "username": "pao79617382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100396556809892286",
+        "in_reply_to_user_id": "1541798404321292293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100307426075705720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pao79617382 我们共享大脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541798404321292293",
+        "conversation_id": "2100269867823923644",
+        "created_at": "2026-09-16T19:34:46.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T20:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100307426075705720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100307426075705720",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100269867823923644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 本人心情："
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100396556809892286",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 334,
+          "like_count": 2543,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2064
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-28T14:59:39.000Z",
+        "description": "你好我是槿爻。09生理女性向女/双相/od蛆戒割中/友跨/直fo是喜欢你/互关欢迎fo我会回/我会评论装熟欢迎随意互动（English/Japanese勉強中）不键政不吵架不站队专心经营我的糖逼生活。ID只是个人属性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2872121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2872121",
+                "start": 0,
+                "url": "https://t.co/y7Yg6JK3VX"
+              }
+            ]
+          }
+        },
+        "id": "1541798404321292293",
+        "is_identity_verified": false,
+        "location": "埃弗拉德金库",
+        "most_recent_tweet_id": "2100307426075705720",
+        "name": "理查德斯特林的梦幻之逼8964",
+        "pinned_tweet_id": "2044419277202264126",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541798404321292293/1781398255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023229153244540928/2_YKTroh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 237,
+          "like_count": 10381,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/y7Yg6JK3VX",
+        "username": "pao79617382",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100841471033151967",
+    "created_at": "2026-09-18T12:31:42.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100925732105146840"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100925732105146840",
+    "in_reply_to_user_id": "2047687133708599296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100841471033151967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是我这个帖子不是为了发出来骂内网健全人的吗，还有人说我应激了🤔没骂到你们还来给我评论到底是谁在哈气"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2100840696718741505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSeve6Ga0AE99vb.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2100841449852162048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSewKvva0AAFpWH.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2100841457263484928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSewLLWaoAAsZ1B.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2100841464079241216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSewLkva0AA3TAd.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100841471033151967",
+        "created_at": "2026-09-18T12:31:42.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100925732105146840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100925732105146840",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100841471033151967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是我这个帖子不是为了发出来骂内网健全人的吗，还有人说我应激了🤔没骂到你们还来给我评论到底是谁在哈气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100840696718741505",
+            "3_2100841449852162048",
+            "3_2100841457263484928",
+            "3_2100841464079241216"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100841471033151967",
+        "created_at": "2026-09-18T06:56:53.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100841471033151967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/15phxdJFlN",
+              "end": 76,
+              "expanded_url": "https://x.com/themaniachan/status/2100841471033151967/photo/1",
+              "media_key": "3_2100840696718741505",
+              "start": 53,
+              "url": "https://t.co/15phxdJFlN"
+            },
+            {
+              "display_url": "pic.x.com/15phxdJFlN",
+              "end": 76,
+              "expanded_url": "https://x.com/themaniachan/status/2100841471033151967/photo/1",
+              "media_key": "3_2100841449852162048",
+              "start": 53,
+              "url": "https://t.co/15phxdJFlN"
+            },
+            {
+              "display_url": "pic.x.com/15phxdJFlN",
+              "end": 76,
+              "expanded_url": "https://x.com/themaniachan/status/2100841471033151967/photo/1",
+              "media_key": "3_2100841457263484928",
+              "start": 53,
+              "url": "https://t.co/15phxdJFlN"
+            },
+            {
+              "display_url": "pic.x.com/15phxdJFlN",
+              "end": 76,
+              "expanded_url": "https://x.com/themaniachan/status/2100841471033151967/photo/1",
+              "media_key": "3_2100841464079241216",
+              "start": 53,
+              "url": "https://t.co/15phxdJFlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100841471033151967",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100840696718741505"
+          },
+          {
+            "media_key": "3_2100841449852162048"
+          },
+          {
+            "media_key": "3_2100841457263484928"
+          },
+          {
+            "media_key": "3_2100841464079241216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 28441,
+          "like_count": 554,
+          "quote_count": 9,
+          "reply_count": 65,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "内网健全人你们是不是觉得拍这种视频让你们自己抱团找存在感特别爽\n我给个建议就是，去死比这个还爽的快去死吧 https://t.co/15phxdJFlN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100925732105146840",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 333,
+          "like_count": 2567,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2089
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2097359641659547792",
+    "created_at": "2026-09-08T16:37:55.000Z",
+    "display_text_range": [
+      10,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097363815323377857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1656617197253578752",
+          "start": 0,
+          "username": "ywl88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097363815323377857",
+    "in_reply_to_user_id": "1656617197253578752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097361605554315571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywl88888 谢谢老大😢希望能早点干上兼职给自己攒点小钱呀..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2097359641659547792",
+        "created_at": "2026-09-08T16:37:55.000Z",
+        "display_text_range": [
+          10,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097363815323377857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1656617197253578752",
+              "start": 0,
+              "username": "ywl88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097363815323377857",
+        "in_reply_to_user_id": "1656617197253578752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097361605554315571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywl88888 谢谢老大😢希望能早点干上兼职给自己攒点小钱呀..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656617197253578752",
+        "conversation_id": "2097359641659547792",
+        "created_at": "2026-09-08T16:29:08.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097361605554315571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097361605554315571",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097359641659547792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 加油喵～说不定等几天就有机会了喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2097363815323377857",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 307,
+          "like_count": 2358,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 1940
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-11T11:08:32.000Z",
+        "description": "INFP-T｜成分复杂｜重抑轻焦｜不o不割遵医嘱吃药中｜全友好\n欢迎互fo喵~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ywl88888",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ywl88888",
+                "start": 0,
+                "url": "https://t.co/0oOFansnxm"
+              }
+            ]
+          }
+        },
+        "id": "1656617197253578752",
+        "is_identity_verified": false,
+        "location": "长沙",
+        "most_recent_tweet_id": "2097361897343655982",
+        "name": "冥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656617197253578752/1783204987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073878294278328320/a_mtCV5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 92,
+          "like_count": 2968,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/0oOFansnxm",
+        "username": "ywl88888",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100086726580748389",
+    "created_at": "2026-09-16T09:16:36.000Z",
+    "display_text_range": [
+      15,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100151859193557327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879125730581450753",
+          "start": 0,
+          "username": "DXMPOPPER2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100151859193557327",
+    "in_reply_to_user_id": "1879125730581450753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100111618038521925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXMPOPPER2007 我也是，之前买的从来没有过这样的问题，药量一直是一样的药效也正常，真的啊没买到过这批不好用的不知道什么情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100086726580748389",
+        "created_at": "2026-09-16T09:16:36.000Z",
+        "display_text_range": [
+          15,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100151859193557327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879125730581450753",
+              "start": 0,
+              "username": "DXMPOPPER2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100151859193557327",
+        "in_reply_to_user_id": "1879125730581450753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100111618038521925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMPOPPER2007 我也是，之前买的从来没有过这样的问题，药量一直是一样的药效也正常，真的啊没买到过这批不好用的不知道什么情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879125730581450753",
+        "conversation_id": "2100086726580748389",
+        "created_at": "2026-09-16T06:36:42.000Z",
+        "display_text_range": [
+          14,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100111618038521925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100111618038521925",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100086726580748389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 我感觉应该是药厂搞的鬼如果是真的...不过我每次在那个陆先生那买都没有问题每次都会有药效 现在联系不到他我才换了个药商..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100151859193557327",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 331,
+          "like_count": 2521,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2046
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-14T11:17:50.000Z",
+        "description": "⋆⭒˚ ｡⋆₊ ⊹ ⋆\nhe/him 🏳️‍🌈 LGBTQ+全友好\n重焦B 睡眠障碍B 休学B ( 已复学 x_x )\n我喜欢喝酒嗑药欢迎互关 ~(≧▽≦)～ #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 80,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1879125730581450753",
+        "is_identity_verified": false,
+        "location": "hell",
+        "most_recent_tweet_id": "2100121903096819902",
+        "name": "dex",
+        "pinned_tweet_id": "2066997481070805159",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879125730581450753/1780619177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066508132898226177/6uhT7gE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 169,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 491
+        },
+        "url": "",
+        "username": "DXMPOPPER2007",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

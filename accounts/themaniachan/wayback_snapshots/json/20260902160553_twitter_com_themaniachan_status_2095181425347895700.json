@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094745749695447041"
+      ],
+      "media_source_tweet_id": [
+        "2094745776471851504"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2095181425347895700",
+    "created_at": "2026-09-02T16:05:53.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095181425347895700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557374186091294720",
+          "start": 3,
+          "username": "Cutecatpost"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TgV6wrxiMO",
+          "end": 40,
+          "expanded_url": "https://x.com/Cutecatpost/status/2094745776471851504/video/1",
+          "media_key": "13_2094745749695447041",
+          "start": 17,
+          "url": "https://t.co/TgV6wrxiMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095181425347895700",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2094745749695447041"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10852
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094745776471851504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cutecatpost: https://t.co/TgV6wrxiMO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10081,
+        "height": 720,
+        "media_key": "13_2094745749695447041",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094745749695447041/img/V8adOlCiSe2mpmeI.jpg",
+        "public_metrics": {
+          "view_count": 769312
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094745749695447041/vid/avc1/360x270/5CAjvA32I1whRBI3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094745749695447041/vid/avc1/480x360/Cz8krJrS6kRfRFLc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094745749695447041/vid/avc1/960x720/RCNntEo6ZkpIy8Qf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094745749695447041/pl/DvzxrEEplHH7s0zv.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094745749695447041"
+          ],
+          "media_source_tweet_id": [
+            "2094745776471851504"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2095181425347895700",
+        "created_at": "2026-09-02T16:05:53.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095181425347895700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557374186091294720",
+              "start": 3,
+              "username": "Cutecatpost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgV6wrxiMO",
+              "end": 40,
+              "expanded_url": "https://x.com/Cutecatpost/status/2094745776471851504/video/1",
+              "media_key": "13_2094745749695447041",
+              "start": 17,
+              "url": "https://t.co/TgV6wrxiMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095181425347895700",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094745749695447041"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10852
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094745776471851504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cutecatpost: https://t.co/TgV6wrxiMO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094745749695447041"
+          ]
+        },
+        "author_id": "1557374186091294720",
+        "conversation_id": "2094745776471851504",
+        "created_at": "2026-09-01T11:14:46.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094745776471851504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgV6wrxiMO",
+              "end": 23,
+              "expanded_url": "https://x.com/Cutecatpost/status/2094745776471851504/video/1",
+              "media_key": "13_2094745749695447041",
+              "start": 0,
+              "url": "https://t.co/TgV6wrxiMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094745776471851504",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094745749695447041"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4977,
+          "impression_count": 2331258,
+          "like_count": 84796,
+          "quote_count": 581,
+          "reply_count": 235,
+          "retweet_count": 10852
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TgV6wrxiMO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2095181425347895700",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 302,
+          "like_count": 2202,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 1825
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-10T14:32:25.000Z",
+        "description": "Follow me to watch the best cat videos.If you like my content.🐈",
+        "id": "1557374186091294720",
+        "is_identity_verified": true,
+        "location": "United States",
+        "most_recent_tweet_id": "2095179728089227632",
+        "name": "Cat 🐈",
+        "pinned_tweet_id": "2094745776471851504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557374186091294720/1772267355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027662365161070593/xgf2ye-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23955,
+          "following_count": 6612,
+          "like_count": 5890,
+          "listed_count": 68,
+          "media_count": 7692,
+          "tweet_count": 9051
+        },
+        "url": "",
+        "username": "Cutecatpost",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

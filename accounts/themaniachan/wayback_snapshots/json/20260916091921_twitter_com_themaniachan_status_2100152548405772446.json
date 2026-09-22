@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099710251503407105",
+        "3_2099710251499233280",
+        "3_2099710251503427584",
+        "3_2099710251675332608"
+      ],
+      "media_source_tweet_id": [
+        "2099710277516398730",
+        "2099710277516398730",
+        "2099710277516398730",
+        "2099710277516398730"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100152548405772446",
+    "created_at": "2026-09-16T09:19:21.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100152548405772446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033502740002000898",
+          "start": 3,
+          "username": "Yuki_asukai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NUwe4Mzlbj",
+          "end": 91,
+          "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+          "media_key": "3_2099710251503407105",
+          "start": 68,
+          "url": "https://t.co/NUwe4Mzlbj"
+        },
+        {
+          "display_url": "pic.x.com/NUwe4Mzlbj",
+          "end": 91,
+          "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+          "media_key": "3_2099710251499233280",
+          "start": 68,
+          "url": "https://t.co/NUwe4Mzlbj"
+        },
+        {
+          "display_url": "pic.x.com/NUwe4Mzlbj",
+          "end": 91,
+          "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+          "media_key": "3_2099710251503427584",
+          "start": 68,
+          "url": "https://t.co/NUwe4Mzlbj"
+        },
+        {
+          "display_url": "pic.x.com/NUwe4Mzlbj",
+          "end": 91,
+          "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+          "media_key": "3_2099710251675332608",
+          "start": 68,
+          "url": "https://t.co/NUwe4Mzlbj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100152548405772446",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099710251503407105"
+      },
+      {
+        "media_key": "3_2099710251499233280"
+      },
+      {
+        "media_key": "3_2099710251503427584"
+      },
+      {
+        "media_key": "3_2099710251675332608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099710277516398730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki_asukai: ↑我是飞鸟井郁希/yuki\n餐券地雷欧迪我想和你们互关\n转➕关➕赞抽两个10r！国庆假期最后一天开！ https://t.co/NUwe4Mzlbj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2099710251503407105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOrWVgbUAE6-Qv.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099710251499233280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOrWVfboAAokPp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099710251503427584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOrWVgboAAkX76.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2099710251675332608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOrWWJasAAnzk8.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099710251503407105",
+            "3_2099710251499233280",
+            "3_2099710251503427584",
+            "3_2099710251675332608"
+          ],
+          "media_source_tweet_id": [
+            "2099710277516398730",
+            "2099710277516398730",
+            "2099710277516398730",
+            "2099710277516398730"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100152548405772446",
+        "created_at": "2026-09-16T09:19:21.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100152548405772446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033502740002000898",
+              "start": 3,
+              "username": "Yuki_asukai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUwe4Mzlbj",
+              "end": 91,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+              "media_key": "3_2099710251503407105",
+              "start": 68,
+              "url": "https://t.co/NUwe4Mzlbj"
+            },
+            {
+              "display_url": "pic.x.com/NUwe4Mzlbj",
+              "end": 91,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+              "media_key": "3_2099710251499233280",
+              "start": 68,
+              "url": "https://t.co/NUwe4Mzlbj"
+            },
+            {
+              "display_url": "pic.x.com/NUwe4Mzlbj",
+              "end": 91,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+              "media_key": "3_2099710251503427584",
+              "start": 68,
+              "url": "https://t.co/NUwe4Mzlbj"
+            },
+            {
+              "display_url": "pic.x.com/NUwe4Mzlbj",
+              "end": 91,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+              "media_key": "3_2099710251675332608",
+              "start": 68,
+              "url": "https://t.co/NUwe4Mzlbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100152548405772446",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099710251503407105"
+          },
+          {
+            "media_key": "3_2099710251499233280"
+          },
+          {
+            "media_key": "3_2099710251503427584"
+          },
+          {
+            "media_key": "3_2099710251675332608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099710277516398730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki_asukai: ↑我是飞鸟井郁希/yuki\n餐券地雷欧迪我想和你们互关\n转➕关➕赞抽两个10r！国庆假期最后一天开！ https://t.co/NUwe4Mzlbj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099710251503407105",
+            "3_2099710251499233280",
+            "3_2099710251503427584",
+            "3_2099710251675332608"
+          ]
+        },
+        "author_id": "2033502740002000898",
+        "conversation_id": "2099710277516398730",
+        "created_at": "2026-09-15T04:01:55.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099710277516398730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUwe4Mzlbj",
+              "end": 74,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+              "media_key": "3_2099710251503407105",
+              "start": 51,
+              "url": "https://t.co/NUwe4Mzlbj"
+            },
+            {
+              "display_url": "pic.x.com/NUwe4Mzlbj",
+              "end": 74,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+              "media_key": "3_2099710251499233280",
+              "start": 51,
+              "url": "https://t.co/NUwe4Mzlbj"
+            },
+            {
+              "display_url": "pic.x.com/NUwe4Mzlbj",
+              "end": 74,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+              "media_key": "3_2099710251503427584",
+              "start": 51,
+              "url": "https://t.co/NUwe4Mzlbj"
+            },
+            {
+              "display_url": "pic.x.com/NUwe4Mzlbj",
+              "end": 74,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2099710277516398730/photo/1",
+              "media_key": "3_2099710251675332608",
+              "start": 51,
+              "url": "https://t.co/NUwe4Mzlbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099710277516398730",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099710251503407105"
+          },
+          {
+            "media_key": "3_2099710251499233280"
+          },
+          {
+            "media_key": "3_2099710251503427584"
+          },
+          {
+            "media_key": "3_2099710251675332608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 838,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "↑我是飞鸟井郁希/yuki\n餐券地雷欧迪我想和你们互关\n转➕关➕赞抽两个10r！国庆假期最后一天开！ https://t.co/NUwe4Mzlbj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100152548405772446",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 332,
+          "like_count": 2525,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2050
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T11:16:56.000Z",
+        "description": "＝飞鸟井郁希| enby | 餐券女 | 🎸🎨",
+        "id": "2033502740002000898",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2100015878532379104",
+        "name": "郁希（2.0）",
+        "pinned_tweet_id": "2099710277516398730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033502740002000898/1789223786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088887521216446465/XxVZnA1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 112,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "Yuki_asukai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

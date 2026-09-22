@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096722511681777664"
+      ],
+      "media_source_tweet_id": [
+        "2096722520422629593"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2096900576730661340",
+    "created_at": "2026-09-07T09:57:10.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096900576730661340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1757603703811371008",
+          "start": 3,
+          "username": "11andpr89648964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LnE3psEGM3",
+          "end": 62,
+          "expanded_url": "https://x.com/11andpr89648964/status/2096722520422629593/photo/1",
+          "media_key": "3_2096722511681777664",
+          "start": 39,
+          "url": "https://t.co/LnE3psEGM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096900576730661340",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096722511681777664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096722520422629593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11andpr89648964: 这个不是人类能承受的。越看越想走😭 https://t.co/LnE3psEGM3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_2096722511681777664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkOA_VbcAApFsa.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096722511681777664"
+          ],
+          "media_source_tweet_id": [
+            "2096722520422629593"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2096900576730661340",
+        "created_at": "2026-09-07T09:57:10.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096900576730661340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1757603703811371008",
+              "start": 3,
+              "username": "11andpr89648964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnE3psEGM3",
+              "end": 62,
+              "expanded_url": "https://x.com/11andpr89648964/status/2096722520422629593/photo/1",
+              "media_key": "3_2096722511681777664",
+              "start": 39,
+              "url": "https://t.co/LnE3psEGM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096900576730661340",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096722511681777664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096722520422629593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11andpr89648964: 这个不是人类能承受的。越看越想走😭 https://t.co/LnE3psEGM3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096722511681777664"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2096722520422629593",
+        "created_at": "2026-09-06T22:09:38.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096722520422629593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnE3psEGM3",
+              "end": 41,
+              "expanded_url": "https://x.com/11andpr89648964/status/2096722520422629593/photo/1",
+              "media_key": "3_2096722511681777664",
+              "start": 18,
+              "url": "https://t.co/LnE3psEGM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096722520422629593",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096722511681777664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 14658,
+          "like_count": 179,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这个不是人类能承受的。越看越想走😭 https://t.co/LnE3psEGM3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2096900576730661340",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 303,
+          "like_count": 2286,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 1903
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2096843283171570143",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 988,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2305
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

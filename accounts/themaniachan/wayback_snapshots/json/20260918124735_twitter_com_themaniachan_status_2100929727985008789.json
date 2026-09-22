@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100926485540552939",
+    "created_at": "2026-09-18T12:47:35.000Z",
+    "display_text_range": [
+      13,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100929727985008789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2067769435675578368",
+          "start": 0,
+          "username": "yuanren0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100929727985008789",
+    "in_reply_to_user_id": "2067769435675578368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100929392000258470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanren0130 真的了，他们是没意识到我这帖子就是在骂他们这种行为的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100926485540552939",
+        "created_at": "2026-09-18T12:47:35.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100929727985008789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2067769435675578368",
+              "start": 0,
+              "username": "yuanren0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100929727985008789",
+        "in_reply_to_user_id": "2067769435675578368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100929392000258470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanren0130 真的了，他们是没意识到我这帖子就是在骂他们这种行为的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067769435675578368",
+        "conversation_id": "2100926485540552939",
+        "created_at": "2026-09-18T12:46:15.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100929392000258470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100929392000258470",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100926485540552939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 健全b特有的没事找事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100929727985008789",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 334,
+          "like_count": 2570,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2092
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T00:41:21.000Z",
+        "description": "叫我渊人就好\n💜朝比奈真冬激推💜\n💗友跨｜17岁｜od｜休学中｜不键政\n是个超级精神病？\n头像是朋友画的\n可以当树洞，或者找我倾述\n希望大家都能获得幸福，活的幸福",
+        "id": "2067769435675578368",
+        "is_identity_verified": false,
+        "location": "方寸之距   天上宗后山",
+        "most_recent_tweet_id": "2100929392000258470",
+        "name": "渊人zzz",
+        "pinned_tweet_id": "2091182723163406517",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067769435675578368/1782766030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088291289200750593/vZvPZkqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 130,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "yuanren0130",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095188801681518592"
+      ],
+      "media_source_tweet_id": [
+        "2095225244747227190"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2095750505570177277",
+    "created_at": "2026-09-04T05:47:12.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095750505570177277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346961631499096064",
+          "start": 3,
+          "username": "odeiootaco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SW4CydOJNk",
+          "end": 71,
+          "expanded_url": "https://x.com/odeiootaco/status/2095225244747227190/video/1",
+          "media_key": "13_2095188801681518592",
+          "start": 48,
+          "url": "https://t.co/SW4CydOJNk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095750505570177277",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2095188801681518592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48803
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095225244747227190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odeiootaco: setembro começou e ja to assim: https://t.co/SW4CydOJNk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6431,
+        "height": 336,
+        "media_key": "13_2095188801681518592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095188801681518592/img/UEEXD5cRMcIDyq1-.jpg",
+        "public_metrics": {
+          "view_count": 729538
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095188801681518592/vid/avc1/514x270/6pJ1-aYiL3uwn3kV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095188801681518592/vid/avc1/640x336/JLfQu5XE3RfitLz5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095188801681518592/pl/3cvVMBADp878jaqO.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095188801681518592"
+          ],
+          "media_source_tweet_id": [
+            "2095225244747227190"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2095750505570177277",
+        "created_at": "2026-09-04T05:47:12.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095750505570177277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346961631499096064",
+              "start": 3,
+              "username": "odeiootaco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SW4CydOJNk",
+              "end": 71,
+              "expanded_url": "https://x.com/odeiootaco/status/2095225244747227190/video/1",
+              "media_key": "13_2095188801681518592",
+              "start": 48,
+              "url": "https://t.co/SW4CydOJNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095750505570177277",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2095188801681518592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48803
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095225244747227190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odeiootaco: setembro começou e ja to assim: https://t.co/SW4CydOJNk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095188801681518592"
+          ]
+        },
+        "author_id": "1346961631499096064",
+        "conversation_id": "2095225244747227190",
+        "created_at": "2026-09-02T19:00:00.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095225244747227190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SW4CydOJNk",
+              "end": 55,
+              "expanded_url": "https://x.com/odeiootaco/status/2095225244747227190/video/1",
+              "media_key": "13_2095188801681518592",
+              "start": 32,
+              "url": "https://t.co/SW4CydOJNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095225244747227190",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2095188801681518592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6452,
+          "impression_count": 1364211,
+          "like_count": 149294,
+          "quote_count": 815,
+          "reply_count": 218,
+          "retweet_count": 48803
+        },
+        "reply_settings": "everyone",
+        "text": "setembro começou e ja to assim: https://t.co/SW4CydOJNk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2095750505570177277",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 306,
+          "like_count": 2213,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 1850
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-06T23:27:58.000Z",
+        "description": "📨📭: esvazieamente@outlook.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "livepix.gg/jontohru",
+                "end": 23,
+                "expanded_url": "http://livepix.gg/jontohru",
+                "start": 0,
+                "url": "https://t.co/ITNblnQMzp"
+              }
+            ]
+          }
+        },
+        "id": "1346961631499096064",
+        "is_identity_verified": false,
+        "location": "Paraná",
+        "most_recent_tweet_id": "2095630683213271476",
+        "name": "perfil dedicado a gatinhos e p3it0s",
+        "pinned_tweet_id": "2090212602370752910",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346961631499096064/1770190021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060906968462577664/7h96JlPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297507,
+          "following_count": 22065,
+          "like_count": 20663,
+          "listed_count": 100,
+          "media_count": 10984,
+          "tweet_count": 27913
+        },
+        "url": "https://t.co/ITNblnQMzp",
+        "username": "odeiootaco",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

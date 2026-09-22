@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096252742142758912"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2096252820551053640",
+    "created_at": "2026-09-05T15:03:13.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096252820551053640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8mhWMCSFKw",
+          "end": 59,
+          "expanded_url": "https://x.com/themaniachan/status/2096252820551053640/video/1",
+          "media_key": "13_2096252742142758912",
+          "start": 36,
+          "url": "https://t.co/8mhWMCSFKw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096252820551053640",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2096252742142758912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有开头没有电流音...😭😭😭后面明明处理得更好为什么要这样对我😭😭😭 https://t.co/8mhWMCSFKw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43653,
+        "height": 2772,
+        "media_key": "13_2096252742142758912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096252742142758912/img/9gPyA62Y-V2qYeF1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096252742142758912/vid/avc1/720x1558/Q7HPjIK8ex3BSigK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096252742142758912/vid/avc1/1280x2772/qG_as9D5Qs5c9FVL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096252742142758912/pl/wki-k99b24z1sXl5.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096252742142758912/vid/avc1/480x1038/7hFFgK_9dNugyPZR.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096252742142758912/vid/avc1/320x692/QJxtMKog1oC6HEiI.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096252742142758912"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2096252820551053640",
+        "created_at": "2026-09-05T15:03:13.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096252820551053640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8mhWMCSFKw",
+              "end": 59,
+              "expanded_url": "https://x.com/themaniachan/status/2096252820551053640/video/1",
+              "media_key": "13_2096252742142758912",
+              "start": 36,
+              "url": "https://t.co/8mhWMCSFKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096252820551053640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096252742142758912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有开头没有电流音...😭😭😭后面明明处理得更好为什么要这样对我😭😭😭 https://t.co/8mhWMCSFKw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2096252820551053640",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 306,
+          "like_count": 2266,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 1877
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

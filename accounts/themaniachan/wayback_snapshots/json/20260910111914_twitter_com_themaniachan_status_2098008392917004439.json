@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097910541524312064"
+      ],
+      "media_source_tweet_id": [
+        "2097910777965670537"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2098008392917004439",
+    "created_at": "2026-09-10T11:19:14.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098008392917004439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1527114974841012225",
+          "start": 3,
+          "username": "Kiger_YuQing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J9K867hj7U",
+          "end": 94,
+          "expanded_url": "https://x.com/Kiger_YuQing/status/2097910777965670537/photo/1",
+          "media_key": "3_2097910541524312064",
+          "start": 71,
+          "url": "https://t.co/J9K867hj7U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098008392917004439",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097910541524312064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1089
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097910777965670537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kiger_YuQing: 好时代，来临力（悲）\n\n请警惕今天向你要五十的群友，他们可能不是想吃疯狂星期四...也有可能是..... https://t.co/J9K867hj7U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_2097910541524312064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1GhbYaoAAq-i8.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097910541524312064"
+          ],
+          "media_source_tweet_id": [
+            "2097910777965670537"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2098008392917004439",
+        "created_at": "2026-09-10T11:19:14.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098008392917004439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1527114974841012225",
+              "start": 3,
+              "username": "Kiger_YuQing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9K867hj7U",
+              "end": 94,
+              "expanded_url": "https://x.com/Kiger_YuQing/status/2097910777965670537/photo/1",
+              "media_key": "3_2097910541524312064",
+              "start": 71,
+              "url": "https://t.co/J9K867hj7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098008392917004439",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097910541524312064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1089
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097910777965670537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kiger_YuQing: 好时代，来临力（悲）\n\n请警惕今天向你要五十的群友，他们可能不是想吃疯狂星期四...也有可能是..... https://t.co/J9K867hj7U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097910541524312064"
+          ]
+        },
+        "author_id": "1527114974841012225",
+        "conversation_id": "2097910777965670537",
+        "created_at": "2026-09-10T04:51:21.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097910777965670537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9K867hj7U",
+              "end": 76,
+              "expanded_url": "https://x.com/Kiger_YuQing/status/2097910777965670537/photo/1",
+              "media_key": "3_2097910541524312064",
+              "start": 53,
+              "url": "https://t.co/J9K867hj7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097910777965670537",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097910541524312064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 593,
+          "impression_count": 538652,
+          "like_count": 7129,
+          "quote_count": 81,
+          "reply_count": 167,
+          "retweet_count": 1091
+        },
+        "reply_settings": "everyone",
+        "text": "好时代，来临力（悲）\n\n请警惕今天向你要五十的群友，他们可能不是想吃疯狂星期四...也有可能是..... https://t.co/J9K867hj7U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2098008392917004439",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 314,
+          "like_count": 2388,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 1959
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫小雨丨清水不涩丨娃勤摄三位一体黄金冤种丨可约后勤/拍摄丨键政禁止丨头壳是自设+特蕾西娅丨暴躁社恐丨注孤的Aquarius丨INFP-T 4w5丨不首先不主动不礼貌丨只对友善的人友善丨文化有限公司丨记得带卡丨中日英OK",
+        "id": "1527114974841012225",
+        "is_identity_verified": false,
+        "location": "卡兹屯口垃姬桶",
+        "most_recent_tweet_id": "2098002569893408859",
+        "name": "星雨绮思",
+        "pinned_tweet_id": "2051280611957186870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527114974841012225/1783434915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090465763861860352/55ksxfz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 870,
+          "like_count": 7940,
+          "listed_count": 16,
+          "media_count": 392,
+          "tweet_count": 7539
+        },
+        "url": "",
+        "username": "Kiger_YuQing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

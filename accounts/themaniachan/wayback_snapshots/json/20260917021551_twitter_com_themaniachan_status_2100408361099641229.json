@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100077848946163712"
+      ],
+      "media_source_tweet_id": [
+        "2100107917047603439"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100408361099641229",
+    "created_at": "2026-09-17T02:15:51.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T03:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100408361099641229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1241907813112090624",
+          "start": 3,
+          "username": "samir_sawarkar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GN8gxlGTNh",
+          "end": 43,
+          "expanded_url": "https://x.com/samir_sawarkar/status/2100107917047603439/photo/1",
+          "media_key": "3_2100077848946163712",
+          "start": 20,
+          "url": "https://t.co/GN8gxlGTNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100408361099641229",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2100077848946163712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7635
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100107917047603439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @samir_sawarkar: https://t.co/GN8gxlGTNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2100077848946163712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HST5rUsaQAARFl1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100077848946163712"
+          ],
+          "media_source_tweet_id": [
+            "2100107917047603439"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100408361099641229",
+        "created_at": "2026-09-17T02:15:51.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100408361099641229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1241907813112090624",
+              "start": 3,
+              "username": "samir_sawarkar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GN8gxlGTNh",
+              "end": 43,
+              "expanded_url": "https://x.com/samir_sawarkar/status/2100107917047603439/photo/1",
+              "media_key": "3_2100077848946163712",
+              "start": 20,
+              "url": "https://t.co/GN8gxlGTNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100408361099641229",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100077848946163712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7635
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100107917047603439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @samir_sawarkar: https://t.co/GN8gxlGTNh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100077848946163712"
+          ]
+        },
+        "author_id": "1241907813112090624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100107917047603439",
+        "created_at": "2026-09-16T06:22:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100107917047603439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GN8gxlGTNh",
+              "end": 23,
+              "expanded_url": "https://x.com/samir_sawarkar/status/2100107917047603439/photo/1",
+              "media_key": "3_2100077848946163712",
+              "start": 0,
+              "url": "https://t.co/GN8gxlGTNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100107917047603439",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100077848946163712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1747,
+          "impression_count": 792835,
+          "like_count": 75007,
+          "quote_count": 159,
+          "reply_count": 116,
+          "retweet_count": 7635
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GN8gxlGTNh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100408361099641229",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 334,
+          "like_count": 2547,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2070
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-23T02:01:43.000Z",
+        "description": "Complicated things easy to understand.\nAI • systems • reliability\nBuilding in public. https://t.co/MDk4tWbkZ9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "samirsawarkar.com",
+                "end": 109,
+                "expanded_url": "http://samirsawarkar.com",
+                "start": 86,
+                "url": "https://t.co/MDk4tWbkZ9"
+              }
+            ]
+          }
+        },
+        "id": "1241907813112090624",
+        "is_identity_verified": false,
+        "location": "Pune ,India",
+        "most_recent_tweet_id": "2100282610778091741",
+        "name": "samir sawarkar",
+        "pinned_tweet_id": "2098678075424952653",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241907813112090624/1789276116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049566360544657408/o3HinXoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 360,
+          "like_count": 1765,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 3407
+        },
+        "url": "",
+        "username": "samir_sawarkar",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

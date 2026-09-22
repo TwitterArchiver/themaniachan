@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100250533823238460",
+    "created_at": "2026-09-16T15:48:42.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T16:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100250533823238460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2011017944772591616",
+          "start": 3,
+          "username": "_2xllqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100250533823238460",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099907659046728022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_2xllqz: ╭━━━━━━━━╮\n╰┓╭━━╮╭━━╯ 　╭╮\n　┃╰━╮┃┗━╮ 　╭┛┗╮ ╭━╮　 ╭╮\n　┃  ★ ┃┃┏━╯　╰┓　╱　 ┃┃　 ｜｜\n　╰╯┃┃┃┃　 ╭╮ ╱　　╭━╮┃　 ｜｜\n╭ ━ ╯ ┃┃ ╰━╯┃ ╰┓┃┃★　┗╮ ╰╯\n╰…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100250533823238460",
+        "created_at": "2026-09-16T15:48:42.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100250533823238460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2011017944772591616",
+              "start": 3,
+              "username": "_2xllqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100250533823238460",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099907659046728022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_2xllqz: ╭━━━━━━━━╮\n╰┓╭━━╮╭━━╯ 　╭╮\n　┃╰━╮┃┗━╮ 　╭┛┗╮ ╭━╮　 ╭╮\n　┃  ★ ┃┃┏━╯　╰┓　╱　 ┃┃　 ｜｜\n　╰╯┃┃┃┃　 ╭╮ ╱　　╭━╮┃　 ｜｜\n╭ ━ ╯ ┃┃ ╰━╯┃ ╰┓┃┃★　┗╮ ╰╯\n╰…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011017944772591616",
+        "conversation_id": "2099907659046728022",
+        "created_at": "2026-09-15T17:06:14.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099907659046728022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyanoeee_y/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/nyanoeee_y/status/2099799852809117882",
+              "start": 148,
+              "url": "https://t.co/uQlbgqhXzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099907659046728022",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7800,
+          "impression_count": 1171702,
+          "like_count": 43143,
+          "quote_count": 184,
+          "reply_count": 5,
+          "retweet_count": 4393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099799852809117882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "╭━━━━━━━━╮\n╰┓╭━━╮╭━━╯ 　╭╮\n　┃╰━╮┃┗━╮ 　╭┛┗╮ ╭━╮　 ╭╮\n　┃  ★ ┃┃┏━╯　╰┓　╱　 ┃┃　 ｜｜\n　╰╯┃┃┃┃　 ╭╮ ╱　　╭━╮┃　 ｜｜\n╭ ━ ╯ ┃┃ ╰━╯┃ ╰┓┃┃★　┗╮ ╰╯\n╰━━━╯╰━━━╯　  ╰╯╰━╯￣　　★ https://t.co/uQlbgqhXzL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100250533823238460",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 332,
+          "like_count": 2529,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2055
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-13T10:10:31.000Z",
+        "description": "髪の長い男が好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/_2kokill_q",
+                "end": 23,
+                "expanded_url": "https://lit.link/_2kokill_q",
+                "start": 0,
+                "url": "https://t.co/iGP19mOPXa"
+              }
+            ]
+          }
+        },
+        "id": "2011017944772591616",
+        "is_identity_verified": false,
+        "location": "まこ",
+        "most_recent_tweet_id": "2100229926574293011",
+        "name": "𝔐❤︎",
+        "pinned_tweet_id": "2075343250500776267",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011017944772591616/1778395226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083395689057533952/OV_c05Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 67,
+          "like_count": 19970,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 183
+        },
+        "url": "https://t.co/iGP19mOPXa",
+        "username": "_2xllqz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

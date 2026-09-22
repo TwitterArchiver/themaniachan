@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098300716712628224"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2098300722190458993",
+    "created_at": "2026-09-11T06:40:51.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098300722190458993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "2047425753227333632",
+          "start": 17,
+          "username": "YuganQwQ"
+        },
+        {
+          "end": 43,
+          "id": "1546104577161760768",
+          "start": 35,
+          "username": "R0y0o0u"
+        },
+        {
+          "end": 61,
+          "id": "1823532963847659523",
+          "start": 45,
+          "username": "h39922513674642"
+        },
+        {
+          "end": 86,
+          "id": "1751672682733875200",
+          "start": 70,
+          "username": "MichaeI32935889"
+        },
+        {
+          "end": 96,
+          "id": "1852135214795100164",
+          "start": 87,
+          "username": "ayameeii"
+        },
+        {
+          "end": 107,
+          "id": "1270125328153772032",
+          "start": 97,
+          "username": "BetaXi0v0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FnjTjYQiGT",
+          "end": 152,
+          "expanded_url": "https://x.com/themaniachan/status/2098300722190458993/photo/1",
+          "media_key": "3_2098300716712628224",
+          "start": 129,
+          "url": "https://t.co/FnjTjYQiGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098300722190458993",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098300716712628224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恭喜中奖的大家🎉\n一等奖（1名）\n@YuganQwQ\n二等奖（2名）\n@R0y0o0u\n @h39922513674642\n三等奖（3名）\n@MichaeI32935889\n@ayameeii\n@BetaXi0v0 \n请私信我来兑奖！兑奖方式为zfb红包🥰 https://t.co/FnjTjYQiGT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2986,
+        "media_key": "3_2098300716712628224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6pYnOakAA09Pd.jpg",
+        "width": 1891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098300716712628224"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2098300722190458993",
+        "created_at": "2026-09-11T06:40:51.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098300722190458993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2047425753227333632",
+              "start": 17,
+              "username": "YuganQwQ"
+            },
+            {
+              "end": 43,
+              "id": "1546104577161760768",
+              "start": 35,
+              "username": "R0y0o0u"
+            },
+            {
+              "end": 61,
+              "id": "1823532963847659523",
+              "start": 45,
+              "username": "h39922513674642"
+            },
+            {
+              "end": 86,
+              "id": "1751672682733875200",
+              "start": 70,
+              "username": "MichaeI32935889"
+            },
+            {
+              "end": 96,
+              "id": "1852135214795100164",
+              "start": 87,
+              "username": "ayameeii"
+            },
+            {
+              "end": 107,
+              "id": "1270125328153772032",
+              "start": 97,
+              "username": "BetaXi0v0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FnjTjYQiGT",
+              "end": 152,
+              "expanded_url": "https://x.com/themaniachan/status/2098300722190458993/photo/1",
+              "media_key": "3_2098300716712628224",
+              "start": 129,
+              "url": "https://t.co/FnjTjYQiGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098300722190458993",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098300716712628224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜中奖的大家🎉\n一等奖（1名）\n@YuganQwQ\n二等奖（2名）\n@R0y0o0u\n @h39922513674642\n三等奖（3名）\n@MichaeI32935889\n@ayameeii\n@BetaXi0v0 \n请私信我来兑奖！兑奖方式为zfb红包🥰 https://t.co/FnjTjYQiGT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2098300722190458993",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 317,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 1981
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2098100707932938374",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 431,
+          "like_count": 5374,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-10T12:11:13.000Z",
+        "description": "🇨🇳16↑｜❤️→@Monika13145201 @qcqcqccq｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "Monika13145201"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "qcqcqccq"
+              }
+            ]
+          }
+        },
+        "id": "1546104577161760768",
+        "is_identity_verified": false,
+        "location": "Suisei",
+        "most_recent_tweet_id": "2098285384082001958",
+        "name": "Ryou",
+        "pinned_tweet_id": "2003518084133585011",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097194692912021504/u6M9pZ0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 366,
+          "like_count": 6910,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 9146
+        },
+        "url": "",
+        "username": "R0y0o0u",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-14T01:32:09.000Z",
+        "description": "Your pupils are the second heart I ache for",
+        "id": "1823532963847659523",
+        "is_identity_verified": false,
+        "location": "Kowloon City District",
+        "most_recent_tweet_id": "2098192320663572790",
+        "name": "Brezza❄️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823532963847659523/1727019815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860675347454500864/SgEnhv61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 211,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "h39922513674642",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T18:24:56.000Z",
+        "description": "",
+        "id": "1751672682733875200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098270339965108494",
+        "name": "Michael",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097813580293066752/xzjK52Cz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 79,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "MichaeI32935889",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2098241500148805896",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 793,
+          "like_count": 11476,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 4920
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-08T22:47:38.000Z",
+        "description": "🍥神楽めあ🎀结城さくな🐾双推/重焦郁果咩/infj/od致歉所有/社恐/该死的fw/祝在看的你幸福/推文基本全是自己发癫对不起真的很抱歉",
+        "id": "1270125328153772032",
+        "is_identity_verified": false,
+        "location": "夢の空",
+        "most_recent_tweet_id": "2098108280581333226",
+        "name": "莳溪Beta版",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1270125328153772032/1674669436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618307025108365312/uDe9RAv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 361,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "BetaXi0v0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

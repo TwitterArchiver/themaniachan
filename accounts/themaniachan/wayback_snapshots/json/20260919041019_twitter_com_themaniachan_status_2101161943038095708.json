@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100926485540552939",
+    "created_at": "2026-09-19T04:10:19.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T05:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101161943038095708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2096845409763377152",
+          "start": 0,
+          "username": "Xingqierdpri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101161943038095708",
+    "in_reply_to_user_id": "2096845409763377152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101139625276518404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xingqierdpri 巨恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100926485540552939",
+        "created_at": "2026-09-19T04:10:19.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101161943038095708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2096845409763377152",
+              "start": 0,
+              "username": "Xingqierdpri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101161943038095708",
+        "in_reply_to_user_id": "2096845409763377152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101139625276518404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xingqierdpri 巨恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096845409763377152",
+        "conversation_id": "2100926485540552939",
+        "created_at": "2026-09-19T02:41:38.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101139625276518404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101139625276518404",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100926485540552939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 健全现身说法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2101161943038095708",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 338,
+          "like_count": 2652,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 2121
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:18:47.000Z",
+        "description": "半休学状态/放养/人穷事多\n希望遇到我的天使们一起走出炼狱迎接天堂洗礼",
+        "id": "2096845409763377152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101143765599805517",
+        "name": "血清（4.0）",
+        "pinned_tweet_id": "2096857247519564284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096845409763377152/1788762046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096845690005803008/WCHw0GaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 64,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "Xingqierdpri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

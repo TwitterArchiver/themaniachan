@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095739090171985920",
+        "3_2095739104579473408"
+      ],
+      "media_source_tweet_id": [
+        "2095739114318659880",
+        "2095739114318659880"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2096178965128097997",
+    "created_at": "2026-09-05T10:09:45.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096178965128097997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1905599281882693634",
+          "start": 3,
+          "username": "MelissaMon27904"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fbdwcM1VrT",
+          "end": 65,
+          "expanded_url": "https://x.com/MelissaMon27904/status/2095739114318659880/photo/1",
+          "media_key": "3_2095739090171985920",
+          "start": 42,
+          "url": "https://t.co/fbdwcM1VrT"
+        },
+        {
+          "display_url": "pic.x.com/fbdwcM1VrT",
+          "end": 65,
+          "expanded_url": "https://x.com/MelissaMon27904/status/2095739114318659880/photo/1",
+          "media_key": "3_2095739104579473408",
+          "start": 42,
+          "url": "https://t.co/fbdwcM1VrT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096178965128097997",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095739090171985920"
+      },
+      {
+        "media_key": "3_2095739104579473408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095739114318659880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @MelissaMon27904: Help me pls\n请帮助我\n🥺😢😢 https://t.co/fbdwcM1VrT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2046,
+        "media_key": "3_2095739090171985920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWPmUuaAAAsCol.jpg",
+        "width": 1230
+      },
+      {
+        "height": 2015,
+        "media_key": "3_2095739104579473408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWPnKZa0AAmnWG.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095739090171985920",
+            "3_2095739104579473408"
+          ],
+          "media_source_tweet_id": [
+            "2095739114318659880",
+            "2095739114318659880"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2096178965128097997",
+        "created_at": "2026-09-05T10:09:45.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096178965128097997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1905599281882693634",
+              "start": 3,
+              "username": "MelissaMon27904"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbdwcM1VrT",
+              "end": 65,
+              "expanded_url": "https://x.com/MelissaMon27904/status/2095739114318659880/photo/1",
+              "media_key": "3_2095739090171985920",
+              "start": 42,
+              "url": "https://t.co/fbdwcM1VrT"
+            },
+            {
+              "display_url": "pic.x.com/fbdwcM1VrT",
+              "end": 65,
+              "expanded_url": "https://x.com/MelissaMon27904/status/2095739114318659880/photo/1",
+              "media_key": "3_2095739104579473408",
+              "start": 42,
+              "url": "https://t.co/fbdwcM1VrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096178965128097997",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095739090171985920"
+          },
+          {
+            "media_key": "3_2095739104579473408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095739114318659880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @MelissaMon27904: Help me pls\n请帮助我\n🥺😢😢 https://t.co/fbdwcM1VrT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095739090171985920",
+            "3_2095739104579473408"
+          ]
+        },
+        "author_id": "1905599281882693634",
+        "conversation_id": "2095739114318659880",
+        "created_at": "2026-09-04T05:01:56.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095739114318659880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbdwcM1VrT",
+              "end": 44,
+              "expanded_url": "https://x.com/MelissaMon27904/status/2095739114318659880/photo/1",
+              "media_key": "3_2095739090171985920",
+              "start": 21,
+              "url": "https://t.co/fbdwcM1VrT"
+            },
+            {
+              "display_url": "pic.x.com/fbdwcM1VrT",
+              "end": 44,
+              "expanded_url": "https://x.com/MelissaMon27904/status/2095739114318659880/photo/1",
+              "media_key": "3_2095739104579473408",
+              "start": 21,
+              "url": "https://t.co/fbdwcM1VrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095739114318659880",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095739090171985920"
+          },
+          {
+            "media_key": "3_2095739104579473408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 801,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "following",
+        "text": "Help me pls\n请帮助我\n🥺😢😢 https://t.co/fbdwcM1VrT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2096178965128097997",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 307,
+          "like_count": 2255,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 1869
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-28T12:34:15.000Z",
+        "description": "Hi我是kurumi酱🇷🇺 自己紹介：Anime fan｜电波系｜女子大生｜クルミちゃん大好き♪｜塔罗🔮｜我喜欢中国的熊猫 旗袍 电子游戏 等等 喜欢请支持我 🥺 谢谢！Спасибо_(:з」∠)_🚪52",
+        "id": "1905599281882693634",
+        "is_identity_verified": false,
+        "location": "10R（天宫市）",
+        "most_recent_tweet_id": "2096112022283063417",
+        "name": "kurumi🔮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905599281882693634/1786333554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086660279065362432/3k7u1-aU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 77,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "MelissaMon27904",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

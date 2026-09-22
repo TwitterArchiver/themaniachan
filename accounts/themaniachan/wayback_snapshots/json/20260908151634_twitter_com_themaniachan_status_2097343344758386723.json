@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2097343344758386723",
+    "created_at": "2026-09-08T15:16:34.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097343344758386723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2096172013996089344",
+          "start": 3,
+          "username": "Mintink4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097343344758386723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096176661050126752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mintink4: 大家好 我是Beatrice💊166cm/41kg\n前世1700fo被封了\n我转生了\n希望大家帮我点赞转发寻回好友们\n9.12开奖 \n从fo里抽5个15CNY口令\n评论抽10个5.2口令 \n我会继续发布我的化学研究日常💊\n我重度焦虑➕重度睡眠障碍 目…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096176640862851072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcdjIEaEAAf6Hy.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096176640854519808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcdjICa8AAaPz-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2096176640850378752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcdjIBbwAAUkhE.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 4033,
+        "height": 1280,
+        "media_key": "13_2096176640867155968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096176640867155968/img/ZXmsM9Qqvg5B8b41.jpg",
+        "public_metrics": {
+          "view_count": 1308
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096176640867155968/vid/avc1/320x568/FWrk-s0DdTq8gxGM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096176640867155968/vid/avc1/480x852/xhoyAT4BDkVI_rE8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096176640867155968/vid/avc1/720x1280/BRYlOwGe2uzcxkIu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096176640867155968/pl/Y_9jJuqJ-xW_OtNc.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2097343344758386723",
+        "created_at": "2026-09-08T15:16:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097343344758386723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2096172013996089344",
+              "start": 3,
+              "username": "Mintink4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097343344758386723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096176661050126752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mintink4: 大家好 我是Beatrice💊166cm/41kg\n前世1700fo被封了\n我转生了\n希望大家帮我点赞转发寻回好友们\n9.12开奖 \n从fo里抽5个15CNY口令\n评论抽10个5.2口令 \n我会继续发布我的化学研究日常💊\n我重度焦虑➕重度睡眠障碍 目…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096176640862851072",
+            "3_2096176640854519808",
+            "3_2096176640850378752",
+            "13_2096176640867155968"
+          ]
+        },
+        "author_id": "2096172013996089344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2096176661050126752",
+        "created_at": "2026-09-05T10:00:35.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096176661050126752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MTuoeovWh",
+              "end": 155,
+              "expanded_url": "https://x.com/Mintink4/status/2096176661050126752/video/1",
+              "media_key": "3_2096176640862851072",
+              "start": 132,
+              "url": "https://t.co/0MTuoeovWh"
+            },
+            {
+              "display_url": "pic.x.com/0MTuoeovWh",
+              "end": 155,
+              "expanded_url": "https://x.com/Mintink4/status/2096176661050126752/video/1",
+              "media_key": "3_2096176640854519808",
+              "start": 132,
+              "url": "https://t.co/0MTuoeovWh"
+            },
+            {
+              "display_url": "pic.x.com/0MTuoeovWh",
+              "end": 155,
+              "expanded_url": "https://x.com/Mintink4/status/2096176661050126752/video/1",
+              "media_key": "3_2096176640850378752",
+              "start": 132,
+              "url": "https://t.co/0MTuoeovWh"
+            },
+            {
+              "display_url": "pic.x.com/0MTuoeovWh",
+              "end": 155,
+              "expanded_url": "https://x.com/Mintink4/status/2096176661050126752/video/1",
+              "media_key": "13_2096176640867155968",
+              "start": 132,
+              "url": "https://t.co/0MTuoeovWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096176661050126752",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096176640862851072"
+          },
+          {
+            "media_key": "3_2096176640854519808"
+          },
+          {
+            "media_key": "3_2096176640850378752"
+          },
+          {
+            "media_key": "13_2096176640867155968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11769,
+          "like_count": 143,
+          "quote_count": 1,
+          "reply_count": 67,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "大家好 我是Beatrice💊166cm/41kg\n前世1700fo被封了\n我转生了\n希望大家帮我点赞转发寻回好友们\n9.12开奖 \n从fo里抽5个15CNY口令\n评论抽10个5.2口令 \n我会继续发布我的化学研究日常💊\n我重度焦虑➕重度睡眠障碍 目前做夜场赚钱 https://t.co/0MTuoeovWh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2097343344758386723",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 307,
+          "like_count": 2346,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 1935
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T09:43:32.000Z",
+        "description": "前世@Mintink3 被害/性冷淡/收Bigbang🇭🇰演唱会门票/没回fo就是当日关注上限了 请帮我寻回好友们 感谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Mintink3"
+              }
+            ]
+          }
+        },
+        "id": "2096172013996089344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097320201335537811",
+        "name": "Beatrice二世",
+        "pinned_tweet_id": "2096176661050126752",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096172013996089344/1788601626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096173219044896768/yaMgdXAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 262,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "Mintink4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

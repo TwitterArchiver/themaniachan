@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100736681297190912"
+      ],
+      "media_source_tweet_id": [
+        "2100736717758357516"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100936198651076925",
+    "created_at": "2026-09-18T13:13:17.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100936198651076925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271278270718242819",
+          "start": 3,
+          "username": "unicouniuni3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mx5d9zddab",
+          "end": 71,
+          "expanded_url": "https://x.com/unicouniuni3/status/2100736717758357516/video/1",
+          "media_key": "13_2100736681297190912",
+          "start": 48,
+          "url": "https://t.co/Mx5d9zddab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100936198651076925",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2100736681297190912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1023
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100736717758357516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @unicouniuni3: “Mrrr… Meow… Treats, please!” https://t.co/Mx5d9zddab"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9433,
+        "height": 1920,
+        "media_key": "13_2100736681297190912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100736681297190912/img/K1yp9WM0XSUfu5Dx.jpg",
+        "public_metrics": {
+          "view_count": 23248
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100736681297190912/vid/avc1/320x568/vx6b13agmAXTfCRL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100736681297190912/vid/avc1/480x852/BjABwB5raPoGwwlD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100736681297190912/pl/ZK0pSSI99L8sPU4d.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100736681297190912/vid/avc1/720x1280/Qhi66VUy40chg-j8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100736681297190912/vid/avc1/1080x1920/FHUCgSLSVhgzJtoB.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100736681297190912"
+          ],
+          "media_source_tweet_id": [
+            "2100736717758357516"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100936198651076925",
+        "created_at": "2026-09-18T13:13:17.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100936198651076925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271278270718242819",
+              "start": 3,
+              "username": "unicouniuni3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mx5d9zddab",
+              "end": 71,
+              "expanded_url": "https://x.com/unicouniuni3/status/2100736717758357516/video/1",
+              "media_key": "13_2100736681297190912",
+              "start": 48,
+              "url": "https://t.co/Mx5d9zddab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100936198651076925",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2100736681297190912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1023
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100736717758357516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @unicouniuni3: “Mrrr… Meow… Treats, please!” https://t.co/Mx5d9zddab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100736681297190912"
+          ]
+        },
+        "author_id": "1271278270718242819",
+        "conversation_id": "2100736717758357516",
+        "created_at": "2026-09-18T00:00:37.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T01:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100736717758357516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mx5d9zddab",
+              "end": 53,
+              "expanded_url": "https://x.com/unicouniuni3/status/2100736717758357516/video/1",
+              "media_key": "13_2100736681297190912",
+              "start": 30,
+              "url": "https://t.co/Mx5d9zddab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100736717758357516",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2100736681297190912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 627,
+          "impression_count": 71513,
+          "like_count": 9383,
+          "quote_count": 11,
+          "reply_count": 29,
+          "retweet_count": 1023
+        },
+        "reply_settings": "everyone",
+        "text": "“Mrrr… Meow… Treats, please!” https://t.co/Mx5d9zddab"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100936198651076925",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 335,
+          "like_count": 2594,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2102
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T03:09:04.000Z",
+        "description": "Chicken-obsessed Minuet cat, born Mar 27, 2020 Japan With Sora, Aoba & Yoru → @soraaobauniyoru Merch: https://t.co/pNmWKIRX2C | https://t.co/9aoA4Pmi7u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "soraaobauniyoru"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youni.store",
+                "end": 125,
+                "expanded_url": "http://youni.store",
+                "start": 102,
+                "url": "https://t.co/pNmWKIRX2C"
+              },
+              {
+                "display_url": "suzuri.jp/unico_uniuni",
+                "end": 151,
+                "expanded_url": "http://suzuri.jp/unico_uniuni",
+                "start": 128,
+                "url": "https://t.co/9aoA4Pmi7u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/unicouniuni3",
+                "end": 23,
+                "expanded_url": "https://lit.link/unicouniuni3",
+                "start": 0,
+                "url": "https://t.co/vLfsOOykOf"
+              }
+            ]
+          }
+        },
+        "id": "1271278270718242819",
+        "is_identity_verified": true,
+        "location": "日本",
+        "most_recent_tweet_id": "2100894283650015273",
+        "name": "I'm Uni :3",
+        "pinned_tweet_id": "2094059431168233806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271278270718242819/1705494722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054715801001922560/WgXa7FSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574912,
+          "following_count": 53,
+          "like_count": 67617,
+          "listed_count": 3451,
+          "media_count": 3788,
+          "tweet_count": 20449
+        },
+        "url": "https://t.co/vLfsOOykOf",
+        "username": "unicouniuni3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

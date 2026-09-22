@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100935834681721131",
+    "created_at": "2026-09-18T13:11:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100935834681721131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2099558943295254528",
+          "start": 3,
+          "username": "lion200403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100935834681721131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100873010974769197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lion200403: 更新自介条（2.0）\n大家好这里是狮子二世，第一个千fo的号已被msk击落\n04/女/短发/4i＞1i。泛性。姐姐型也好喜欢\n机车妹/特摄厨/画手/恶趣味十足 \n不成熟的穿孔师，有空找我说是x互fo的免费穿。\n脾气很好^ ^，但焦虑型依赖/不配得…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100872977684500480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfM16EaEAAyGfV.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100935834681721131",
+        "created_at": "2026-09-18T13:11:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100935834681721131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2099558943295254528",
+              "start": 3,
+              "username": "lion200403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100935834681721131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100873010974769197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lion200403: 更新自介条（2.0）\n大家好这里是狮子二世，第一个千fo的号已被msk击落\n04/女/短发/4i＞1i。泛性。姐姐型也好喜欢\n机车妹/特摄厨/画手/恶趣味十足 \n不成熟的穿孔师，有空找我说是x互fo的免费穿。\n脾气很好^ ^，但焦虑型依赖/不配得…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100872977684500480"
+          ]
+        },
+        "author_id": "2099558943295254528",
+        "conversation_id": "2100873010974769197",
+        "created_at": "2026-09-18T09:02:12.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100873010974769197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NicKW7ioMD",
+              "end": 179,
+              "expanded_url": "https://x.com/lion200403/status/2100873010974769197/photo/1",
+              "media_key": "3_2100872977684500480",
+              "start": 156,
+              "url": "https://t.co/NicKW7ioMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100873010974769197",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100872977684500480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1207,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "更新自介条（2.0）\n大家好这里是狮子二世，第一个千fo的号已被msk击落\n04/女/短发/4i＞1i。泛性。姐姐型也好喜欢\n机车妹/特摄厨/画手/恶趣味十足 \n不成熟的穿孔师，有空找我说是x互fo的免费穿。\n脾气很好^ ^，但焦虑型依赖/不配得感/焦虑症严重。请和我闲聊~我爱所有人。无雷，穿孔问题请放心问我 https://t.co/NicKW7ioMD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100935834681721131",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 335,
+          "like_count": 2589,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2100
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-14T18:01:35.000Z",
+        "description": "原来1000fo的号似了@lion040317。互fo寻回中，帮帮忙转帖谢谢大家喵。\n04/短发/4i＞1i。特摄厨/画手/恶趣味十足/不成熟的穿孔师。脾气很好^ ^，但焦虑型依赖/不配得感/焦虑症严重。请和我闲聊~\n我的ngl:https://t.co/fKoHYK4eLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "lion040317"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lion200403",
+                "end": 138,
+                "expanded_url": "https://ngl.link/lion200403",
+                "start": 115,
+                "url": "https://t.co/fKoHYK4eLZ"
+              }
+            ]
+          }
+        },
+        "id": "2099558943295254528",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2100905681725554813",
+        "name": "狮子神（复活版）",
+        "pinned_tweet_id": "2100873010974769197",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099569957143216128/kqfsoxF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 129,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "lion200403",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

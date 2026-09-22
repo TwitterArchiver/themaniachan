@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099671718847737856"
+      ],
+      "media_source_tweet_id": [
+        "2099671937509470464"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100269905912492387",
+    "created_at": "2026-09-16T17:05:41.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100269905912492387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2087636528633982976",
+          "start": 3,
+          "username": "67De_dian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/twcGeJ3xvv",
+          "end": 117,
+          "expanded_url": "https://x.com/67De_dian/status/2099671937509470464/photo/1",
+          "media_key": "3_2099671718847737856",
+          "start": 94,
+          "url": "https://t.co/twcGeJ3xvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100269905912492387",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099671718847737856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099671937509470464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @67De_dian: 有没有宝宝和我互fo呀TwT…！\n这里是6点！pr有售哦\n大概回到550fo之后\n会抽一些神秘物质hh…还有pr呀\n之后我大概还会进一些致幻剂…\n*烧烤中… https://t.co/twcGeJ3xvv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2099671718847737856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOITcLacAAzqST.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099671718847737856"
+          ],
+          "media_source_tweet_id": [
+            "2099671937509470464"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100269905912492387",
+        "created_at": "2026-09-16T17:05:41.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100269905912492387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2087636528633982976",
+              "start": 3,
+              "username": "67De_dian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/twcGeJ3xvv",
+              "end": 117,
+              "expanded_url": "https://x.com/67De_dian/status/2099671937509470464/photo/1",
+              "media_key": "3_2099671718847737856",
+              "start": 94,
+              "url": "https://t.co/twcGeJ3xvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100269905912492387",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099671718847737856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099671937509470464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @67De_dian: 有没有宝宝和我互fo呀TwT…！\n这里是6点！pr有售哦\n大概回到550fo之后\n会抽一些神秘物质hh…还有pr呀\n之后我大概还会进一些致幻剂…\n*烧烤中… https://t.co/twcGeJ3xvv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099671718847737856"
+          ]
+        },
+        "author_id": "2087636528633982976",
+        "conversation_id": "2099671937509470464",
+        "created_at": "2026-09-15T01:29:34.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099671937509470464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/twcGeJ3xvv",
+              "end": 102,
+              "expanded_url": "https://x.com/67De_dian/status/2099671937509470464/photo/1",
+              "media_key": "3_2099671718847737856",
+              "start": 79,
+              "url": "https://t.co/twcGeJ3xvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099671937509470464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099671718847737856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1286,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "有没有宝宝和我互fo呀TwT…！\n这里是6点！pr有售哦\n大概回到550fo之后\n会抽一些神秘物质hh…还有pr呀\n之后我大概还会进一些致幻剂…\n*烧烤中… https://t.co/twcGeJ3xvv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100269905912492387",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 333,
+          "like_count": 2540,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2060
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2099971302014726528",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 462,
+          "like_count": 4446,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

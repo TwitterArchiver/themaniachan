@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098089920841826306",
+        "3_2098089929024913411",
+        "3_2098089935723261952",
+        "3_2098089942304079879"
+      ],
+      "media_source_tweet_id": [
+        "2098089949031743979",
+        "2098089949031743979",
+        "2098089949031743979",
+        "2098089949031743979"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2098373055756243087",
+    "created_at": "2026-09-11T11:28:17.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T12:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098373055756243087"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 57,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2098081628291788800",
+          "start": 3,
+          "username": "Xixivt2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UMz0nZLaPB",
+          "end": 105,
+          "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+          "media_key": "3_2098089920841826306",
+          "start": 82,
+          "url": "https://t.co/UMz0nZLaPB"
+        },
+        {
+          "display_url": "pic.x.com/UMz0nZLaPB",
+          "end": 105,
+          "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+          "media_key": "3_2098089929024913411",
+          "start": 82,
+          "url": "https://t.co/UMz0nZLaPB"
+        },
+        {
+          "display_url": "pic.x.com/UMz0nZLaPB",
+          "end": 105,
+          "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+          "media_key": "3_2098089935723261952",
+          "start": 82,
+          "url": "https://t.co/UMz0nZLaPB"
+        },
+        {
+          "display_url": "pic.x.com/UMz0nZLaPB",
+          "end": 105,
+          "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+          "media_key": "3_2098089942304079879",
+          "start": 82,
+          "url": "https://t.co/UMz0nZLaPB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098373055756243087",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098089920841826306"
+      },
+      {
+        "media_key": "3_2098089929024913411"
+      },
+      {
+        "media_key": "3_2098089935723261952"
+      },
+      {
+        "media_key": "3_2098089942304079879"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098089949031743979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xixivt2: 置顶👀\n大家好呀我是小禧\n希望和好宝宝一起玩（宝宝们都来找我玩\n因为要穷死了所以决定当 #门槛妹 \n图四是小禧的价格表 求宝宝们入🚪呀🤧 https://t.co/UMz0nZLaPB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2098089920841826306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3pqraawAIrEdq.jpg",
+        "width": 1128
+      },
+      {
+        "height": 1340,
+        "media_key": "3_2098089929024913411",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3prJ5awAMVry3.jpg",
+        "width": 752
+      },
+      {
+        "height": 1229,
+        "media_key": "3_2098089935723261952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3pri2bcAAREAy.jpg",
+        "width": 1229
+      },
+      {
+        "height": 2350,
+        "media_key": "3_2098089942304079879",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3pr7XawAccyc9.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098089920841826306",
+            "3_2098089929024913411",
+            "3_2098089935723261952",
+            "3_2098089942304079879"
+          ],
+          "media_source_tweet_id": [
+            "2098089949031743979",
+            "2098089949031743979",
+            "2098089949031743979",
+            "2098089949031743979"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2098373055756243087",
+        "created_at": "2026-09-11T11:28:17.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098373055756243087"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2098081628291788800",
+              "start": 3,
+              "username": "Xixivt2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMz0nZLaPB",
+              "end": 105,
+              "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+              "media_key": "3_2098089920841826306",
+              "start": 82,
+              "url": "https://t.co/UMz0nZLaPB"
+            },
+            {
+              "display_url": "pic.x.com/UMz0nZLaPB",
+              "end": 105,
+              "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+              "media_key": "3_2098089929024913411",
+              "start": 82,
+              "url": "https://t.co/UMz0nZLaPB"
+            },
+            {
+              "display_url": "pic.x.com/UMz0nZLaPB",
+              "end": 105,
+              "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+              "media_key": "3_2098089935723261952",
+              "start": 82,
+              "url": "https://t.co/UMz0nZLaPB"
+            },
+            {
+              "display_url": "pic.x.com/UMz0nZLaPB",
+              "end": 105,
+              "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+              "media_key": "3_2098089942304079879",
+              "start": 82,
+              "url": "https://t.co/UMz0nZLaPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098373055756243087",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098089920841826306"
+          },
+          {
+            "media_key": "3_2098089929024913411"
+          },
+          {
+            "media_key": "3_2098089935723261952"
+          },
+          {
+            "media_key": "3_2098089942304079879"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098089949031743979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xixivt2: 置顶👀\n大家好呀我是小禧\n希望和好宝宝一起玩（宝宝们都来找我玩\n因为要穷死了所以决定当 #门槛妹 \n图四是小禧的价格表 求宝宝们入🚪呀🤧 https://t.co/UMz0nZLaPB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098089920841826306",
+            "3_2098089929024913411",
+            "3_2098089935723261952",
+            "3_2098089942304079879"
+          ]
+        },
+        "author_id": "2098081628291788800",
+        "conversation_id": "2098089949031743979",
+        "created_at": "2026-09-10T16:43:19.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098089949031743979"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMz0nZLaPB",
+              "end": 92,
+              "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+              "media_key": "3_2098089920841826306",
+              "start": 69,
+              "url": "https://t.co/UMz0nZLaPB"
+            },
+            {
+              "display_url": "pic.x.com/UMz0nZLaPB",
+              "end": 92,
+              "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+              "media_key": "3_2098089929024913411",
+              "start": 69,
+              "url": "https://t.co/UMz0nZLaPB"
+            },
+            {
+              "display_url": "pic.x.com/UMz0nZLaPB",
+              "end": 92,
+              "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+              "media_key": "3_2098089935723261952",
+              "start": 69,
+              "url": "https://t.co/UMz0nZLaPB"
+            },
+            {
+              "display_url": "pic.x.com/UMz0nZLaPB",
+              "end": 92,
+              "expanded_url": "https://x.com/Xixivt2/status/2098089949031743979/photo/1",
+              "media_key": "3_2098089942304079879",
+              "start": 69,
+              "url": "https://t.co/UMz0nZLaPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098089949031743979",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098089920841826306"
+          },
+          {
+            "media_key": "3_2098089929024913411"
+          },
+          {
+            "media_key": "3_2098089935723261952"
+          },
+          {
+            "media_key": "3_2098089942304079879"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "置顶👀\n大家好呀我是小禧\n希望和好宝宝一起玩（宝宝们都来找我玩\n因为要穷死了所以决定当 #门槛妹 \n图四是小禧的价格表 求宝宝们入🚪呀🤧 https://t.co/UMz0nZLaPB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2098373055756243087",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 319,
+          "like_count": 2421,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 1984
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-10T16:11:20.000Z",
+        "description": "🚪20   52  188   520\n只回复口令和赞赏",
+        "id": "2098081628291788800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098365359309078780",
+        "name": "Xixi",
+        "pinned_tweet_id": "2098089949031743979",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098081628291788800/1789056818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098115616263835648/vkpbIP3o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Xixivt2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

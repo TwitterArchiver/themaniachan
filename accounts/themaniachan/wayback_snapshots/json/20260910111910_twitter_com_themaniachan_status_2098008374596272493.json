@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2098008374596272493",
+    "created_at": "2026-09-10T11:19:10.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098008374596272493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "439438082",
+          "start": 3,
+          "username": "dasjozef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098008374596272493",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3853
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097741735451390219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dasjozef: uyuşturucu kullanmamamın nedenleri\n\n1- nereden alacağımı bilmiyorum"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2098008374596272493",
+        "created_at": "2026-09-10T11:19:10.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098008374596272493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "439438082",
+              "start": 3,
+              "username": "dasjozef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098008374596272493",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3853
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097741735451390219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dasjozef: uyuşturucu kullanmamamın nedenleri\n\n1- nereden alacağımı bilmiyorum"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "439438082",
+        "conversation_id": "2097741735451390219",
+        "created_at": "2026-09-09T17:39:38.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097741735451390219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097741735451390219",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 816,
+          "impression_count": 741841,
+          "like_count": 27654,
+          "quote_count": 215,
+          "reply_count": 131,
+          "retweet_count": 3844
+        },
+        "reply_settings": "everyone",
+        "text": "uyuşturucu kullanmamamın nedenleri\n\n1- nereden alacağımı bilmiyorum"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2098008374596272493",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 314,
+          "like_count": 2388,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 1958
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-17T19:46:53.000Z",
+        "description": "little freak",
+        "id": "439438082",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098006573457023481",
+        "name": "lowlife",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/439438082/1770916416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997235873709015040/HwdyeTGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 51,
+          "like_count": 52165,
+          "listed_count": 0,
+          "media_count": 10632,
+          "tweet_count": 52199
+        },
+        "url": "",
+        "username": "dasjozef",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

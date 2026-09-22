@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2095750234425233766",
+    "created_at": "2026-09-04T05:46:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095750234425233766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1493016356182056961",
+          "start": 3,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095750234425233766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095525277577404884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mintink3: 不知不觉1k fo了 写个新置顶吧\n我是Beatrice\n读作贝阿朵莉切/be.aˈtriː.tʃe/\n我是双性恋 现在是性冷淡 喜欢纯爱\n我不线下 不参加o趴 一般不加vx\n我不吵架 不骂人 不鉴证\n我喜欢研究药理💊OD 喜欢精神活性物质\n喜欢Hi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095525198791651328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTNENPbMAAUV42.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095525198787465216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTNENObUAAloqW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2095525198825238528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTNENXbsAALVXY.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 4033,
+        "height": 1280,
+        "media_key": "13_2095525198846218241",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095525198846218241/img/QvsKI4MbUHd9klkN.jpg",
+        "public_metrics": {
+          "view_count": 3958
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095525198846218241/vid/avc1/320x568/jBOSakEgc3RWWA3a.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095525198846218241/vid/avc1/480x852/uTQV32AHFnSQWoGP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095525198846218241/vid/avc1/720x1280/wzytkd-FimF0Nfb1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095525198846218241/pl/iXM-ewn6AWGOucmu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2095750234425233766",
+        "created_at": "2026-09-04T05:46:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095750234425233766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1493016356182056961",
+              "start": 3,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095750234425233766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095525277577404884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mintink3: 不知不觉1k fo了 写个新置顶吧\n我是Beatrice\n读作贝阿朵莉切/be.aˈtriː.tʃe/\n我是双性恋 现在是性冷淡 喜欢纯爱\n我不线下 不参加o趴 一般不加vx\n我不吵架 不骂人 不鉴证\n我喜欢研究药理💊OD 喜欢精神活性物质\n喜欢Hi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095525198791651328",
+            "3_2095525198787465216",
+            "3_2095525198825238528",
+            "13_2095525198846218241"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2095525277577404884",
+        "created_at": "2026-09-03T14:52:13.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095525277577404884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QbkRYJ7HhV",
+              "end": 180,
+              "expanded_url": "https://x.com/Mintink3/status/2095525277577404884/video/1",
+              "media_key": "3_2095525198791651328",
+              "start": 157,
+              "url": "https://t.co/QbkRYJ7HhV"
+            },
+            {
+              "display_url": "pic.x.com/QbkRYJ7HhV",
+              "end": 180,
+              "expanded_url": "https://x.com/Mintink3/status/2095525277577404884/video/1",
+              "media_key": "3_2095525198787465216",
+              "start": 157,
+              "url": "https://t.co/QbkRYJ7HhV"
+            },
+            {
+              "display_url": "pic.x.com/QbkRYJ7HhV",
+              "end": 180,
+              "expanded_url": "https://x.com/Mintink3/status/2095525277577404884/video/1",
+              "media_key": "3_2095525198825238528",
+              "start": 157,
+              "url": "https://t.co/QbkRYJ7HhV"
+            },
+            {
+              "display_url": "pic.x.com/QbkRYJ7HhV",
+              "end": 180,
+              "expanded_url": "https://x.com/Mintink3/status/2095525277577404884/video/1",
+              "media_key": "13_2095525198846218241",
+              "start": 157,
+              "url": "https://t.co/QbkRYJ7HhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095525277577404884",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095525198791651328"
+          },
+          {
+            "media_key": "3_2095525198787465216"
+          },
+          {
+            "media_key": "3_2095525198825238528"
+          },
+          {
+            "media_key": "13_2095525198846218241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "不知不觉1k fo了 写个新置顶吧\n我是Beatrice\n读作贝阿朵莉切/be.aˈtriː.tʃe/\n我是双性恋 现在是性冷淡 喜欢纯爱\n我不线下 不参加o趴 一般不加vx\n我不吵架 不骂人 不鉴证\n我喜欢研究药理💊OD 喜欢精神活性物质\n喜欢Hiphop 喜欢二次元 喜欢Cult片 \nP1我的自我介绍和喜好 还有我的赞助码！（如果赞助了我记得私信我，谢谢你）\nP2-P3 我的长相和喜欢的风格\nP4 皮下上班时"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 27227,
+          "like_count": 241,
+          "quote_count": 0,
+          "reply_count": 76,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉1k fo了 写个新置顶吧\n我是Beatrice\n读作贝阿朵莉切/be.aˈtriː.tʃe/\n我是双性恋 现在是性冷淡 喜欢纯爱\n我不线下 不参加o趴 一般不加vx\n我不吵架 不骂人 不鉴证\n我喜欢研究药理💊OD 喜欢精神活性物质\n喜欢Hiphop 喜欢二次元 喜欢Cult片 \nP1我的自我介绍和喜好 https://t.co/QbkRYJ7HhV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2095750234425233766",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 306,
+          "like_count": 2211,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 1849
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2095720323194954207",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2095525277577404884",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 1113,
+          "like_count": 11390,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1567
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

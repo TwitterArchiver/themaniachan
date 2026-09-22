@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094994248093630464",
+        "3_2094994248089382912",
+        "3_2094994248135569408",
+        "3_2094994248093609985"
+      ],
+      "media_source_tweet_id": [
+        "2094994469296996457",
+        "2094994469296996457",
+        "2094994469296996457",
+        "2094994469296996457"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2097327293807079707",
+    "created_at": "2026-09-08T14:12:47.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097327293807079707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1773143737423847424",
+          "start": 3,
+          "username": "Fanqian77v"
+        },
+        {
+          "end": 33,
+          "id": "1780886139131621376",
+          "start": 24,
+          "username": "NyA_0081"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/krGozJcloO",
+          "end": 131,
+          "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+          "media_key": "3_2094994248093630464",
+          "start": 108,
+          "url": "https://t.co/krGozJcloO"
+        },
+        {
+          "display_url": "pic.x.com/krGozJcloO",
+          "end": 131,
+          "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+          "media_key": "3_2094994248089382912",
+          "start": 108,
+          "url": "https://t.co/krGozJcloO"
+        },
+        {
+          "display_url": "pic.x.com/krGozJcloO",
+          "end": 131,
+          "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+          "media_key": "3_2094994248135569408",
+          "start": 108,
+          "url": "https://t.co/krGozJcloO"
+        },
+        {
+          "display_url": "pic.x.com/krGozJcloO",
+          "end": 131,
+          "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+          "media_key": "3_2094994248093609985",
+          "start": 108,
+          "url": "https://t.co/krGozJcloO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097327293807079707",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094994248093630464"
+      },
+      {
+        "media_key": "3_2094994248089382912"
+      },
+      {
+        "media_key": "3_2094994248135569408"
+      },
+      {
+        "media_key": "3_2094994248093609985"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094994469296996457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fanqian77v: 我是小Q\n女朋友@NyA_0081 \n此账号包含碎碎念/od/ed/绘画等内容\n想认识更多新朋友求转发ww，女孩子们可以找我互转互fo\n🚪88好友位\n喜欢我就给我打钱吧(｡･ω･｡) https://t.co/krGozJcloO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094994248093630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLqKzwbgAAIV4W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094994248089382912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLqKzvasAAfa3J.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094994248135569408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLqKz6bcAAjKni.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2094994248093609985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLqKzwbMAEx1I_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094994248093630464",
+            "3_2094994248089382912",
+            "3_2094994248135569408",
+            "3_2094994248093609985"
+          ],
+          "media_source_tweet_id": [
+            "2094994469296996457",
+            "2094994469296996457",
+            "2094994469296996457",
+            "2094994469296996457"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2097327293807079707",
+        "created_at": "2026-09-08T14:12:47.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097327293807079707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1773143737423847424",
+              "start": 3,
+              "username": "Fanqian77v"
+            },
+            {
+              "end": 33,
+              "id": "1780886139131621376",
+              "start": 24,
+              "username": "NyA_0081"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/krGozJcloO",
+              "end": 131,
+              "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+              "media_key": "3_2094994248093630464",
+              "start": 108,
+              "url": "https://t.co/krGozJcloO"
+            },
+            {
+              "display_url": "pic.x.com/krGozJcloO",
+              "end": 131,
+              "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+              "media_key": "3_2094994248089382912",
+              "start": 108,
+              "url": "https://t.co/krGozJcloO"
+            },
+            {
+              "display_url": "pic.x.com/krGozJcloO",
+              "end": 131,
+              "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+              "media_key": "3_2094994248135569408",
+              "start": 108,
+              "url": "https://t.co/krGozJcloO"
+            },
+            {
+              "display_url": "pic.x.com/krGozJcloO",
+              "end": 131,
+              "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+              "media_key": "3_2094994248093609985",
+              "start": 108,
+              "url": "https://t.co/krGozJcloO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097327293807079707",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094994248093630464"
+          },
+          {
+            "media_key": "3_2094994248089382912"
+          },
+          {
+            "media_key": "3_2094994248135569408"
+          },
+          {
+            "media_key": "3_2094994248093609985"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094994469296996457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fanqian77v: 我是小Q\n女朋友@NyA_0081 \n此账号包含碎碎念/od/ed/绘画等内容\n想认识更多新朋友求转发ww，女孩子们可以找我互转互fo\n🚪88好友位\n喜欢我就给我打钱吧(｡･ω･｡) https://t.co/krGozJcloO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094994248093630464",
+            "3_2094994248089382912",
+            "3_2094994248135569408",
+            "3_2094994248093609985"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2094994469296996457",
+        "created_at": "2026-09-02T03:42:59.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094994469296996457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1780886139131621376",
+              "start": 8,
+              "username": "NyA_0081"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/krGozJcloO",
+              "end": 115,
+              "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+              "media_key": "3_2094994248093630464",
+              "start": 92,
+              "url": "https://t.co/krGozJcloO"
+            },
+            {
+              "display_url": "pic.x.com/krGozJcloO",
+              "end": 115,
+              "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+              "media_key": "3_2094994248089382912",
+              "start": 92,
+              "url": "https://t.co/krGozJcloO"
+            },
+            {
+              "display_url": "pic.x.com/krGozJcloO",
+              "end": 115,
+              "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+              "media_key": "3_2094994248135569408",
+              "start": 92,
+              "url": "https://t.co/krGozJcloO"
+            },
+            {
+              "display_url": "pic.x.com/krGozJcloO",
+              "end": 115,
+              "expanded_url": "https://x.com/Fanqian77v/status/2094994469296996457/photo/1",
+              "media_key": "3_2094994248093609985",
+              "start": 92,
+              "url": "https://t.co/krGozJcloO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094994469296996457",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094994248093630464"
+          },
+          {
+            "media_key": "3_2094994248089382912"
+          },
+          {
+            "media_key": "3_2094994248135569408"
+          },
+          {
+            "media_key": "3_2094994248093609985"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2035,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我是小Q\n女朋友@NyA_0081 \n此账号包含碎碎念/od/ed/绘画等内容\n想认识更多新朋友求转发ww，女孩子们可以找我互转互fo\n🚪88好友位\n喜欢我就给我打钱吧(｡･ω･｡) https://t.co/krGozJcloO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2097327293807079707",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 305,
+          "like_count": 2328,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 1928
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097317241109053615",
+        "name": "Q",
+        "pinned_tweet_id": "2094994469296996457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 116,
+          "like_count": 1372,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-18T09:09:39.000Z",
+        "description": "ぎんかです\n查成分回关",
+        "id": "1780886139131621376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088587641038213391",
+        "name": "銀花",
+        "pinned_tweet_id": "2082468910117670952",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780886139131621376/1771193427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082467795217121281/0Z4g6-_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 62,
+          "like_count": 346,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "NyA_0081",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2098262618003931284",
+    "created_at": "2026-09-11T04:09:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098262618003931284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1881617831122669568",
+          "start": 3,
+          "username": "siroza_oekaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098262618003931284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093193537785368826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siroza_oekaki: 我是小馨 坐标山东\n微胖 肉腿丰满型会被爱吗\n🚪88至520都有 区别看图2\n🚪1314 我只收你一个收了 我就不收别人的了你就是唯一主人哈可以调教我 我是小M 喜欢你就会围着你转给你当小舔狗\n可以验证呀⋯视频20🥕语音免费dd https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093193522656534528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyEaywXYAAxfg4.jpg",
+        "width": 1537
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2093193522379632640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyEaxuWMAAUiSX.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2098262618003931284",
+        "created_at": "2026-09-11T04:09:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098262618003931284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1881617831122669568",
+              "start": 3,
+              "username": "siroza_oekaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098262618003931284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093193537785368826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siroza_oekaki: 我是小馨 坐标山东\n微胖 肉腿丰满型会被爱吗\n🚪88至520都有 区别看图2\n🚪1314 我只收你一个收了 我就不收别人的了你就是唯一主人哈可以调教我 我是小M 喜欢你就会围着你转给你当小舔狗\n可以验证呀⋯视频20🥕语音免费dd https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093193522656534528",
+            "3_2093193522379632640"
+          ]
+        },
+        "author_id": "1881617831122669568",
+        "conversation_id": "2093193537785368826",
+        "created_at": "2026-08-28T04:26:43.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T05:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093193537785368826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGbAjqAVUn",
+              "end": 138,
+              "expanded_url": "https://x.com/siroza_oekaki/status/2093193537785368826/photo/1",
+              "media_key": "3_2093193522656534528",
+              "start": 115,
+              "url": "https://t.co/BGbAjqAVUn"
+            },
+            {
+              "display_url": "pic.x.com/BGbAjqAVUn",
+              "end": 138,
+              "expanded_url": "https://x.com/siroza_oekaki/status/2093193537785368826/photo/1",
+              "media_key": "3_2093193522379632640",
+              "start": 115,
+              "url": "https://t.co/BGbAjqAVUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093193537785368826",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093193522656534528"
+          },
+          {
+            "media_key": "3_2093193522379632640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5833,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我是小馨 坐标山东\n微胖 肉腿丰满型会被爱吗\n🚪88至520都有 区别看图2\n🚪1314 我只收你一个收了 我就不收别人的了你就是唯一主人哈可以调教我 我是小M 喜欢你就会围着你转给你当小舔狗\n可以验证呀⋯视频20🥕语音免费dd https://t.co/BGbAjqAVUn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2098262618003931284",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 315,
+          "like_count": 2413,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 1975
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-21T08:20:31.000Z",
+        "description": "喜欢我就入门叭～不要给我画饼啦！喜欢直接的哥哥🥰念不想过吃不饱饭淋雨没有伞穿不暖睡不好的日子了 求疼爱呀",
+        "id": "1881617831122669568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097564531840958969",
+        "name": "幼犬馨",
+        "pinned_tweet_id": "2093193537785368826",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093193214777782272/6Jw_nE_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 7,
+          "like_count": 56,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "siroza_oekaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

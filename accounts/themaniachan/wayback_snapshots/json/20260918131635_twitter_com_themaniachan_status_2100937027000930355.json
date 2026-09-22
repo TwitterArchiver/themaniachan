@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2100841471033151967",
+    "created_at": "2026-09-18T13:16:35.000Z",
+    "display_text_range": [
+      18,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100937027000930355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2091027265861910528",
+          "start": 0,
+          "username": "aidiannb"
+        },
+        {
+          "end": 17,
+          "id": "2091654251852537856",
+          "start": 10,
+          "username": "ucxw3z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100937027000930355",
+    "in_reply_to_user_id": "2091027265861910528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100935411514454184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aidiannb @ucxw3z 本来这件事是生病的人才会做出的很极端的不好的事，被跟风的杂种发现之后真生病的也被连着一起骂，究竟是谁的错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2100841471033151967",
+        "created_at": "2026-09-18T13:16:35.000Z",
+        "display_text_range": [
+          18,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100937027000930355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2091027265861910528",
+              "start": 0,
+              "username": "aidiannb"
+            },
+            {
+              "end": 17,
+              "id": "2091654251852537856",
+              "start": 10,
+              "username": "ucxw3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100937027000930355",
+        "in_reply_to_user_id": "2091027265861910528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100935411514454184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aidiannb @ucxw3z 本来这件事是生病的人才会做出的很极端的不好的事，被跟风的杂种发现之后真生病的也被连着一起骂，究竟是谁的错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091027265861910528",
+        "conversation_id": "2100841471033151967",
+        "created_at": "2026-09-18T13:10:10.000Z",
+        "display_text_range": [
+          22,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100935411514454184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2091654251852537856",
+              "start": 0,
+              "username": "ucxw3z"
+            },
+            {
+              "end": 21,
+              "id": "2047687133708599296",
+              "start": 8,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100935411514454184",
+        "in_reply_to_user_id": "2091654251852537856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100910341014368320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ucxw3z @themaniachan 现在真正割手的，我认为不会炫耀自己的痛苦，更多的是跟风，来彰显自己所谓的小众"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100937027000930355",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 335,
+          "like_count": 2598,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2104
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T05:02:57.000Z",
+        "description": "乐😅",
+        "id": "2091027265861910528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100935411514454184",
+        "name": "AAA国服第一疾风(不吃压力版)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091027265861910528/1789725462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100886976157331456/qq7sJKvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 2158,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "aidiannb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-23T22:31:27.000Z",
+        "description": "这只是一个自娱自乐发牢骚的账号\n血液/自残/负能发泄/还有一些画",
+        "id": "2091654251852537856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100910542261305433",
+        "name": "酸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091654251852537856/1789135645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098413103683932161/at-G-_cH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "ucxw3z",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

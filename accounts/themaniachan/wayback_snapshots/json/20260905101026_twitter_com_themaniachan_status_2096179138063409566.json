@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2096169993536946314",
+    "created_at": "2026-09-05T10:10:26.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096179138063409566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066164606213795840",
+          "start": 0,
+          "username": "HelloLLQuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096179138063409566",
+    "in_reply_to_user_id": "2066164606213795840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096169993536946314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HelloLLQuQ 哪来的复制人好烦..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2096169993536946314",
+        "created_at": "2026-09-05T10:10:26.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096179138063409566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066164606213795840",
+              "start": 0,
+              "username": "HelloLLQuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096179138063409566",
+        "in_reply_to_user_id": "2066164606213795840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096169993536946314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HelloLLQuQ 哪来的复制人好烦..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066164606213795840",
+        "conversation_id": "2096169993536946314",
+        "created_at": "2026-09-05T09:34:06.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096169993536946314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096169993536946314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刷到了千千万万个湖南地雷oc 还是同名oc🤡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2096179138063409566",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 307,
+          "like_count": 2256,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 1870
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T14:31:05.000Z",
+        "description": "透明画师-我会在这里补档我的画和发一些日常👉小红书指路：https://t.co/2McKGqqrDj\n需要回关请私信我（我怕打扰到你）\n可以向我提问👉 https://t.co/TJeeFih2YN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 51,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 28,
+                "url": "https://t.co/2McKGqqrDj"
+              },
+              {
+                "display_url": "ngl.link/%E7%BD%91%E7%B…",
+                "end": 100,
+                "expanded_url": "https://ngl.link/%E7%BD%91%E7%BB%9C%E4%BA%BA%E6%9C%BA",
+                "start": 77,
+                "url": "https://t.co/TJeeFih2YN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 0,
+                "url": "https://t.co/2McKGqqrDj"
+              }
+            ]
+          }
+        },
+        "id": "2066164606213795840",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096174774301098357",
+        "name": "网络人机",
+        "pinned_tweet_id": "2092593900657725654",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066164606213795840/1786723940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083114299472687104/B2x4dY6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 65,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/2McKGqqrDj",
+        "username": "HelloLLQuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

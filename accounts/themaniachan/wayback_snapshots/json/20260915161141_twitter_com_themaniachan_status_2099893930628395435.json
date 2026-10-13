@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2099506532790780352",
+    "created_at": "2026-09-15T16:11:41.000Z",
+    "display_text_range": [
+      16,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099893930628395435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880152342324293632",
+          "start": 0,
+          "username": "xiaoyi00114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099893930628395435",
+    "in_reply_to_user_id": "1880152342324293632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099506532790780352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyi00114514 我草真的吗...我从六七月份开始就在他家买药了...那时候还是wx联系，九月初他wx号和老xy全炸了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2099506522435010560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLyDvlawAAk5KN.jpg",
+        "width": 556
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2099506522502164480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLyDv1bcAAswdA.jpg",
+        "width": 443
+      },
+      {
+        "height": 615,
+        "media_key": "3_2099506522447556608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLyDvoaMAAsffH.jpg",
+        "width": 1024
+      },
+      {
+        "height": 660,
+        "media_key": "3_2099506522485321729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLyDvxacAEH0XX.jpg",
+        "width": 306
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2099506532790780352",
+        "created_at": "2026-09-15T16:11:41.000Z",
+        "display_text_range": [
+          16,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099893930628395435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880152342324293632",
+              "start": 0,
+              "username": "xiaoyi00114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099893930628395435",
+        "in_reply_to_user_id": "1880152342324293632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099506532790780352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyi00114514 我草真的吗...我从六七月份开始就在他家买药了...那时候还是wx联系，九月初他wx号和老xy全炸了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099506522435010560",
+            "3_2099506522502164480",
+            "3_2099506522447556608",
+            "3_2099506522485321729"
+          ]
+        },
+        "author_id": "1880152342324293632",
+        "conversation_id": "2099506532790780352",
+        "created_at": "2026-09-14T14:32:19.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099506532790780352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9BG78dFbhP",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaoyi00114514/status/2099506532790780352/photo/1",
+              "media_key": "3_2099506522435010560",
+              "start": 40,
+              "url": "https://t.co/9BG78dFbhP"
+            },
+            {
+              "display_url": "pic.x.com/9BG78dFbhP",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaoyi00114514/status/2099506532790780352/photo/1",
+              "media_key": "3_2099506522502164480",
+              "start": 40,
+              "url": "https://t.co/9BG78dFbhP"
+            },
+            {
+              "display_url": "pic.x.com/9BG78dFbhP",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaoyi00114514/status/2099506532790780352/photo/1",
+              "media_key": "3_2099506522447556608",
+              "start": 40,
+              "url": "https://t.co/9BG78dFbhP"
+            },
+            {
+              "display_url": "pic.x.com/9BG78dFbhP",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaoyi00114514/status/2099506532790780352/photo/1",
+              "media_key": "3_2099506522485321729",
+              "start": 40,
+              "url": "https://t.co/9BG78dFbhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099506532790780352",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099506522435010560"
+          },
+          {
+            "media_key": "3_2099506522502164480"
+          },
+          {
+            "media_key": "3_2099506522447556608"
+          },
+          {
+            "media_key": "3_2099506522485321729"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7494,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这不实锤，广西狗他都心虚退钱了 这不明摆着他药掺假了，都是真假掺半的，没人样！ https://t.co/9BG78dFbhP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2099893930628395435",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 328,
+          "like_count": 2504,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 2031
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-17T07:17:18.000Z",
+        "description": "你们好呀我是亦子 1113是生日呦！\n最大爱好od宅家刷手机\n互fo请私信呀",
+        "id": "1880152342324293632",
+        "is_identity_verified": false,
+        "location": "愈美天堂",
+        "most_recent_tweet_id": "2099521961152184321",
+        "name": "亦子亦子❄️ （出售愈美普瑞",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880152342324293632/1785334213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076758538312183808/lt8vZF0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 101,
+          "like_count": 1518,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "xiaoyi00114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

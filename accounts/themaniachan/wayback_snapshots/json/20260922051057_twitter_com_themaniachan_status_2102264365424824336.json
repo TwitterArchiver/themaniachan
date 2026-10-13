@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101948607956135936"
+      ],
+      "media_source_tweet_id": [
+        "2101948645256122446"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1287635931952852992",
+          "name": "Dominoes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287635931952852992",
+          "name": "Dominoes"
+        }
+      }
+    ],
+    "conversation_id": "2102264365424824336",
+    "created_at": "2026-09-22T05:10:57.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T06:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102264365424824336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2090044790838882304",
+          "start": 3,
+          "username": "0208_mnk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PSyWw4CpFt",
+          "end": 60,
+          "expanded_url": "https://x.com/0208_mnk/status/2101948645256122446/video/1",
+          "media_key": "13_2101948607956135936",
+          "start": 37,
+          "url": "https://t.co/PSyWw4CpFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102264365424824336",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2101948607956135936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101948645256122446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0208_mnk: 2024年の私メジコンでドミノやっててアツい https://t.co/PSyWw4CpFt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7496,
+        "height": 1202,
+        "media_key": "13_2101948607956135936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101948607956135936/img/ARtPH7M4gGBlqQMN.jpg",
+        "public_metrics": {
+          "view_count": 10431
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101948607956135936/vid/avc1/320x534/zfQ6z9xTxJ34XUmq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101948607956135936/vid/avc1/480x800/JGwFnG-KO1JT90Nn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101948607956135936/vid/avc1/720x1202/_je7erAY6M1c4krT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101948607956135936/pl/9MM6_iHC_KKWFAsA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101948607956135936"
+          ],
+          "media_source_tweet_id": [
+            "2101948645256122446"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1287635931952852992",
+              "name": "Dominoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287635931952852992",
+              "name": "Dominoes"
+            }
+          }
+        ],
+        "conversation_id": "2102264365424824336",
+        "created_at": "2026-09-22T05:10:57.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102264365424824336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2090044790838882304",
+              "start": 3,
+              "username": "0208_mnk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSyWw4CpFt",
+              "end": 60,
+              "expanded_url": "https://x.com/0208_mnk/status/2101948645256122446/video/1",
+              "media_key": "13_2101948607956135936",
+              "start": 37,
+              "url": "https://t.co/PSyWw4CpFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102264365424824336",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2101948607956135936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101948645256122446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0208_mnk: 2024年の私メジコンでドミノやっててアツい https://t.co/PSyWw4CpFt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101948607956135936"
+          ]
+        },
+        "author_id": "2090044790838882304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1287635931952852992",
+              "name": "Dominoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287635931952852992",
+              "name": "Dominoes"
+            }
+          }
+        ],
+        "conversation_id": "2101948645256122446",
+        "created_at": "2026-09-21T08:16:24.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101948645256122446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSyWw4CpFt",
+              "end": 46,
+              "expanded_url": "https://x.com/0208_mnk/status/2101948645256122446/video/1",
+              "media_key": "13_2101948607956135936",
+              "start": 23,
+              "url": "https://t.co/PSyWw4CpFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101948645256122446",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2101948607956135936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 28610,
+          "like_count": 1396,
+          "quote_count": 34,
+          "reply_count": 3,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "2024年の私メジコンでドミノやっててアツい https://t.co/PSyWw4CpFt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2102264365424824336",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 338,
+          "like_count": 2760,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 2177
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:58:01.000Z",
+        "description": "15さい(11世代)｜インスタID：ree020.8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/0208_mnk",
+                "end": 23,
+                "expanded_url": "http://lit.link/0208_mnk",
+                "start": 0,
+                "url": "https://t.co/6YYcfMI7if"
+              }
+            ]
+          }
+        },
+        "id": "2090044790838882304",
+        "is_identity_verified": false,
+        "location": "SO-SOファンです‼️",
+        "most_recent_tweet_id": "2102263551629091134",
+        "name": "れィ",
+        "pinned_tweet_id": "2101530327529460072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090044790838882304/1787141237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098719973724291072/MC_EYeL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 32,
+          "like_count": 171,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/6YYcfMI7if",
+        "username": "0208_mnk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

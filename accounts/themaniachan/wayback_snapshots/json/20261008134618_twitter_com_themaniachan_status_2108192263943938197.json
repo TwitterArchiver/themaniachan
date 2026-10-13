@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108035343190806528"
+      ],
+      "media_source_tweet_id": [
+        "2108035394256392417"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2108192263943938197",
+    "created_at": "2026-10-08T13:46:18.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T14:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108192263943938197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1935804370874253312",
+          "start": 3,
+          "username": "asukasprincess"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rAUsXxKoDU",
+          "end": 81,
+          "expanded_url": "https://x.com/asukasprincess/status/2108035394256392417/photo/1",
+          "media_key": "3_2108035343190806528",
+          "start": 58,
+          "url": "https://t.co/rAUsXxKoDU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108192263943938197",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2108035343190806528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108035394256392417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asukasprincess: hi im a jirai and this is my vent art https://t.co/rAUsXxKoDU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_2108035343190806528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUE--czbUAA1Pnn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108035343190806528"
+          ],
+          "media_source_tweet_id": [
+            "2108035394256392417"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2108192263943938197",
+        "created_at": "2026-10-08T13:46:18.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T14:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108192263943938197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1935804370874253312",
+              "start": 3,
+              "username": "asukasprincess"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAUsXxKoDU",
+              "end": 81,
+              "expanded_url": "https://x.com/asukasprincess/status/2108035394256392417/photo/1",
+              "media_key": "3_2108035343190806528",
+              "start": 58,
+              "url": "https://t.co/rAUsXxKoDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108192263943938197",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2108035343190806528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108035394256392417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asukasprincess: hi im a jirai and this is my vent art https://t.co/rAUsXxKoDU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108035343190806528"
+          ]
+        },
+        "author_id": "1935804370874253312",
+        "conversation_id": "2108035394256392417",
+        "created_at": "2026-10-08T03:22:58.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T04:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108035394256392417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAUsXxKoDU",
+              "end": 61,
+              "expanded_url": "https://x.com/asukasprincess/status/2108035394256392417/photo/1",
+              "media_key": "3_2108035343190806528",
+              "start": 38,
+              "url": "https://t.co/rAUsXxKoDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108035394256392417",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2108035343190806528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 338,
+          "impression_count": 47084,
+          "like_count": 7705,
+          "quote_count": 24,
+          "reply_count": 18,
+          "retweet_count": 1170
+        },
+        "reply_settings": "everyone",
+        "text": "hi im a jirai and this is my vent art https://t.co/rAUsXxKoDU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2108192263943938197",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 342,
+          "like_count": 2978,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 2294
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-19T20:58:39.000Z",
+        "description": "nonsharing asuka langley riako ♡ 17.6.25 \n#地雷系 | dreaming of being an idol (˶˃⤙˂˶)\nshe/he/it | 175cm | @asusylvyuri priv 🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 42,
+                "tag": "地雷系"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "asusylvyuri"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "princesssylv.straw.page",
+                "end": 23,
+                "expanded_url": "http://princesssylv.straw.page",
+                "start": 0,
+                "url": "https://t.co/vbjY5OELY7"
+              }
+            ]
+          }
+        },
+        "id": "1935804370874253312",
+        "is_identity_verified": false,
+        "location": "2010",
+        "most_recent_tweet_id": "2108097429132509690",
+        "name": "sylv ❤︎’s asuka",
+        "pinned_tweet_id": "2094384112685691246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1935804370874253312/1791004598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106251527396712448/8_GCtJ27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 594,
+          "like_count": 27079,
+          "listed_count": 5,
+          "media_count": 694,
+          "tweet_count": 3116
+        },
+        "url": "https://t.co/vbjY5OELY7",
+        "username": "asukasprincess",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2103502535818399867",
+    "created_at": "2026-09-26T04:51:17.000Z",
+    "display_text_range": [
+      10,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T05:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103708966996128004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852135214795100164",
+          "start": 0,
+          "username": "ayameeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103708966996128004",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103591780784750956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayameeii 呜呃等再观察一段时间...没准只是站久了呢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2103502535818399867",
+        "created_at": "2026-09-26T04:51:17.000Z",
+        "display_text_range": [
+          10,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103708966996128004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103708966996128004",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103591780784750956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 呜呃等再观察一段时间...没准只是站久了呢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2103502535818399867",
+        "created_at": "2026-09-25T21:05:38.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T22:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103591780784750956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103591780784750956",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103502535818399867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 快去医院看看！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2103708966996128004",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 333,
+          "like_count": 2837,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 2210
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2103591780784750956",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 813,
+          "like_count": 11884,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 5175
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

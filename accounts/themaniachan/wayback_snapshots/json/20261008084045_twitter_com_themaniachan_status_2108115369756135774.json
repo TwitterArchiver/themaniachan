@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107843397612384256"
+      ],
+      "media_source_tweet_id": [
+        "2107843399642398775"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2108115369756135774",
+    "created_at": "2026-10-08T08:40:45.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T09:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108115369756135774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1738977811573149696",
+          "start": 3,
+          "username": "trvipppy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QOrGZ4YEpC",
+          "end": 37,
+          "expanded_url": "https://x.com/trvipppy/status/2107843399642398775/photo/1",
+          "media_key": "3_2107843397612384256",
+          "start": 14,
+          "url": "https://t.co/QOrGZ4YEpC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108115369756135774",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2107843397612384256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 786
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107843399642398775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trvipppy: https://t.co/QOrGZ4YEpC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2107843397612384256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCQZvzWsAASkXW.jpg",
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107843397612384256"
+          ],
+          "media_source_tweet_id": [
+            "2107843399642398775"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2108115369756135774",
+        "created_at": "2026-10-08T08:40:45.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T09:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108115369756135774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1738977811573149696",
+              "start": 3,
+              "username": "trvipppy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOrGZ4YEpC",
+              "end": 37,
+              "expanded_url": "https://x.com/trvipppy/status/2107843399642398775/photo/1",
+              "media_key": "3_2107843397612384256",
+              "start": 14,
+              "url": "https://t.co/QOrGZ4YEpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108115369756135774",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107843397612384256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 786
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107843399642398775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trvipppy: https://t.co/QOrGZ4YEpC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107843397612384256"
+          ]
+        },
+        "author_id": "1738977811573149696",
+        "conversation_id": "2107843399642398775",
+        "created_at": "2026-10-07T14:40:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107843399642398775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOrGZ4YEpC",
+              "end": 23,
+              "expanded_url": "https://x.com/trvipppy/status/2107843399642398775/photo/1",
+              "media_key": "3_2107843397612384256",
+              "start": 0,
+              "url": "https://t.co/QOrGZ4YEpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107843399642398775",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107843397612384256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 56311,
+          "like_count": 5999,
+          "quote_count": 16,
+          "reply_count": 22,
+          "retweet_count": 786
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QOrGZ4YEpC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2108115369756135774",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 341,
+          "like_count": 2961,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 2289
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-24T17:40:03.000Z",
+        "description": "𝙈𝙚𝙢𝙚𝙨 𝙖𝙣𝙙 𝙃𝙪𝙢𝙤𝙧 𝙥𝙤𝙨𝙩𝙞𝙣𝙜",
+        "id": "1738977811573149696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108090291492175914",
+        "name": "𝙏𝙧𝙖𝙫𝙞𝙨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738977811573149696/1782657276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085773346181201920/p2rw-UtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4327,
+          "following_count": 2262,
+          "like_count": 237186,
+          "listed_count": 113,
+          "media_count": 470,
+          "tweet_count": 3477
+        },
+        "url": "",
+        "username": "trvipppy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

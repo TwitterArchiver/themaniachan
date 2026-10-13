@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2103776039432523950",
+    "created_at": "2026-09-26T12:13:16.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T13:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103820197400646083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2102073415997984770",
+          "start": 0,
+          "username": "OrrckHermos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103820197400646083",
+    "in_reply_to_user_id": "2102073415997984770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103781646709211336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrrckHermos 狂酱（100%崭新）！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2103776039432523950",
+        "created_at": "2026-09-26T12:13:16.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103820197400646083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2102073415997984770",
+              "start": 0,
+              "username": "OrrckHermos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103820197400646083",
+        "in_reply_to_user_id": "2102073415997984770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103781646709211336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrrckHermos 狂酱（100%崭新）！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102073415997984770",
+        "conversation_id": "2103776039432523950",
+        "created_at": "2026-09-26T09:40:05.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103781646709211336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103781646709211336",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103776039432523950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan （浇水）（浇水）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2103820197400646083",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 336,
+          "like_count": 2850,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 2217
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-21T16:33:23.000Z",
+        "description": "/cn灰夜or乌鸦/\n/性格温良欢迎小窗/\n/欢迎心理疾病或者任何人群/\n/小窗开放/\n/如果真的需要帮助那么请来，我会尽力/\n/ˇvˇ/\n联系方式：orrckhermos@outlook.com\n匿名纸条：https://t.co/9PC5aG1CkG\n愿我们真诚，愿我们崇高，愿我们走在路上。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orrckhermos",
+                "end": 127,
+                "expanded_url": "https://ngl.link/orrckhermos",
+                "start": 104,
+                "url": "https://t.co/9PC5aG1CkG"
+              }
+            ]
+          }
+        },
+        "id": "2102073415997984770",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103817191720370536",
+        "name": "屑乌鸦灰夜～",
+        "pinned_tweet_id": "2102091604232405436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102073415997984770/1790100903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102074601937440769/uxxpWSDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 129,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "OrrckHermos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

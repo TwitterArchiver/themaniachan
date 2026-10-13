@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2108934066632524039",
+    "created_at": "2026-10-10T15:24:10.000Z",
+    "display_text_range": [
+      11,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T16:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108941667592233145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1327679080913805312",
+          "start": 0,
+          "username": "Hinotouri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108941667592233145",
+    "in_reply_to_user_id": "1327679080913805312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108939246388359494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hinotouri 不知道啊所以好好奇药效repo！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2108934066632524039",
+        "created_at": "2026-10-10T15:24:10.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T16:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108941667592233145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1327679080913805312",
+              "start": 0,
+              "username": "Hinotouri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108941667592233145",
+        "in_reply_to_user_id": "1327679080913805312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108939246388359494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hinotouri 不知道啊所以好好奇药效repo！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327679080913805312",
+        "conversation_id": "2108934066632524039",
+        "created_at": "2026-10-10T15:14:33.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T16:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108939246388359494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108939246388359494",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108934066632524039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 真假"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2108941667592233145",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 344,
+          "like_count": 2996,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 2316
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-14T18:25:42.000Z",
+        "description": "",
+        "id": "1327679080913805312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108939246388359494",
+        "name": "血月里的小生物",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719745559144357888/hLWE9EB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 150,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "Hinotouri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

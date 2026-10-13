@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2105500258654687621",
+    "created_at": "2026-10-02T10:14:05.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105964530815955353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870858980752543744",
+          "start": 0,
+          "username": "AzaelRose1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105964530815955353",
+    "in_reply_to_user_id": "1870858980752543744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105895686440931564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzaelRose1017 🥰💗💗💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2105500258654687621",
+        "created_at": "2026-10-02T10:14:05.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105964530815955353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870858980752543744",
+              "start": 0,
+              "username": "AzaelRose1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105964530815955353",
+        "in_reply_to_user_id": "1870858980752543744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105895686440931564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzaelRose1017 🥰💗💗💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870858980752543744",
+        "conversation_id": "2105500258654687621",
+        "created_at": "2026-10-02T05:40:31.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105895686440931564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105895686440931564",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105500258654687621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 小恩，好萌🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2105964530815955353",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 342,
+          "like_count": 2912,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 2252
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T15:48:53.000Z",
+        "description": "僕らの記憶を掠わないで\n＝阿清/双相／自伤／BPD/ADHD/ED／泛性恋/心理性别是阿普唑仑/互fo会查成分\n只是发发日常和碎碎念，别对我期待",
+        "id": "1870858980752543744",
+        "is_identity_verified": false,
+        "location": "马里亚纳海沟",
+        "most_recent_tweet_id": "2105905337958297778",
+        "name": "爱与致幻剂",
+        "pinned_tweet_id": "2103462844876353965",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870858980752543744/1790265366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103064899911897089/S2d4YqfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 106,
+          "like_count": 2143,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1060
+        },
+        "url": "",
+        "username": "AzaelRose1017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

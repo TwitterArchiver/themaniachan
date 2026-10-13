@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2102022656019288389",
+    "created_at": "2026-09-21T14:00:42.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T15:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102035292614164872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594280404504444931",
+          "start": 0,
+          "username": "LichitLich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102035292614164872",
+    "in_reply_to_user_id": "1594280404504444931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102028259743687160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LichitLich 老大老大🥰❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2102022656019288389",
+        "created_at": "2026-09-21T14:00:42.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102035292614164872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594280404504444931",
+              "start": 0,
+              "username": "LichitLich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102035292614164872",
+        "in_reply_to_user_id": "1594280404504444931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102028259743687160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LichitLich 老大老大🥰❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594280404504444931",
+        "conversation_id": "2102022656019288389",
+        "created_at": "2026-09-21T13:32:45.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102028259743687160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102028259743687160",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102022656019288389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan cute"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2102035292614164872",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 338,
+          "like_count": 2735,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 2158
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-20T10:44:50.000Z",
+        "description": "male//泛性恋//麦当劳薯饼//减肥//#东方project//没脾气//纯良//好色//fallout//试着戒烟//碎碎念//收集喜欢的文字//我的爱人是 @R18Giano",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 22,
+                "tag": "东方project"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "R18Giano"
+              }
+            ]
+          }
+        },
+        "id": "1594280404504444931",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102029433322553784",
+        "name": "Lich🐱🙏守卫信仰，救助苦难",
+        "pinned_tweet_id": "2040511334354485327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594280404504444931/1776403992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042425919135223808/Qp2rYOg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 3119,
+          "like_count": 36570,
+          "listed_count": 6,
+          "media_count": 1296,
+          "tweet_count": 10788
+        },
+        "url": "",
+        "username": "LichitLich",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103106042574118912"
+      ],
+      "media_source_tweet_id": [
+        "2103106061800751359"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2103468881134436790",
+    "created_at": "2026-09-25T12:57:16.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103468881134436790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DNlkATMA2y",
+          "end": 43,
+          "expanded_url": "https://x.com/avogado6/status/2103106061800751359/photo/1",
+          "media_key": "3_2103106042574118912",
+          "start": 20,
+          "url": "https://t.co/DNlkATMA2y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103468881134436790",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103106042574118912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103106061800751359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: 生活リズム https://t.co/DNlkATMA2y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2103106042574118912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-7zZCboAAiTkR.jpg",
+        "width": 3300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103106042574118912"
+          ],
+          "media_source_tweet_id": [
+            "2103106061800751359"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2103468881134436790",
+        "created_at": "2026-09-25T12:57:16.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103468881134436790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "324391547",
+              "start": 3,
+              "username": "avogado6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNlkATMA2y",
+              "end": 43,
+              "expanded_url": "https://x.com/avogado6/status/2103106061800751359/photo/1",
+              "media_key": "3_2103106042574118912",
+              "start": 20,
+              "url": "https://t.co/DNlkATMA2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103468881134436790",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103106042574118912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103106061800751359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avogado6: 生活リズム https://t.co/DNlkATMA2y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103106042574118912"
+          ]
+        },
+        "author_id": "324391547",
+        "conversation_id": "2103106061800751359",
+        "created_at": "2026-09-24T12:55:33.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103106061800751359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNlkATMA2y",
+              "end": 29,
+              "expanded_url": "https://x.com/avogado6/status/2103106061800751359/photo/1",
+              "media_key": "3_2103106042574118912",
+              "start": 6,
+              "url": "https://t.co/DNlkATMA2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103106061800751359",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103106042574118912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4474,
+          "impression_count": 1298270,
+          "like_count": 118179,
+          "quote_count": 171,
+          "reply_count": 47,
+          "retweet_count": 8353
+        },
+        "reply_settings": "everyone",
+        "text": "生活リズム https://t.co/DNlkATMA2y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2103468881134436790",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 333,
+          "like_count": 2817,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 2209
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103106061800751359",
+        "name": "アボガド6",
+        "pinned_tweet_id": "2046566686254637230",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/324391547/1565457168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412974,
+          "following_count": 22,
+          "like_count": 35,
+          "listed_count": 8758,
+          "media_count": 3811,
+          "tweet_count": 4566
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

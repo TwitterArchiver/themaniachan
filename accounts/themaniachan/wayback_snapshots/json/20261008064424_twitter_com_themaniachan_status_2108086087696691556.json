@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2108086087696691556",
+    "created_at": "2026-10-08T06:44:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T07:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108086087696691556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2102475284603932673",
+          "start": 3,
+          "username": "kusuorkuzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108086087696691556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106779065709691128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kusuorkuzu: 這裡是秙宿岓呀\n碎碎念｜od｜穿孔｜ota｜什麼都有\n渴望被關心的孩子一枚(｡ ́︿ ̀｡)\n🚪88純綠｜🇭🇰｜歡迎互fol\n塔羅20三問｜地雷｜\n求轉 我求你們了 孩子想認識更多人\n現實朋友大歡迎｜不要把這裡的我代入現實\n求投餵喵 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106779053630062592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzIYxfagAA1OsU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1299,
+        "media_key": "3_2106779053617483776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzIYxcakAAlzzj.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2108086087696691556",
+        "created_at": "2026-10-08T06:44:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T07:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108086087696691556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2102475284603932673",
+              "start": 3,
+              "username": "kusuorkuzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108086087696691556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106779065709691128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kusuorkuzu: 這裡是秙宿岓呀\n碎碎念｜od｜穿孔｜ota｜什麼都有\n渴望被關心的孩子一枚(｡ ́︿ ̀｡)\n🚪88純綠｜🇭🇰｜歡迎互fol\n塔羅20三問｜地雷｜\n求轉 我求你們了 孩子想認識更多人\n現實朋友大歡迎｜不要把這裡的我代入現實\n求投餵喵 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106779053630062592",
+            "3_2106779053617483776"
+          ]
+        },
+        "author_id": "2102475284603932673",
+        "conversation_id": "2106779065709691128",
+        "created_at": "2026-10-04T16:10:45.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106779065709691128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ur05kW9Kmh",
+              "end": 140,
+              "expanded_url": "https://x.com/kusuorkuzu/status/2106779065709691128/photo/1",
+              "media_key": "3_2106779053630062592",
+              "start": 117,
+              "url": "https://t.co/Ur05kW9Kmh"
+            },
+            {
+              "display_url": "pic.x.com/Ur05kW9Kmh",
+              "end": 140,
+              "expanded_url": "https://x.com/kusuorkuzu/status/2106779065709691128/photo/1",
+              "media_key": "3_2106779053617483776",
+              "start": 117,
+              "url": "https://t.co/Ur05kW9Kmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106779065709691128",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106779053630062592"
+          },
+          {
+            "media_key": "3_2106779053617483776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 491,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "這裡是秙宿岓呀\n碎碎念｜od｜穿孔｜ota｜什麼都有\n渴望被關心的孩子一枚(｡ ́︿ ̀｡)\n🚪88純綠｜🇭🇰｜歡迎互fol\n塔羅20三問｜地雷｜\n求轉 我求你們了 孩子想認識更多人\n現實朋友大歡迎｜不要把這裡的我代入現實\n求投餵喵 https://t.co/Ur05kW9Kmh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2108086087696691556",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 341,
+          "like_count": 2946,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 2284
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-22T19:11:47.000Z",
+        "description": "天知地知你知我知何謂無知",
+        "id": "2102475284603932673",
+        "is_identity_verified": false,
+        "location": "一個半苦海",
+        "most_recent_tweet_id": "2107956960780014030",
+        "name": "岓",
+        "pinned_tweet_id": "2106779065709691128",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102475284603932673/1790106959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102482293373935616/vXkBHfVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 48,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "kusuorkuzu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

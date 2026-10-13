@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107715057576726528"
+      ],
+      "media_source_tweet_id": [
+        "2107715062815457475"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2108085291504504895",
+    "created_at": "2026-10-08T06:41:14.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T07:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108085291504504895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "916325266015875072",
+          "start": 3,
+          "username": "TimeSama_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3D8lwSeNnU",
+          "end": 44,
+          "expanded_url": "https://x.com/TimeSama_/status/2107715062815457475/photo/1",
+          "media_key": "3_2107715057576726528",
+          "start": 21,
+          "url": "https://t.co/3D8lwSeNnU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108085291504504895",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2107715057576726528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25715
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107715062815457475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TimeSama_: 入社初日！ https://t.co/3D8lwSeNnU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2107715057576726528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUAbrX6aUAA5O_c.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107715057576726528"
+          ],
+          "media_source_tweet_id": [
+            "2107715062815457475"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2108085291504504895",
+        "created_at": "2026-10-08T06:41:14.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T07:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108085291504504895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "916325266015875072",
+              "start": 3,
+              "username": "TimeSama_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3D8lwSeNnU",
+              "end": 44,
+              "expanded_url": "https://x.com/TimeSama_/status/2107715062815457475/photo/1",
+              "media_key": "3_2107715057576726528",
+              "start": 21,
+              "url": "https://t.co/3D8lwSeNnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108085291504504895",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107715057576726528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25715
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107715062815457475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TimeSama_: 入社初日！ https://t.co/3D8lwSeNnU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107715057576726528"
+          ]
+        },
+        "author_id": "916325266015875072",
+        "conversation_id": "2107715062815457475",
+        "created_at": "2026-10-07T06:10:05.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T07:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107715062815457475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3D8lwSeNnU",
+              "end": 29,
+              "expanded_url": "https://x.com/TimeSama_/status/2107715062815457475/photo/1",
+              "media_key": "3_2107715057576726528",
+              "start": 6,
+              "url": "https://t.co/3D8lwSeNnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107715062815457475",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107715057576726528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17355,
+          "impression_count": 14419117,
+          "like_count": 295805,
+          "quote_count": 1736,
+          "reply_count": 2530,
+          "retweet_count": 25715
+        },
+        "reply_settings": "everyone",
+        "text": "入社初日！ https://t.co/3D8lwSeNnU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2108085291504504895",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 339,
+          "like_count": 2943,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 2281
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-06T15:32:22.000Z",
+        "description": "20↑\n絵を描いたりします | \n塗装もたまに | \n無言フォロー失礼します",
+        "id": "916325266015875072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108052776999870968",
+        "name": "とき",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/916325266015875072/1791391115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017667069580611589/4DPZK0De_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 642,
+          "like_count": 3981,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 1197
+        },
+        "url": "",
+        "username": "TimeSama_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

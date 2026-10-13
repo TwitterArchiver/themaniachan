@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2105560428822835367",
+    "created_at": "2026-10-03T11:18:59.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T12:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106343248633758203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047454675230769152",
+          "start": 0,
+          "username": "rurika2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106343248633758203",
+    "in_reply_to_user_id": "2047454675230769152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106121187063640571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rurika2006 谢谢老大😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2105560428822835367",
+        "created_at": "2026-10-03T11:18:59.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106343248633758203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047454675230769152",
+              "start": 0,
+              "username": "rurika2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106343248633758203",
+        "in_reply_to_user_id": "2047454675230769152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106121187063640571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rurika2006 谢谢老大😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047454675230769152",
+        "conversation_id": "2105560428822835367",
+        "created_at": "2026-10-02T20:36:35.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T21:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106121187063640571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106121187063640571",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105560428822835367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 老师的恩奇都好还原！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2106343248633758203",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 343,
+          "like_count": 2919,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 2257
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T23:16:59.000Z",
+        "description": "流されながら　揺れながら",
+        "id": "2047454675230769152",
+        "is_identity_verified": false,
+        "location": "🇺🇸东海岸",
+        "most_recent_tweet_id": "2106253124101185868",
+        "name": "琉璃花",
+        "pinned_tweet_id": "2106050157662056627",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101841146292944896/1vpXJXT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 123,
+          "like_count": 2432,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "rurika2006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

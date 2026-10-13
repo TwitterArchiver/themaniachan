@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2102034834717819262",
+    "created_at": "2026-09-22T05:05:06.000Z",
+    "display_text_range": [
+      13,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T06:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102262893878415382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102262893878415382",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102256128243781967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 闹麻了真的，不知道这帮人赶个潮流哪来的这些优越感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2102034834717819262",
+        "created_at": "2026-09-22T05:05:06.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102262893878415382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102262893878415382",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102256128243781967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 闹麻了真的，不知道这帮人赶个潮流哪来的这些优越感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3012350599",
+        "conversation_id": "2102034834717819262",
+        "created_at": "2026-09-22T04:38:13.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102256128243781967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102256128243781967",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102034834717819262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 十几岁小孩未开智的发言不用理会"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2102262893878415382",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 338,
+          "like_count": 2752,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 2173
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "一只毛绒小兔子🐰🍊 爱好是收集玩偶、喝啤酒、买漂亮衣服和玩单机游戏\n#すこ部 推し\n此处放置玖玖🐑、花路和小咩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 34,
+                "tag": "すこ部"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "is_identity_verified": false,
+        "location": "Daegu, Republic of Korea",
+        "most_recent_tweet_id": "2102257909090717926",
+        "name": "轻松桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3012350599/1768482992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4501,
+          "following_count": 519,
+          "like_count": 45830,
+          "listed_count": 17,
+          "media_count": 3612,
+          "tweet_count": 50545
+        },
+        "url": "",
+        "username": "__Ju___Ju__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

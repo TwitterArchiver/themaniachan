@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2108458021835649053",
+    "created_at": "2026-10-09T15:20:59.000Z",
+    "display_text_range": [
+      13,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T16:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108578478815944733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541798404321292293",
+          "start": 0,
+          "username": "pao79617382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108578478815944733",
+    "in_reply_to_user_id": "1541798404321292293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108544062894797179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pao79617382 ！！！第一个好戳我！谢谢老大安利🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2358,
+        "media_key": "3_2108544022629527552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMNnfYbMAAOoFK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2358,
+        "media_key": "3_2108544042816692224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMNoqla4AATcjN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2358,
+        "media_key": "3_2108544053549948928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMNpSkbYAA5Jtm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2108458021835649053",
+        "created_at": "2026-10-09T15:20:59.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T16:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108578478815944733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541798404321292293",
+              "start": 0,
+              "username": "pao79617382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108578478815944733",
+        "in_reply_to_user_id": "1541798404321292293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108544062894797179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pao79617382 ！！！第一个好戳我！谢谢老大安利🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108544022629527552",
+            "3_2108544042816692224",
+            "3_2108544053549948928"
+          ]
+        },
+        "author_id": "1541798404321292293",
+        "conversation_id": "2108458021835649053",
+        "created_at": "2026-10-09T13:04:14.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T14:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108544062894797179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZBiyox7VLW",
+              "end": 48,
+              "expanded_url": "https://x.com/pao79617382/status/2108544062894797179/photo/1",
+              "media_key": "3_2108544022629527552",
+              "start": 25,
+              "url": "https://t.co/ZBiyox7VLW"
+            },
+            {
+              "display_url": "pic.x.com/ZBiyox7VLW",
+              "end": 48,
+              "expanded_url": "https://x.com/pao79617382/status/2108544062894797179/photo/1",
+              "media_key": "3_2108544042816692224",
+              "start": 25,
+              "url": "https://t.co/ZBiyox7VLW"
+            },
+            {
+              "display_url": "pic.x.com/ZBiyox7VLW",
+              "end": 48,
+              "expanded_url": "https://x.com/pao79617382/status/2108544062894797179/photo/1",
+              "media_key": "3_2108544053549948928",
+              "start": 25,
+              "url": "https://t.co/ZBiyox7VLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108544062894797179",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108544022629527552"
+          },
+          {
+            "media_key": "3_2108544042816692224"
+          },
+          {
+            "media_key": "3_2108544053549948928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108458021835649053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 宝贝喜欢这种的吗😋😋 https://t.co/ZBiyox7VLW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2108578478815944733",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 343,
+          "like_count": 2982,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 2302
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-28T14:59:39.000Z",
+        "description": "你好我是槿爻。09生理女性向女/双相/od蛆戒割中/友跨/直fo是喜欢你/互关欢迎fo我会回/我会评论装熟欢迎随意互动（English/Japanese勉強中）不键政不吵架不站队专心经营我的糖逼生活。ID只是个人属性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2872121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2872121",
+                "start": 0,
+                "url": "https://t.co/y7Yg6JK3VX"
+              }
+            ]
+          }
+        },
+        "id": "1541798404321292293",
+        "is_identity_verified": false,
+        "location": "埃弗拉德金库",
+        "most_recent_tweet_id": "2108544062894797179",
+        "name": "理查德斯特林的梦幻之逼8964",
+        "pinned_tweet_id": "2044419277202264126",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541798404321292293/1781398255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023229153244540928/2_YKTroh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 238,
+          "like_count": 10402,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/y7Yg6JK3VX",
+        "username": "pao79617382",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

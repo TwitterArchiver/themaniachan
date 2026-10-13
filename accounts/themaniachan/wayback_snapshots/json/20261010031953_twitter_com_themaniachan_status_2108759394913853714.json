@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2108759394913853714",
+    "created_at": "2026-10-10T03:19:53.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T04:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108759394913853714"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 60,
+          "tag": "病み垢さんと絡みたい"
+        },
+        {
+          "end": 84,
+          "start": 72,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 97,
+          "start": 85,
+          "tag": "病み垢女子と繋がりたい"
+        },
+        {
+          "end": 110,
+          "start": 98,
+          "tag": "病み垢男子と繋がりたい"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "病み垢"
+        },
+        {
+          "end": 123,
+          "start": 116,
+          "tag": "ネッ友募集中"
+        },
+        {
+          "end": 131,
+          "start": 124,
+          "tag": "依存先募集中"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "日常垢"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033502740002000898",
+          "start": 3,
+          "username": "Yuki_asukai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108759394913853714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108535203434299901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki_asukai: ↑＝yuki/飞鸟井郁希\n唯二属性oc人餐券女\n欢迎互关互转 同类交友/扩关大欢迎～\n#病み垢さんと絡みたい #病み垢さんと繋がりたい #病み垢女子と繋がりたい #病み垢男子と繋がりたい #病み垢 #ネッ友募集中 #依存先募集中  #日常垢 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_2108535190067023872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMFlXhbEAA0Vx_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2108535190050279425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMFlXdbkAEOl91.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2108535190016647169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMFlXVaYAEbdxZ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2108759394913853714",
+        "created_at": "2026-10-10T03:19:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T04:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108759394913853714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 60,
+              "tag": "病み垢さんと絡みたい"
+            },
+            {
+              "end": 84,
+              "start": 72,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 97,
+              "start": 85,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 110,
+              "start": 98,
+              "tag": "病み垢男子と繋がりたい"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "病み垢"
+            },
+            {
+              "end": 123,
+              "start": 116,
+              "tag": "ネッ友募集中"
+            },
+            {
+              "end": 131,
+              "start": 124,
+              "tag": "依存先募集中"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "日常垢"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033502740002000898",
+              "start": 3,
+              "username": "Yuki_asukai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108759394913853714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108535203434299901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki_asukai: ↑＝yuki/飞鸟井郁希\n唯二属性oc人餐券女\n欢迎互关互转 同类交友/扩关大欢迎～\n#病み垢さんと絡みたい #病み垢さんと繋がりたい #病み垢女子と繋がりたい #病み垢男子と繋がりたい #病み垢 #ネッ友募集中 #依存先募集中  #日常垢 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108535190067023872",
+            "3_2108535190050279425",
+            "3_2108535190016647169"
+          ]
+        },
+        "author_id": "2033502740002000898",
+        "conversation_id": "2108535203434299901",
+        "created_at": "2026-10-09T12:29:01.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T13:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108535203434299901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 43,
+              "tag": "病み垢さんと絡みたい"
+            },
+            {
+              "end": 67,
+              "start": 55,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 80,
+              "start": 68,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 93,
+              "start": 81,
+              "tag": "病み垢男子と繋がりたい"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "病み垢"
+            },
+            {
+              "end": 106,
+              "start": 99,
+              "tag": "ネッ友募集中"
+            },
+            {
+              "end": 114,
+              "start": 107,
+              "tag": "依存先募集中"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "日常垢"
+            },
+            {
+              "end": 133,
+              "start": 121,
+              "tag": "日常垢さんと繋がりたい"
+            },
+            {
+              "end": 142,
+              "start": 135,
+              "tag": "お友達募集中"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fveD5sXe0x",
+              "end": 166,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2108535203434299901/photo/1",
+              "media_key": "3_2108535190067023872",
+              "start": 143,
+              "url": "https://t.co/fveD5sXe0x"
+            },
+            {
+              "display_url": "pic.x.com/fveD5sXe0x",
+              "end": 166,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2108535203434299901/photo/1",
+              "media_key": "3_2108535190050279425",
+              "start": 143,
+              "url": "https://t.co/fveD5sXe0x"
+            },
+            {
+              "display_url": "pic.x.com/fveD5sXe0x",
+              "end": 166,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2108535203434299901/photo/1",
+              "media_key": "3_2108535190016647169",
+              "start": 143,
+              "url": "https://t.co/fveD5sXe0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108535203434299901",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108535190067023872"
+          },
+          {
+            "media_key": "3_2108535190050279425"
+          },
+          {
+            "media_key": "3_2108535190016647169"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "↑＝yuki/飞鸟井郁希\n唯二属性oc人餐券女\n欢迎互关互转 同类交友/扩关大欢迎～\n#病み垢さんと絡みたい #病み垢さんと繋がりたい #病み垢女子と繋がりたい #病み垢男子と繋がりたい #病み垢 #ネッ友募集中 #依存先募集中  #日常垢 #日常垢さんと繋がりたい  #お友達募集中 https://t.co/fveD5sXe0x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2108759394913853714",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 344,
+          "like_count": 2984,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 2305
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T11:16:56.000Z",
+        "description": "＝飞鸟井郁希| enby | 餐券女 | 🎸🎨 | 🚪15请我喝奶茶 可以和我聊天 oc相关@Sunset_rock_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Sunset_rock_"
+              }
+            ]
+          }
+        },
+        "id": "2033502740002000898",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2108736819059966284",
+        "name": "郁希（2.0）",
+        "pinned_tweet_id": "2108535203434299901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033502740002000898/1790004973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088887521216446465/XxVZnA1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 179,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 756
+        },
+        "url": "",
+        "username": "Yuki_asukai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

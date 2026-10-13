@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2108934066632524039",
+    "created_at": "2026-10-10T16:24:55.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T17:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108956957646426564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "357539288",
+          "start": 0,
+          "username": "rin917_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108956957646426564",
+    "in_reply_to_user_id": "357539288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108950088852914252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rin917_8964 好喔！谢谢老大指路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2108934066632524039",
+        "created_at": "2026-10-10T16:24:55.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T17:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108956957646426564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "357539288",
+              "start": 0,
+              "username": "rin917_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108956957646426564",
+        "in_reply_to_user_id": "357539288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108950088852914252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rin917_8964 好喔！谢谢老大指路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "357539288",
+        "conversation_id": "2108934066632524039",
+        "created_at": "2026-10-10T15:57:38.000Z",
+        "display_text_range": [
+          14,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T16:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108950088852914252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108950088852914252",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108934066632524039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 这个很容易癫痫的而且效果其实也一般，消号率大于价值说，不是很建议"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2108956957646426564",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 344,
+          "like_count": 2999,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 2319
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk收了我的钱还这样（23.0预备）\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生 同类fo/我是低龄糖逼，别和我计较了，\n宇宙级严重失眠 -12现役初中生\n^✟❀里号@yumumu_msknb❀\n工作号@AminoXx_killer\n❀姐姐大人@NEKONO14❀\n❀💞@woaiuai0721❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "NEKONO14"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin/pix",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin/pix",
+                "start": 0,
+                "url": "https://t.co/dMn9bxVA8H"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2108950429673619825",
+        "name": "传奇病娇18.霖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357539288/1789783693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106747764986265600/j8egGsOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4812,
+          "following_count": 529,
+          "like_count": 4155,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/dMn9bxVA8H",
+        "username": "rin917_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

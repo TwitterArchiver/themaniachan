@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2102034834717819262",
+    "created_at": "2026-09-22T05:43:50.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T06:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102272641294098691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102272641294098691",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102271174512435624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_eko 闹麻了真的...哪来那么多村规"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2102034834717819262",
+        "created_at": "2026-09-22T05:43:50.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102272641294098691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102272641294098691",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102271174512435624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko 闹麻了真的...哪来那么多村规"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261560609214087168",
+        "conversation_id": "2102034834717819262",
+        "created_at": "2026-09-22T05:38:00.000Z",
+        "display_text_range": [
+          14,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102271174512435624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102271174512435624",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102270254538018906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 语义变换主要是，因为墙内有些人讨厌韩国，就经常那韩国相关元素来骂人，之前韩的意思是偷。蕾圈的话，因为说“中味”会触及红线，就用韩这个词来代指了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2102272641294098691",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 338,
+          "like_count": 2767,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 2180
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "茜/发吃的@chihuoxiaoqian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "chihuoxiaoqian"
+              }
+            ]
+          }
+        },
+        "id": "1261560609214087168",
+        "is_identity_verified": false,
+        "location": "鲑坝",
+        "most_recent_tweet_id": "2102271174512435624",
+        "name": "布洛芬重度依赖",
+        "pinned_tweet_id": "2091335246071668885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1261560609214087168/1784613867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087908918483894273/qdQVZJOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5008,
+          "following_count": 1464,
+          "like_count": 183658,
+          "listed_count": 55,
+          "media_count": 6235,
+          "tweet_count": 68841
+        },
+        "url": "",
+        "username": "Cathy_eko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

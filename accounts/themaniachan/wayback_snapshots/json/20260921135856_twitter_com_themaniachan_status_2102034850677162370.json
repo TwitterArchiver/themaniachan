@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101671795128684544",
+        "3_2101671810853199872"
+      ],
+      "media_source_tweet_id": [
+        "2101671821791920476",
+        "2101671821791920476"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cooking Actions",
+          "id": "846770344681627649",
+          "name": "Cooking"
+        }
+      }
+    ],
+    "conversation_id": "2102034850677162370",
+    "created_at": "2026-09-21T13:58:56.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102034850677162370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3290855081",
+          "start": 3,
+          "username": "tomas16_reyes_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cX2ikJc0qi",
+          "end": 135,
+          "expanded_url": "https://x.com/tomas16_reyes_/status/2101671821791920476/photo/1",
+          "media_key": "3_2101671795128684544",
+          "start": 112,
+          "url": "https://t.co/cX2ikJc0qi"
+        },
+        {
+          "display_url": "pic.x.com/cX2ikJc0qi",
+          "end": 135,
+          "expanded_url": "https://x.com/tomas16_reyes_/status/2101671821791920476/photo/1",
+          "media_key": "3_2101671810853199872",
+          "start": 112,
+          "url": "https://t.co/cX2ikJc0qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102034850677162370",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101671795128684544"
+      },
+      {
+        "media_key": "3_2101671810853199872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101671821791920476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tomas16_reyes_: いいかげん彼氏欲しいです‼️\n地雷系女子‼️\n一人暮らしです‼️\n顔は中の中くらい‼️\n身長158cm‼️\nコスプレできます‼️\n基本インドア‼️\n料理作れます‼️\n毎日できます‼️ https://t.co/cX2ikJc0qi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2101671795128684544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqjXM8aUAAINYN.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1544,
+        "media_key": "3_2101671810853199872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqjYHhbYAAj7BR.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101671795128684544",
+            "3_2101671810853199872"
+          ],
+          "media_source_tweet_id": [
+            "2101671821791920476",
+            "2101671821791920476"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2102034850677162370",
+        "created_at": "2026-09-21T13:58:56.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102034850677162370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3290855081",
+              "start": 3,
+              "username": "tomas16_reyes_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX2ikJc0qi",
+              "end": 135,
+              "expanded_url": "https://x.com/tomas16_reyes_/status/2101671821791920476/photo/1",
+              "media_key": "3_2101671795128684544",
+              "start": 112,
+              "url": "https://t.co/cX2ikJc0qi"
+            },
+            {
+              "display_url": "pic.x.com/cX2ikJc0qi",
+              "end": 135,
+              "expanded_url": "https://x.com/tomas16_reyes_/status/2101671821791920476/photo/1",
+              "media_key": "3_2101671810853199872",
+              "start": 112,
+              "url": "https://t.co/cX2ikJc0qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102034850677162370",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101671795128684544"
+          },
+          {
+            "media_key": "3_2101671810853199872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101671821791920476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tomas16_reyes_: いいかげん彼氏欲しいです‼️\n地雷系女子‼️\n一人暮らしです‼️\n顔は中の中くらい‼️\n身長158cm‼️\nコスプレできます‼️\n基本インドア‼️\n料理作れます‼️\n毎日できます‼️ https://t.co/cX2ikJc0qi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101671795128684544",
+            "3_2101671810853199872"
+          ]
+        },
+        "author_id": "3290855081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2101671821791920476",
+        "created_at": "2026-09-20T13:56:24.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101671821791920476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX2ikJc0qi",
+              "end": 115,
+              "expanded_url": "https://x.com/tomas16_reyes_/status/2101671821791920476/photo/1",
+              "media_key": "3_2101671795128684544",
+              "start": 92,
+              "url": "https://t.co/cX2ikJc0qi"
+            },
+            {
+              "display_url": "pic.x.com/cX2ikJc0qi",
+              "end": 115,
+              "expanded_url": "https://x.com/tomas16_reyes_/status/2101671821791920476/photo/1",
+              "media_key": "3_2101671810853199872",
+              "start": 92,
+              "url": "https://t.co/cX2ikJc0qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101671821791920476",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101671795128684544"
+          },
+          {
+            "media_key": "3_2101671810853199872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 18673,
+          "like_count": 552,
+          "quote_count": 1,
+          "reply_count": 63,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "いいかげん彼氏欲しいです‼️\n地雷系女子‼️\n一人暮らしです‼️\n顔は中の中くらい‼️\n身長158cm‼️\nコスプレできます‼️\n基本インドア‼️\n料理作れます‼️\n毎日できます‼️ https://t.co/cX2ikJc0qi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2102034850677162370",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 338,
+          "like_count": 2735,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 2156
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-20T04:48:24.000Z",
+        "description": "フォローしてね₍ᐢ..ᐢ₎♡",
+        "id": "3290855081",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102032947360714948",
+        "name": "みく",
+        "pinned_tweet_id": "2022533442647495149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3290855081/1762526545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022295832524156928/Gxd1_rRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12650,
+          "following_count": 16,
+          "like_count": 1104,
+          "listed_count": 9,
+          "media_count": 134,
+          "tweet_count": 5514
+        },
+        "url": "",
+        "username": "tomas16_reyes_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2105560428822835367",
+    "created_at": "2026-10-02T10:14:22.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105964602152616036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2071048854594891776",
+          "start": 0,
+          "username": "yoshiakira24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105964602152616036",
+    "in_reply_to_user_id": "2071048854594891776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105678188785623489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshiakira24 谢谢你老大😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2105560428822835367",
+        "created_at": "2026-10-02T10:14:22.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105964602152616036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2071048854594891776",
+              "start": 0,
+              "username": "yoshiakira24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105964602152616036",
+        "in_reply_to_user_id": "2071048854594891776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105678188785623489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshiakira24 谢谢你老大😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071048854594891776",
+        "conversation_id": "2105560428822835367",
+        "created_at": "2026-10-01T15:16:16.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105678188785623489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105678188785623489",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105560428822835367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 我超好美的恩子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2105964602152616036",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 342,
+          "like_count": 2914,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 2253
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T01:52:55.000Z",
+        "description": "この世をば 我が世とぞ思ふ 望月の 欠けたること無しと思へば\n飞舞教师躺平中 求互fo IP郑州",
+        "id": "2071048854594891776",
+        "is_identity_verified": false,
+        "location": "伊谢尔伦共和政府",
+        "most_recent_tweet_id": "2105684805707034713",
+        "name": "義詮Kanan",
+        "pinned_tweet_id": "2094667999966003447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071048854594891776/1785733663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084144156000366592/KSFv4Ylo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 766,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 420
+        },
+        "url": "",
+        "username": "yoshiakira24",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2106786680518988217",
+    "created_at": "2026-10-04T16:41:01.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T17:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106786680518988217"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106786680518988217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友当梦女已经当魔怔了\n问我塔罗牌能不能算人的身高体重还有身上的标记，我说塔罗牌不是干这个的，用于虚幻的原因是不对的\n朋友回了一句“现实生活已经没人爱了我不能说这种话打破她的幻想”\n之前还跟朋友说，没法跟自己的梦角连接是不是自己病得不够重\n这和抖音那帮想得双相感受幻听的人有什么区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2106786680518988217",
+        "created_at": "2026-10-04T16:41:01.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106786680518988217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106786680518988217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友当梦女已经当魔怔了\n问我塔罗牌能不能算人的身高体重还有身上的标记，我说塔罗牌不是干这个的，用于虚幻的原因是不对的\n朋友回了一句“现实生活已经没人爱了我不能说这种话打破她的幻想”\n之前还跟朋友说，没法跟自己的梦角连接是不是自己病得不够重\n这和抖音那帮想得双相感受幻听的人有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2106786680518988217",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 342,
+          "like_count": 2925,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 2266
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

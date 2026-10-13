@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2103712840976846919",
+    "created_at": "2026-09-26T05:06:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T06:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103712840976846919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1244543552652054528",
+          "start": 3,
+          "username": "Fisssh712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103712840976846919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103504254006931887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fisssh712: 感觉你是那种去了一次精神科，做完量表开到了舍曲林和疏肝缓郁胶囊后 对着药盒拍照配伤感文案bgm发网上，并经常在现实里假装不经意提及自己患有抑郁，\n同时又在其他病情严重的诸如旷课逃学不工作/冲动自蚕滥交磕耀/一个月不洗澡 房间垃圾遍地 的患者相关帖文…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2103712840976846919",
+        "created_at": "2026-09-26T05:06:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103712840976846919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1244543552652054528",
+              "start": 3,
+              "username": "Fisssh712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103712840976846919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103504254006931887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fisssh712: 感觉你是那种去了一次精神科，做完量表开到了舍曲林和疏肝缓郁胶囊后 对着药盒拍照配伤感文案bgm发网上，并经常在现实里假装不经意提及自己患有抑郁，\n同时又在其他病情严重的诸如旷课逃学不工作/冲动自蚕滥交磕耀/一个月不洗澡 房间垃圾遍地 的患者相关帖文…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2103504254006931887",
+        "created_at": "2026-09-25T15:17:50.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103504254006931887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103504254006931887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 13361,
+          "like_count": 450,
+          "quote_count": 11,
+          "reply_count": 21,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "感觉你是那种去了一次精神科，做完量表开到了舍曲林和疏肝缓郁胶囊后 对着药盒拍照配伤感文案bgm发网上，并经常在现实里假装不经意提及自己患有抑郁，\n同时又在其他病情严重的诸如旷课逃学不工作/冲动自蚕滥交磕耀/一个月不洗澡 房间垃圾遍地 的患者相关帖文下面评论“我们真正的抑郁症才不会这样”的人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2103712840976846919",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 333,
+          "like_count": 2838,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 2214
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中干裂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3soKLg"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "is_identity_verified": false,
+        "location": "Silent Hill",
+        "most_recent_tweet_id": "2103562725565854005",
+        "name": "冰冷電子魚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244543552652054528/1778293640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5406,
+          "following_count": 569,
+          "like_count": 14232,
+          "listed_count": 8,
+          "media_count": 1075,
+          "tweet_count": 14832
+        },
+        "url": "https://t.co/V2GB3soKLg",
+        "username": "Fisssh712",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

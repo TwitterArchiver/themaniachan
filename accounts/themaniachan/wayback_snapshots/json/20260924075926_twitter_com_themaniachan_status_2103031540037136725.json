@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102451540686737408"
+      ],
+      "media_source_tweet_id": [
+        "2102451551021543671"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2103031540037136725",
+    "created_at": "2026-09-24T07:59:26.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T08:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103031540037136725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q7tcjp3bBv",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/2102451551021543671/photo/1",
+          "media_key": "3_2102451540686737408",
+          "start": 15,
+          "url": "https://t.co/q7tcjp3bBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103031540037136725",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2102451540686737408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102451551021543671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/q7tcjp3bBv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2102451540686737408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1oiXgbEAAgSSb.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102451540686737408"
+          ],
+          "media_source_tweet_id": [
+            "2102451551021543671"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2103031540037136725",
+        "created_at": "2026-09-24T07:59:26.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103031540037136725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7tcjp3bBv",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/2102451551021543671/photo/1",
+              "media_key": "3_2102451540686737408",
+              "start": 15,
+              "url": "https://t.co/q7tcjp3bBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103031540037136725",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102451540686737408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102451551021543671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/q7tcjp3bBv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102451540686737408"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2102451551021543671",
+        "created_at": "2026-09-22T17:34:46.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102451551021543671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7tcjp3bBv",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2102451551021543671/photo/1",
+              "media_key": "3_2102451540686737408",
+              "start": 0,
+              "url": "https://t.co/q7tcjp3bBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102451551021543671",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102451540686737408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 202863,
+          "like_count": 10714,
+          "quote_count": 9,
+          "reply_count": 89,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/q7tcjp3bBv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2103031540037136725",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 334,
+          "like_count": 2795,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2202
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "",
+        "id": "1863439189909618688",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2103019090831106147",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "2100823651490894097",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100823574361817088/77RA33ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37570,
+          "following_count": 361,
+          "like_count": 266,
+          "listed_count": 109,
+          "media_count": 19544,
+          "tweet_count": 19649
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

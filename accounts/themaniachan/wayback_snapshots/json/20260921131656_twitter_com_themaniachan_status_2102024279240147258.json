@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2101781921160102209",
+    "created_at": "2026-09-21T13:16:56.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102024279240147258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1169174984389885952",
+          "start": 0,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102024279240147258",
+    "in_reply_to_user_id": "1169174984389885952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101781921160102209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angel_SaveUsAll 跟老大同款潜水葵花短袖...！这个好好穿啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2101781917628616704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSsHhLOX0AAV0MV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2101781921160102209",
+        "created_at": "2026-09-21T13:16:56.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102024279240147258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1169174984389885952",
+              "start": 0,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102024279240147258",
+        "in_reply_to_user_id": "1169174984389885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101781921160102209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel_SaveUsAll 跟老大同款潜水葵花短袖...！这个好好穿啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101781917628616704"
+          ]
+        },
+        "author_id": "1169174984389885952",
+        "conversation_id": "2101781921160102209",
+        "created_at": "2026-09-20T21:13:53.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T22:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101781921160102209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3sqEKj1Q0",
+              "end": 23,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2101781921160102209/photo/1",
+              "media_key": "3_2101781917628616704",
+              "start": 0,
+              "url": "https://t.co/z3sqEKj1Q0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101781921160102209",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101781917628616704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 835,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/z3sqEKj1Q0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2102024279240147258",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 338,
+          "like_count": 2709,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 2153
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2102019446185325055",
+        "name": "小救「无聊版」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169174984389885952/1783508953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058870609170616320/JW0PIo2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 652,
+          "like_count": 19057,
+          "listed_count": 5,
+          "media_count": 734,
+          "tweet_count": 6141
+        },
+        "url": "",
+        "username": "Angel_SaveUsAll",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

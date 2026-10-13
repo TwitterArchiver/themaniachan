@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2102934074897965232",
+    "created_at": "2026-09-24T01:32:08.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T02:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102934074897965232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1873214789004255232",
+          "start": 3,
+          "username": "Aoi_nemu222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102934074897965232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2359
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102320818927853657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aoi_nemu222: Twitterやってるやつこれのどれかは経験してる\n\nいじめ\nOD\n🐿🦟\n未成年飲酒\nたばこ\n虐待\n片親\n不登校"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2102934074897965232",
+        "created_at": "2026-09-24T01:32:08.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T02:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102934074897965232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1873214789004255232",
+              "start": 3,
+              "username": "Aoi_nemu222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102934074897965232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2359
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102320818927853657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aoi_nemu222: Twitterやってるやつこれのどれかは経験してる\n\nいじめ\nOD\n🐿🦟\n未成年飲酒\nたばこ\n虐待\n片親\n不登校"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873214789004255232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2102320818927853657",
+        "created_at": "2026-09-22T08:55:17.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102320818927853657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102320818927853657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1588,
+          "impression_count": 1921912,
+          "like_count": 27801,
+          "quote_count": 3554,
+          "reply_count": 579,
+          "retweet_count": 2359
+        },
+        "reply_settings": "everyone",
+        "text": "Twitterやってるやつこれのどれかは経験してる\n\nいじめ\nOD\n🐿🦟\n未成年飲酒\nたばこ\n虐待\n片親\n不登校"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2102934074897965232",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 334,
+          "like_count": 2785,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 2196
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-29T03:50:03.000Z",
+        "description": "251 @_rarumeru\n\n尊敬してる人\n\n@Huwamiya_ami\n@jpoN7l2int3040\n@narumi12529\n@Ereonoor2780\n\n相方@beniyaita2010\n\n相棒＠IisF7UtPcm8987\nフォロバします",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "_rarumeru"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "Huwamiya_ami"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "jpoN7l2int3040"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "narumi12529"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Ereonoor2780"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "beniyaita2010"
+              },
+              {
+                "end": 117,
+                "start": 102,
+                "username": "IisF7UtPcm8987"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Aoi_nemu",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Aoi_nemu",
+                "start": 0,
+                "url": "https://t.co/oSksryavdV"
+              }
+            ]
+          }
+        },
+        "id": "1873214789004255232",
+        "is_identity_verified": false,
+        "location": "べにらぶち",
+        "most_recent_tweet_id": "2102761685996249477",
+        "name": "碧 音夢🎶💤",
+        "pinned_tweet_id": "2094771472950804939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1873214789004255232/1790082441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090959516724789248/jJ-vyXpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 4494,
+          "like_count": 44399,
+          "listed_count": 11,
+          "media_count": 698,
+          "tweet_count": 34664
+        },
+        "url": "https://t.co/oSksryavdV",
+        "username": "Aoi_nemu222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

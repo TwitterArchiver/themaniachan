@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2108086350063059215",
+    "created_at": "2026-10-08T15:19:09.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T16:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108215630851903972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047454675230769152",
+          "start": 0,
+          "username": "rurika2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108215630851903972",
+    "in_reply_to_user_id": "2047454675230769152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108205011142660288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rurika2006 好的捏老大！！！我严肃学习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2108086350063059215",
+        "created_at": "2026-10-08T15:19:09.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T16:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108215630851903972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047454675230769152",
+              "start": 0,
+              "username": "rurika2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108215630851903972",
+        "in_reply_to_user_id": "2047454675230769152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108205011142660288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rurika2006 好的捏老大！！！我严肃学习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047454675230769152",
+        "conversation_id": "2108086350063059215",
+        "created_at": "2026-10-08T14:36:57.000Z",
+        "display_text_range": [
+          14,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T15:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108205011142660288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108205011142660288",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108086350063059215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 老大我穿的厚袜子 那种比较长的高筒袜或者连裤袜 这样就还可以，但特别冷的天应该还是会冷"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2108215630851903972",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 342,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 2296
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T23:16:59.000Z",
+        "description": "流されながら 揺れながら\n06｜双相｜🈹👋｜\n嘴笨但我很好相处qwq欢迎互fo",
+        "id": "2047454675230769152",
+        "is_identity_verified": false,
+        "location": "utc-5",
+        "most_recent_tweet_id": "2108212697913250170",
+        "name": "琉璃花",
+        "pinned_tweet_id": "2106050157662056627",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047454675230769152/1791389812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101841146292944896/1vpXJXT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 230,
+          "like_count": 4423,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1011
+        },
+        "url": "",
+        "username": "rurika2006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

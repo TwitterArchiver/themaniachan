@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2101960182985269348",
+    "created_at": "2026-09-21T13:15:25.000Z",
+    "display_text_range": [
+      13,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102023897810104579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2085036823252987904",
+          "start": 0,
+          "username": "Makima_0411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102023897810104579",
+    "in_reply_to_user_id": "2085036823252987904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101960182985269348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Makima_0411 老大喝强爽的话不会第二天醒来头痛嘛...！我和周围好多朋友都有这个感觉💔感觉是酒不太好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2101960162479394816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSupoZCbUAACk46.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2101960174366048256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuppFUbQAASPSH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2101960182985269348",
+        "created_at": "2026-09-21T13:15:25.000Z",
+        "display_text_range": [
+          13,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102023897810104579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102023897810104579",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101960182985269348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 老大喝强爽的话不会第二天醒来头痛嘛...！我和周围好多朋友都有这个感觉💔感觉是酒不太好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101960162479394816",
+            "3_2101960174366048256"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101960182985269348",
+        "created_at": "2026-09-21T09:02:14.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101960182985269348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBpJFAYGEF",
+              "end": 64,
+              "expanded_url": "https://x.com/Makima_0411/status/2101960182985269348/photo/1",
+              "media_key": "3_2101960162479394816",
+              "start": 41,
+              "url": "https://t.co/XBpJFAYGEF"
+            },
+            {
+              "display_url": "pic.x.com/XBpJFAYGEF",
+              "end": 64,
+              "expanded_url": "https://x.com/Makima_0411/status/2101960182985269348/photo/1",
+              "media_key": "3_2101960174366048256",
+              "start": 41,
+              "url": "https://t.co/XBpJFAYGEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101960182985269348",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101960162479394816"
+          },
+          {
+            "media_key": "3_2101960174366048256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不管了，耍\n（遵医嘱服药，拒绝滥用，无不良引导）\n（疤痕为化妆效果，ai生成的） https://t.co/XBpJFAYGEF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2102023897810104579",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 338,
+          "like_count": 2707,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 2152
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101961438369632763",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 370,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1196
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

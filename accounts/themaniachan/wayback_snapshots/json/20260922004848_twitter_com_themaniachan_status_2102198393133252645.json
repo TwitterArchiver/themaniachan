@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2102025414671806616",
+    "created_at": "2026-09-22T00:48:48.000Z",
+    "display_text_range": [
+      14,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T01:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102198393133252645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2098328051339886592",
+          "start": 0,
+          "username": "chaosand1991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102198393133252645",
+    "in_reply_to_user_id": "2098328051339886592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102037509501002210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaosand1991 因为你是一个没有教养的杂种，没有人会觉得随便评价别人是正常行为，跟健全与否没有关系，真遗憾你浮木和老师都没教过你这个道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2102025414671806616",
+        "created_at": "2026-09-22T00:48:48.000Z",
+        "display_text_range": [
+          14,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T01:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102198393133252645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2098328051339886592",
+              "start": 0,
+              "username": "chaosand1991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102198393133252645",
+        "in_reply_to_user_id": "2098328051339886592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102037509501002210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaosand1991 因为你是一个没有教养的杂种，没有人会觉得随便评价别人是正常行为，跟健全与否没有关系，真遗憾你浮木和老师都没教过你这个道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2098328051339886592",
+        "conversation_id": "2102025414671806616",
+        "created_at": "2026-09-21T14:09:30.000Z",
+        "display_text_range": [
+          14,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102037509501002210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102037509501002210",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102025414671806616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 什么时候需要资本才能去评价别人了，谁定的规矩。就算是你们精神病也没有遵守这个规则吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2102198393133252645",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 338,
+          "like_count": 2747,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 2166
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-11T08:30:58.000Z",
+        "description": "",
+        "id": "2098328051339886592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102065494107054459",
+        "name": "karmi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098330463769448448/fGBcMAaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 28,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "chaosand1991",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

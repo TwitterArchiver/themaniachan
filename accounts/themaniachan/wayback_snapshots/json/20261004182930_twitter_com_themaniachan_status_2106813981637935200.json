@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106525902980931584"
+      ],
+      "media_source_tweet_id": [
+        "2106525912795688981"
+      ]
+    },
+    "author_id": "2047687133708599296",
+    "conversation_id": "2106813981637935200",
+    "created_at": "2026-10-04T18:29:30.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T19:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106813981637935200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "534400451",
+          "start": 3,
+          "username": "stparabellum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0hFw6OvMH5",
+          "end": 41,
+          "expanded_url": "https://x.com/stparabellum/status/2106525912795688981/photo/1",
+          "media_key": "3_2106525902980931584",
+          "start": 18,
+          "url": "https://t.co/0hFw6OvMH5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106813981637935200",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2106525902980931584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1616
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106525912795688981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stparabellum: https://t.co/0hFw6OvMH5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 699,
+        "media_key": "3_2106525902980931584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTviJd1WYAAAwoE.png",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106525902980931584"
+          ],
+          "media_source_tweet_id": [
+            "2106525912795688981"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2106813981637935200",
+        "created_at": "2026-10-04T18:29:30.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T19:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106813981637935200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "534400451",
+              "start": 3,
+              "username": "stparabellum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hFw6OvMH5",
+              "end": 41,
+              "expanded_url": "https://x.com/stparabellum/status/2106525912795688981/photo/1",
+              "media_key": "3_2106525902980931584",
+              "start": 18,
+              "url": "https://t.co/0hFw6OvMH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106813981637935200",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106525902980931584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1616
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106525912795688981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stparabellum: https://t.co/0hFw6OvMH5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106525902980931584"
+          ]
+        },
+        "author_id": "534400451",
+        "conversation_id": "2106525912795688981",
+        "created_at": "2026-10-03T23:24:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T00:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106525912795688981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hFw6OvMH5",
+              "end": 23,
+              "expanded_url": "https://x.com/stparabellum/status/2106525912795688981/photo/1",
+              "media_key": "3_2106525902980931584",
+              "start": 0,
+              "url": "https://t.co/0hFw6OvMH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106525912795688981",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106525902980931584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 110478,
+          "like_count": 12382,
+          "quote_count": 16,
+          "reply_count": 8,
+          "retweet_count": 1616
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0hFw6OvMH5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TG",
+              "full_name": "Togo",
+              "geo": {
+                "coordinates": [
+                  1.16667,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2106813981637935200",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 342,
+          "like_count": 2929,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 2269
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-03-23T15:14:53.000Z",
+        "description": "War Aesthetics and Balaclavas",
+        "id": "534400451",
+        "is_identity_verified": false,
+        "location": "Sahara ☀️",
+        "most_recent_tweet_id": "2106807844641354034",
+        "name": "𝙉𝙞𝙛",
+        "pinned_tweet_id": "1766131555309654341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/534400451/1657399241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947415687355330560/y_m31G4P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47775,
+          "following_count": 282,
+          "like_count": 105755,
+          "listed_count": 124,
+          "media_count": 7333,
+          "tweet_count": 16039
+        },
+        "url": "",
+        "username": "stparabellum",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

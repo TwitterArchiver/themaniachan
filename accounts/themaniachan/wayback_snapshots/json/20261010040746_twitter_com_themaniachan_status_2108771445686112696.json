@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047687133708599296",
+    "conversation_id": "2108760160864960568",
+    "created_at": "2026-10-10T04:07:46.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T05:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108771445686112696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047454675230769152",
+          "start": 0,
+          "username": "rurika2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108771445686112696",
+    "in_reply_to_user_id": "2047454675230769152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108761906341388341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rurika2006 学校坏..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2108760160864960568",
+        "created_at": "2026-10-10T04:07:46.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108771445686112696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047454675230769152",
+              "start": 0,
+              "username": "rurika2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108771445686112696",
+        "in_reply_to_user_id": "2047454675230769152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108761906341388341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rurika2006 学校坏..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047454675230769152",
+        "conversation_id": "2108760160864960568",
+        "created_at": "2026-10-10T03:29:52.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T04:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108761906341388341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108761906341388341",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108760160864960568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 老大。。摸摸你\n学校坏 我也每天上的浑浑噩噩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2108771445686112696",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 344,
+          "like_count": 2987,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 2308
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T23:16:59.000Z",
+        "description": "流されながら 揺れながら\n06｜双相｜🈹👋｜\n嘴笨但我很好相处qwq欢迎互fo\n防炸号@rurikashirakawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "rurikashirakawa"
+              }
+            ]
+          }
+        },
+        "id": "2047454675230769152",
+        "is_identity_verified": false,
+        "location": "utc-5",
+        "most_recent_tweet_id": "2108767688243966052",
+        "name": "琉璃花",
+        "pinned_tweet_id": "2106050157662056627",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047454675230769152/1791389812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101841146292944896/1vpXJXT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 262,
+          "like_count": 5210,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1156
+        },
+        "url": "",
+        "username": "rurika2006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
